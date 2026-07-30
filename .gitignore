@@ -1,0 +1,28 @@
+# Obsidian / macOS
+.obsidian/
+.DS_Store
+.trash/
+
+# Root study materials not in scope (binaries & excerpts)
+*.pdf
+*.epub
+*.pages
+*.docx
+*.doc
+*.jpeg
+*.jpg
+*.png
+*.xmind
+百法赘言摘录/
+唯识名词标准名相表_白话新解.csv
+大乘百法明門論*
+TheHundredDharmasShastra.pdf
+
+# _build: keep scripts + pipeline data; drop scrape intermediates
+_build/bhxj_*.html
+_build/bhxj_entries.csv
+__pycache__/
+*.pyc
+.Python
+.venv/
+venv/

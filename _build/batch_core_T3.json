@@ -1,0 +1,182 @@
+{
+  "眼识": {
+    "en": "Discriminating consciousness that arises based on the eye faculty, taking form as its object; one of the five sense-consciousnesses. Its nature extends over good, bad, and indeterminate; it is discontinuous.",
+    "fr": "Conscience discriminante qui naît en s'appuyant sur la faculté visuelle, prenant la forme comme objet ; l'une des cinq consciences sensorielles. Sa nature s'étend au bien, au mal et à l'indéterminé ; elle est discontinue.",
+    "vi": "Thức liễu biệt sinh khởi nương nhãn căn, duyên sắc cảnh; một trong năm thức trước. Tính thông thiện, ác, vô ký; có gián đoạn."
+  },
+  "耳识": {
+    "en": "Discriminating consciousness that arises based on the ear faculty, taking sound as its object.",
+    "fr": "Conscience discriminante qui naît en s'appuyant sur la faculté auditive, prenant le son comme objet.",
+    "vi": "Thức liễu biệt sinh khởi nương nhĩ căn, duyên thanh cảnh."
+  },
+  "鼻识": {
+    "en": "Discriminating consciousness that arises based on the nose faculty, taking odor as its object.",
+    "fr": "Conscience discriminante qui naît en s'appuyant sur la faculté olfactive, prenant l'odeur comme objet.",
+    "vi": "Thức liễu biệt sinh khởi nương tỷ căn, duyên hương cảnh."
+  },
+  "舌识": {
+    "en": "Discriminating consciousness that arises based on the tongue faculty, taking taste as its object.",
+    "fr": "Conscience discriminante qui naît en s'appuyant sur la faculté gustative, prenant le goût comme objet.",
+    "vi": "Thức liễu biệt sinh khởi nương thiệt căn, duyên vị cảnh."
+  },
+  "身识": {
+    "en": "Discriminating consciousness that arises based on the body faculty, taking tangibles as its object.",
+    "fr": "Conscience discriminante qui naît en s'appuyant sur la faculté corporelle, prenant le tangible comme objet.",
+    "vi": "Thức liễu biệt sinh khởi nương thân căn, duyên xúc cảnh."
+  },
+  "意识": {
+    "en": "The sixth consciousness, arising based on the mental faculty (manas), taking dharma-objects as its object. It has functions of discrimination, comparison, inference, imagination, etc.; extends over the three natures and is the chief agent of karma; it can also take past and future as objects and pervades all dharmas.",
+    "fr": "La sixième conscience, naissant en s'appuyant sur la faculté mentale (manas), prenant les objets-dharmas comme objet. Elle a les fonctions de discrimination, comparaison, raisonnement, imagination, etc. ; elle s'étend aux trois natures et est l'agent principal du karma ; elle peut aussi prendre pour objets le passé et le futur, et s'étend à tous les dharmas.",
+    "vi": "Thức thứ sáu, sinh khởi nương ý căn (mạt-na), duyên pháp cảnh. Có công năng phân biệt, so sánh, suy lý, tưởng tượng…; thông ba tính, là chủ lực tạo nghiệp; cũng có thể duyên quá khứ vị lai, biến duyên hết thảy pháp."
+  },
+  "意根": {
+    "en": "The seventh, manas-consciousness, as the faculty on which the sixth, mind-consciousness, depends—hence called the mental faculty. It constantly and scrutinizingly deliberates, grasping the seeing-portion of the eighth as a self.",
+    "fr": "La septième conscience-manas, faculté dont dépend la sixième conscience mentale—d'où le nom de faculté mentale. Elle délibère constamment et avec examen, saisissant la portion voyante de la huitième comme un soi.",
+    "vi": "Thức thứ bảy mạt-na là căn mà thức thứ sáu ý thức nương tựa, nên gọi ý căn. Hằng thẩm tư lương, chấp kiến phần của thức thứ tám làm ngã."
+  },
+  "五境": {
+    "en": "The five external objects—form, sound, odor, taste, and tangibles—taken as objects by the five sense-consciousnesses such as the eye.",
+    "fr": "Les cinq objets externes—forme, son, odeur, goût et tangible—pris pour objets par les cinq consciences sensorielles telles que l'œil.",
+    "vi": "Năm ngoại cảnh—sắc, thanh, hương, vị, xúc—làm sở duyên của năm thức như nhãn thức."
+  },
+  "六境": {
+    "en": "The six object-fields—form, sound, odor, taste, tangibles, and dharmas—also called the six dusts. Dharma-objects are taken by the mind-consciousness.",
+    "fr": "Les six champs d'objet—forme, son, odeur, goût, tangible et dharmas—aussi appelés les six poussières. Les objets-dharmas sont pris par la conscience mentale.",
+    "vi": "Sáu cảnh sở duyên—sắc, thanh, hương, vị, xúc, pháp—còn gọi lục trần. Pháp cảnh là sở duyên của ý thức."
+  },
+  "六根": {
+    "en": "The six faculties supporting sensory cognition: eye, ear, nose, tongue, body, and mind. The first five are material faculties; the mental faculty is a mental dharma (manas).",
+    "fr": "Les six facultés supportant la cognition sensorielle : œil, oreille, nez, langue, corps et mental. Les cinq premières sont des facultés matérielles ; la faculté mentale est un dharma mental (manas).",
+    "vi": "Sáu căn sở y của nhận thức cảm giác: nhãn, nhĩ, tỷ, thiệt, thân, ý. Năm căn trước là sắc căn; ý căn là tâm pháp (mạt-na)."
+  },
+  "五蕴": {
+    "en": "The five aggregates—form, feeling, perception, formations, and consciousness—summarizing the body-mind of sentient beings. The form aggregate is material; the latter four are mental. The Buddha taught that the five aggregates are without self.",
+    "fr": "Les cinq agrégats—forme, sensation, perception, formations et conscience—résumant le corps-esprit des êtres. L'agrégat de forme est matériel ; les quatre derniers sont mentaux. Le Buddha a enseigné que les cinq agrégats sont sans soi.",
+    "vi": "Năm uẩn—sắc, thụ, tưởng, hành, thức—tổng quát thân tâm hữu tình. Sắc uẩn thuộc vật chất; bốn uẩn sau thuộc tinh thần. Phật dạy năm uẩn vô ngã."
+  },
+  "十二处": {
+    "en": "The six faculties and six objects together called the twelve bases (twelve entries), the loci where cognition arises.",
+    "fr": "Les six facultés et six objets ensemble appelés les douze bases (douze entrées), les lieux où la cognition surgit.",
+    "vi": "Sáu căn và sáu cảnh hợp gọi mười hai xứ (mười hai nhập), là chỗ nhận thức sinh khởi."
+  },
+  "十八界": {
+    "en": "The six faculties, six objects, and six consciousnesses together called the eighteen elements, analyzing all factors of cognition.",
+    "fr": "Les six facultés, six objets et six consciences ensemble appelés les dix-huit éléments, analysant tous les facteurs de la cognition.",
+    "vi": "Sáu căn, sáu cảnh, sáu thức hợp gọi mười tám giới, phân tích toàn bộ yếu tố của nhận thức."
+  },
+  "有漏": {
+    "en": "Contaminated dharmas that have afflictions and defilement. “Leakage” (āsrava) is another name for affliction, causing beings to leak into saṃsāra. Opposed to the uncontaminated.",
+    "fr": "Dharmas contaminés qui comportent afflictions et souillure. « Fuite » (āsrava) est un autre nom de l'affliction, faisant couler les êtres dans le saṃsāra. S'oppose au non contaminé.",
+    "vi": "Pháp hữu lậu: có phiền não, có tạp nhiễm. Lậu là tên khác của phiền não, khiến chúng sinh lậu lạc sinh tử. Đối lại với vô lậu."
+  },
+  "无漏": {
+    "en": "Uncontaminated dharmas free from afflictions, pure and undefiled—e.g., uncontaminated wisdom and the uncontaminated path. Capable of leaving saṃsāra.",
+    "fr": "Dharmas non contaminés, libres d'afflictions, purs et sans souillure—p. ex. la sagesse non contaminée et la voie non contaminée. Capable de sortir du saṃsāra.",
+    "vi": "Pháp vô lậu: lìa phiền não, thanh tịnh vô nhiễm—như vô lậu trí, vô lậu đạo. Có thể xuất ly sinh tử."
+  },
+  "有覆无记": {
+    "en": "Neither good nor bad (indeterminate), yet afflictions veil the true mind and obstruct the noble path—e.g., manas-consciousness and its concomitant afflictions.",
+    "fr": "Ni bon ni mauvais (indéterminé), mais des afflictions voilent le vrai esprit et font obstacle à la voie noble—p. ex. la conscience-manas et les afflictions qui lui correspondent.",
+    "vi": "Chẳng thiện chẳng ác (vô ký), nhưng có phiền não che phủ chân tâm, chướng ngại thánh đạo—như thức mạt-na và các phiền não tương ưng với nó."
+  },
+  "无覆无记": {
+    "en": "Neither good nor bad, and without afflictive veiling—e.g., maturation-indeterminate (the eighth consciousness), deportment-indeterminate, craft-indeterminate, and transformation-indeterminate.",
+    "fr": "Ni bon ni mauvais, et sans voile d'affliction—p. ex. l'indéterminé-vipāka (la huitième conscience), l'indéterminé de maintien, l'indéterminé d'adresse, l'indéterminé de transformation, etc.",
+    "vi": "Chẳng thiện chẳng ác, cũng không có phiền não che phủ—như dị thục vô ký (thức thứ tám), uy nghi vô ký, công xảo vô ký, biến hóa vô ký, v.v."
+  },
+  "异熟": {
+    "en": "Maturation of a different kind: the cause may be good or bad, the result only indeterminate; or ripening at a different time, or through transformation. Refers to the indeterminate retribution induced by karmic causes.",
+    "fr": "Vipāka, maturation d'une espèce différente : la cause peut être bonne ou mauvaise, le fruit seulement indéterminé ; ou maturation à un autre moment, ou par transformation. Désigne la rétribution indéterminée suscitée par les causes karmiques.",
+    "vi": "Dị thục, nghĩa dị loại mà chín: nhân thông thiện ác, quả chỉ vô ký; hoặc dị thời mà chín, biến dị mà chín. Chỉ quả báo vô ký do nghiệp nhân chiêu cảm."
+  },
+  "异熟识": {
+    "en": "One of the alternate names of the eighth, ālaya-consciousness, insofar as it is the body of total retribution induced by good and bad karma—hence maturation-consciousness.",
+    "fr": "L'un des noms alternatifs de la huitième conscience-ālaya, en tant que corps de rétribution totale suscitée par le karma bon et mauvais—d'où conscience-vipāka.",
+    "vi": "Một trong các tên khác của thức thứ tám A-lại-da, xét về mặt nó là tổng báo thể do thiện ác nghiệp chiêu cảm—nên gọi dị thục thức."
+  },
+  "异熟果": {
+    "en": "The indeterminate retribution induced by maturation-causes (contaminated good and bad karma), such as the total retribution-body of beings in the six destinies—hence maturation-fruit.",
+    "fr": "La rétribution indéterminée suscitée par les causes-vipāka (karma bon et mauvais contaminé), comme le corps de rétribution totale des êtres des six destinées—d'où fruit-vipāka.",
+    "vi": "Quả báo vô ký do dị thục nhân (nghiệp thiện ác hữu lậu) chiêu cảm, như tổng báo thân của chúng sinh trong sáu đường—gọi dị thục quả."
+  },
+  "四缘": {
+    "en": "Cause-as-condition, equal-and-immediate condition, object-as-condition, and dominant condition. The four conditions on which all conditioned dharmas arise; mental dharmas require all four, while material dharmas need only cause-as-condition and dominant condition.",
+    "fr": "Condition-cause, condition égale et immédiate, condition-objet et condition dominante. Les quatre conditions dont dépendent tous les dharmas conditionnés ; les dharmas mentaux exigent les quatre, tandis que les dharmas matériels n'ont besoin que de la condition-cause et de la condition dominante.",
+    "vi": "Nhân duyên, đẳng vô gián duyên, sở duyên duyên, tăng thượng duyên. Bốn điều kiện mà hết thảy hữu vi pháp nương để sinh khởi; tâm pháp cần đủ bốn duyên, sắc pháp chỉ cần nhân duyên và tăng thượng duyên."
+  },
+  "所缘缘": {
+    "en": "The object taken as a condition, able to draw forth the cognizing mind. Divided into intimate object-as-condition (the image-aspect) and remote object-as-condition (the essential object).",
+    "fr": "L'objet pris comme condition, capable d'attirer l'esprit cognisant. Se divise en condition-objet intime (aspect-image) et condition-objet lointaine (objet essentiel).",
+    "vi": "Cảnh sở duyên làm duyên, có thể dẫn khởi tâm năng duyên. Chia thân sở duyên duyên (ảnh tượng tướng phần) và sơ sở duyên duyên (bản chất cảnh)."
+  },
+  "等无间缘": {
+    "en": "When the preceding moment of mind and mental factors ceases, the condition that equally and without interval opens the way for the arising of the succeeding moment of mind and mental factors.",
+    "fr": "Quand l'instant précédent d'esprit et facteurs mentaux cesse, la condition qui, de façon égale et sans intervalle, ouvre la voie à l'apparition de l'instant suivant d'esprit et facteurs mentaux.",
+    "vi": "Khi niệm trước của tâm và tâm sở diệt, duyên đẳng vô gián khai đạo cho niệm sau của tâm và tâm sở sinh khởi."
+  },
+  "增上缘": {
+    "en": "Whatever has a strong efficacious power that can aid another dharma's arising or obstruct another dharma is a dominant condition. Its scope is the widest.",
+    "fr": "Tout ce qui a une force efficace supérieure, pouvant aider l'apparition d'un autre dharma ou lui faire obstacle, est une condition dominante. Son champ est le plus vaste.",
+    "vi": "Phàm có lực dụng mạnh mẽ, có thể giúp pháp khác sinh khởi hoặc chướng ngại pháp khác, đều là tăng thượng duyên. Phạm vi rộng nhất."
+  },
+  "无分别智": {
+    "en": "Non-discriminating wisdom that directly realizes suchness, free from subject–object discrimination—i.e., fundamental wisdom. Arises at the bodhisattva's path of seeing; able to cut delusion and realize the principle.",
+    "fr": "Sagesse non discriminative qui réalise directement l'ainsité, libre de la discrimination sujet–objet—c'est-à-dire la sagesse fondamentale. Surge au stade de la voie de la vision du bodhisattva ; capable de trancher l'égarement et de réaliser le principe.",
+    "vi": "Vô phân biệt trí: thân chứng chân như, xa lìa phân biệt năng sở—tức căn bản trí. Bồ-tát kiến đạo vị khởi, có thể đoạn hoặc chứng lý."
+  },
+  "后得智": {
+    "en": "Wisdom attained after non-discriminating wisdom; able to discriminate and cognize the illusory other-dependent dharmas and skillfully liberate beings; also called wisdom conforming to measure.",
+    "fr": "Sagesse obtenue après la sagesse non discriminative ; capable de discerner et de connaître les dharmas dépendants d'autrui comme illusoires et de délivrer habilement les êtres ; aussi appelée sagesse conforme à la mesure.",
+    "vi": "Trí tuệ đạt được sau khi được vô phân biệt trí; có thể phân biệt rõ biết pháp y tha khởi như huyễn, phương tiện độ sinh; còn gọi như lượng trí."
+  },
+  "根本智": {
+    "en": "Namely non-discriminating wisdom, the fundamental basis on which subsequently attained wisdom depends.",
+    "fr": "À savoir la sagesse non discriminative, fondement dont dépend la sagesse ultérieurement obtenue.",
+    "vi": "Tức vô phân biệt trí, là căn bản sở y của hậu đắc trí."
+  },
+  "赖耶缘起": {
+    "en": "Also called ālaya dependent origination. Taking seeds in the ālaya-consciousness as cause, when conditions are met they give rise to all dharmas; present activities perfume new seeds, continuing in mutual succession—explaining the dependent origination of the cosmos and human life.",
+    "fr": "Aussi appelée coproduction conditionnée de l'ālaya. Prenant les semences dans la conscience-ālaya comme cause, rencontrant des conditions elles font surgir tous les dharmas ; les activités manifestes imprègnent de nouvelles semences, se poursuivant en succession mutuelle—expliquant la coproduction conditionnée du cosmos et de la vie humaine.",
+    "vi": "Còn gọi A-lại-da duyên khởi. Lấy chủng tử trong thức A-lại-da làm nhân, gặp duyên sinh khởi vạn pháp; hiện hành huân tập chủng mới, chuyển tiếp tương tục, thuyết minh duyên khởi của vũ trụ nhân sinh."
+  },
+  "阿赖耶缘起": {
+    "en": "Same as laye (ālaya) dependent origination.",
+    "fr": "Identique à la coproduction conditionnée du laya (ālaya).",
+    "vi": "Đồng với lại-da duyên khởi."
+  },
+  "唯识无境": {
+    "en": "Core thesis of the Consciousness-Only school: external objects are not truly existent apart from consciousness; all objects are image-aspects transformed by inner consciousness—hence “objects not apart from consciousness,” “consciousness-only, no [external] objects.” It does not deny phenomena, but denies real dharmas outside the mind.",
+    "fr": "Thèse centrale de l'école du Rien-que-conscience : les objets externes n'existent pas réellement hors de la conscience ; tout objet est un aspect-image transformé par la conscience intérieure—d'où « l'objet n'est pas séparé de la conscience », « rien que conscience, pas d'objet [externe] ». Cela ne nie pas les phénomènes, mais nie les dharmas réels hors de l'esprit.",
+    "vi": "Chủ trương cốt lõi của Duy Thức tông: ngoại cảnh chẳng thật có lìa thức; hết thảy sở duyên đều là tướng phần do nội thức biến hiện—nên nói cảnh bất ly thức, duy thức vô cảnh. Không phủ nhận hiện tượng, mà phủ nhận thật pháp ngoài tâm."
+  },
+  "五重唯识观": {
+    "en": "Contemplative stages established by Kuiji and others: discard the false and retain the real; abandon the mixed and keep the pure; gather the branches back to the root; conceal the inferior and reveal the superior; discard marks and realize the nature—progressing from shallow to deep into the true nature of consciousness-only.",
+    "fr": "Étages contemplatifs établis par Kuiji et d'autres : écarter le faux et conserver le réel ; abandonner le mêlé et garder le pur ; ramener les branches à la racine ; dissimuler l'inférieur et manifester le supérieur ; écarter les marques et réaliser la nature—progressant du superficiel au profond vers la nature véritable du rien-que-conscience.",
+    "vi": "Các tầng quán pháp do Khuy Cơ v.v. lập: khiển hư tồn thật, xả lạm lưu thuần, nhiếp mạt quy bản, ẩn liệt hiển thắng, khiển tướng chứng tính—từ cạn vào sâu chứng nhập duy thức thật tính."
+  },
+  "成唯识论": {
+    "en": "Compiled and translated by Xuanzang from the ten great masters' commentaries on the Thirty Verses on Consciousness-Only; ten fascicles; fundamental treatise of the Faxiang Consciousness-Only school, taking Dharmapāla's view as the orthodox one.",
+    "fr": "Compilé et traduit par Xuanzang à partir des commentaires des dix grands maîtres sur les Trente stances du Rien-que-conscience ; dix fascicules ; traité fondamental de l'école Faxiang du Rien-que-conscience, prenant la doctrine de Dharmapāla pour orthodoxie.",
+    "vi": "Huyền Trang hòa dịch thích luận của mười đại luận sư về Duy Thức Tam Thập Tụng mà thành, mười quyển; luận điển căn bản của Pháp Tướng Duy Thức tông, lấy thuyết Hộ Pháp làm chính nghĩa."
+  },
+  "安慧": {
+    "en": "Skt. Sthiramati; one of the ten great masters of Consciousness-Only; established the one-portion theory of the substance of consciousness (the self-authenticating portion); authored a commentary on the Thirty Verses, etc.",
+    "fr": "Skt. Sthiramati ; l'un des dix grands maîtres du Rien-que-conscience ; établit la théorie d'une portion de la substance de conscience (portion d'auto-attestation) ; auteur d'un commentaire des Trente stances, etc.",
+    "vi": "Phạn danh Sthiramati; một trong mười đại luận sư Duy Thức; lập thuyết nhất phần của thức thể (tự chứng phần); trước tác Duy Thức Tam Thập Tụng Thích, v.v."
+  },
+  "护法": {
+    "en": "Skt. Dharmapāla; one of the ten great masters; established the four-portion theory of the substance of consciousness; his teaching passed through Śīlabhadra to Xuanzang and was taken as the orthodox view in the Cheng weishi lun.",
+    "fr": "Skt. Dharmapāla ; l'un des dix grands maîtres ; établit la théorie des quatre portions de la substance de conscience ; son enseignement passa par Śīlabhadra à Xuanzang et fut pris pour orthodoxie dans le Cheng weishi lun.",
+    "vi": "Phạn danh Dharmapāla; một trong mười đại luận sư; lập thuyết bốn phần của thức thể; học thuyết qua Giới Hiền truyền Huyền Trang, được Thành Duy Thức Luận lấy làm chính nghĩa."
+  },
+  "窥基": {
+    "en": "Disciple of Xuanzang (632–682); one of the actual founders of the Faxiang school; called Dasheng Ji and Master of Ci'en; authored many treatises and commentaries, including the Cheng weishi lun shuji.",
+    "fr": "Disciple de Xuanzang (632–682) ; l'un des fondateurs effectifs de l'école Faxiang ; appelé Dasheng Ji et Maître de Ci'en ; auteur de nombreux traités et commentaires, dont le Cheng weishi lun shuji.",
+    "vi": "Đệ tử Huyền Trang (632–682); một trong những người thực sự sáng lập Pháp Tướng tông; gọi Đại Thừa Cơ, Từ Ân đại sư; rộng trước tác luận sớ, có Thành Duy Thức Luận Thuật Ký, v.v."
+  },
+  "戒贤": {
+    "en": "Skt. Śīlabhadra; eminent master of Nālandā, disciple of Dharmapāla; Xuanzang studied under him for five years, receiving the Yogācāra and Consciousness-Only teachings.",
+    "fr": "Skt. Śīlabhadra ; éminent maître de Nālandā, disciple de Dharmapāla ; Xuanzang étudia auprès de lui cinq ans, recevant les enseignements du Yogācāra et du Rien-que-conscience.",
+    "vi": "Phạn danh Śīlabhadra; đại đức chùa Na-lan-đà, đệ tử Hộ Pháp; Huyền Trang từng theo học năm năm, thụ học Du-già, Duy Thức."
+  }
+}
