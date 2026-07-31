@@ -15,6 +15,8 @@ FILES = [
     'Hundred Dharmas NO.1.md',
     'Hundred Dharmas NO.2.md',
     'Hundred Dharmas NO.3.md',
+    'Hundred Dharmas NO.4.md',
+    'Hundred Dharmas NO.5.md',
 ]
 FOLDER = {'zh': '中文', 'en': 'English', 'fr': 'Français', 'vi': 'TiếngViệt'}
 BLOCK_START = {
