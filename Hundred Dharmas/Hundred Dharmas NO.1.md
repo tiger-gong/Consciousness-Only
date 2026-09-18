@@ -2,19 +2,19 @@
 
 > **原著**：天亲菩萨造 · 蕅益大师注 · 净界法师讲述
 > **对照语言**：简体中文（原文，繁转简）／ English ／ Français ／ Tiếng Việt
-> **排版体例**：逐段依次呈现 中文 → English → Français → Tiếng Việt（各语种共用同一段落编号 §N）
+> **排版体例**：逐段依次呈现 中文 → English → Français → Tiếng Việt（全书 Volume 1 连续编号 §N（四种译文共用））
 
 ---
 
 ### 关于本译本的体例说明 / About this translation / À propos de cette traduction / Về bản dịch này
 
-**中文**：本文为《大乘百法明门论》净界法师讲记第一讲的五语对照版。中文部分依原繁体文本转为简体，段落划分依讲记文义，每段均标有编号 §N，四种译文共用同一编号，便于对照学习。佛学专有名词以**意译为主**，首次出现时在括号内附梵文或音译原词（如「涅槃（nirvāṇa）」）。英、法、越三种译文均依中文原意翻译。
+**中文**：本文为《大乘百法明门论》净界法师讲记第一讲的五语对照版。中文部分依原繁体文本转为简体，段落划分依讲记文义，段落编号与《100 Dharmas Volume 1》全书连续编号一致（§1 起），四种译文共用同一编号，便于对照学习。佛学专有名词以**意译为主**，首次出现时在括号内附梵文或音译原词（如「涅槃（nirvāṇa）」）。英、法、越三种译文均依中文原意翻译。
 
-**English**: This is a five-language parallel edition of the first lecture of Master Jingjie's exposition of the *Treatise on the Hundred Dharmas of the Great Vehicle*. Each paragraph carries a number (§N) shared by all four translations. Buddhist technical terms are rendered primarily by meaning, with the Sanskrit or transliterated original supplied in parentheses at first occurrence (e.g., "nirvāṇa"). The English, French, and Vietnamese renderings are all based on the Chinese text.
+**English**: This is a five-language parallel edition of the first lecture of Master Jingjie's exposition of the *Treatise on the Hundred Dharmas of the Great Vehicle*. Each paragraph carries a number (§N) shared by all four translations and continuous across Volume 1. Buddhist technical terms are rendered primarily by meaning, with the Sanskrit or transliterated original supplied in parentheses at first occurrence (e.g., "nirvāṇa"). The English, French, and Vietnamese renderings are all based on the Chinese text.
 
-**Français** : Ceci est une édition parallèle en cinq langues de la première conférence de l'exposé du Maître Jingjie sur le *Traité des Cent Dharmas du Grand Véhicule*. Chaque paragraphe porte un numéro (§N) commun aux quatre traductions. Les termes techniques bouddhiques sont rendus principalement par le sens, le sanskrit ou la translittération d'origine étant indiqués entre parenthèses lors de leur première occurrence (par ex. « nirvāṇa »). Les versions anglaise, française et vietnamienne sont toutes établies d'après le texte chinois.
+**Français** : Ceci est une édition parallèle en cinq langues de la première conférence de l'exposé du Maître Jingjie sur le *Traité des Cent Dharmas du Grand Véhicule*. Chaque paragraphe porte un numéro (§N) commun aux quatre traductions et continu tout au long du Volume 1. Les termes techniques bouddhiques sont rendus principalement par le sens, le sanskrit ou la translittération d'origine étant indiqués entre parenthèses lors de leur première occurrence (par ex. « nirvāṇa »). Les versions anglaise, française et vietnamienne sont toutes établies d'après le texte chinois.
 
-**Tiếng Việt**: Đây là bản đối chiếu năm ngôn ngữ của bài giảng thứ nhất trong tập giảng ký 《Đại Thừa Bách Pháp Minh Môn Luận》của Pháp sư Tịnh Giới. Mỗi đoạn đều mang một số hiệu (§N) dùng chung cho cả bốn bản dịch, tiện cho việc đối chiếu học tập. Các thuật ngữ chuyên môn Phật học chủ yếu được dịch theo nghĩa, kèm nguyên từ tiếng Phạn hoặc phiên âm trong ngoặc đơn ở lần xuất hiện đầu tiên (ví dụ: “Niết-bàn (nirvāṇa)”). Các bản dịch tiếng Anh, tiếng Pháp và tiếng Việt đều căn cứ theo nguyên ý tiếng Trung.
+**Tiếng Việt**: Đây là bản đối chiếu năm ngôn ngữ của bài giảng thứ nhất trong tập giảng ký 《Đại Thừa Bách Pháp Minh Môn Luận》của Pháp sư Tịnh Giới. Mỗi đoạn đều mang một số hiệu (§N) dùng chung cho cả bốn bản dịch, liên tục xuyên suốt Volume 1, tiện cho việc đối chiếu học tập. Các thuật ngữ chuyên môn Phật học chủ yếu được dịch theo nghĩa, kèm nguyên từ tiếng Phạn hoặc phiên âm trong ngoặc đơn ở lần xuất hiện đầu tiên (ví dụ: “Niết-bàn (nirvāṇa)”). Các bản dịch tiếng Anh, tiếng Pháp và tiếng Việt đều căn cứ theo nguyên ý tiếng Trung.
 
 ---
 
