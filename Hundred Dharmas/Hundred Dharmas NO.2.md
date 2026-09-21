@@ -1,15 +1,15 @@
-# 《大乘百法明门论·直解》五语对照（第二讲）
+# 《大乘百法明門論·直解》五語對照（第二講）
 
-> **原著**：天亲菩萨造 · 蕅益大师注 · 净界法师讲述
-> **对照语言**：简体中文（原文，繁转简）／ English ／ Français ／ Tiếng Việt
-> **排版体例**：逐段依次呈现 中文 → English → Français → Tiếng Việt（全书 Volume 1 连续编号 §N；佛学名词意译为主，首次出现附梵文/音译）
+> **原著**：天親菩薩造 · 蕅益大師注 · 淨界法師講述
+> **對照語言**：繁體中文（原文）／ English ／ Français ／ Tiếng Việt
+> **排版體例**：逐段依次呈現 中文 → English → Français → Tiếng Việt（全書 Volume 1 連續編號 §N；佛學名詞意譯為主，首次出現附梵文/音譯）
 
 ---
 
 **§54**
 
 **中文**
-（第二讲）请大家打开讲义第三面。
+（第二講）請大家打開講義第三面。
 
 **English**
 (Lecture Two) Please open your lecture notes to page three.
@@ -25,7 +25,7 @@
 **§55**
 
 **中文**
-『[[名相词典/中文/天亲菩萨|天亲菩萨]]乃[[名相词典/中文/无著菩萨|无著菩萨]]之弟，亦于[[名相词典/中文/萨婆多部|萨婆多部]]出家，戒行清高，博学多闻，因立志改善有部教义，遂入[[名相词典/中文/迦湿弥罗国|迦湿弥罗国]]，研究《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》。』
+『[[名相词典/中文/天亲菩萨|天親菩薩]]乃[[名相词典/中文/无著菩萨|無著菩薩]]之弟，亦於[[名相词典/中文/萨婆多部|薩婆多部]]出家，戒行清高，博學多聞，因立志改善有部教義，遂入[[名相词典/中文/迦湿弥罗国|迦濕彌羅國]]，研究《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》。』
 
 **English**
 "[[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] was the younger brother of [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]]. He too went forth into the homeless life within the Sarvāstivāda school. His observance of the precepts was pure and lofty, and he was broadly learned and widely versed. Because he resolved to improve the doctrines of the Sarvāstivāda, he entered the [[名相词典/English/kingdom of Kaśmīra|kingdom of Kaśmīra]] and studied the *Mahāvibhāṣā*."
@@ -41,7 +41,7 @@
 **§56**
 
 **中文**
-上一堂课说到[[名相词典/中文/天亲菩萨|天亲菩萨]]初期刚出家的情况；出家之后，他的身口意有两种功德：第一、戒行清高；第二、博学多闻。因为深感自宗理论的缺点，有心想改善「有部」—「[[名相词典/中文/萨婆多部|萨婆多部]]」的教义，来挽救本宗；因此发心到罽宾国那里去学习《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》。「毘婆沙」此翻成中文叫「胜说」，表示此论讲得非常殊胜圆满，为「一切有部」的广大结集。『大』就是广大的意思，一共有两百卷。《[[名相词典/中文/瑜伽师地论|瑜伽师地论]]》是一百卷，《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》是两百卷，这叫大，《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》。
+上一堂課說到[[名相词典/中文/天亲菩萨|天親菩薩]]初期剛出家的情況；出家之後，他的身口意有兩種功德：第一、戒行清高；第二、博學多聞。因為深感自宗理論的缺點，有心想改善「有部」—「[[名相词典/中文/萨婆多部|薩婆多部]]」的教義，來挽救本宗；因此發心到罽賓國那裡去學習《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》。「毘婆沙」此翻成中文叫「勝說」，表示此論講得非常殊勝圓滿，為「一切有部」的廣大結集。『大』就是廣大的意思，一共有兩百卷。《[[名相词典/中文/瑜伽师地论|瑜伽師地論]]》是一百卷，《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》是兩百卷，這叫大，《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》。
 
 **English**
 The previous lesson spoke of the circumstances of [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]]'s early years just after going forth. After going forth, his body, speech, and mind possessed two merits: first, pure and lofty observance of the precepts; second, broad learning and wide erudition. Because he keenly felt the shortcomings of his own school's theories, he set his mind on improving the doctrines of the "Existence school" — the Sarvāstivāda — so as to rescue his own tradition; he therefore resolved to go to the land of Kaśmīra to study the *Mahāvibhāṣā*. "Vibhāṣā" translated into Chinese means "excellent exposition," indicating that this treatise expounds its subject most excellently and completely; it is the vast compilation of the Sarvāstivāda ("the school that holds all exists"). "Mahā" (Great) means vast and extensive — it comprises two hundred fascicles in all. The *Yogācārabhūmi-śāstra* has one hundred fascicles; the *Mahāvibhāṣā* has two hundred. That is why it is called "Great" — the *Mahāvibhāṣā*.
@@ -57,7 +57,7 @@ Buổi học trước đã nói đến tình hình [[名相词典/TiếngViệt/
 **§57**
 
 **中文**
-这部论造论的[[名相词典/中文/因缘|因缘]]，我们解释一下。在佛[[名相词典/中文/灭度|灭度]]后六百年左右，当时的印度有一个王朝叫「贵霜王朝」，第一代国王是迦腻色迦王。这个迦腻色迦王有两个特色：第一个、勇猛善战，他擅于打仗，一登位之后，带著他的军队把整个东印度、南印度、北印度等五印度完全都统一了；统一印度除了阿育王以外，就是迦腻色迦王。这个国王他很会打仗，打到哪一个地方对方就被他征服了。第二个他酷爱艺术，对雕刻艺术非常喜欢。但他因为好战，造了很多杀业，后来良心发现[[名相词典/中文/忏悔|忏悔]]改过，就[[名相词典/中文/皈依|皈依]]于佛教，拜「胁尊者」[[名相词典/中文/阿罗汉|阿罗汉]]做师父。
+這部論造論的[[名相词典/中文/因缘|因緣]]，我們解釋一下。在佛[[名相词典/中文/灭度|滅度]]後六百年左右，當時的印度有一個王朝叫「貴霜王朝」，第一代國王是迦膩色迦王。這個迦膩色迦王有兩個特色：第一個、勇猛善戰，他擅於打仗，一登位之後，帶著他的軍隊把整個東印度、南印度、北印度等五印度完全都統一了；統一印度除了阿育王以外，就是迦膩色迦王。這個國王他很會打仗，打到哪一個地方對方就被他征服了。第二個他酷愛藝術，對雕刻藝術非常喜歡。但他因為好戰，造了很多殺業，後來良心發現[[名相词典/中文/忏悔|懺悔]]改過，就[[名相词典/中文/皈依|皈依]]於佛教，拜「脅尊者」[[名相词典/中文/阿罗汉|阿羅漢]]做師父。
 
 **English**
 Let us explain the circumstances under which this treatise came to be composed. Around six hundred years after the Buddha's *[[名相词典/English/parinirvāṇa|parinirvāṇa]]*, there was in India a dynasty called the Kuṣāṇa dynasty, whose first king was King Kaniṣka. This King Kaniṣka had two distinctive features: first, he was brave and skilled in war — a master of battle. Upon ascending the throne, he led his army and completely unified all Five Indias — East India, South India, North India, and the rest. Apart from King Aśoka, it was King Kaniṣka who unified India. This king was a great warrior: wherever he attacked, the opposing side was subdued. Second, he was passionately fond of art, being especially devoted to the art of sculpture. But because he was warlike, he created much killing-karma; later, his conscience awakened, he repented and reformed, took refuge in Buddhism, and honored the [[名相词典/English/arhat|arhat]] "Venerable Pārśva" as his teacher.
@@ -73,7 +73,7 @@ Chúng ta hãy giải thích [[名相词典/TiếngViệt/nhân duyên|nhân duy
 **§58**
 
 **中文**
-因为杀业太重内心经常不安，处理好国事回到宫里，每天请一位不同的法师来开示说法。听了之后也有点心得，但是他心中有一个疑惑，就问他的老师说：「为什么每一个法师所讲的内容都不一样？到底哪个才是对的？」胁尊者回答他说：「因为去佛久远，佛陀[[名相词典/中文/灭度|灭度]]已经六百多年，每一个法师都把个人的思想放到里面去了。」好比「[[名相词典/中文/诸行无常|诸行无常]]」，每个人对无常的看法都不一样。
+因為殺業太重內心經常不安，處理好國事回到宮裡，每天請一位不同的法師來開示說法。聽了之後也有點心得，但是他心中有一個疑惑，就問他的老師說：「為什麼每一個法師所講的內容都不一樣？到底哪個才是對的？」脅尊者回答他說：「因為去佛久遠，佛陀[[名相词典/中文/灭度|滅度]]已經六百多年，每一個法師都把個人的思想放到裡面去了。」好比「[[名相词典/中文/诸行无常|諸行無常]]」，每個人對無常的看法都不一樣。
 
 **English**
 Because his killing-karma was so heavy, his mind was often uneasy. After settling affairs of state and returning to the palace, each day he would invite a different Dharma-master to give a teaching. Having listened, he did gain some insight, but there was one [[名相词典/English/doubt|doubt]] in his mind, and so he asked his teacher: "Why is it that the content taught by each Dharma-master is different? Which one, after all, is correct?" The Venerable Pārśva answered him: "Because we are far removed from the Buddha's time — the Buddha passed into *[[名相词典/English/parinirvāṇa|parinirvāṇa]]* more than six hundred years ago — each Dharma-master has inserted his own personal ideas into the teaching." Take, for example, "[[名相词典/English/all formations are impermanent|all formations are impermanent]]" (*anitya*): each person's view of impermanence differs.
@@ -89,7 +89,7 @@ Vì [[名相词典/TiếngViệt/nghi|nghi]]ệp sát quá nặng nên nội tâ
 **§59**
 
 **中文**
-这时迦腻色迦王听了就说：「我们佛教应该作一个整理，把有部的思想作一个整理。」就请国师胁尊者召集了五百[[名相词典/中文/阿罗汉|阿罗汉]]，重新结集三藏。（这就是佛教历史上，迦腻色迦王所发起的第四个结集。）这次的结集可以说是「一切有部」的思想、《阿含经》的所有的论作一个整理，就成了《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》，主要是把《阿含经》的思想、整个有部的原始佛教的教义整理出来，是研究「部派佛教」很重要的一部论典。
+這時迦膩色迦王聽了就說：「我們佛教應該作一個整理，把有部的思想作一個整理。」就請國師脅尊者召集了五百[[名相词典/中文/阿罗汉|阿羅漢]]，重新結集三藏。（這就是佛教歷史上，迦膩色迦王所發起的第四個結集。）這次的結集可以說是「一切有部」的思想、《阿含經》的所有的論作一個整理，就成了《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》，主要是把《阿含經》的思想、整個有部的原始佛教的教義整理出來，是研究「部派佛教」很重要的一部論典。
 
 **English**
 Hearing this, King Kaniṣka said: "Our Buddhism ought to be put in order — the thought of the Sarvāstivāda should be systematically organized." So he asked the state preceptor, the Venerable Pārśva, to convene five hundred arhats to compile the Tripiṭaka anew. (This is what is known in Buddhist history as the Fourth Council, initiated by King Kaniṣka.) This compilation may be said to be an organizing of the thought of the Sarvāstivāda and of all the treatises based on the *Āgamas*, which then became the *Mahāvibhāṣā*. It chiefly draws together the thought of the *Āgamas* and the whole of the primitive-Buddhist doctrine of the Sarvāstivāda; it is a very important treatise for the study of "sectarian Buddhism" (the Buddhism of the schools).
@@ -105,7 +105,7 @@ Bấy giờ vua Ca-nị-sắc-ca nghe xong liền nói: “Phật giáo chúng t
 **§60**
 
 **中文**
-「有部宗」集出《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》之后，恐怕《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》被别人破坏掉，所以严格限制传出他国，同时也不让他国僧人进来学习。这五百个[[名相词典/中文/阿罗汉|阿罗汉]]就同时咒愿——[[名相词典/中文/阿罗汉|阿罗汉]]的心力不可思议——五百个[[名相词典/中文/阿罗汉|阿罗汉]]就同时咒愿这部论只能留在罽宾国：只要把《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》背出来，这个人今生就不能离开罽宾国。那怎么会知道呢？就派夜叉在罽宾国的门口日夜守护著，哪一个人把《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》学会了，就不准出去了。
+「有部宗」集出《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》之後，恐怕《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》被別人破壞掉，所以嚴格限制傳出他國，同時也不讓他國僧人進來學習。這五百個[[名相词典/中文/阿罗汉|阿羅漢]]就同時咒願——[[名相词典/中文/阿罗汉|阿羅漢]]的心力不可思議——五百個[[名相词典/中文/阿罗汉|阿羅漢]]就同時咒願這部論只能留在罽賓國：只要把《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》背出來，這個人今生就不能離開罽賓國。那怎麼會知道呢？就派夜叉在罽賓國的門口日夜守護著，哪一個人把《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》學會了，就不準出去了。
 
 **English**
 After the Sarvāstivāda school had compiled the *Mahāvibhāṣā*, fearing that it might be corrupted or destroyed by others, they strictly forbade its being transmitted to other countries, and likewise did not allow monks from other countries to come in and study it. These five hundred arhats then simultaneously pronounced a binding vow — and the mental power of arhats is inconceivable — the five hundred arhats simultaneously vowed that this treatise could only remain in the land of Kaśmīra (Kaśmīra/Jibin): whoever should memorize the *Mahāvibhāṣā* would, in this present life, be unable to leave Kaśmīra. But how would this be known? They dispatched yakṣas to guard the gates of Kaśmīra day and night; whoever had mastered the *Mahāvibhāṣā* would not be permitted to go out.
@@ -121,7 +121,7 @@ Sau khi “Hữu bộ tông” kết tập ra 《[[名相词典/TiếngViệt/Đ
 **§61**
 
 **中文**
-这时候有一个[[名相词典/中文/小乘|小乘]]学者，这个人智慧很高，他混进罽宾国里面，就把《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》两百卷全部背起来。当他要出去的时候，夜叉就叫说：「《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》的论师要出去了！」因为夜叉有[[名相词典/中文/神通|神通]]，看到他的内心摄持《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》的文字，所以士兵就把他捉起来，交给国王。这位论师就装疯卖傻，国王问他什么，他一问三不知、随便回答，衣服也穿的破破烂烂，像乞丐一样。国王说：「这个人哪是能够背《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》呢？」就把他放掉了。放了之后，他又要跑出去，夜叉神又说：「《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》的论师要出去了！」再把他抓起来，国王一问，他又是装疯卖傻什么都不懂。到了第三次又被抓起来，国王说：「这个人根本就不是《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》的论师，你们弄错了。」就把他送出去了。《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》就这样流传出去。
+這時候有一個[[名相词典/中文/小乘|小乘]]學者，這個人智慧很高，他混進罽賓國裡面，就把《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》兩百卷全部背起來。當他要出去的時候，夜叉就叫說：「《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》的論師要出去了！」因為夜叉有[[名相词典/中文/神通|神通]]，看到他的內心攝持《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》的文字，所以士兵就把他捉起來，交給國王。這位論師就裝瘋賣傻，國王問他什麼，他一問三不知、隨便回答，衣服也穿的破破爛爛，像乞丐一樣。國王說：「這個人哪是能夠背《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》呢？」就把他放掉了。放了之後，他又要跑出去，夜叉神又說：「《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》的論師要出去了！」再把他抓起來，國王一問，他又是裝瘋賣傻什麼都不懂。到了第三次又被抓起來，國王說：「這個人根本就不是《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》的論師，你們弄錯了。」就把他送出去了。《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》就這樣流傳出去。
 
 **English**
 At that time there was a certain Lesser-Vehicle scholar, a man of very high intelligence, who slipped into the land of Kaśmīra and memorized all two hundred fascicles of the *Mahāvibhāṣā*. When he was about to leave, a yakṣa cried out: "A master of the *Mahāvibhāṣā* is about to leave!" — for the yakṣa had spiritual penetration and could see that his mind was holding the text of the *Mahāvibhāṣā*. So the soldiers seized him and handed him over to the king. This scholar then feigned madness and played the fool: whatever the king asked, he professed to know nothing and answered at random, and he wore tattered rags like a beggar. The king said: "How could this man possibly recite the *Mahāvibhāṣā*?" and released him. Once released, he again tried to escape, and the yakṣa deity again cried: "A master of the *Mahāvibhāṣā* is about to leave!" So he was seized again, and when the king questioned him, he once more feigned madness and understood nothing. A third time he was seized, and the king said: "This man is not a master of the *Mahāvibhāṣā* at all — you have made a mistake," and sent him out. Thus the *Mahāvibhāṣā* came to be transmitted abroad.
@@ -137,7 +137,7 @@ Bấy giờ có một học giả [[名相词典/TiếngViệt/Tiểu thừa|Ti�
 **§62**
 
 **中文**
-但是，我看过[[名相词典/中文/天亲菩萨|天亲菩萨]]的传记，就是因为这样，后来他们对听《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》有很严格的要求。当时在[[名相词典/中文/迦湿弥罗国|迦湿弥罗国]]讲《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》的风气非常盛行，讲得最详细、最广的就是「悟入法师」。当时[[名相词典/中文/天亲菩萨|天亲菩萨]]在[[名相词典/中文/小乘|小乘]]部派已经很出名，他从「有部」转到「[[名相词典/中文/经部|经部]]」，大家都知道有「天亲」这一位论师，也知道他的思想已经倾向「[[名相词典/中文/经部|经部]]」；所以他想要学习这种大法，根本就不可能，因此就改名换姓到迦湿弥罗去学习《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》。
+但是，我看過[[名相词典/中文/天亲菩萨|天親菩薩]]的傳記，就是因為這樣，後來他們對聽《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》有很嚴格的要求。當時在[[名相词典/中文/迦湿弥罗国|迦濕彌羅國]]講《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》的風氣非常盛行，講得最詳細、最廣的就是「悟入法師」。當時[[名相词典/中文/天亲菩萨|天親菩薩]]在[[名相词典/中文/小乘|小乘]]部派已經很出名，他從「有部」轉到「[[名相词典/中文/经部|經部]]」，大家都知道有「天親」這一位論師，也知道他的思想已經傾向「[[名相词典/中文/经部|經部]]」；所以他想要學習這種大法，根本就不可能，因此就改名換姓到迦濕彌羅去學習《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》。
 
 **English**
 However, I have read the biography of [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]], and it was precisely because of this incident that, afterwards, they imposed very strict requirements on who might hear the *Mahāvibhāṣā*. At that time, the practice of expounding the *Mahāvibhāṣā* was extremely popular in the land of Kaśmīra, and the one who expounded it most thoroughly and extensively was "Dharma-master Skandhila" (Wùrù). By then [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] was already very famous among the Lesser-Vehicle schools: he had shifted from the Sarvāstivāda toward the Sautrāntika, and everyone knew there was a treatise-master named "Vasubandhu" and knew that his thought had already inclined toward the Sautrāntika. Therefore, for him to study this great teaching was simply impossible; so he changed his name and surname and went to Kaśmīra to study the *Mahāvibhāṣā*.
@@ -153,7 +153,7 @@ Nhưng tôi đã xem qua truyện ký của [[名相词典/TiếngViệt/Bồ-t�
 **§63**
 
 **中文**
-学了四年，把《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》几乎全部学会了。有时私下跟师友谈论之间，不小心就会抨击《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》的不当。里面很多人就说：「这个人怎么在批评《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》呢？」就把这件事情报告给悟入法师。悟入法师想要调查了解——当然我们[[名相词典/中文/凡夫|凡夫]]的境界就是叫过来问一问，但悟入法师是有[[名相词典/中文/禅定|禅定]]的人，他一入定就知道怎么回事；入定观察——原来这个人就是有名的「天亲论师」，来我们这里偷学《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》。
+學了四年，把《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》幾乎全部學會了。有時私下跟師友談論之間，不小心就會抨擊《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》的不當。裡面很多人就說：「這個人怎麼在批評《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》呢？」就把這件事情報告給悟入法師。悟入法師想要調查了解——當然我們[[名相词典/中文/凡夫|凡夫]]的境界就是叫過來問一問，但悟入法師是有[[名相词典/中文/禅定|禪定]]的人，他一入定就知道怎麼回事；入定觀察——原來這個人就是有名的「天親論師」，來我們這裡偷學《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》。
 
 **English**
 He studied for four years and mastered almost the whole of the *Mahāvibhāṣā*. Sometimes, in private discussions with teachers and friends, he would inadvertently criticize the flaws of the *Mahāvibhāṣā*. Many there said: "How is it that this man is criticizing the *Mahāvibhāṣā*?" and reported the matter to Dharma-master Skandhila. Skandhila wished to investigate and find out — of course, at the level of us ordinary beings, one would simply summon the man and question him; but Skandhila was one who possessed [[名相词典/English/meditative concentration|meditative concentration]], and the moment he entered [[名相词典/English/samādhi|samādhi]] he knew what was going on. Observing while in [[名相词典/English/samādhi|samādhi]], he realized: this man was none other than the famous "treatise-master Vasubandhu," who had come here to study the *Mahāvibhāṣā* covertly.
@@ -169,7 +169,7 @@ Ngài học bốn năm, hầu như học thông toàn bộ 《[[名相词典/Ti�
 **§64**
 
 **中文**
-于是晚上就把[[名相词典/中文/天亲菩萨|天亲菩萨]]叫来，称呼他：「你就是天亲」，[[名相词典/中文/天亲菩萨|天亲菩萨]]非常的惊慌。他说：「你不用怕！我不会伤害你，但是我的弟子很多都没有离欲、都是[[名相词典/中文/凡夫|凡夫]]，趁他们还没有知道之前，你要赶快离开这里！」因为当时部派争执非常厉害，你偷学别人的论典，这件事情是很严重的。[[名相词典/中文/天亲菩萨|天亲菩萨]]就连夜离开[[名相词典/中文/迦湿弥罗国|迦湿弥罗国]]，回到本国。凡历四年，他是这样[[名相词典/中文/因缘|因缘]]而学到《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》。
+於是晚上就把[[名相词典/中文/天亲菩萨|天親菩薩]]叫來，稱呼他：「你就是天親」，[[名相词典/中文/天亲菩萨|天親菩薩]]非常的驚慌。他說：「你不用怕！我不會傷害你，但是我的弟子很多都沒有離欲、都是[[名相词典/中文/凡夫|凡夫]]，趁他們還沒有知道之前，你要趕快離開這裡！」因為當時部派爭執非常厲害，你偷學別人的論典，這件事情是很嚴重的。[[名相词典/中文/天亲菩萨|天親菩薩]]就連夜離開[[名相词典/中文/迦湿弥罗国|迦濕彌羅國]]，回到本國。凡歷四年，他是這樣[[名相词典/中文/因缘|因緣]]而學到《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》。
 
 **English**
 So that night he summoned [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] and addressed him: "You are none other than Vasubandhu." [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] was greatly alarmed. Skandhila said: "Do not be afraid! I will not harm you. But many of my disciples have not yet freed themselves from desire and are still ordinary beings; before they come to know of this, you must quickly leave this place!" — for at that time sectarian disputes were extremely fierce, and to study another school's treatises covertly was a very serious matter. So [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] left the land of Kaśmīra that very night and returned to his own country. "Over the course of four years in all" — it was through such circumstances that he came to learn the *Mahāvibhāṣā*.
@@ -185,7 +185,7 @@ Thế là ban đêm liền gọi [[名相词典/TiếngViệt/Bồ-tát Thế Th
 **§65**
 
 **中文**
-回国之后，大家都知道他已经把整个《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》都学通了，很多人希望他能够把《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》的思想宣讲出来。当时他是融合「[[名相词典/中文/经部|经部]]」跟「有部」的思想来解释《[[名相词典/中文/大毘婆沙论|大毘婆沙论]]》的，一共讲了六百零四天，并且将每天所讲的教义，造一个偈颂来摄持今天所讲的内涵。总共讲了六百零四天，也就造了六百零四个偈颂，这就是所谓的《阿毗达磨俱舍论本颂》。
+回國之後，大家都知道他已經把整個《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》都學通了，很多人希望他能夠把《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》的思想宣講出來。當時他是融合「[[名相词典/中文/经部|經部]]」跟「有部」的思想來解釋《[[名相词典/中文/大毘婆沙论|大毘婆沙論]]》的，一共講了六百零四天，並且將每天所講的教義，造一個偈頌來攝持今天所講的內涵。總共講了六百零四天，也就造了六百零四個偈頌，這就是所謂的《阿毗達磨俱舍論本頌》。
 
 **English**
 After returning to his own country, everyone knew that he had thoroughly mastered the entire *Mahāvibhāṣā*, and many hoped that he would expound the thought of the *Mahāvibhāṣā*. At that time he explained the *Mahāvibhāṣā* by blending the thought of the Sautrāntika with that of the Sarvāstivāda. He lectured for six hundred and four days in all, and for each day's teaching he composed a verse (*gāthā*) to encapsulate the content taught that day. Lecturing for six hundred and four days in total, he thus composed six hundred and four verses — this is what is called the *Root Verses of the Abhidharmakośa* (*Abhidharmakośa-kārikā*).
@@ -201,7 +201,7 @@ Sau khi về nước, mọi người đều biết Ngài đã học thông toàn
 **§66**
 
 **中文**
-[[名相词典/中文/天亲菩萨|天亲菩萨]]刚开始为大众一边开讲、一边造颂，这时弟子们觉得义理实在是太深了，又请[[名相词典/中文/天亲菩萨|天亲菩萨]]将这些偈颂造论，再作广泛的解释，所以完成今日普遍流行的《阿毗达磨俱舍论》。「阿毘达磨」翻成中文叫「对法」，有两个意义：第一个是「对观四谛」，第二个是「对向[[名相词典/中文/涅槃|涅槃]]」。在「因地」，这个法门能够引导你正确对观四谛；从「果地」来说，它能够引导你不颠倒、正确的趋向于[[名相词典/中文/涅槃|涅槃]]，就叫做「阿毘达磨」。「俱舍论」的『俱舍』翻成中文就是「聪明」的意思，说它是智慧、聪明的一部论。
+[[名相词典/中文/天亲菩萨|天親菩薩]]剛開始為大眾一邊開講、一邊造頌，這時弟子們覺得義理實在是太深了，又請[[名相词典/中文/天亲菩萨|天親菩薩]]將這些偈頌造論，再作廣泛的解釋，所以完成今日普遍流行的《阿毗達磨俱舍論》。「阿毘達磨」翻成中文叫「對法」，有兩個意義：第一個是「對觀四諦」，第二個是「對向[[名相词典/中文/涅槃|涅槃]]」。在「因地」，這個法門能夠引導你正確對觀四諦；從「果地」來說，它能夠引導你不顛倒、正確的趨向於[[名相词典/中文/涅槃|涅槃]]，就叫做「阿毘達磨」。「俱舍論」的『俱舍』翻成中文就是「聰明」的意思，說它是智慧、聰明的一部論。
 
 **English**
 At first, [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] both lectured to the assembly and composed the verses at the same time. At this point his disciples felt that the doctrinal meaning was truly too profound, and they further asked [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] to make the verses into a full treatise and provide an extensive explanation. Thus he completed the *Abhidharmakośa* that is widely current today. "Abhidharma" translated into Chinese means "facing the Dharma," and has two senses: first, "facing and contemplating the Four [Noble] Truths" (*catvāri āryasatyāni*); second, "facing toward [[名相词典/English/nirvāṇa|nirvāṇa]]." On the "causal ground," this teaching-gate can guide you to correctly contemplate the Four Truths; from the standpoint of the "fruition ground," it can guide you, without inversion, correctly toward [[名相词典/English/nirvāṇa|nirvāṇa]] — this is called "Abhidharma." As for "kośa" in *Abhidharmakośa*, translated into Chinese it means "intelligent"; it is said to be a treatise of wisdom and intelligence (a "treasury").
@@ -217,7 +217,7 @@ Ban đầu [[名相词典/TiếngViệt/Bồ-tát Thế Thân|Bồ-tát Thế Th
 **§67**
 
 **中文**
-这部《[[名相词典/中文/阿毘达磨俱舍论|阿毘达磨俱舍论]]》它是整个部派佛教集大成者，把「有部」跟「[[名相词典/中文/经部|经部]]」的思想结合一起，弘传[[名相词典/中文/小乘|小乘]]部派的教义。这是[[名相词典/中文/天亲菩萨|天亲菩萨]]刚出家的初期，这时候他在[[名相词典/中文/小乘|小乘]]的僧团已经相当有地位，可以说是[[名相词典/中文/小乘|小乘]]的第一上座，当时的国王新日王就拜他做国师。这个是[[名相词典/中文/天亲菩萨|天亲菩萨]]刚开始出家的[[名相词典/中文/因缘|因缘]]，再看后来的变化。
+這部《[[名相词典/中文/阿毘达磨俱舍论|阿毘達磨俱舍論]]》它是整個部派佛教集大成者，把「有部」跟「[[名相词典/中文/经部|經部]]」的思想結合一起，弘傳[[名相词典/中文/小乘|小乘]]部派的教義。這是[[名相词典/中文/天亲菩萨|天親菩薩]]剛出家的初期，這時候他在[[名相词典/中文/小乘|小乘]]的僧團已經相當有地位，可以說是[[名相词典/中文/小乘|小乘]]的第一上座，當時的國王新日王就拜他做國師。這個是[[名相词典/中文/天亲菩萨|天親菩薩]]剛開始出家的[[名相词典/中文/因缘|因緣]]，再看後來的變化。
 
 **English**
 This *Abhidharmakośa* is the great synthesis of the whole of sectarian Buddhism, uniting the thought of the Sarvāstivāda with that of the Sautrāntika, propagating the doctrines of the Lesser-Vehicle schools. This was the early period just after [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] had gone forth; by then he already held a considerable position within the Lesser-Vehicle monastic community — one might say he was the foremost senior elder of the [[名相词典/English/Lesser Vehicle|Lesser Vehicle]] — and the king of the time, King Vikramāditya (Xinri), honored him as state preceptor. Such were the circumstances of [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]]'s early monastic life; now let us look at the changes that came afterward.
@@ -233,7 +233,7 @@ Bộ 《[[名相词典/TiếngViệt/A-tỳ-đạt-ma Câu-xá Luận|A-tỳ-đ�
 **§68**
 
 **中文**
-「[[名相词典/中文/无著菩萨|无著菩萨]]恐其造论毁谤[[名相词典/中文/大乘|大乘]]，乃派人告曰：『我今病重，不久将死，汝可急来！』」[[名相词典/中文/天亲菩萨|天亲菩萨]]当时在[[名相词典/中文/小乘|小乘]]部派相当有名，他本来是在北印度的健陀罗国，后来有[[名相词典/中文/因缘|因缘]]进入到中印度；[[名相词典/中文/无著菩萨|无著菩萨]]（第一世亲，他的大哥）也在那里弘扬[[名相词典/中文/大乘|大乘]]唯识的法门。
+「[[名相词典/中文/无著菩萨|無著菩薩]]恐其造論譭謗[[名相词典/中文/大乘|大乘]]，乃派人告曰：『我今病重，不久將死，汝可急來！』」[[名相词典/中文/天亲菩萨|天親菩薩]]當時在[[名相词典/中文/小乘|小乘]]部派相當有名，他本來是在北印度的健陀羅國，後來有[[名相词典/中文/因缘|因緣]]進入到中印度；[[名相词典/中文/无著菩萨|無著菩薩]]（第一世親，他的大哥）也在那裡弘揚[[名相词典/中文/大乘|大乘]]唯識的法門。
 
 **English**
 "[[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]], fearing that his composing treatises would slander the [[名相词典/English/Great Vehicle|Great Vehicle]], sent a messenger to tell him: 'I am now gravely ill and will die before long; you should come quickly!'" At that time [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] was quite famous among the Lesser-Vehicle schools. He had originally been in the kingdom of Gandhāra in North India, and later, through certain conditions, entered [[名相词典/English/central India|central India]]; [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]] (Vasubandhu the First, his elder brother) was also there, propagating the teaching-gate of Mahāyāna Consciousness-Only.
@@ -249,7 +249,7 @@ Bộ 《[[名相词典/TiếngViệt/A-tỳ-đạt-ma Câu-xá Luận|A-tỳ-đ�
 **§69**
 
 **中文**
-[[名相词典/中文/天亲菩萨|天亲菩萨]]起初不知道[[名相词典/中文/无著菩萨|无著菩萨]]是他的哥哥，因为他不知道（第一世亲）改名了，就跟[[名相词典/中文/无著菩萨|无著菩萨]]有多次的论辩，当时的论辩并没有亲自见面，所以大家也不知道。但是[[名相词典/中文/无著菩萨|无著菩萨]]知道[[名相词典/中文/天亲菩萨|天亲菩萨]]就是他的弟弟，[[名相词典/中文/无著菩萨|无著菩萨]]一直想办法要度他弟弟[[名相词典/中文/回小向大|回小向大]]，但是没有[[名相词典/中文/因缘|因缘]]；后来因为[[名相词典/中文/天亲菩萨|天亲菩萨]]时常批评[[名相词典/中文/大乘|大乘]]佛法，[[名相词典/中文/无著菩萨|无著菩萨]]就准备要跟[[名相词典/中文/天亲菩萨|天亲菩萨]]公开辩论了。
+[[名相词典/中文/天亲菩萨|天親菩薩]]起初不知道[[名相词典/中文/无著菩萨|無著菩薩]]是他的哥哥，因為他不知道（第一世親）改名了，就跟[[名相词典/中文/无著菩萨|無著菩薩]]有多次的論辯，當時的論辯並沒有親自見面，所以大家也不知道。但是[[名相词典/中文/无著菩萨|無著菩薩]]知道[[名相词典/中文/天亲菩萨|天親菩薩]]就是他的弟弟，[[名相词典/中文/无著菩萨|無著菩薩]]一直想辦法要度他弟弟[[名相词典/中文/回小向大|回小向大]]，但是沒有[[名相词典/中文/因缘|因緣]]；後來因為[[名相词典/中文/天亲菩萨|天親菩薩]]時常批評[[名相词典/中文/大乘|大乘]]佛法，[[名相词典/中文/无著菩萨|無著菩薩]]就準備要跟[[名相词典/中文/天亲菩萨|天親菩薩]]公開辯論了。
 
 **English**
 At first [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] did not know that [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]] was his elder brother, because he did not know that Vasubandhu the First had changed his name. He engaged in several debates with [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]], but these debates were not conducted face to face, so neither party knew the other's identity. [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]], however, knew that [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] was his younger brother, and he kept seeking a way to lead his brother to "turn from the Lesser toward the Great," yet the conditions were not ripe. Later, because [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] frequently criticized the Mahāyāna teaching, [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]] prepared to hold an open debate with him.
@@ -265,7 +265,7 @@ Ban đầu [[名相词典/TiếngViệt/Bồ-tát Thế Thân|Bồ-tát Thế Th
 **§70**
 
 **中文**
-我们看当时的印度水平很高，每个人对于物质的享受很淡泊，但是对于思想文化的追求非常的重视：你的宗旨、你所摄持的法门比我高，我就[[名相词典/中文/皈依|皈依]]你；你能够把我辩倒，我就[[名相词典/中文/皈依|皈依]]你——只有两个选择，不是[[名相词典/中文/皈依|皈依]]你、就是砍头给你，两个选择。[[名相词典/中文/无著菩萨|无著菩萨]]因为看这个情况已经很严重，恐怕[[名相词典/中文/天亲菩萨|天亲菩萨]]会造论毁谤[[名相词典/中文/大乘|大乘]]佛法，所以准备跟他在国王面前公开辩论。
+我們看當時的印度水平很高，每個人對於物質的享受很淡泊，但是對於思想文化的追求非常的重視：你的宗旨、你所攝持的法門比我高，我就[[名相词典/中文/皈依|皈依]]你；你能夠把我辯倒，我就[[名相词典/中文/皈依|皈依]]你——只有兩個選擇，不是[[名相词典/中文/皈依|皈依]]你、就是砍頭給你，兩個選擇。[[名相词典/中文/无著菩萨|無著菩薩]]因為看這個情況已經很嚴重，恐怕[[名相词典/中文/天亲菩萨|天親菩薩]]會造論譭謗[[名相词典/中文/大乘|大乘]]佛法，所以準備跟他在國王面前公開辯論。
 
 **English**
 We can see that the level of Indian culture at the time was very high: everyone was quite indifferent to material enjoyment, yet placed great weight on the pursuit of thought and culture. If your tenet, the teaching you upheld, was superior to mine, I would take refuge in you; if you could defeat me in debate, I would take refuge in you — there were only two choices: either take refuge in you, or offer you my head. Two choices. Because [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]] saw that the situation was already very serious, and feared that [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] would compose treatises slandering the Mahāyāna teaching, he prepared to debate him openly before the king.
@@ -281,7 +281,7 @@ Chúng ta thấy trình độ Ấn Độ bấy giờ rất cao, mỗi người �
 **§71**
 
 **中文**
-后来[[名相词典/中文/无著菩萨|无著菩萨]]有一位徒弟，有很深的[[名相词典/中文/禅定|禅定]]功夫，有一天在[[名相词典/中文/禅定|禅定]]当中，看到[[名相词典/中文/无著菩萨|无著菩萨]]跟[[名相词典/中文/天亲菩萨|天亲菩萨]]辩论——当然[[名相词典/中文/小乘|小乘]]的教法哪能跟[[名相词典/中文/大乘|大乘]]法辩论呢？一场辩论下来，[[名相词典/中文/天亲菩萨|天亲菩萨]]就失败了。[[名相词典/中文/天亲菩萨|天亲菩萨]]当时是部派佛教的第一上座大德，内心非常悔恨：首先，在修行上他走错了路，都在弘扬[[名相词典/中文/小乘|小乘]]义理；而且对方既然是他的哥哥，为什么不私下告诉他，却在公开辩论中才告诉他。这时候[[名相词典/中文/天亲菩萨|天亲菩萨]]就自杀了。自杀之后，因为国王是[[名相词典/中文/皈依|皈依]][[名相词典/中文/天亲菩萨|天亲菩萨]]，跟他有很深的[[名相词典/中文/因缘|因缘]]，国王非常生气，就下令逮捕[[名相词典/中文/无著菩萨|无著菩萨]]，把他关起来、处罚他。整个论辩最后的结局，对两个人都不好；[[名相词典/中文/外道|外道]]看到无著跟[[名相词典/中文/天亲菩萨|天亲菩萨]]之诤两败俱伤，非常欢喜。他的徒弟在[[名相词典/中文/禅定|禅定]]中看到之后，说给[[名相词典/中文/无著菩萨|无著菩萨]]听。
+後來[[名相词典/中文/无著菩萨|無著菩薩]]有一位徒弟，有很深的[[名相词典/中文/禅定|禪定]]功夫，有一天在[[名相词典/中文/禅定|禪定]]當中，看到[[名相词典/中文/无著菩萨|無著菩薩]]跟[[名相词典/中文/天亲菩萨|天親菩薩]]辯論——當然[[名相词典/中文/小乘|小乘]]的教法哪能跟[[名相词典/中文/大乘|大乘]]法辯論呢？一場辯論下來，[[名相词典/中文/天亲菩萨|天親菩薩]]就失敗了。[[名相词典/中文/天亲菩萨|天親菩薩]]當時是部派佛教的第一上座大德，內心非常悔恨：首先，在修行上他走錯了路，都在弘揚[[名相词典/中文/小乘|小乘]]義理；而且對方既然是他的哥哥，為什麼不私下告訴他，卻在公開辯論中才告訴他。這時候[[名相词典/中文/天亲菩萨|天親菩薩]]就自殺了。自殺之後，因為國王是[[名相词典/中文/皈依|皈依]][[名相词典/中文/天亲菩萨|天親菩薩]]，跟他有很深的[[名相词典/中文/因缘|因緣]]，國王非常生氣，就下令逮捕[[名相词典/中文/无著菩萨|無著菩薩]]，把他關起來、處罰他。整個論辯最後的結局，對兩個人都不好；[[名相词典/中文/外道|外道]]看到無著跟[[名相词典/中文/天亲菩萨|天親菩薩]]之諍兩敗俱傷，非常歡喜。他的徒弟在[[名相词典/中文/禅定|禪定]]中看到之後，說給[[名相词典/中文/无著菩萨|無著菩薩]]聽。
 
 **English**
 Later, [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]] had a disciple with deep skill in [[名相词典/English/meditative concentration|meditative concentration]]. One day, while in [[名相词典/English/samādhi|samādhi]], this disciple saw [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]] debating with [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] — and of course, how could the Lesser-Vehicle teaching contend with the Great-Vehicle Dharma? In the course of the debate, [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] was defeated. [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] was then the foremost senior elder and great worthy of sectarian Buddhism, and his heart was filled with deep remorse: first, that in his practice he had taken the wrong road, having only propagated Lesser-Vehicle principles; and moreover, since his opponent was his own brother, why had he not told him privately, but only revealed it during a public debate? At this point [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] took his own life. After his suicide — because the king had taken refuge in [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] and had a very deep bond with him — the king was furious and ordered the arrest of [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]], imprisoning and punishing him. The final outcome of the whole debate was bad for both of them; the non-Buddhists, seeing Asaṅga and Vasubandhu wounded on both sides in their contention, were greatly delighted. After the disciple saw this in [[名相词典/English/samādhi|samādhi]], he told it to [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]].
@@ -297,7 +297,7 @@ Về sau [[名相词典/TiếngViệt/Bồ-tát Vô Trước|Bồ-tát Vô Trư�
 **§72**
 
 **中文**
-[[名相词典/中文/无著菩萨|无著菩萨]]知道不好，心想这时候应该要——动之以情，晓之以理。用什么方法呢？就想出一个方便，用情感来摄受他。[[名相词典/中文/无著菩萨|无著菩萨]]就派人转送一封信，对他表明身份说：「我就是你的哥哥，本来也叫婆薮盘豆，修习空义之后改名为无著；我现在病得很重，不久将死，想见你最后一面！」因为[[名相词典/中文/天亲菩萨|天亲菩萨]]从小是[[名相词典/中文/无著菩萨|无著菩萨]]带大的，他哥哥大他二十岁，他父亲将教育[[名相词典/中文/天亲菩萨|天亲菩萨]]的责任全交给[[名相词典/中文/无著菩萨|无著菩萨]]，虽然那时候教授他[[名相词典/中文/婆罗门教|婆罗门教]]法，但感情也是很深的。所以[[名相词典/中文/天亲菩萨|天亲菩萨]]得知哥哥病危，就连忙赶去见他。
+[[名相词典/中文/无著菩萨|無著菩薩]]知道不好，心想這時候應該要——動之以情，曉之以理。用什麼方法呢？就想出一個方便，用情感來攝受他。[[名相词典/中文/无著菩萨|無著菩薩]]就派人轉送一封信，對他表明身份說：「我就是你的哥哥，本來也叫婆藪盤豆，修習空義之後改名為無著；我現在病得很重，不久將死，想見你最後一面！」因為[[名相词典/中文/天亲菩萨|天親菩薩]]從小是[[名相词典/中文/无著菩萨|無著菩薩]]帶大的，他哥哥大他二十歲，他父親將教育[[名相词典/中文/天亲菩萨|天親菩薩]]的責任全交給[[名相词典/中文/无著菩萨|無著菩薩]]，雖然那時候教授他[[名相词典/中文/婆罗门教|婆羅門教]]法，但感情也是很深的。所以[[名相词典/中文/天亲菩萨|天親菩薩]]得知哥哥病危，就連忙趕去見他。
 
 **English**
 [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]] knew this was bad, and thought that now he must "move him through feeling and enlighten him through reason." By what method? He devised a skillful means, using emotion to draw his brother in. [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]] sent someone to deliver a letter, revealing his identity to him: "I am your elder brother. I was originally also called Vasubandhu, and after cultivating the meaning of [[名相词典/English/emptiness|emptiness]] I changed my name to Asaṅga. I am now gravely ill and will die before long; I wish to see you one last time!" Because [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] had been raised by [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]] from childhood — his elder brother being twenty years his senior, and their father having entrusted the entire responsibility for Vasubandhu's education to Asaṅga (though at that time he taught him the Brahmanical teachings) — their bond of affection was also very deep. So when [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] learned that his brother was critically ill, he hurried at once to see him.
@@ -313,7 +313,7 @@ Le [[名相词典/Français/Bodhisattva Asaṅga|bodhisattva Asaṅga]] sut que 
 **§73**
 
 **中文**
-见面的时候，[[名相词典/中文/天亲菩萨|天亲菩萨]]就问：『兄云何病？』你怎么会病得这么重呢？[[名相词典/中文/无著菩萨|无著菩萨]]对曰：『我今之病，由汝而生。汝[[名相词典/中文/不信|不信]][[名相词典/中文/大乘|大乘]]，妄生毁谤，必致沉沦，我今愁苦，故得重病。』说：「我的病啊，是因为你生起的，怎么说呢？因为你不相信[[名相词典/中文/大乘|大乘]]法义，而且又毁谤[[名相词典/中文/大乘|大乘]]，说『[[名相词典/中文/大乘|大乘]]是非佛说』，你这样的谤法罪业，是要堕无间地狱的；我是因为太担心你，所以才生病的！」
+見面的時候，[[名相词典/中文/天亲菩萨|天親菩薩]]就問：『兄云何病？』你怎麼會病得這麼重呢？[[名相词典/中文/无著菩萨|無著菩薩]]對曰：『我今之病，由汝而生。汝[[名相词典/中文/不信|不信]][[名相词典/中文/大乘|大乘]]，妄生譭謗，必致沉淪，我今愁苦，故得重病。』說：「我的病啊，是因為你生起的，怎麼說呢？因為你不相信[[名相词典/中文/大乘|大乘]]法義，而且又譭謗[[名相词典/中文/大乘|大乘]]，說『[[名相词典/中文/大乘|大乘]]是非佛說』，你這樣的謗法罪業，是要墮無間地獄的；我是因為太擔心你，所以才生病的！」
 
 **English**
 When they met, [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] asked: "Elder brother, how are you ill?" — how could you have fallen so gravely ill? [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]] replied: "My present illness has arisen on account of you. Because you do not believe in the [[名相词典/English/Great Vehicle|Great Vehicle]] and recklessly give rise to slander, you will surely sink into ruin; I am now grieved and distressed, and so I have contracted this grave illness." He said: "My illness, you see, has arisen because of you. How so? Because you do not believe in the doctrinal meaning of the [[名相词典/English/Great Vehicle|Great Vehicle]], and moreover slander the [[名相词典/English/Great Vehicle|Great Vehicle]], saying 'the Mahāyāna is not the Buddha's word.' Such karma of slandering the Dharma will cause you to fall into the Avīci hell (the hell of uninterrupted suffering); I fell ill precisely because I was so worried about you!"
@@ -329,7 +329,7 @@ Khi gặp mặt, [[名相词典/TiếngViệt/Bồ-tát Thế Thân|Bồ-tát Th
 **§74**
 
 **中文**
-[[名相词典/中文/天亲菩萨|天亲菩萨]]内心感动了，就请[[名相词典/中文/无著菩萨|无著菩萨]]为他解说[[名相词典/中文/大乘|大乘]]法义。这时候[[名相词典/中文/无著菩萨|无著菩萨]]主要是跟他讲《华严经》的十地品，听了之后，因此而生起信解：「啊呀，华严经里佛菩萨的境界实在是太高了！」深悔过去所造谤法之罪，『即欲割舌谢罪』，就生起惭愧心，想割下自己的舌头以谢罪，因为他过去是用舌头造罪的。
+[[名相词典/中文/天亲菩萨|天親菩薩]]內心感動了，就請[[名相词典/中文/无著菩萨|無著菩薩]]為他解說[[名相词典/中文/大乘|大乘]]法義。這時候[[名相词典/中文/无著菩萨|無著菩薩]]主要是跟他講《華嚴經》的十地品，聽了之後，因此而生起信解：「啊呀，華嚴經裡佛菩薩的境界實在是太高了！」深悔過去所造謗法之罪，『即欲割舌謝罪』，就生起慚愧心，想割下自己的舌頭以謝罪，因為他過去是用舌頭造罪的。
 
 **English**
 [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] was moved at heart, and asked [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]] to explain the doctrinal meaning of the [[名相词典/English/Great Vehicle|Great Vehicle]] for him. At this point [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]] chiefly expounded to him the "Chapter on the Ten Grounds" (*Daśabhūmika*) of the *Avataṃsaka Sūtra* (Flower Ornament Sūtra). Having heard it, he thereby gave rise to [[名相词典/English/faith|faith]] and understanding: "Ah! The state of the Buddhas and bodhisattvas described in the *Avataṃsaka Sūtra* is truly too lofty!" He deeply repented the sin of slandering the Dharma he had committed in the past, and "wished to cut out his own tongue to atone for the offense": giving rise to a mind of shame and remorse, he wanted to cut off his own tongue in atonement, because it was with his tongue that he had created the sin in the past.
@@ -345,7 +345,7 @@ Le [[名相词典/Français/Bodhisattva Vasubandhu|bodhisattva Vasubandhu]] fut 
 **§75**
 
 **中文**
-[[名相词典/中文/无著菩萨|无著菩萨]]对曰：『汝先毁谤[[名相词典/中文/大乘|大乘]]，欲灭此罪，须当善巧解说[[名相词典/中文/大乘|大乘]]。』[[名相词典/中文/无著菩萨|无著菩萨]]告诉他说：「你当初用舌头来毁谤[[名相词典/中文/大乘|大乘]]，这时候不是割掉舌头来灭罪，应该利用舌头去善巧解说[[名相词典/中文/大乘|大乘]]，才是究竟的赎罪！」这正是[[名相词典/中文/大乘|大乘]]佛法的特色——「诸法无[[名相词典/中文/自性|自性]]，一切从[[名相词典/中文/缘起|缘起]]。」从这句话当中，我们可以体会[[名相词典/中文/大乘|大乘]]佛法的道理，的确是深广、圆满。舌头哪有罪？是心的问题啊！所以[[名相词典/中文/小乘|小乘]]认为「一切法是真实的」是不对的。[[名相词典/中文/大乘|大乘]]是讲「不二法门」——色身能够造罪、也能够造善，看你怎么运用，这就是不二法门。
+[[名相词典/中文/无著菩萨|無著菩薩]]對曰：『汝先譭謗[[名相词典/中文/大乘|大乘]]，欲滅此罪，須當善巧解說[[名相词典/中文/大乘|大乘]]。』[[名相词典/中文/无著菩萨|無著菩薩]]告訴他說：「你當初用舌頭來譭謗[[名相词典/中文/大乘|大乘]]，這時候不是割掉舌頭來滅罪，應該利用舌頭去善巧解說[[名相词典/中文/大乘|大乘]]，才是究竟的贖罪！」這正是[[名相词典/中文/大乘|大乘]]佛法的特色——「諸法無[[名相词典/中文/自性|自性]]，一切從[[名相词典/中文/缘起|緣起]]。」從這句話當中，我們可以體會[[名相词典/中文/大乘|大乘]]佛法的道理，的確是深廣、圓滿。舌頭哪有罪？是心的問題啊！所以[[名相词典/中文/小乘|小乘]]認為「一切法是真實的」是不對的。[[名相词典/中文/大乘|大乘]]是講「不二法門」——色身能夠造罪、也能夠造善，看你怎麼運用，這就是不二法門。
 
 **English**
 [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]] replied: "Since you formerly slandered the [[名相词典/English/Great Vehicle|Great Vehicle]], if you wish to extinguish this sin, you should skillfully expound the [[名相词典/English/Great Vehicle|Great Vehicle]]." [[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]] told him: "You originally used your tongue to slander the [[名相词典/English/Great Vehicle|Great Vehicle]]; now, cutting off the tongue is not the way to extinguish the sin — you should rather use the tongue to skillfully expound the [[名相词典/English/Great Vehicle|Great Vehicle]]. That is the ultimate atonement!" This is precisely a distinctive feature of Mahāyāna Buddhism: "All phenomena are without [[名相词典/English/self-nature|self-nature]]; everything arises from conditions." From this saying, we can appreciate that the principles of Mahāyāna Buddhism are indeed profound, vast, and complete. How could the tongue bear guilt? It is a matter of the mind! Thus the Lesser-Vehicle view that "all phenomena are real" is incorrect. The [[名相词典/English/Great Vehicle|Great Vehicle]] teaches the "gate of non-duality": the physical body can create sin and can also create good — it depends on how you use it. This is the gate of non-duality.
@@ -361,7 +361,7 @@ Le [[名相词典/Français/Bodhisattva Asaṅga|bodhisattva Asaṅga]] répondi
 **§76**
 
 **中文**
-他听了便舍[[名相词典/中文/小乘|小乘]]转入[[名相词典/中文/大乘|大乘]]教，跟著他的长兄广学唯识，回消息昂达，弘扬[[名相词典/中文/大乘|大乘]]法门。传记上说，[[名相词典/中文/天亲菩萨|天亲菩萨]]当时[[名相词典/中文/回小向大|回小向大]]，惊动了举国上下，套一句话说，是「轰动武林，惊动万教。」他那时候在[[名相词典/中文/小乘|小乘]]的地位相当高，他所著作的《俱舍论》，新日王还把它铸在铜片上，用象车抬出来在印度游行，哪一个人能够破它一字，立即重赏！没有人能够破其中任一个字，六百零四个偈颂，一个字也没有人敢动。
+他聽了便舍[[名相词典/中文/小乘|小乘]]轉入[[名相词典/中文/大乘|大乘]]教，跟著他的長兄廣學唯識，回消息昂達，弘揚[[名相词典/中文/大乘|大乘]]法門。傳記上說，[[名相词典/中文/天亲菩萨|天親菩薩]]當時[[名相词典/中文/回小向大|回小向大]]，驚動了舉國上下，套一句話說，是「轟動武林，驚動萬教。」他那時候在[[名相词典/中文/小乘|小乘]]的地位相當高，他所著作的《俱舍論》，新日王還把它鑄在銅片上，用象車抬出來在印度遊行，哪一個人能夠破它一字，立即重賞！沒有人能夠破其中任一個字，六百零四個偈頌，一個字也沒有人敢動。
 
 **English**
 Having heard this, he abandoned the [[名相词典/English/Lesser Vehicle|Lesser Vehicle]] and turned to the Great-Vehicle teaching, studying Consciousness-Only extensively under his elder brother, and from then on flourished, spreading and propagating the teaching-gate of the [[名相词典/English/Great Vehicle|Great Vehicle]]. The biography says that when [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] "turned from the Lesser toward the Great" at that time, it startled the whole country, high and low — to borrow a phrase, it "shook the martial world and astonished the ten thousand schools." At that time his standing in the [[名相词典/English/Lesser Vehicle|Lesser Vehicle]] was quite high: as for his composition the *Abhidharmakośa*, King Vikramāditya had it cast onto copper plates, borne out on an elephant-drawn carriage and paraded through India, [proclaiming] that whoever could refute even a single word of it would be immediately richly rewarded! No one could refute even a single word — of the six hundred and four verses, no one dared to alter a single character.
@@ -377,7 +377,7 @@ Nghe xong, Ngài liền bỏ [[名相词典/TiếngViệt/Tiểu thừa|Tiểu t
 **§77**
 
 **中文**
-[[名相词典/中文/天亲菩萨|天亲菩萨]]深受国王、有部、[[名相词典/中文/经部|经部]]论师的尊重是这种境界，结果他[[名相词典/中文/回小向大|回小向大]]，因此造成了影响，也有很多跟他一样[[名相词典/中文/回小向大|回小向大]]；有些人善根不够就离开他。从此他就开始弘扬[[名相词典/中文/大乘|大乘]]唯识法门。所以在[[名相词典/中文/大乘|大乘]]佛教中，以「[[名相词典/中文/弥勒菩萨|弥勒菩萨]]」为[[名相词典/中文/唯识宗|唯识宗]]初祖，「[[名相词典/中文/无著菩萨|无著菩萨]]」是二祖，「[[名相词典/中文/天亲菩萨|天亲菩萨]]」是三祖。这是讲他[[名相词典/中文/回小向大|回小向大]]的情况，看第三段。
+[[名相词典/中文/天亲菩萨|天親菩薩]]深受國王、有部、[[名相词典/中文/经部|經部]]論師的尊重是這種境界，結果他[[名相词典/中文/回小向大|回小向大]]，因此造成了影響，也有很多跟他一樣[[名相词典/中文/回小向大|回小向大]]；有些人善根不夠就離開他。從此他就開始弘揚[[名相词典/中文/大乘|大乘]]唯識法門。所以在[[名相词典/中文/大乘|大乘]]佛教中，以「[[名相词典/中文/弥勒菩萨|彌勒菩薩]]」為[[名相词典/中文/唯识宗|唯識宗]]初祖，「[[名相词典/中文/无著菩萨|無著菩薩]]」是二祖，「[[名相词典/中文/天亲菩萨|天親菩薩]]」是三祖。這是講他[[名相词典/中文/回小向大|回小向大]]的情況，看第三段。
 
 **English**
 Such was the degree to which [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] was revered by the king and by the treatise-masters of both the Sarvāstivāda and the Sautrāntika. As a result, when he "turned from the Lesser toward the Great," this had a great influence: many, like him, also turned from the Lesser toward the Great; while some, whose wholesome roots were insufficient, left him. From then on he began to propagate the teaching-gate of Mahāyāna Consciousness-Only. Therefore, in Mahāyāna Buddhism, "[[名相词典/English/Bodhisattva Maitreya|Bodhisattva Maitreya]]" is taken as the first patriarch of the [[名相词典/English/Consciousness-Only school|Consciousness-Only school]], "[[名相词典/English/Bodhisattva Asaṅga|Bodhisattva Asaṅga]]" as the second patriarch, and "[[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]]" as the third patriarch. This describes the circumstances of his [[名相词典/English/turning from the Lesser toward the Great|turning from the Lesser toward the Great]]; now let us look at the third section.
@@ -393,7 +393,7 @@ Tel était le degré auquel le [[名相词典/Français/Bodhisattva Vasubandhu|b
 **§78**
 
 **中文**
-「其中因感《[[名相词典/中文/瑜伽师地论|瑜伽师地论]]》文繁义广，乃于『[[名相词典/中文/本地分|本地分]]』中，略录百法名数，是名《百法明门论》。」前面第二段，主要是说明[[名相词典/中文/天亲菩萨|天亲菩萨]][[名相词典/中文/回小向大|回小向大]]的[[名相词典/中文/因缘|因缘]]；这一段是说明他造本论的[[名相词典/中文/因缘|因缘]]。当[[名相词典/中文/天亲菩萨|天亲菩萨]]看了《[[名相词典/中文/瑜伽师地论|瑜伽师地论]]》之后，觉得文义实在很圆满。《[[名相词典/中文/瑜伽师地论|瑜伽师地论]]》最重要的是第一分「[[名相词典/中文/本地分|本地分]]」，全书五分中，最重要的就是「[[名相词典/中文/本地分|本地分]]」。
+「其中因感《[[名相词典/中文/瑜伽师地论|瑜伽師地論]]》文繁義廣，乃於『[[名相词典/中文/本地分|本地分]]』中，略錄百法名數，是名《百法明門論》。」前面第二段，主要是說明[[名相词典/中文/天亲菩萨|天親菩薩]][[名相词典/中文/回小向大|回小向大]]的[[名相词典/中文/因缘|因緣]]；這一段是說明他造本論的[[名相词典/中文/因缘|因緣]]。當[[名相词典/中文/天亲菩萨|天親菩薩]]看了《[[名相词典/中文/瑜伽师地论|瑜伽師地論]]》之後，覺得文義實在很圓滿。《[[名相词典/中文/瑜伽师地论|瑜伽師地論]]》最重要的是第一分「[[名相词典/中文/本地分|本地分]]」，全書五分中，最重要的就是「[[名相词典/中文/本地分|本地分]]」。
 
 **English**
 "Among his works, because he felt that the *Yogācārabhūmi-śāstra* was voluminous in text and vast in meaning, he made, within its '[[名相词典/English/Chapter on the Fundamental Stage|Chapter on the Fundamental Stage]]' (*Maulī-bhūmi*), a concise record of the names and enumeration of the Hundred Dharmas — and this is the *Treatise on the Hundred Dharmas*." The preceding second section chiefly explained the circumstances of [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]]'s [[名相词典/English/turning from the Lesser toward the Great|turning from the Lesser toward the Great]]; this section explains the circumstances of his composing the present treatise. After [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] had read the *Yogācārabhūmi-śāstra*, he felt that its text and meaning were truly complete and perfect. The most important part of the *Yogācārabhūmi-śāstra* is the first part, the "[[名相词典/English/Chapter on the Fundamental Stage|Chapter on the Fundamental Stage]]"; of the five parts of the whole work, the most important is precisely the "[[名相词典/English/Chapter on the Fundamental Stage|Chapter on the Fundamental Stage]]."
@@ -409,7 +409,7 @@ Tel était le degré auquel le [[名相词典/Français/Bodhisattva Vasubandhu|b
 **§79**
 
 **中文**
-「[[名相词典/中文/本地分|本地分]]」开出有十七地，从我们[[名相词典/中文/凡夫|凡夫]][[名相词典/中文/散乱|散乱]]心的境界——五识身相应地、意地，到有寻有伺地、有寻无伺地、无寻无伺地[[名相词典/中文/禅定|禅定]]的境界，乃至于[[名相词典/中文/圣人|圣人]]的境界——[[名相词典/中文/小乘|小乘]]的[[名相词典/中文/圣人|圣人]]、[[名相词典/中文/大乘|大乘]]的[[名相词典/中文/圣人|圣人]]，众生五性根机，无一法不摄，可以说将[[名相词典/中文/十法界|十法界]]的差别境界都列出来，最后还是会归到「[[名相词典/中文/万法唯识|万法唯识]]」。那为什么有这样的差别相呢？完全是从我们内心去安立了。看你的[[名相词典/中文/心识|心识]]到什么境界，所变现的[[名相词典/中文/果报|果报]]就是什么境界！
+「[[名相词典/中文/本地分|本地分]]」開出有十七地，從我們[[名相词典/中文/凡夫|凡夫]][[名相词典/中文/散乱|散亂]]心的境界——五識身相應地、意地，到有尋有伺地、有尋無伺地、無尋無伺地[[名相词典/中文/禅定|禪定]]的境界，乃至於[[名相词典/中文/圣人|聖人]]的境界——[[名相词典/中文/小乘|小乘]]的[[名相词典/中文/圣人|聖人]]、[[名相词典/中文/大乘|大乘]]的[[名相词典/中文/圣人|聖人]]，眾生五性根機，無一法不攝，可以說將[[名相词典/中文/十法界|十法界]]的差別境界都列出來，最後還是會歸到「[[名相词典/中文/万法唯识|萬法唯識]]」。那為什麼有這樣的差別相呢？完全是從我們內心去安立了。看你的[[名相词典/中文/心识|心識]]到什麼境界，所變現的[[名相词典/中文/果报|果報]]就是什麼境界！
 
 **English**
 The "[[名相词典/English/Chapter on the Fundamental Stage|Chapter on the Fundamental Stage]]" sets forth seventeen grounds (*bhūmi*): from the states of our ordinary, scattered mind — the "ground associated with the five sense-consciousnesses" and the "ground of mind (mano)" — through the meditative states of the "ground with both applied and sustained thought (*savitarka-savicāra*)," the "ground with applied but no sustained thought," and the "ground with neither applied nor sustained thought," and even up to the states of the noble ones — the sages of the [[名相词典/English/Lesser Vehicle|Lesser Vehicle]] and the sages of the [[名相词典/English/Great Vehicle|Great Vehicle]]. The five natures and capacities of sentient beings — not a single dharma is left uncovered. One may say it lays out the differentiated states of all [[名相词典/English/ten dharma-realms|ten dharma-realms]], and in the end it still returns and converges upon "the myriad dharmas being consciousness-only." So why are there such differentiated appearances? They are entirely established from within our own mind. Whatever state your [[名相词典/English/mind-consciousness|mind-consciousness]] reaches, the [[名相词典/English/karmic result|karmic result]] it manifests will be that very state!
@@ -425,7 +425,7 @@ Le « [[名相词典/Français/Chapitre de la Terre fondamentale|Chapitre de la 
 **§80**
 
 **中文**
-《[[名相词典/中文/瑜伽师地论|瑜伽师地论]]》把每一法都会归到「[[名相词典/中文/万法唯识|万法唯识]]」，书中解释得很清楚——[[名相词典/中文/大梵天|大梵天]]是怎么、怎么回事……欲界天的天人，他的长相是怎么样、生得多高、吃什么东西……他为什么会这样？哦！原来在因地的时候，是培养什么样的心理状态：喜欢布施、持戒……因为他的[[名相词典/中文/心识|心识]]不同，就变现出各自不同的[[名相词典/中文/果报|果报]]。从[[名相词典/中文/凡夫|凡夫]]的[[名相词典/中文/散乱|散乱]]心到[[名相词典/中文/禅定|禅定]]心、到[[名相词典/中文/无漏|无漏]]心、乃至于成佛，分成十七个阶层，详细且广泛的说明。这部论共有一百卷。
+《[[名相词典/中文/瑜伽师地论|瑜伽師地論]]》把每一法都會歸到「[[名相词典/中文/万法唯识|萬法唯識]]」，書中解釋得很清楚——[[名相词典/中文/大梵天|大梵天]]是怎麼、怎麼回事……欲界天的天人，他的長相是怎麼樣、生得多高、吃什麼東西……他為什麼會這樣？哦！原來在因地的時候，是培養什麼樣的心理狀態：喜歡布施、持戒……因為他的[[名相词典/中文/心识|心識]]不同，就變現出各自不同的[[名相词典/中文/果报|果報]]。從[[名相词典/中文/凡夫|凡夫]]的[[名相词典/中文/散乱|散亂]]心到[[名相词典/中文/禅定|禪定]]心、到[[名相词典/中文/无漏|無漏]]心、乃至於成佛，分成十七個階層，詳細且廣泛的說明。這部論共有一百卷。
 
 **English**
 The *Yogācārabhūmi-śāstra* refers every single dharma back to "the myriad dharmas being consciousness-only," and the text explains it very clearly — how [[名相词典/English/Mahābrahmā|Mahābrahmā]] is thus and so… how the devas of the desire-realm heavens look, how tall they grow, what they eat… Why are they so? Ah! It turns out that on the causal ground, it was a matter of what kind of mental state they cultivated — a fondness for giving (*dāna*), for keeping the precepts (*śīla*)… Because their [[名相词典/English/mind-consciousness|mind-consciousness]] differs, each manifests its own distinct [[名相词典/English/karmic result|karmic result]]. From the scattered mind of ordinary beings, to the mind of [[名相词典/English/meditative concentration|meditative concentration]], to the pure mind (*anāsrava*), and even up to Buddhahood — it is divided into seventeen levels, explained in detail and at length. This treatise comprises one hundred fascicles in all.
@@ -441,7 +441,7 @@ Le *Yogācārabhūmi-śāstra* ramène chaque dharma à « [[名相词典/Franç
 **§81**
 
 **中文**
-不过，虽然解释得很详细，『文繁义广』，文字太多、义理也太深了，因此[[名相词典/中文/天亲菩萨|天亲菩萨]]就从『[[名相词典/中文/本地分|本地分]]』六百六十法的名数中，摘要录出一百种法，安立作《百法明门论》；所以《百法明门论》可以说是「[[名相词典/中文/本地分|本地分]]」的一个略说。
+不過，雖然解釋得很詳細，『文繁義廣』，文字太多、義理也太深了，因此[[名相词典/中文/天亲菩萨|天親菩薩]]就從『[[名相词典/中文/本地分|本地分]]』六百六十法的名數中，摘要錄出一百種法，安立作《百法明門論》；所以《百法明門論》可以說是「[[名相词典/中文/本地分|本地分]]」的一個略說。
 
 **English**
 However, although it explains things in great detail, it is "voluminous in text and vast in meaning" — the words are too many and the doctrine too profound. Therefore [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]], from among the names and enumeration of the six hundred and sixty dharmas of the "[[名相词典/English/Chapter on the Fundamental Stage|Chapter on the Fundamental Stage]]," extracted and recorded in summary one hundred kinds of dharmas, establishing them as the *Treatise on the Hundred Dharmas*. So the *Treatise on the Hundred Dharmas* may be said to be a concise summary of the "[[名相词典/English/Chapter on the Fundamental Stage|Chapter on the Fundamental Stage]]."
@@ -457,7 +457,7 @@ Tuy nhiên, dù giải thích rất tường tận, “văn phồn nghĩa quản
 **§82**
 
 **中文**
-以上是介绍[[名相词典/中文/天亲菩萨|天亲菩萨]]的历史，从他最初信仰[[名相词典/中文/婆罗门教|婆罗门教]]，到最后[[名相词典/中文/皈依|皈依]]佛教、[[名相词典/中文/皈依|皈依]][[名相词典/中文/小乘|小乘]]部派佛教，乃至[[名相词典/中文/回小向大|回小向大]]、造论的整个[[名相词典/中文/因缘|因缘]]。
+以上是介紹[[名相词典/中文/天亲菩萨|天親菩薩]]的歷史，從他最初信仰[[名相词典/中文/婆罗门教|婆羅門教]]，到最後[[名相词典/中文/皈依|皈依]]佛教、[[名相词典/中文/皈依|皈依]][[名相词典/中文/小乘|小乘]]部派佛教，乃至[[名相词典/中文/回小向大|回小向大]]、造論的整個[[名相词典/中文/因缘|因緣]]。
 
 **English**
 The above has introduced the history of [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] — the whole train of conditions from his initial [[名相词典/English/faith|faith]] in [[名相词典/English/Brahmanism|Brahmanism]], to his eventual [[名相词典/English/taking refuge|taking refuge]] in Buddhism and in Lesser-Vehicle sectarian Buddhism, and even to his [[名相词典/English/turning from the Lesser toward the Great|turning from the Lesser toward the Great]] and his composing of treatises.
@@ -473,7 +473,7 @@ Trên đây là giới thiệu lịch sử của [[名相词典/TiếngViệt/B�
 **§83**
 
 **中文**
-[[名相词典/中文/天亲菩萨|天亲菩萨]]造的论典很多，一生当中造了五百部[[名相词典/中文/小乘|小乘]]论典、五百部的[[名相词典/中文/大乘|大乘]]论典，世人尊称「千部论师」，总共造了一千部论。我们看了他的著作有一种感觉：不论是[[名相词典/中文/小乘|小乘]]的《俱舍论》，[[名相词典/中文/大乘|大乘]]的《百法明门论》、《唯识二十颂》、《[[名相词典/中文/唯识三十颂|唯识三十颂]]》，他的论典有一个特色——「文简义赅」：文字很简要、义理很深妙。《唯识二十颂》、《[[名相词典/中文/唯识三十颂|唯识三十颂]]》都是如此——「文简义赅，词约理富。」在佛教史上占有非常重要的地位。
+[[名相词典/中文/天亲菩萨|天親菩薩]]造的論典很多，一生當中造了五百部[[名相词典/中文/小乘|小乘]]論典、五百部的[[名相词典/中文/大乘|大乘]]論典，世人尊稱「千部論師」，總共造了一千部論。我們看了他的著作有一種感覺：不論是[[名相词典/中文/小乘|小乘]]的《俱舍論》，[[名相词典/中文/大乘|大乘]]的《百法明門論》、《唯識二十頌》、《[[名相词典/中文/唯识三十颂|唯識三十頌]]》，他的論典有一個特色——「文簡義賅」：文字很簡要、義理很深妙。《唯識二十頌》、《[[名相词典/中文/唯识三十颂|唯識三十頌]]》都是如此——「文簡義賅，詞約理富。」在佛教史上佔有非常重要的地位。
 
 **English**
 [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] composed a great many treatises: in the course of his life he composed five hundred Lesser-Vehicle treatises and five hundred Great-Vehicle treatises. People honored him with the title "Master of a Thousand Treatises," for he composed a thousand treatises in all. Reading his works, one gets a certain impression: whether it be the Lesser-Vehicle *Abhidharmakośa*, or the Great-Vehicle *Treatise on the Hundred Dharmas*, the *Twenty Verses on Consciousness-Only* (*Viṃśatikā*), or the *[[名相词典/English/Thirty Verses on Consciousness-Only|Thirty Verses on Consciousness-Only]]* (*Triṃśikā*), his treatises have one distinctive feature — "concise in text yet complete in meaning": the words are very succinct, while the doctrine is very profound and subtle. The *Twenty Verses* and the *Thirty Verses* are both like this — "concise in text yet complete in meaning, sparing in words yet rich in principle." They occupy a very important place in the history of Buddhism.
@@ -491,7 +491,7 @@ Le [[名相词典/Français/Bodhisattva Vasubandhu|bodhisattva Vasubandhu]] comp
 **§84**
 
 **中文**
-本科「解释题目」——「标题」总持一部论的要义，我们根据传统的讲法，必须先解释这部论的题目。《[[名相词典/中文/大乘百法明门论|大乘百法明门论]]》总共有七个字，前面的六个字是「别题」，最后的「论」字是「通题」。首先解释「别题」，别题分成「总相」跟「别相」：「[[名相词典/中文/大乘|大乘]]」是总相，「百法」及「明」是别相。
+本科「解釋題目」——「標題」總持一部論的要義，我們根據傳統的講法，必須先解釋這部論的題目。《[[名相词典/中文/大乘百法明门论|大乘百法明門論]]》總共有七個字，前面的六個字是「別題」，最後的「論」字是「通題」。首先解釋「別題」，別題分成「總相」跟「別相」：「[[名相词典/中文/大乘|大乘]]」是總相，「百法」及「明」是別相。
 
 **English**
 This topic, "Explaining the Title": the "title" holds together, in summary, the essential meaning of the whole treatise; following the traditional manner of exposition, we must first explain the title of this treatise. The title *Dà-shèng Bǎi-fǎ Míng-mén Lùn* (*Treatise on the Hundred Dharmas, the Gate of Clarity, of the [[名相词典/English/Great Vehicle|Great Vehicle]]*) has seven characters in all: the first six are the "specific title," and the final character "Lùn" (treatise, *śāstra*) is the "general title." First we explain the "specific title," which divides into a "general aspect" and a "specific aspect": "[[名相词典/English/Great Vehicle|Great Vehicle]]" (Mahāyāna) is the general aspect, while "Hundred Dharmas" and "Clarity" are the specific aspect.
@@ -507,7 +507,7 @@ Khoa mục này “Giải thích đề mục” — “tiêu đề” tổng tr�
 **§85**
 
 **中文**
-先看「[[名相词典/中文/大乘|大乘]]」，先解释『乘』这个字。「乘」是指「车乘」，车乘有运载的功能。意思是说：如果我们的内心，能够不断地在佛法中[[名相词典/中文/熏习|熏习]]——闻、思、修，从听闻之后，进入如理思惟，然后再「法随法行、如说修行」，这样有什么好处呢？「法」就能够产生一种「运载」的力量，把我们这一念杂染的心，运载到清净的境界去。法有这样的能力，这是不共于[[名相词典/中文/外道|外道]]、[[名相词典/中文/凡夫|凡夫]]的。
+先看「[[名相词典/中文/大乘|大乘]]」，先解釋『乘』這個字。「乘」是指「車乘」，車乘有運載的功能。意思是說：如果我們的內心，能夠不斷地在佛法中[[名相词典/中文/熏习|熏習]]——聞、思、修，從聽聞之後，進入如理思惟，然後再「法隨法行、如說修行」，這樣有什麼好處呢？「法」就能夠產生一種「運載」的力量，把我們這一念雜染的心，運載到清淨的境界去。法有這樣的能力，這是不共於[[名相词典/中文/外道|外道]]、[[名相词典/中文/凡夫|凡夫]]的。
 
 **English**
 First let us look at "[[名相词典/English/Great Vehicle|Great Vehicle]]," and first explain the word "vehicle" (*yāna*). "Vehicle" refers to a "carriage": a carriage has the function of conveying and carrying. The meaning is this: if our mind is able to perfume itself unceasingly in the Buddha-dharma — through hearing, reflection, and cultivation (*śruta, cintā, bhāvanā*) — first hearing, then entering into reasoned reflection, and then "practicing the Dharma in accord with the Dharma, cultivating just as taught," what benefit does this bring? The "Dharma" is then able to generate a kind of "conveying" power, carrying this defiled thought-moment of our mind across to a pure state. That the Dharma has such capacity is something not shared with the non-Buddhists or with ordinary beings.
@@ -523,7 +523,7 @@ Trước xem “[[名相词典/TiếngViệt/Đại thừa|Đại thừa]]”, t
 **§86**
 
 **中文**
-好比你研究土木工程、机械工程及一些世间法，研究了很久，就可以依止这样的学问，获得一些个人财富。但是你说研究这些学问，能够把我们这样杂染的心转变成清净心，这是不可能的事。有许多博士、硕士，都是[[名相词典/中文/烦恼|烦恼]]很重的人，因为世间的学问没有「乘」，没有到达彼岸的力量，这就是佛法不共于世间法的地方。那么「乘」的前面加『大』字，主要拣别它不是「[[名相词典/中文/小乘|小乘]]」，是一个大车子。[[名相词典/中文/大乘|大乘]]佛法为什么叫「大」呢？清凉国师明确提出了四个意义。
+好比你研究土木工程、機械工程及一些世間法，研究了很久，就可以依止這樣的學問，獲得一些個人財富。但是你說研究這些學問，能夠把我們這樣雜染的心轉變成清淨心，這是不可能的事。有許多博士、碩士，都是[[名相词典/中文/烦恼|煩惱]]很重的人，因為世間的學問沒有「乘」，沒有到達彼岸的力量，這就是佛法不共於世間法的地方。那麼「乘」的前面加『大』字，主要揀別它不是「[[名相词典/中文/小乘|小乘]]」，是一個大車子。[[名相词典/中文/大乘|大乘]]佛法為什麼叫「大」呢？清涼國師明確提出了四個意義。
 
 **English**
 For example, if you study civil engineering, mechanical engineering, or various worldly subjects, after studying for a long time you can rely on such learning to obtain some personal wealth. But if you were to say that studying these subjects could transform our defiled mind into a pure mind — that is impossible. There are many holders of doctorates and master's degrees who are people of very heavy passions, because worldly learning has no "vehicle," no power to reach the other shore. This is precisely where the Buddha-dharma is not shared with worldly teachings. Now, adding the word "Great" before "Vehicle" chiefly distinguishes it as not the "[[名相词典/English/Lesser Vehicle|Lesser Vehicle]]," but a great carriage. Why is Mahāyāna Buddhism called "Great"? The National Preceptor Qingliang (Chengguan) clearly set forth four meanings.
@@ -539,7 +539,7 @@ Ví như ngươi nghiên cứu công trình xây dựng, công trình cơ khí v
 **§87**
 
 **中文**
-第一、愿心大——「求无上[[名相词典/中文/菩提|菩提]]故」。为什么叫「愿心大」呢？我们的[[名相词典/中文/大乘|大乘]]佛法，一开始就是要你发[[名相词典/中文/菩提心|菩提心]]、要你成就无上[[名相词典/中文/菩提|菩提]]。「丈夫自有冲天志，不成佛道誓不休。」不像[[名相词典/中文/小乘|小乘]]教法的发心，只是希望成就[[名相词典/中文/阿罗汉|阿罗汉]]果，这样的愿力不够大。[[名相词典/中文/大乘|大乘]]佛法愿心大，所以一开始在[[名相词典/中文/凡夫|凡夫]]地，就要发愿成就无上[[名相词典/中文/菩提|菩提]]。
+第一、願心大——「求無上[[名相词典/中文/菩提|菩提]]故」。為什麼叫「願心大」呢？我們的[[名相词典/中文/大乘|大乘]]佛法，一開始就是要你發[[名相词典/中文/菩提心|菩提心]]、要你成就無上[[名相词典/中文/菩提|菩提]]。「丈夫自有沖天志，不成佛道誓不休。」不像[[名相词典/中文/小乘|小乘]]教法的發心，只是希望成就[[名相词典/中文/阿罗汉|阿羅漢]]果，這樣的願力不夠大。[[名相词典/中文/大乘|大乘]]佛法願心大，所以一開始在[[名相词典/中文/凡夫|凡夫]]地，就要發願成就無上[[名相词典/中文/菩提|菩提]]。
 
 **English**
 First, the vow-mind is great — "because it seeks unsurpassed [[名相词典/English/enlightenment|enlightenment]] (*anuttarā bodhi*)." Why is it called "the vow-mind is great"? Our Mahāyāna Buddhism, from the very start, requires you to give rise to the [[名相词典/English/thought of enlightenment|thought of enlightenment]] (*bodhicitta*) and to accomplish unsurpassed [[名相词典/English/enlightenment|enlightenment]]. "A true man has his own sky-piercing resolve: until he attains the Buddha-way, he vows not to rest." This is unlike the aspiration of the Lesser-Vehicle teaching, which only hopes to accomplish the fruit of arhatship — such vow-power is not great enough. In Mahāyāna Buddhism the vow-mind is great, so from the very start, on the ground of an [[名相词典/English/ordinary being|ordinary being]], one must vow to accomplish unsurpassed [[名相词典/English/enlightenment|enlightenment]].
@@ -555,7 +555,7 @@ Thứ nhất, nguyện tâm đại — “vì cầu Vô thượng [[名相词典
 **§88**
 
 **中文**
-第二、修行大——「二利成就故」。为什么叫「修行大」呢？[[名相词典/中文/小乘|小乘]]佛教唯求解脱[[名相词典/中文/生死|生死]]，所以选择远离人群自己用功，修学四念处：观身不净、观受是苦、观心无常、观[[名相词典/中文/法无我|法无我]]。他这一念心，从早到晚，只是念念观察自己当下的身心，别人怎么样跟他没什么太大的关系；他的所缘境就在「身、受、心、法」这四个处所，众生还在苦恼的境界中颠倒、造业，跟他没关系，完全是在「自利」的功德上用功。
+第二、修行大——「二利成就故」。為什麼叫「修行大」呢？[[名相词典/中文/小乘|小乘]]佛教唯求解脫[[名相词典/中文/生死|生死]]，所以選擇遠離人群自己用功，修學四念處：觀身不淨、觀受是苦、觀心無常、觀[[名相词典/中文/法无我|法無我]]。他這一念心，從早到晚，只是念念觀察自己當下的身心，別人怎麼樣跟他沒什麼太大的關係；他的所緣境就在「身、受、心、法」這四個處所，眾生還在苦惱的境界中顛倒、造業，跟他沒關係，完全是在「自利」的功德上用功。
 
 **English**
 Second, the practice is great — "because it accomplishes the two benefits [of self and others]." Why is it called "the practice is great"? Lesser-Vehicle Buddhism seeks only liberation from [[名相词典/English/birth and death|birth and death]], and so it chooses to withdraw from the crowd and apply effort by oneself, cultivating the Four Foundations of Mindfulness (*catvāri smṛtyupasthānāni*): contemplating the body as unattractive (*aśubha*), contemplating feelings as suffering, contemplating the mind as impermanent, and contemplating dharmas as without self. From morning to night, this mind of his merely contemplates, thought after thought, his own present body-and-mind; how others fare has little to do with him. His object of contemplation lies just in these four bases — "body, feeling, mind, and dharmas." Sentient beings are still in states of [[名相词典/English/passions|passions]], deluded and creating karma, but that has nothing to do with him; he applies effort entirely upon the merit of "benefiting oneself."
@@ -571,7 +571,7 @@ Thứ hai, tu hành đại — “vì thành tựu nhị lợi [tự lợi và l
 **§89**
 
 **中文**
-[[名相词典/中文/大乘|大乘]]佛法就不一样，[[名相词典/中文/大乘|大乘]]强调「慈悲心」，要求你一方面要自利，一方面也要拨一些时间来关心众生，必须要自、他二利成就；所以你也要走出佛堂，把你所觉悟的法门、这样的光明智慧流传下去。所以[[名相词典/中文/大乘|大乘]]的「修行大」，这种修行功德太大了——是成就「自、他」一切功德，二利成就，叫做「大」。
+[[名相词典/中文/大乘|大乘]]佛法就不一樣，[[名相词典/中文/大乘|大乘]]強調「慈悲心」，要求你一方面要自利，一方面也要撥一些時間來關心眾生，必須要自、他二利成就；所以你也要走出佛堂，把你所覺悟的法門、這樣的光明智慧流傳下去。所以[[名相词典/中文/大乘|大乘]]的「修行大」，這種修行功德太大了——是成就「自、他」一切功德，二利成就，叫做「大」。
 
 **English**
 Mahāyāna Buddhism is different: the [[名相词典/English/Great Vehicle|Great Vehicle]] emphasizes the "mind of loving-kindness and compassion" (*karuṇā*), requiring you, on the one hand, to benefit yourself, and on the other hand, to set aside some time to care for sentient beings — you must accomplish the two benefits of self and others. So you must also walk out of the Buddha-hall and pass on the teaching-gate you have awakened to, this luminous wisdom. Thus the [[名相词典/English/Great Vehicle|Great Vehicle]]'s "practice is great": the merit of such practice is immense — it accomplishes all the merits of both "self and others"; accomplishing the two benefits is what is called "great."
@@ -587,7 +587,7 @@ Phật pháp [[名相词典/TiếngViệt/Đại thừa|Đại thừa]] thì kh�
 **§90**
 
 **中文**
-第三、时间大——「尽未来际故」。[[名相词典/中文/小乘|小乘]]的修行，一般来说，利根人「四生」就可以成就：第一生出家栽培善根，结果没有成就[[名相词典/中文/阿罗汉|阿罗汉]]，死了；第二生又继续出家；第三生又继续出家；第四生出家，就证得[[名相词典/中文/阿罗汉|阿罗汉]]——利根人四生成就[[名相词典/中文/阿罗汉|阿罗汉]]。在成就[[名相词典/中文/阿罗汉|阿罗汉]]入[[名相词典/中文/涅槃|涅槃]]之前，要是你遇到[[名相词典/中文/小乘|小乘]]的行者，你想向他请示佛法，他也会告诉你；虽然说他不主动弘法，但是你有困难、向他请教佛法，他也会显[[名相词典/中文/神通|神通]]来帮助你。但是，当一个[[名相词典/中文/阿罗汉|阿罗汉]]进入[[名相词典/中文/涅槃|涅槃]]后，那是全面的休息，他在这个世界消失后就不出来了；无量无边的众生仍在[[名相词典/中文/生死|生死]]苦恼当中，他完全不管。
+第三、時間大——「盡未來際故」。[[名相词典/中文/小乘|小乘]]的修行，一般來說，利根人「四生」就可以成就：第一生出家栽培善根，結果沒有成就[[名相词典/中文/阿罗汉|阿羅漢]]，死了；第二生又繼續出家；第三生又繼續出家；第四生出家，就證得[[名相词典/中文/阿罗汉|阿羅漢]]——利根人四生成就[[名相词典/中文/阿罗汉|阿羅漢]]。在成就[[名相词典/中文/阿罗汉|阿羅漢]]入[[名相词典/中文/涅槃|涅槃]]之前，要是你遇到[[名相词典/中文/小乘|小乘]]的行者，你想向他請示佛法，他也會告訴你；雖然說他不主動弘法，但是你有困難、向他請教佛法，他也會顯[[名相词典/中文/神通|神通]]來幫助你。但是，當一個[[名相词典/中文/阿罗汉|阿羅漢]]進入[[名相词典/中文/涅槃|涅槃]]後，那是全面的休息，他在這個世界消失後就不出來了；無量無邊的眾生仍在[[名相词典/中文/生死|生死]]苦惱當中，他完全不管。
 
 **English**
 Third, the time-span is great — "because it extends to the very end of the future." In Lesser-Vehicle practice, generally speaking, a person of sharp faculties can accomplish the goal in "four lifetimes": in the first life he goes forth and cultivates wholesome roots, but dies without attaining arhatship; in the second life he again continues to go forth; in the third life he again continues to go forth; in the fourth life he goes forth and realizes arhatship — a person of sharp faculties accomplishes arhatship in four lives. Before an [[名相词典/English/arhat|arhat]] attains and enters [[名相词典/English/nirvāṇa|nirvāṇa]], if you should meet a Lesser-Vehicle practitioner and wish to consult him on the Buddha-dharma, he will tell you; although he does not actively propagate the Dharma, if you have difficulties and seek his instruction on the Dharma, he will even display [[名相词典/English/spiritual powers|spiritual powers]] to help you. But once an [[名相词典/English/arhat|arhat]] has entered [[名相词典/English/nirvāṇa|nirvāṇa]], that is a total rest: after he vanishes from this world he does not come out again; the immeasurable, boundless sentient beings still amid the sufferings of [[名相词典/English/birth and death|birth and death]] — he pays them no heed at all.
@@ -603,7 +603,7 @@ Thứ ba, thời gian đại — “vì tận vị lai tế.” Sự tu hành c�
 **§91**
 
 **中文**
-「菩萨」就不是这样的态度，菩萨是尽未来际——「众生无边誓愿度」。菩萨自己跳出三界，由于他的大悲心，令他不住[[名相词典/中文/生死|生死]]、也不住[[名相词典/中文/涅槃|涅槃]]。他看到众生在三界里受苦，就像火宅一样，烧得很厉害；菩萨跳出来之后，为了利益众生，又跳回去。当然，这不是[[名相词典/中文/业力|业力]]招感来的，是以愿力故，而在三界受生，生生世世再得「人身」，来度化众生。不然的话，你进入到[[名相词典/中文/涅槃|涅槃]]去，谁都无法跟你接触，怎么能够度化众生呢？
+「菩薩」就不是這樣的態度，菩薩是盡未來際——「眾生無邊誓願度」。菩薩自己跳出三界，由於他的大悲心，令他不住[[名相词典/中文/生死|生死]]、也不住[[名相词典/中文/涅槃|涅槃]]。他看到眾生在三界裡受苦，就像火宅一樣，燒得很厲害；菩薩跳出來之後，為了利益眾生，又跳回去。當然，這不是[[名相词典/中文/业力|業力]]招感來的，是以願力故，而在三界受生，生生世世再得「人身」，來度化眾生。不然的話，你進入到[[名相词典/中文/涅槃|涅槃]]去，誰都無法跟你接觸，怎麼能夠度化眾生呢？
 
 **English**
 The "bodhisattva" does not take such an attitude. The bodhisattva extends to the very end of the future — "Sentient beings are boundless; I vow to deliver them." The bodhisattva himself leaps out of the three realms, yet on account of his great compassion, he abides neither in [[名相词典/English/birth and death|birth and death]] nor in [[名相词典/English/nirvāṇa|nirvāṇa]]. Seeing sentient beings suffering within the three realms — just like a burning house, ablaze and fierce — the bodhisattva, after leaping out, leaps back in again for the benefit of beings. Of course, this is not brought on by the compelling force of karma; it is by the power of his vow that he takes birth in the three realms, life after life again obtaining a "human body," in order to deliver and transform sentient beings. Otherwise, if you were to enter into [[名相词典/English/nirvāṇa|nirvāṇa]], no one could make [[名相词典/English/contact|contact]] with you at all — how then could you deliver and transform sentient beings?
@@ -619,7 +619,7 @@ Le « bodhisattva » n'adopte pas une telle attitude. Le bodhisattva s'étend ju
 **§92**
 
 **中文**
-所以菩萨道是尽未来际，从[[名相词典/中文/凡夫|凡夫]]修到成佛，一方面修行、另一方面度众生；成佛之后是完全度众生，那就没有用功修行这件事了。总之，我们在因地修学，要做两件事，就是自利和利他的菩萨行；成佛之后完全是「利他」，因为「所作已办」应修的已经完全圆满。[[名相词典/中文/大乘|大乘]]菩萨是尽未来际无有休息、不到[[名相词典/中文/涅槃|涅槃]]休息之处——不住[[名相词典/中文/生死|生死]]、不住[[名相词典/中文/涅槃|涅槃]]，所以说菩萨的修学时间大。
+所以菩薩道是盡未來際，從[[名相词典/中文/凡夫|凡夫]]修到成佛，一方面修行、另一方面度眾生；成佛之後是完全度眾生，那就沒有用功修行這件事了。總之，我們在因地修學，要做兩件事，就是自利和利他的菩薩行；成佛之後完全是「利他」，因為「所作已辦」應修的已經完全圓滿。[[名相词典/中文/大乘|大乘]]菩薩是盡未來際無有休息、不到[[名相词典/中文/涅槃|涅槃]]休息之處——不住[[名相词典/中文/生死|生死]]、不住[[名相词典/中文/涅槃|涅槃]]，所以說菩薩的修學時間大。
 
 **English**
 Therefore the bodhisattva path extends to the very end of the future: from an [[名相词典/English/ordinary being|ordinary being]] cultivating until Buddhahood, on the one hand practicing, and on the other hand delivering sentient beings; after Buddhahood it is entirely a matter of delivering beings, and there is then no longer any such thing as applying effort in practice. In short, in our cultivation on the causal ground we must do two things — the bodhisattva conduct of benefiting oneself and benefiting others; after Buddhahood it is entirely "benefiting others," because "what was to be done has been done" and all that was to be cultivated is already completely perfected. The Mahāyāna bodhisattva extends to the very end of the future without rest, never reaching a resting-place in [[名相词典/English/nirvāṇa|nirvāṇa]] — abiding neither in [[名相词典/English/birth and death|birth and death]] nor in [[名相词典/English/nirvāṇa|nirvāṇa]]. This is why it is said that the bodhisattva's span of cultivation is great.
@@ -635,7 +635,7 @@ Cho nên Bồ-tát đạo là tận vị lai tế, từ [[名相词典/TiếngVi
 **§93**
 
 **中文**
-第四、[[功德]]大——「具足万德庄严故」。前面的「愿心、修行、时间」是约「因地」来说，这里是约「果地」来说。[[名相词典/中文/大乘|大乘]]菩萨，生生世世在众生的污泥中打滚，积功累德，具足了万德庄严，所以是「功德大」。关于[[名相词典/中文/大乘|大乘]]菩萨，《摄[[名相词典/中文/大乘|大乘]]论》就有讲到：菩萨还没有成就「初地」之前，资粮位到加行位的菩萨，虽然还没有证入法性，但是只要他投生到人间，就会转世做「国王」，或是到天上做「天王」。为什么？因为他的福报大。就是在他证入圣位之前，他到人间不是做[[名相词典/中文/转轮圣王|转轮圣王]]、就是做小国王，到天上就是做天王、释提桓因、[[名相词典/中文/大梵天|大梵天]]王……因为他在因地修行的时候，福慧双修，具足福德庄严。
+第四、[[功德]]大——「具足萬德莊嚴故」。前面的「願心、修行、時間」是約「因地」來說，這裡是約「果地」來說。[[名相词典/中文/大乘|大乘]]菩薩，生生世世在眾生的污泥中打滾，積功累德，具足了萬德莊嚴，所以是「功德大」。關於[[名相词典/中文/大乘|大乘]]菩薩，《攝[[名相词典/中文/大乘|大乘]]論》就有講到：菩薩還沒有成就「初地」之前，資糧位到加行位的菩薩，雖然還沒有證入法性，但是只要他投生到人間，就會轉世做「國王」，或是到天上做「天王」。為什麼？因為他的福報大。就是在他證入聖位之前，他到人間不是做[[名相词典/中文/转轮圣王|轉輪聖王]]、就是做小國王，到天上就是做天王、釋提桓因、[[名相词典/中文/大梵天|大梵天]]王……因為他在因地修行的時候，福慧雙修，具足福德莊嚴。
 
 **English**
 Fourth, the [[merit]] is great — "because it is fully endowed with the adornment of myriad virtues." The previous three — vow-mind, practice, and time-span — are spoken of with respect to the "causal ground"; this fourth is spoken of with respect to the "fruition ground." The Mahāyāna bodhisattva, life after life, rolls about in the mire of sentient beings, accumulating merit and virtue, and becomes fully endowed with the adornment of myriad virtues — hence the "merit is great." Concerning the Mahāyāna bodhisattva, the *Mahāyāna-saṃgraha* (*Compendium of the [[名相词典/English/Great Vehicle|Great Vehicle]]*) says: before a bodhisattva has accomplished the "first ground" (*bhūmi*), a bodhisattva at the stages of accumulation and of applied effort, though not yet having realized the dharma-nature, will — as long as he is reborn in the human world — be reborn as a "king," or in the heavens as a "heavenly king." Why? Because his merit-reward is great. That is, before he realizes the noble stage, in the human world he becomes either a [[名相词典/English/wheel-turning sage-king|wheel-turning sage-king]] (*cakravartin*) or a minor king, and in the heavens he becomes a heavenly king, Śakra (Śakra Devānām Indra), [[名相词典/English/Mahābrahmā|Mahābrahmā]]… because when he cultivated on the causal ground, he cultivated both merit and wisdom, and is fully endowed with the adornment of merit and virtue.
@@ -651,7 +651,7 @@ Thứ tư, công đức đại — “vì đầy đủ vạn đức trang nghiê
 **§94**
 
 **中文**
-这是说明为什么被称为「[[名相词典/中文/大乘|大乘]]」，因为「愿心大、修行大、时间大、功德大」，非[[名相词典/中文/小乘|小乘]]佛法所能比的。以上「总相」已略解完毕，接下来解释「别相」。[[名相词典/中文/大乘|大乘]]佛法，大体上可以分成两类：第一、『百法』是属于[[世俗谛]]；第二、『明』是属于[[真谛]]。
+這是說明為什麼被稱為「[[名相词典/中文/大乘|大乘]]」，因為「願心大、修行大、時間大、功德大」，非[[名相词典/中文/小乘|小乘]]佛法所能比的。以上「總相」已略解完畢，接下來解釋「別相」。[[名相词典/中文/大乘|大乘]]佛法，大體上可以分成兩類：第一、『百法』是屬於[[世俗諦]]；第二、『明』是屬於[[真諦]]。
 
 **English**
 This explains why it is called the "[[名相词典/English/Great Vehicle|Great Vehicle]]": because "the vow-mind is great, the practice is great, the time-span is great, and the merit is great" — beyond what Lesser-Vehicle Buddhism can compare with. The "general aspect" has now been briefly explained; next we explain the "specific aspect." Mahāyāna Buddhism can, broadly speaking, be divided into two categories: first, the "Hundred Dharmas," which belong to [[conventional truth]] (*saṃvṛti-satya*); second, "Clarity," which belongs to [[ultimate truth]] (*paramārtha-satya*).
@@ -667,7 +667,7 @@ Ceci explique pourquoi on l'appelle le « [[名相词典/Français/Grand Véhicu
 **§95**
 
 **中文**
-一、百法——「世俗谛」：[[名相词典/中文/大乘|大乘]]佛法的「世俗谛」，就是我们看到的[[名相词典/中文/因缘|因缘]][[名相词典/中文/果报|果报]]法，[[名相词典/中文/十法界|十法界]]的因果法则。为什么他会堕到[[名相词典/中文/三恶道|三恶道]]去呢？因为他内心有贪瞋痴的[[名相词典/中文/烦恼|烦恼]]；为什么他会投生到人间呢？因为他内心的善念比较强。所有世俗谛之法，[[名相词典/中文/因缘|因缘]][[名相词典/中文/业力|业力]]所变现的杂染法、清净法，都是属于「百法」，也就是宇宙万法。
+一、百法——「世俗諦」：[[名相词典/中文/大乘|大乘]]佛法的「世俗諦」，就是我們看到的[[名相词典/中文/因缘|因緣]][[名相词典/中文/果报|果報]]法，[[名相词典/中文/十法界|十法界]]的因果法則。為什麼他會墮到[[名相词典/中文/三恶道|三惡道]]去呢？因為他內心有貪瞋癡的[[名相词典/中文/烦恼|煩惱]]；為什麼他會投生到人間呢？因為他內心的善念比較強。所有世俗諦之法，[[名相词典/中文/因缘|因緣]][[名相词典/中文/业力|業力]]所變現的雜染法、清淨法，都是屬於「百法」，也就是宇宙萬法。
 
 **English**
 1. The Hundred Dharmas — "conventional truth": the "conventional truth" of Mahāyāna Buddhism is the dharma of causes, conditions, and their [[名相词典/English/karmic result|karmic result]] that we see, the law of cause and effect across the [[名相词典/English/ten dharma-realms|ten dharma-realms]]. Why does someone fall into the [[名相词典/English/three evil destinies|three evil destinies]]? Because within his mind there are the passions of [[名相词典/English/craving|craving]], [[名相词典/English/hatred|hatred]], and [[名相词典/English/delusion|delusion]] (*rāga, dveṣa, moha*). Why is someone reborn in the human world? Because the wholesome thoughts within his mind are relatively strong. All dharmas of conventional truth — the defiled dharmas and pure dharmas manifested by causes, conditions, and the force of karma — all belong to the "Hundred Dharmas," which is to say, the myriad dharmas of the universe.
@@ -683,7 +683,7 @@ Một, Bách pháp — “Tục đế”: “Tục đế” của Phật pháp [
 **§96**
 
 **中文**
-二、明——「真谛」：「明」是真谛理，也就是「我空、法空」的智慧。「明」是个譬喻，是光明的意思。好比我们在停电时走路，如果没有光明，可能会踩到毒蛇或其他众生，也可能掉落水沟里；眼睛看不到路，完全凭直觉，其实很危险。如果有光明那就不一样，哦！有什么东西放在这里、这地方又怎么样……我们可以很清楚地知道。
+二、明——「真諦」：「明」是真諦理，也就是「我空、法空」的智慧。「明」是個譬喻，是光明的意思。好比我們在停電時走路，如果沒有光明，可能會踩到毒蛇或其他眾生，也可能掉落水溝裡；眼睛看不到路，完全憑直覺，其實很危險。如果有光明那就不一樣，哦！有什麼東西放在這裡、這地方又怎麼樣……我們可以很清楚地知道。
 
 **English**
 2. Clarity — "ultimate truth": "Clarity" (*míng*) is the principle of ultimate truth, that is, the wisdom of "the [[名相词典/English/emptiness|emptiness]] of self and the [[名相词典/English/emptiness|emptiness]] of dharmas." "Clarity" is a metaphor, meaning brightness or light. It is like walking during a power outage: if there is no light, you might step on a poisonous snake or some other creature, or you might fall into a ditch; unable to see the road with your eyes, relying entirely on intuition, it is in fact very dangerous. If there is light, it is quite different — Ah! there is something placed here, and this spot is thus-and-so… we can know it very clearly.
@@ -699,7 +699,7 @@ Hai, Minh — “Chân đế”: “Minh” là lý chân đế, cũng chính l�
 **§97**
 
 **中文**
-那么「光明」是指什么呢？是说我们在三界流转当中，一下子在人间得[[名相词典/中文/果报|果报]]、下辈子到[[名相词典/中文/三恶道|三恶道]]去做一只狗，做狗之后又得到人身，可能变成一个女人；这个时候生命的变化，不管是外在的身相、内在的心念，生命不停地变化。因为男人和女人的心情一定不一样，男人有男人的心情、女人有女人的思想，这个身心产生那么大的变化，到底是谁在流转呢？你说流转六道直到现在，那流转的人是谁呢？事实上找不到一个「我」的相貌！所以佛法讲『无我』，没有一个真实存在的「我」在流转，只是一种「[[名相词典/中文/心识|心识]]」的流动而已！因为「[[名相词典/中文/心识|心识]]」[[名相词典/中文/刹那|刹那]][[名相词典/中文/刹那|刹那]]流动，所以变现出[[名相词典/中文/刹那|刹那]][[名相词典/中文/刹那|刹那]]的[[名相词典/中文/果报|果报]]！这个就是「明」。
+那麼「光明」是指什麼呢？是說我們在三界流轉當中，一下子在人間得[[名相词典/中文/果报|果報]]、下輩子到[[名相词典/中文/三恶道|三惡道]]去做一隻狗，做狗之後又得到人身，可能變成一個女人；這個時候生命的變化，不管是外在的身相、內在的心念，生命不停地變化。因為男人和女人的心情一定不一樣，男人有男人的心情、女人有女人的思想，這個身心產生那麼大的變化，到底是誰在流轉呢？你說流轉六道直到現在，那流轉的人是誰呢？事實上找不到一個「我」的相貌！所以佛法講『無我』，沒有一個真實存在的「我」在流轉，只是一種「[[名相词典/中文/心识|心識]]」的流動而已！因為「[[名相词典/中文/心识|心識]]」[[名相词典/中文/刹那|剎那]][[名相词典/中文/刹那|剎那]]流動，所以變現出[[名相词典/中文/刹那|剎那]][[名相词典/中文/刹那|剎那]]的[[名相词典/中文/果报|果報]]！這個就是「明」。
 
 **English**
 So what does "light" refer to? It means that, as we transmigrate within the three realms, at one moment we receive [[名相词典/English/karmic result|karmic result]] as a human, and in the next life descend into the [[名相词典/English/three evil destinies|three evil destinies]] to become a dog; after being a dog we again obtain a human body, perhaps becoming a woman. At such times, life keeps changing — whether the outer bodily form or the inner thoughts of mind, life changes ceaselessly. Since the mood of a man and a woman must surely differ — a man has a man's mood, a woman has a woman's way of thinking — with the body-and-mind undergoing such great changes, who, after all, is it that transmigrates? You say one has transmigrated through the six destinies right up to now — then who is the one that transmigrates? In fact, one cannot find any appearance of a "self"! Therefore the Buddha-dharma speaks of "no-self" (*anātman*): there is no truly existent "self" that transmigrates; it is merely a flowing of "[[名相词典/English/mind-consciousness|mind-consciousness]]"! Because "[[名相词典/English/mind-consciousness|mind-consciousness]]" flows moment by moment, it manifests [[名相词典/English/karmic result|karmic result]] moment by moment! This is precisely "Clarity."
@@ -715,7 +715,7 @@ Vậy “ánh sáng” chỉ điều gì? Là nói trong lúc chúng ta lưu chu
 **§98**
 
 **中文**
-如果你知道这些道理就是「明」，表示你已经打开眼睛，看到真相了。事实上，我们现在的内心状态，有[[名相词典/中文/烦恼|烦恼]]、同时也有戒定慧，而这些杂念没有真实性，还是可以改造的；只要继续用功、继续加强戒定慧，[[名相词典/中文/烦恼|烦恼]]就会慢慢的脱落，戒定慧的光明越来越增长，我们的思想也会慢慢随之改变。就是说，我们的念头是可以透过不断串习而改造的。所谓「[[名相词典/中文/一切法无我|一切法无我]]」，这个就是「明」——「我空、法空」的道理。
+如果你知道這些道理就是「明」，表示你已經打開眼睛，看到真相了。事實上，我們現在的內心狀態，有[[名相词典/中文/烦恼|煩惱]]、同時也有戒定慧，而這些雜念沒有真實性，還是可以改造的；只要繼續用功、繼續加強戒定慧，[[名相词典/中文/烦恼|煩惱]]就會慢慢的脫落，戒定慧的光明越來越增長，我們的思想也會慢慢隨之改變。就是說，我們的念頭是可以透過不斷串習而改造的。所謂「[[名相词典/中文/一切法无我|一切法無我]]」，這個就是「明」——「我空、法空」的道理。
 
 **English**
 If you know these principles, that is "Clarity" — it indicates that you have already opened your eyes and seen the truth. In fact, our present state of mind has passions, and at the same time has precepts, [[名相词典/English/samādhi|samādhi]], and wisdom (*śīla, samādhi, prajñā*); yet these deluded thoughts have no true reality and can still be transformed. So long as we keep applying effort and keep strengthening precepts, [[名相词典/English/samādhi|samādhi]], and wisdom, the passions will gradually fall away, the light of precepts-[[名相词典/English/samādhi|samādhi]]-wisdom will grow ever brighter, and our thinking will gradually change along with it. That is to say, our thoughts can be transformed through unceasing repeated cultivation (*vāsanā*, habituation). The saying "[[名相词典/English/all dharmas are without self|all dharmas are without self]]" — this is precisely "Clarity," the principle of "the [[名相词典/English/emptiness|emptiness]] of self and the [[名相词典/English/emptiness|emptiness]] of dharmas."
@@ -731,7 +731,7 @@ Nếu ngươi biết những đạo lý này thì đó là “Minh”, biểu th
 **§99**
 
 **中文**
-那么学习「百法、明」对我们到底有什么好处呢？因为这两个都是「门」，都能够通达「[[名相词典/中文/涅槃|涅槃]]之门」。比如我们想走进房子，如果没有门，谁能够进来？通往[[名相词典/中文/涅槃|涅槃]]也是一样，我们透过「百法」的学习、透过「明」的学习，使令我们到达[[名相词典/中文/涅槃|涅槃]]。《[[名相词典/中文/大乘百法明门论|大乘百法明门论]]》——这个就是标题。
+那麼學習「百法、明」對我們到底有什麼好處呢？因為這兩個都是「門」，都能夠通達「[[名相词典/中文/涅槃|涅槃]]之門」。比如我們想走進房子，如果沒有門，誰能夠進來？通往[[名相词典/中文/涅槃|涅槃]]也是一樣，我們透過「百法」的學習、透過「明」的學習，使令我們到達[[名相词典/中文/涅槃|涅槃]]。《[[名相词典/中文/大乘百法明门论|大乘百法明門論]]》——這個就是標題。
 
 **English**
 So what benefit does learning the "Hundred Dharmas" and "Clarity" actually bring us? Because both of these are "gates" (*mén*), both are able to open onto the "gate of [[名相词典/English/nirvāṇa|nirvāṇa]]." For instance, if we wish to enter a house, without a door who could come in? Reaching [[名相词典/English/nirvāṇa|nirvāṇa]] is the same: through the study of the "Hundred Dharmas" and through the study of "Clarity," we are enabled to reach [[名相词典/English/nirvāṇa|nirvāṇa]]. *The Treatise on the Hundred Dharmas, the Gate of Clarity, of the [[名相词典/English/Great Vehicle|Great Vehicle]]* — this is the title.
@@ -747,7 +747,7 @@ Vậy học “Bách pháp, Minh” rốt cuộc có lợi ích gì cho chúng t
 **§100**
 
 **中文**
-所以从这部论的标题，我们可以知道这部论主要是诠释两个道理：第一个「百法」——「何等一切法？」这是说明一切法的差别相。第二个「明」——「云何为无我？」这是说明「二无我」的道理。从这个标题可以看得出来，这部论主要诠释两个主题。接著再看『论』，什么是「论」呢？抉择是非、断除疑惑。它能够帮助我们抉择是非、断除疑惑，叫做「论」。合起来就叫做《[[名相词典/中文/大乘百法明门论|大乘百法明门论]]》，这是简单的解释。
+所以從這部論的標題，我們可以知道這部論主要是詮釋兩個道理：第一個「百法」——「何等一切法？」這是說明一切法的差別相。第二個「明」——「云何為無我？」這是說明「二無我」的道理。從這個標題可以看得出來，這部論主要詮釋兩個主題。接著再看『論』，什麼是「論」呢？抉擇是非、斷除疑惑。它能夠幫助我們抉擇是非、斷除疑惑，叫做「論」。合起來就叫做《[[名相词典/中文/大乘百法明门论|大乘百法明門論]]》，這是簡單的解釋。
 
 **English**
 So from the title of this treatise, we can know that it chiefly expounds two principles: the first, "Hundred Dharmas" — "What are all dharmas?" — sets forth the differentiated appearances of all dharmas. The second, "Clarity" — "How is it that there is no-self?" — sets forth the principle of the "twofold selflessness" [of persons and of dharmas]. From this title one can see that the treatise chiefly expounds two themes. Next, let us look at "treatise" (*lùn*): what is a "treatise"? To discern right from wrong and to cut off doubts. Because it can help us discern right from wrong and cut off doubts, it is called a "treatise" (*śāstra*). Put together, it is called *The Treatise on the Hundred Dharmas, the Gate of Clarity, of the [[名相词典/English/Great Vehicle|Great Vehicle]]* — this is the simple explanation.
@@ -763,7 +763,7 @@ Cho nên từ tiêu đề bộ luận này, chúng ta có thể biết bộ lu�
 **§101**
 
 **中文**
-以下看[[名相词典/中文/蕅益大师|蕅益大师]]的解释，分成两段：第一段「总标教法传承」，第二段「别明教法的内容」。先看第一段：『此于《[[名相词典/中文/瑜伽师地论|瑜伽师地论]]》[[名相词典/中文/本地分|本地分]]第一中，略录名数，而名为《[[名相词典/中文/大乘|大乘]]百法明门》者。』到底[[名相词典/中文/天亲菩萨|天亲菩萨]]造这部论是不是有根据？还是他自己在[[名相词典/中文/禅定|禅定]]当中，自己想出来的？这是说明教法的传承。
+以下看[[名相词典/中文/蕅益大师|蕅益大師]]的解釋，分成兩段：第一段「總標教法傳承」，第二段「別明教法的內容」。先看第一段：『此於《[[名相词典/中文/瑜伽师地论|瑜伽師地論]]》[[名相词典/中文/本地分|本地分]]第一中，略錄名數，而名為《[[名相词典/中文/大乘|大乘]]百法明門》者。』到底[[名相词典/中文/天亲菩萨|天親菩薩]]造這部論是不是有根據？還是他自己在[[名相词典/中文/禅定|禪定]]當中，自己想出來的？這是說明教法的傳承。
 
 **English**
 Now let us look at [[名相词典/English/Master Ǒuyì|Master Ǒuyì]]'s commentary, which divides into two parts: the first part, "a general statement of the transmission of the teaching," and the second part, "a specific clarification of the content of the teaching." First, the first part: "This work, which records in summary the names and enumeration [of dharmas] within the first section of the *Yogācārabhūmi-śāstra*, the '[[名相词典/English/Chapter on the Fundamental Stage|Chapter on the Fundamental Stage]],' is named *The Hundred Dharmas, the Gate of Clarity, of the [[名相词典/English/Great Vehicle|Great Vehicle]]*." Was [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]]'s composition of this treatise based on some source? Or did he simply think it up himself while in [[名相词典/English/meditative concentration|meditative concentration]]? This [passage] explains the transmission of the teaching.
@@ -779,7 +779,7 @@ Tiếp theo xem lời giải thích của Ngẫu Ích Đại Sư, chia thành ha
 **§102**
 
 **中文**
-『此于《[[名相词典/中文/瑜伽师地论|瑜伽师地论]]》[[名相词典/中文/本地分|本地分]]第一中，略录名数。』意思是说：[[名相词典/中文/天亲菩萨|天亲菩萨]]他根据[[名相词典/中文/弥勒菩萨|弥勒菩萨]]所造的《[[名相词典/中文/瑜伽师地论|瑜伽师地论]]》第一分「[[名相词典/中文/本地分|本地分]]」，把它摘录出来的一个简单名数，而安立叫《[[名相词典/中文/大乘百法明门论|大乘百法明门论]]》。也就是说『百法』的传承，是来自于《[[名相词典/中文/瑜伽师地论|瑜伽师地论]]》的思想。
+『此於《[[名相词典/中文/瑜伽师地论|瑜伽師地論]]》[[名相词典/中文/本地分|本地分]]第一中，略錄名數。』意思是說：[[名相词典/中文/天亲菩萨|天親菩薩]]他根據[[名相词典/中文/弥勒菩萨|彌勒菩薩]]所造的《[[名相词典/中文/瑜伽师地论|瑜伽師地論]]》第一分「[[名相词典/中文/本地分|本地分]]」，把它摘錄出來的一個簡單名數，而安立叫《[[名相词典/中文/大乘百法明门论|大乘百法明門論]]》。也就是說『百法』的傳承，是來自於《[[名相词典/中文/瑜伽师地论|瑜伽師地論]]》的思想。
 
 **English**
 "This work records in summary the names and enumeration [of dharmas] within the first section of the *Yogācārabhūmi-śāstra*, the '[[名相词典/English/Chapter on the Fundamental Stage|Chapter on the Fundamental Stage]].'" This means: [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]], on the basis of the first section, the "[[名相词典/English/Chapter on the Fundamental Stage|Chapter on the Fundamental Stage]]," of the *Yogācārabhūmi-śāstra* composed by [[名相词典/English/Bodhisattva Maitreya|Bodhisattva Maitreya]], extracted from it a simple set of names and enumeration, and established it under the name *The Treatise on the Hundred Dharmas, the Gate of Clarity, of the [[名相词典/English/Great Vehicle|Great Vehicle]]*. That is to say, the transmission of the "Hundred Dharmas" derives from the thought of the *Yogācārabhūmi-śāstra*.
@@ -795,7 +795,7 @@ Tiếp theo xem lời giải thích của Ngẫu Ích Đại Sư, chia thành ha
 **§103**
 
 **中文**
-这是总标，再看它的内容。内容也是分成两段，第一段先讲理论，再讲修行方法。『盖[[名相词典/中文/小乘|小乘]]立七十五法，但明「补特伽罗无我」，犹妄计有心外实法。今[[名相词典/中文/大乘|大乘]]明此百法，皆不离识，不惟实我本空，亦复实法非有。若于一一法中，照达二空，则一一皆为[[名相词典/中文/大乘|大乘]]证理之门也。』
+這是總標，再看它的內容。內容也是分成兩段，第一段先講理論，再講修行方法。『蓋[[名相词典/中文/小乘|小乘]]立七十五法，但明「補特伽羅無我」，猶妄計有心外實法。今[[名相词典/中文/大乘|大乘]]明此百法，皆不離識，不惟實我本空，亦復實法非有。若於一一法中，照達二空，則一一皆為[[名相词典/中文/大乘|大乘]]證理之門也。』
 
 **English**
 This is the general statement; now let us look at its content. The content also divides into two parts: the first part first discusses the theory, and then discusses the method of practice. "Now, the [[名相词典/English/Lesser Vehicle|Lesser Vehicle]] establishes seventy-five dharmas, but only clarifies 'the selflessness of the person (*pudgala-nairātmya*),' still deludedly reckoning that there are real dharmas external to the mind. Now the [[名相词典/English/Great Vehicle|Great Vehicle]] clarifies these Hundred Dharmas as all inseparable from consciousness: not only is the real self originally empty, but real dharmas too are non-existent. If, within each and every dharma, one illuminates and penetrates the twofold [[名相词典/English/emptiness|emptiness]], then each and every one becomes a gate for realizing the principle of the [[名相词典/English/Great Vehicle|Great Vehicle]]."
@@ -811,7 +811,7 @@ Ceci est l'énoncé général ; regardons maintenant son contenu. Le contenu se 
 **§104**
 
 **中文**
-这段文有一个很重要的观念：以佛法的角度来看，为什么我们会起[[名相词典/中文/烦恼|烦恼]]？人跟人之间的接触，为什么会有[[名相词典/中文/烦恼|烦恼]]的活动呢？佛法是认为：主要是因为我们有「我」——「人[[名相词典/中文/我执|我执]]」跟「法[[名相词典/中文/我执|我执]]」。「我」是不可破坏的：在我的生命体里，有一个「我」，虽然生命不断变化——我今生做人、下辈子做狗、下下辈子又生天……这个[[名相词典/中文/果报|果报]]体、臭皮囊不断不断地变化，但是「我」是不能破坏的。举个例子：就像我住在一间房子里，因为房子旧了我不要了，又换了一间新房子；虽然房子一次又一次不断的变换，但是住在房子里的「我」，是不可破坏的。
+這段文有一個很重要的觀念：以佛法的角度來看，為什麼我們會起[[名相词典/中文/烦恼|煩惱]]？人跟人之間的接觸，為什麼會有[[名相词典/中文/烦恼|煩惱]]的活動呢？佛法是認為：主要是因為我們有「我」——「人[[名相词典/中文/我执|我執]]」跟「法[[名相词典/中文/我执|我執]]」。「我」是不可破壞的：在我的生命體裡，有一個「我」，雖然生命不斷變化——我今生做人、下輩子做狗、下下輩子又生天……這個[[名相词典/中文/果报|果報]]體、臭皮囊不斷不斷地變化，但是「我」是不能破壞的。舉個例子：就像我住在一間房子裡，因為房子舊了我不要了，又換了一間新房子；雖然房子一次又一次不斷的變換，但是住在房子裡的「我」，是不可破壞的。
 
 **English**
 This passage contains a very important idea: from the standpoint of the Buddha-dharma, why do we give rise to passions? In the [[名相词典/English/contact|contact]] between one person and another, why is there the stirring of passions? The Buddha-dharma holds that it is chiefly because we have a "self" — the "attachment to a self of persons" and the "attachment to a self of dharmas." The "self" is taken to be indestructible: within my life-entity there is a "self," and although life keeps changing — in this life I am human, in the next a dog, in the life after that born in the heavens… this [[名相词典/English/karmic result|karmic result]]-body, this stinking skin-bag, keeps changing ceaselessly — yet the "self" is held to be indestructible. To give an example: it is like my living in a house; because the house has grown old, I no longer want it and change to a new one. Although the house is changed again and again, the "self" that dwells in the house is [imagined to be] indestructible.
@@ -827,7 +827,7 @@ Ce passage renferme une idée très importante : du point de vue du Dharma du Bo
 **§105**
 
 **中文**
-就是因为有这个「我」的执著，就会产生我爱、我痴、我见、我慢……爱著这个「我」；而且为了保护这个「我」——你不触恼我，就什么事都没有；一旦触恼到我，那我就不同意了。因为执著有个「我」，我就应该保护啊；你今天干扰我了、触恼我了，我就会发动很多很多的[[名相词典/中文/烦恼|烦恼]]出来。为什么[[名相词典/中文/圣人|圣人]]无论别人怎么批评他、障碍他，他内心完全是不动呢？因他没有「我」的分别，他的内心是「常游[[名相词典/中文/毕竟空|毕竟空]]，无我、无我所」。好比你今天骂我，根本没有一个「我」，骂谁呢？这个是佛法把[[名相词典/中文/圣人|圣人]]跟[[名相词典/中文/凡夫|凡夫]]的最大的差别——就是[[名相词典/中文/圣人|圣人]]「无我」，[[名相词典/中文/凡夫|凡夫]]「有我」。
+就是因為有這個「我」的執著，就會產生我愛、我癡、我見、我慢……愛著這個「我」；而且為了保護這個「我」——你不觸惱我，就什麼事都沒有；一旦觸惱到我，那我就不同意了。因為執著有個「我」，我就應該保護啊；你今天干擾我了、觸惱我了，我就會發動很多很多的[[名相词典/中文/烦恼|煩惱]]出來。為什麼[[名相词典/中文/圣人|聖人]]無論別人怎麼批評他、障礙他，他內心完全是不動呢？因他沒有「我」的分別，他的內心是「常游[[名相词典/中文/毕竟空|畢竟空]]，無我、無我所」。好比你今天罵我，根本沒有一個「我」，罵誰呢？這個是佛法把[[名相词典/中文/圣人|聖人]]跟[[名相词典/中文/凡夫|凡夫]]的最大的差別——就是[[名相词典/中文/圣人|聖人]]「無我」，[[名相词典/中文/凡夫|凡夫]]「有我」。
 
 **English**
 It is precisely because of this attachment to a "self" that self-love, self-[[名相词典/English/delusion|delusion]], self-view, and self-pride (*ātma-sneha, ātma-moha, ātma-dṛṣṭi, ātma-māna*) arise — cherishing this "self"; and moreover, in order to protect this "self" — as long as you do not offend me, all is well; but once you offend me, I will not agree to it. Because one is attached to there being a "self," one thinks one ought to protect it; if you disturb me or offend me today, I will set in motion a great many passions. Why is it that, no matter how others criticize or obstruct him, a sage's mind remains completely unmoved? Because he has no discrimination of a "self"; his mind "ever roams in [[名相词典/English/ultimate emptiness|ultimate emptiness]], without self and without what belongs to self." For instance, if you revile me today, there is fundamentally no "self" — whom, then, are you reviling? This is the greatest distinction the Buddha-dharma draws between sage and [[名相词典/English/ordinary being|ordinary being]] — namely, that the sage is "without self," while the [[名相词典/English/ordinary being|ordinary being]] "has a self."
@@ -843,7 +843,7 @@ Chính vì có sự chấp trước cái “ngã” này, nên sẽ sinh ra ngã
 **§106**
 
 **中文**
-[[名相词典/中文/凡夫|凡夫]]对于「我」的执著，加以细分的话分为「人[[名相词典/中文/我执|我执]]」跟「法[[名相词典/中文/我执|我执]]」。[[名相词典/中文/小乘|小乘]]法跟[[名相词典/中文/大乘|大乘]]法都认为「我」不可得，[[名相词典/中文/五蕴|五蕴]]的生命里「我」不可得；但是在法上，大、[[名相词典/中文/小乘|小乘]]就有很大的差别。所以我们看[[名相词典/中文/小乘|小乘]]安立七十五法，是以四圣谛为主——「苦、集」是杂染法，「灭、道」是清净法，从四圣谛开出七十五法，『但明补特伽罗无我』，[[名相词典/中文/小乘|小乘]]只说明了「[[名相词典/中文/人无我|人无我]]」，『犹妄计有心外实法』，还是认为诸法是有[[名相词典/中文/自性|自性]]、真实存在的。[[名相词典/中文/大乘|大乘]]就不同了：『[[名相词典/中文/大乘|大乘]]明此百法，皆不离识，不惟实我本空，亦复实法非有。』[[名相词典/中文/大乘|大乘]]认为一切法是由[[名相词典/中文/心识|心识]]所变现，离开了[[名相词典/中文/心识|心识]]无有少法可得，所以「我空、一切法也空」。
+[[名相词典/中文/凡夫|凡夫]]對於「我」的執著，加以細分的話分為「人[[名相词典/中文/我执|我執]]」跟「法[[名相词典/中文/我执|我執]]」。[[名相词典/中文/小乘|小乘]]法跟[[名相词典/中文/大乘|大乘]]法都認為「我」不可得，[[名相词典/中文/五蕴|五蘊]]的生命裡「我」不可得；但是在法上，大、[[名相词典/中文/小乘|小乘]]就有很大的差別。所以我們看[[名相词典/中文/小乘|小乘]]安立七十五法，是以四聖諦為主——「苦、集」是雜染法，「滅、道」是清淨法，從四聖諦開出七十五法，『但明補特伽羅無我』，[[名相词典/中文/小乘|小乘]]只說明了「[[名相词典/中文/人无我|人無我]]」，『猶妄計有心外實法』，還是認為諸法是有[[名相词典/中文/自性|自性]]、真實存在的。[[名相词典/中文/大乘|大乘]]就不同了：『[[名相词典/中文/大乘|大乘]]明此百法，皆不離識，不惟實我本空，亦復實法非有。』[[名相词典/中文/大乘|大乘]]認為一切法是由[[名相词典/中文/心识|心識]]所變現，離開了[[名相词典/中文/心识|心識]]無有少法可得，所以「我空、一切法也空」。
 
 **English**
 The [[名相词典/English/ordinary being|ordinary being]]'s attachment to a "self," analyzed in detail, divides into the "attachment to a self of persons" and the "attachment to a self of dharmas." Both the Lesser-Vehicle and the Great-Vehicle teachings hold that the "self" is unobtainable — within the life composed of the [[名相词典/English/five aggregates|five aggregates]] (*skandhas*), no "self" can be found. But with respect to dharmas, there is a great difference between the Great and Lesser Vehicles. So we see that the [[名相词典/English/Lesser Vehicle|Lesser Vehicle]] establishes seventy-five dharmas centered on the Four Noble Truths — "suffering and its origin" (*duḥkha, samudaya*) are the defiled dharmas, while "cessation and the path" (*nirodha, mārga*) are the pure dharmas; from the Four Noble Truths it sets out seventy-five dharmas. "It only clarifies the selflessness of the person" — the [[名相词典/English/Lesser Vehicle|Lesser Vehicle]] explains only "the [[名相词典/English/absence of self|absence of self]]"; "it still deludedly reckons that there are real dharmas external to the mind" — it still holds that dharmas have [[名相词典/English/self-nature|self-nature]] and truly exist. The [[名相词典/English/Great Vehicle|Great Vehicle]] is different: "The [[名相词典/English/Great Vehicle|Great Vehicle]] clarifies these Hundred Dharmas as all inseparable from consciousness; not only is the real self originally empty, but real dharmas too are non-existent." The [[名相词典/English/Great Vehicle|Great Vehicle]] holds that all dharmas are manifested by [[名相词典/English/mind-consciousness|mind-consciousness]], and that apart from [[名相词典/English/mind-consciousness|mind-consciousness]] not the slightest dharma can be obtained — hence "the self is empty, and all dharmas too are empty."
@@ -859,7 +859,7 @@ Sự chấp trước “ngã” của [[名相词典/TiếngViệt/phàm phu|ph�
 **§107**
 
 **中文**
-所谓「法空」，是什么道理呢？我们在[[名相词典/中文/天亲菩萨|天亲菩萨]]的传记中，看到[[名相词典/中文/小乘|小乘]]论师经常跟[[名相词典/中文/大乘|大乘]]论师辩论法义，但是《唯识学》有一个很重要的观念，可以立即破除[[名相词典/中文/小乘|小乘]]的论点。[[名相词典/中文/小乘|小乘]]宗说「法是有真实性」，什么叫「法我」呢？就是说：「法」有独立自主的体性，也就是「心外有法」，离开这一念心，有独立自主的体性，这个就是「法我」。
+所謂「法空」，是什麼道理呢？我們在[[名相词典/中文/天亲菩萨|天親菩薩]]的傳記中，看到[[名相词典/中文/小乘|小乘]]論師經常跟[[名相词典/中文/大乘|大乘]]論師辯論法義，但是《唯識學》有一個很重要的觀念，可以立即破除[[名相词典/中文/小乘|小乘]]的論點。[[名相词典/中文/小乘|小乘]]宗說「法是有真實性」，什麼叫「法我」呢？就是說：「法」有獨立自主的體性，也就是「心外有法」，離開這一念心，有獨立自主的體性，這個就是「法我」。
 
 **English**
 What is the principle of so-called "[[名相词典/English/emptiness|emptiness]] of dharmas"? In the biography of [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] we see that Lesser-Vehicle treatise-masters often debated doctrinal points with Great-Vehicle treatise-masters; but Consciousness-Only studies contain a very important idea that can immediately demolish the [[名相词典/English/Lesser Vehicle|Lesser Vehicle]]'s position. The Lesser-Vehicle schools say that "dharmas possess true reality." What is meant by a "self of dharmas"? It means this: that "dharmas" have an independent, self-governing essence — that is, "there are dharmas external to the mind," that apart from this present thought-moment of mind there is an independent, self-governing essence. This is precisely the "self of dharmas."
@@ -875,7 +875,7 @@ Cái gọi là “pháp không” là đạo lý gì? Trong truyện ký của [
 **§108**
 
 **中文**
-事实上不然。我们举一个例子：比如说「一水四见」，人的善念比较多、善心比较强，看到的是「水」；饿鬼道就不是了，因为过去生所串习的悭贪[[名相词典/中文/烦恼|烦恼]]太重了，所以他的心跟水接触，看到的是「火」；而天人的心，比我们人更善良、更慈悲，所以看到的是「琉璃地」。如果「水」离开了[[名相词典/中文/心识|心识]]，有独立自主的体性，那就不应该三种众生不同的[[名相词典/中文/心识|心识]]，而变现三种不同的相貌。
+事實上不然。我們舉一個例子：比如說「一水四見」，人的善念比較多、善心比較強，看到的是「水」；餓鬼道就不是了，因為過去生所串習的慳貪[[名相词典/中文/烦恼|煩惱]]太重了，所以他的心跟水接觸，看到的是「火」；而天人的心，比我們人更善良、更慈悲，所以看到的是「琉璃地」。如果「水」離開了[[名相词典/中文/心识|心識]]，有獨立自主的體性，那就不應該三種眾生不同的[[名相词典/中文/心识|心識]]，而變現三種不同的相貌。
 
 **English**
 In fact this is not so. Let us give an example: take "one water seen in four ways." A human being, whose wholesome thoughts are relatively many and whose good mind is relatively strong, sees "water." But it is not so for the hungry-ghost realm: because the [[名相词典/English/passions|passions]] of [[名相词典/English/avarice|avarice]] and [[名相词典/English/craving|craving]] they habituated in past lives is too heavy, when their mind contacts water, what they see is "fire." And the mind of a deva, more virtuous and more compassionate than us humans, so what they see is "ground of lapis lazuli (*vaiḍūrya*)." If "water" had, apart from [[名相词典/English/mind-consciousness|mind-consciousness]], an independent, self-governing essence, then it should not be that three kinds of beings, with different mind-consciousnesses, manifest three different appearances.
@@ -891,7 +891,7 @@ Thật ra không phải vậy. Chúng ta nêu một ví dụ: chẳng hạn “m
 **§109**
 
 **中文**
-就是说，既然「水」有独立自主的体性，那不管是饿鬼的心、人的心，或是天人的心，大家看到的应该都是一样，是不是？如果有一个独立自主的体性，表示它不随[[名相词典/中文/因缘|因缘]]变化，表示这个法有真实性。事实不然：不要说是不同类的众生，同样都是人也会有差别；比如说看这盏莲花灯，[[名相词典/中文/烦恼|烦恼]]重的人看到莲花灯会比较暗淡一点，福报大的人看到莲花灯比较光明一点，这是事实。这表示什么？表示莲花灯没有[[名相词典/中文/自性|自性]]，完全是约众生的[[名相词典/中文/心识|心识]]来决定——「[[名相词典/中文/一切法无我|一切法无我]]，一切法[[名相词典/中文/因缘|因缘]]生。」什么是「[[名相词典/中文/因缘|因缘]]」？「[[名相词典/中文/心识|心识]]」就是一切法的决定[[名相词典/中文/因缘|因缘]]，你是什么样的[[名相词典/中文/心识|心识]]，它就变现什么样的情况。
+就是說，既然「水」有獨立自主的體性，那不管是餓鬼的心、人的心，或是天人的心，大家看到的應該都是一樣，是不是？如果有一個獨立自主的體性，表示它不隨[[名相词典/中文/因缘|因緣]]變化，表示這個法有真實性。事實不然：不要說是不同類的眾生，同樣都是人也會有差別；比如說看這盞蓮花燈，[[名相词典/中文/烦恼|煩惱]]重的人看到蓮花燈會比較暗淡一點，福報大的人看到蓮花燈比較光明一點，這是事實。這表示什麼？表示蓮花燈沒有[[名相词典/中文/自性|自性]]，完全是約眾生的[[名相词典/中文/心识|心識]]來決定——「[[名相词典/中文/一切法无我|一切法無我]]，一切法[[名相词典/中文/因缘|因緣]]生。」什麼是「[[名相词典/中文/因缘|因緣]]」？「[[名相词典/中文/心识|心識]]」就是一切法的決定[[名相词典/中文/因缘|因緣]]，你是什麼樣的[[名相词典/中文/心识|心識]]，它就變現什麼樣的情況。
 
 **English**
 That is to say, if "water" had an independent, self-governing essence, then whether it be the mind of a hungry ghost, the mind of a human, or the mind of a deva, everyone ought to see the same thing, is that not so? If there were an independent, self-governing essence, it would mean it does not change with [[名相词典/English/condition as cause|condition as cause]], which would mean this dharma has true reality. But in fact it is not so: not to speak of beings of different kinds, even among humans alike there are differences. For example, looking at this lotus-lamp, a person of heavy passions will see the lotus-lamp as somewhat dimmer, while a person of great merit will see the lotus-lamp as somewhat brighter — this is a fact. What does this show? It shows that the lotus-lamp has no [[名相词典/English/self-nature|self-nature]]; it is entirely determined by the [[名相词典/English/mind-consciousness|mind-consciousness]] of beings — "[[名相词典/English/all dharmas are without self|all dharmas are without self]]; all dharmas arise from [[名相词典/English/condition as cause|condition as cause]]." What are "[[名相词典/English/condition as cause|condition as cause]]"? "[[名相词典/English/mind-consciousness|Mind-consciousness]]" is precisely the determining condition of all dharmas: whatever kind of [[名相词典/English/mind-consciousness|mind-consciousness]] you have, that is the kind of situation it manifests.
@@ -907,7 +907,7 @@ Tức là, đã nói “nước” có thể tính độc lập tự chủ, thì
 **§110**
 
 **中文**
-这个道理你懂了，后面「[[名相词典/中文/万法唯识|万法唯识]]」的道理你才会清楚：就是一切法全是由个人的[[名相词典/中文/心识|心识]]所变现，离开了[[名相词典/中文/心识|心识]]，这一切法就不可得。我们不要说你跟我不一样，我们说同一个人好了：不久前我们这里打佛七，打佛七之前，我们的内心是烦躁扰动，看谁都不顺眼；打完佛七之后，我们的内心平静下来，我看他有很多优点，是不是？「他」哪有[[名相词典/中文/自性|自性]]？是你的内[[名相词典/中文/心所|心所]]变现出来的。因为你现在的内心状态好，所变现出来的影像也就好。
+這個道理你懂了，後面「[[名相词典/中文/万法唯识|萬法唯識]]」的道理你才會清楚：就是一切法全是由個人的[[名相词典/中文/心识|心識]]所變現，離開了[[名相词典/中文/心识|心識]]，這一切法就不可得。我們不要說你跟我不一樣，我們說同一個人好了：不久前我們這裡打佛七，打佛七之前，我們的內心是煩躁擾動，看誰都不順眼；打完佛七之後，我們的內心平靜下來，我看他有很多優點，是不是？「他」哪有[[名相词典/中文/自性|自性]]？是你的內[[名相词典/中文/心所|心所]]變現出來的。因為你現在的內心狀態好，所變現出來的影像也就好。
 
 **English**
 Once you understand this principle, only then will the later principle of "the myriad dharmas being consciousness-only" be clear to you: namely, that all dharmas are entirely manifested by the individual's own [[名相词典/English/mind-consciousness|mind-consciousness]], and that apart from [[名相词典/English/mind-consciousness|mind-consciousness]] these dharmas are unobtainable. Let us not even speak of your being different from me; let us take one and the same person. Not long ago we held a seven-day buddha-recitation retreat (*Foqi*) here. Before the retreat, our minds were agitated and disturbed, and we found no one pleasing to look at. After finishing the retreat, our minds calmed down, and I found that he has many good points, isn't that so? Where does "he" have any [[名相词典/English/self-nature|self-nature]]? It is manifested by your own mind. Because your present state of mind is good, the images it manifests are correspondingly good.
@@ -923,7 +923,7 @@ Une fois que vous comprenez ce principe, alors seulement le principe ultérieur 
 **§111**
 
 **中文**
-所谓「诸法无[[名相词典/中文/自性|自性]]，一切从[[名相词典/中文/缘起|缘起]]。」一切法离开了「[[名相词典/中文/因缘|因缘]]」，没有一个独立自主的体性，完全是由[[名相词典/中文/心识|心识]]的[[名相词典/中文/因缘|因缘]]所变现的。[[名相词典/中文/天亲菩萨|天亲菩萨]]就是用这样的思想，来破除[[名相词典/中文/小乘|小乘]]的[[名相词典/中文/法执|法执]]：如果这个法有真实性，有真实性就是它就不随[[名相词典/中文/因缘|因缘]]而有变化，无论什么样的[[名相词典/中文/因缘|因缘]]都不能改变它，它有独立自主的体性；但事实上不是这样子。所以说：『今[[名相词典/中文/大乘|大乘]]明此百法，皆不离识。』「百法」就是宇宙万法，一切万法都不离开我们的[[名相词典/中文/心识|心识]]。
+所謂「諸法無[[名相词典/中文/自性|自性]]，一切從[[名相词典/中文/缘起|緣起]]。」一切法離開了「[[名相词典/中文/因缘|因緣]]」，沒有一個獨立自主的體性，完全是由[[名相词典/中文/心识|心識]]的[[名相词典/中文/因缘|因緣]]所變現的。[[名相词典/中文/天亲菩萨|天親菩薩]]就是用這樣的思想，來破除[[名相词典/中文/小乘|小乘]]的[[名相词典/中文/法执|法執]]：如果這個法有真實性，有真實性就是它就不隨[[名相词典/中文/因缘|因緣]]而有變化，無論什麼樣的[[名相词典/中文/因缘|因緣]]都不能改變它，它有獨立自主的體性；但事實上不是這樣子。所以說：『今[[名相词典/中文/大乘|大乘]]明此百法，皆不離識。』「百法」就是宇宙萬法，一切萬法都不離開我們的[[名相词典/中文/心识|心識]]。
 
 **English**
 As the saying goes, "All phenomena are without [[名相词典/English/self-nature|self-nature]]; everything arises from conditions." Apart from "[[名相词典/English/condition as cause|condition as cause]]," no dharma has any independent, self-governing essence; all are entirely manifested by the [[名相词典/English/condition as cause|condition as cause]] of [[名相词典/English/mind-consciousness|mind-consciousness]]. It was with just such thought that [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] demolished the [[名相词典/English/Lesser Vehicle|Lesser Vehicle]]'s attachment to dharmas: if this dharma had true reality, having true reality would mean that it does not change with [[名相词典/English/condition as cause|condition as cause]] — that no conditions of any kind could alter it, that it has an independent, self-governing essence. But in fact it is not so. Hence it is said: "Now the [[名相词典/English/Great Vehicle|Great Vehicle]] clarifies these Hundred Dharmas as all inseparable from consciousness." The "Hundred Dharmas" are the myriad dharmas of the universe, and all the myriad dharmas are inseparable from our [[名相词典/English/mind-consciousness|mind-consciousness]].
@@ -939,7 +939,7 @@ Cái gọi là “chư pháp vô [[名相词典/TiếngViệt/tự tính|tự t�
 **§112**
 
 **中文**
-『不惟实我本空，亦复实法非有。』这句话又是什么意思呢？我们举一个例子：佛法讲「一切法空」，不是说这个法不存在——它有它的作用——是说这个法可以改造、可以改变，没有一个「决定的体性」。比如说你现在业障很重，为什么你业障很重？因为你内心有很多的[[名相词典/中文/烦恼|烦恼]]，[[名相词典/中文/万法唯识|万法唯识]]嘛。那么怎么办呢？我希望业障早日消除，不是把手剁掉不让它去造恶就可以业障消除，不是的，问题不在身体。这个牛车不走，你一生气把车子砸坏了，也没有用，问题是在那只牛。就是说：虽然我们有很多的罪障、晚上也经常作恶梦，这跟色身没有关系，它都是无辜的，是你的心有问题。
+『不惟實我本空，亦復實法非有。』這句話又是什麼意思呢？我們舉一個例子：佛法講「一切法空」，不是說這個法不存在——它有它的作用——是說這個法可以改造、可以改變，沒有一個「決定的體性」。比如說你現在業障很重，為什麼你業障很重？因為你內心有很多的[[名相词典/中文/烦恼|煩惱]]，[[名相词典/中文/万法唯识|萬法唯識]]嘛。那麼怎麼辦呢？我希望業障早日消除，不是把手剁掉不讓它去造惡就可以業障消除，不是的，問題不在身體。這個牛車不走，你一生氣把車子砸壞了，也沒有用，問題是在那只牛。就是說：雖然我們有很多的罪障、晚上也經常作惡夢，這跟色身沒有關係，它都是無辜的，是你的心有問題。
 
 **English**
 "Not only is the real self originally empty, but real dharmas too are non-existent." What does this line mean? Let us give an example: when the Buddha-dharma speaks of "the [[名相词典/English/emptiness|emptiness]] of all dharmas," it does not mean that the dharma does not exist — it has its function — rather it means that this dharma can be reformed and can be changed, that it has no "fixed, determined essence." For instance, suppose your karmic obstacles are now very heavy. Why are your karmic obstacles heavy? Because within your mind there are many passions — for [[名相词典/English/the myriad dharmas are consciousness-only|the myriad dharmas are consciousness-only]]. So what is to be done? If I wish my karmic obstacles to be eliminated soon, it is not that chopping off my hand to prevent it from doing evil will eliminate the karmic obstacles — no, the problem does not lie in the body. When this ox-cart will not move, no matter how angry you get and smash the cart, it is of no use; the problem lies in that ox. That is to say: although we have many sins and obstacles, and often have nightmares at night, this has nothing to do with the physical body — the body is entirely innocent; it is your mind that has the problem.
@@ -955,7 +955,7 @@ Cái gọi là “chư pháp vô [[名相词典/TiếngViệt/tự tính|tự t�
 **§113**
 
 **中文**
-如果你能够不断的修行、[[名相词典/中文/忏悔|忏悔]]，恶念头一来就转念念佛——因为「恶念」一起都是不得了，一个恶念就是未来一个生命的[[名相词典/中文/果报|果报]]，你现在起一个贪欲，未来就是一个地狱之火；[[名相词典/中文/烦恼|烦恼]]火是会招感地狱火、招感[[名相词典/中文/果报|果报]]火。从唯识思想：我想改造生命，先改变心念。[[名相词典/中文/烦恼|烦恼]]一起来的时候，转念念佛；慢慢慢慢啊……我们的内心也是无[[名相词典/中文/自性|自性]]，你不断用佛号来熏它，让佛号由生转熟，佛号的势力一强大，[[名相词典/中文/烦恼|烦恼]]的势力就薄弱，这个时候你的生命就改变了。你的念头一变化的时候，你就会发现：我身体过去有很多病痛都好了；看谁都不顺眼，现在看谁都顺眼，整个法界都转变了；而这个只是花报，下辈子的[[名相词典/中文/果报|果报]]也转变了。
+如果你能夠不斷的修行、[[名相词典/中文/忏悔|懺悔]]，惡念頭一來就轉念念佛——因為「惡念」一起都是不得了，一個惡念就是未來一個生命的[[名相词典/中文/果报|果報]]，你現在起一個貪慾，未來就是一個地獄之火；[[名相词典/中文/烦恼|煩惱]]火是會招感地獄火、招感[[名相词典/中文/果报|果報]]火。從唯識思想：我想改造生命，先改變心念。[[名相词典/中文/烦恼|煩惱]]一起來的時候，轉念念佛；慢慢慢慢啊……我們的內心也是無[[名相词典/中文/自性|自性]]，你不斷用佛號來熏它，讓佛號由生轉熟，佛號的勢力一強大，[[名相词典/中文/烦恼|煩惱]]的勢力就薄弱，這個時候你的生命就改變了。你的念頭一變化的時候，你就會發現：我身體過去有很多病痛都好了；看誰都不順眼，現在看誰都順眼，整個法界都轉變了；而這個只是花報，下輩子的[[名相词典/中文/果报|果報]]也轉變了。
 
 **English**
 If you are able to practice and repent unceasingly, then the moment an evil thought arises, turn the thought and recite the Buddha's name — for the arising of an "evil thought" is no trifling matter: a single evil thought is the [[名相词典/English/karmic result|karmic result]] of a future life. If you now give rise to a thought of [[名相词典/English/craving|craving]], in the future it becomes a fire of hell; the fire of [[名相词典/English/passions|passions]] summons the fire of hell, summons the fire of [[名相词典/English/karmic result|karmic result]]. From the standpoint of Consciousness-Only thought: if I wish to transform my life, I first change my mental thoughts. When an [[名相词典/English/passions|passions]] arises, turn the thought and recite the Buddha's name; and gradually, gradually… our mind too is without [[名相词典/English/self-nature|self-nature]], so as you unceasingly perfume it with the Buddha's name, causing the buddha-name to turn from unfamiliar to familiar, once the force of the buddha-name grows strong, the force of the passions grows weak, and at that point your life is transformed. Once your thoughts change, you will discover: the many aches and illnesses my body used to have are all cured; formerly I found no one pleasing, but now I find everyone pleasing — the whole dharma-realm has been transformed. And this is only the "flower-reward" (the present, incidental result); the fruit-[[名相词典/English/karmic result|karmic result]] of the next life is transformed as well.
@@ -971,7 +971,7 @@ Nếu ngươi có thể không ngừng tu hành, [[名相词典/TiếngViệt/s�
 **§114**
 
 **中文**
-佛经上讲：「罪从心起将心忏，心若灭时罪亦亡。」「罪从心起」：为什么我们会造罪？因为我用手去杀他——我这双手真该死啊！不是手该死，是你那念心！「罪从心起」，手能够杀他，一定是你的「瞋恨心」去推动你的手，才会去杀他；所以罪业的根源来自于心。那怎么办呢？「将心忏」，调整你那一念心才对。
+佛經上講：「罪從心起將心懺，心若滅時罪亦亡。」「罪從心起」：為什麼我們會造罪？因為我用手去殺他——我這雙手真該死啊！不是手該死，是你那念心！「罪從心起」，手能夠殺他，一定是你的「瞋恨心」去推動你的手，才會去殺他；所以罪業的根源來自於心。那怎麼辦呢？「將心懺」，調整你那一念心才對。
 
 **English**
 The Buddhist scriptures say: "Sin arises from the mind; use the mind to repent it. When the mind is extinguished, sin too perishes." "Sin arises from the mind": why do we create sin? Because I use my hand to kill him — "this pair of hands of mine truly deserves to die!" But it is not the hand that deserves to die; it is that thought-moment of your mind! "Sin arises from the mind" — that the hand can kill him must be because your "mind of [[名相词典/English/hatred|hatred]]" drove your hand to go and kill him; so the root of sinful karma comes from the mind. What then is to be done? "Use the mind to repent" — it is by adjusting that thought-moment of your mind that you set it right.
@@ -987,7 +987,7 @@ Kinh Phật nói: “Tội tùng tâm khởi tương tâm sám, tâm nhược di
 **§115**
 
 **中文**
-「心若灭时罪亦亡」：只要不断的[[名相词典/中文/忏悔|忏悔]]、不断的呵责自己，从现在开始要「誓断一切恶，誓修一切善，誓度一切众生。」开始持五戒，改变过去的坏习惯。慢慢的「心若灭时罪亦亡」，你的内心不再造作，[[名相词典/中文/烦恼|烦恼]]的势力就薄弱了。等到你内心当中这样的[[名相词典/中文/烦恼|烦恼]]完全没有了，看到一切境界完全不起[[名相词典/中文/烦恼|烦恼]]——「心若灭时罪亦亡」，你的罪业也就改变过来了。当然会有很多征兆——你会梦到你吐出很多脏东西、在虚空上飞、看到[[名相词典/中文/三宝|三宝]]等等，这是因为你内心转变所致，这才是真正的大死一番。
+「心若滅時罪亦亡」：只要不斷的[[名相词典/中文/忏悔|懺悔]]、不斷的呵責自己，從現在開始要「誓斷一切惡，誓修一切善，誓度一切眾生。」開始持五戒，改變過去的壞習慣。慢慢的「心若滅時罪亦亡」，你的內心不再造作，[[名相词典/中文/烦恼|煩惱]]的勢力就薄弱了。等到你內心當中這樣的[[名相词典/中文/烦恼|煩惱]]完全沒有了，看到一切境界完全不起[[名相词典/中文/烦恼|煩惱]]——「心若滅時罪亦亡」，你的罪業也就改變過來了。當然會有很多徵兆——你會夢到你吐出很多髒東西、在虛空上飛、看到[[名相词典/中文/三宝|三寶]]等等，這是因為你內心轉變所致，這才是真正的大死一番。
 
 **English**
 "When the mind is extinguished, sin too perishes": so long as you repent unceasingly and rebuke yourself unceasingly, from now on you must vow: "I vow to cut off all evil, I vow to cultivate all good, I vow to deliver all sentient beings." Begin to keep the five precepts and change your past bad habits. Gradually, "when the mind is extinguished, sin too perishes": your mind no longer engages in [defiled] activity, and the force of the passions grows weak. When at last such passions within your mind are completely gone, so that upon seeing any object at all no [[名相词典/English/passions|passions]] arises — "when the mind is extinguished, sin too perishes" — your sinful karma too is thereby transformed. Of course there will be many signs — you may dream that you vomit up many filthy things, that you fly through the sky, that you behold the [[名相词典/English/Three Jewels|Three Jewels]], and so on; these come about because of the transformation of your mind. This is what is truly called "undergoing the great death once."
@@ -1003,7 +1003,7 @@ Kinh Phật nói: “Tội tùng tâm khởi tương tâm sám, tâm nhược di
 **§116**
 
 **中文**
-所以我们要知道：『今[[名相词典/中文/大乘|大乘]]明此百法，皆不离识。』就是[[名相词典/中文/十法界|十法界]]一切[[名相词典/中文/果报|果报]]，都是依止我们的心念而变现的。你的心念杂染，就变现杂染的[[名相词典/中文/果报|果报]]；你的心念清净，就变现清净的[[名相词典/中文/果报|果报]]。这表示什么？「实我本空，实法非有」，因为一切法空，所以才能够由[[名相词典/中文/心识|心识]]决定，它没有独立自主的体性——这就是「[[名相词典/中文/万法唯识|万法唯识]]」的道理。这个等于是把整个《百法明门论》的要义都讲出来了：「[[名相词典/中文/万法唯识|万法唯识]]」，一切法空，我空、法空。
+所以我們要知道：『今[[名相词典/中文/大乘|大乘]]明此百法，皆不離識。』就是[[名相词典/中文/十法界|十法界]]一切[[名相词典/中文/果报|果報]]，都是依止我們的心念而變現的。你的心念雜染，就變現雜染的[[名相词典/中文/果报|果報]]；你的心念清淨，就變現清淨的[[名相词典/中文/果报|果報]]。這表示什麼？「實我本空，實法非有」，因為一切法空，所以才能夠由[[名相词典/中文/心识|心識]]決定，它沒有獨立自主的體性——這就是「[[名相词典/中文/万法唯识|萬法唯識]]」的道理。這個等於是把整個《百法明門論》的要義都講出來了：「[[名相词典/中文/万法唯识|萬法唯識]]」，一切法空，我空、法空。
 
 **English**
 So we must understand: "Now the [[名相词典/English/Great Vehicle|Great Vehicle]] clarifies these Hundred Dharmas as all inseparable from consciousness." That is, all the retributions of the [[名相词典/English/ten dharma-realms|ten dharma-realms]] are manifested in dependence upon our mental thoughts. If your mental thoughts are defiled, they manifest defiled [[名相词典/English/karmic result|karmic result]]; if your mental thoughts are pure, they manifest pure [[名相词典/English/karmic result|karmic result]]. What does this show? "The real self is originally empty, and real dharmas are non-existent" — because all dharmas are empty, they can therefore be determined by [[名相词典/English/mind-consciousness|mind-consciousness]], having no independent, self-governing essence. This is precisely the principle of "the myriad dharmas being consciousness-only." This amounts to setting forth the entire essential purport of the *Treatise on the Hundred Dharmas*: "[[名相词典/English/the myriad dharmas are consciousness-only|the myriad dharmas are consciousness-only]]," all dharmas are empty — the self is empty, and dharmas are empty.
@@ -1019,7 +1019,7 @@ Cho nên chúng ta phải biết: “Nay [[名相词典/TiếngViệt/Đại th�
 **§117**
 
 **中文**
-再看最后一段。『若于一一法中，照达二空，则一一皆为[[名相词典/中文/大乘|大乘]]证理之门。』了解了这些道理干什么呢？就是要在每一法当中（以下的百法当中），要紧要照达二空：我空、法空。这样每一个法都是步入[[名相词典/中文/大乘|大乘]]、进入[[名相词典/中文/涅槃|涅槃]]之门。
+再看最後一段。『若於一一法中，照達二空，則一一皆為[[名相词典/中文/大乘|大乘]]證理之門。』了解了這些道理幹什麼呢？就是要在每一法當中（以下的百法當中），要緊要照達二空：我空、法空。這樣每一個法都是步入[[名相词典/中文/大乘|大乘]]、進入[[名相词典/中文/涅槃|涅槃]]之門。
 
 **English**
 Now let us look at the final section. "If, within each and every dharma, one illuminates and penetrates the twofold [[名相词典/English/emptiness|emptiness]], then each and every one becomes a gate for realizing the principle of the [[名相词典/English/Great Vehicle|Great Vehicle]]." What is the point of understanding these principles? It is that, within each and every dharma (within the Hundred Dharmas that follow), the essential thing is to illuminate and penetrate the twofold [[名相词典/English/emptiness|emptiness]] — the [[名相词典/English/emptiness|emptiness]] of self and the [[名相词典/English/emptiness|emptiness]] of dharmas. In this way each and every dharma is a step into the [[名相词典/English/Great Vehicle|Great Vehicle]], a gate entering into [[名相词典/English/nirvāṇa|nirvāṇa]].
@@ -1035,7 +1035,7 @@ Lại xem đoạn cuối. “Nếu trong mỗi mỗi pháp, chiếu đạt hai k
 **§118**
 
 **中文**
-我们从这段文，就可以看出来：虽然《[[名相词典/中文/唯识宗|唯识宗]]》安立了很多名相，但是它的目的，就是要你——「悟入[[名相词典/中文/空性|空性]]」！所以修行是要放下，跟世间法不一样。你看世间那些学问很高、财富很多、地位很高的人，「自我」的执著都很重，这些人你不能讲他的。因为世间人是有所「得」，不断的以自我为中心：这是我的财富、这是我的眷属、你现在一眼望过去都是我的土地……把「我」跟「我所」不断的增长起来，世间人是这样的观念。佛法的修学刚好相反，放弃自我——无我、无我所；佛法是「舍」——舍掉我所、舍掉自我，跟二空[[名相词典/中文/真如|真如]]相应，然后趋向于[[名相词典/中文/菩提|菩提]][[名相词典/中文/涅槃|涅槃]]。
+我們從這段文，就可以看出來：雖然《[[名相词典/中文/唯识宗|唯識宗]]》安立了很多名相，但是它的目的，就是要你——「悟入[[名相词典/中文/空性|空性]]」！所以修行是要放下，跟世間法不一樣。你看世間那些學問很高、財富很多、地位很高的人，「自我」的執著都很重，這些人你不能講他的。因為世間人是有所「得」，不斷的以自我為中心：這是我的財富、這是我的眷屬、你現在一眼望過去都是我的土地……把「我」跟「我所」不斷的增長起來，世間人是這樣的觀念。佛法的修學剛好相反，放棄自我——無我、無我所；佛法是「舍」——捨掉我所、捨掉自我，跟二空[[名相词典/中文/真如|真如]]相應，然後趨向於[[名相词典/中文/菩提|菩提]][[名相词典/中文/涅槃|涅槃]]。
 
 **English**
 From this passage we can see that, although the [[名相词典/English/Consciousness-Only school|Consciousness-Only school]] establishes many names and terms, its purpose is to bring you to "awaken and enter into [[名相词典/English/emptiness|emptiness]] (*śūnyatā*)"! Therefore practice is a matter of letting go — unlike worldly ways. Look at those worldly people of great learning, great wealth, and high position: their attachment to a "self" is very heavy, and such people cannot be corrected. Because worldly people are ones who "gain," constantly making the self the center: this is my wealth, these are my dependents, everything you now cast your eye over is my land… continually augmenting the "self" and "what belongs to self" — such is the worldly person's outlook. The cultivation of the Buddha-dharma is exactly the opposite: to renounce the self — no self, nothing belonging to self; the Buddha-dharma is "relinquishing" — relinquishing what belongs to self, relinquishing the self, corresponding with the twofold-[[名相词典/English/emptiness|emptiness]] [[名相词典/English/true suchness|true suchness]] (*tathatā*), and then heading toward bodhi and [[名相词典/English/nirvāṇa|nirvāṇa]].
@@ -1051,7 +1051,7 @@ Từ đoạn văn này, chúng ta có thể thấy: tuy [[名相词典/TiếngVi
 **§119**
 
 **中文**
-所以说：『若于一一法中，照达二空，则一一皆为[[名相词典/中文/大乘|大乘]]证理之门。』这就是说明《百法明门论》主要的修行就是修「我空观」跟「法空观」，而趋向于大般[[名相词典/中文/涅槃|涅槃]]。这个是讲到这部论的标题，也顺便把这部论的宗旨说出来了。
+所以說：『若於一一法中，照達二空，則一一皆為[[名相词典/中文/大乘|大乘]]證理之門。』這就是說明《百法明門論》主要的修行就是修「我空觀」跟「法空觀」，而趨向於大般[[名相词典/中文/涅槃|涅槃]]。這個是講到這部論的標題，也順便把這部論的宗旨說出來了。
 
 **English**
 Therefore it is said: "If, within each and every dharma, one illuminates and penetrates the twofold [[名相词典/English/emptiness|emptiness]], then each and every one becomes a gate for realizing the principle of the [[名相词典/English/Great Vehicle|Great Vehicle]]." This explains that the principal practice of the *Treatise on the Hundred Dharmas* is to cultivate the "contemplation of the [[名相词典/English/emptiness|emptiness]] of self" and the "contemplation of the [[名相词典/English/emptiness|emptiness]] of dharmas," and thereby to head toward great final [[名相词典/English/nirvāṇa|nirvāṇa]] (*mahā-[[名相词典/English/parinirvāṇa|parinirvāṇa]]*). This has dealt with the title of the treatise, and in passing has also set forth the treatise's guiding purport.

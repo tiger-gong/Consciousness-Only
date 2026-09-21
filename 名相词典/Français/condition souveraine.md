@@ -4,11 +4,14 @@ lang: fr
 sanskrit: adhipati-pratyaya
 aliases:
   - adhipati-pratyaya
+  - condition prédominante
 tags:
   - 名相
 ---
 
-# condition prédominante
+# condition souveraine
+> 校准自「condition prédominante」，依 La Vallée Poussin 法译体例（《俱舍论》法译 / 法语唯识通称 darśanabhāga = partie voyante）。
+
 **梵 / Sanskrit**：*adhipati-pratyaya*
 
 ## Explication（Français）

@@ -1,15 +1,15 @@
-# 《大乘百法明门论·直解》五语对照（第三讲）
+# 《大乘百法明門論·直解》五語對照（第三講）
 
-> **原著**：天亲菩萨造 · 蕅益大师注 · 净界法师讲述
-> **对照语言**：简体中文（原文，繁转简）／ English ／ Français ／ Tiếng Việt
-> **排版体例**：逐段依次呈现 中文 → English → Français → Tiếng Việt（全书 Volume 1 连续编号 §N；佛学名词意译为主，首次出现附梵文/音译）
+> **原著**：天親菩薩造 · 蕅益大師注 · 淨界法師講述
+> **對照語言**：繁體中文（原文）／ English ／ Français ／ Tiếng Việt
+> **排版體例**：逐段依次呈現 中文 → English → Français → Tiếng Việt（全書 Volume 1 連續編號 §N；佛學名詞意譯為主，首次出現附梵文/音譯）
 
 ---
 
 **§120**
 
 **中文**
-（第三讲）甲三、[[名相词典/中文/随文释义|随文释义]]。我们这次研究《百法明门论》课程，总共分成四大科：甲一、「[[名相词典/中文/论主略史|论主略史]]」；甲二、「解释题目」；甲三、「[[名相词典/中文/随文释义|随文释义]]」；甲四、「[[名相词典/中文/结示劝修|结示劝修]]」。前面两科是前言，是进入正文之前应有的认识，这两科我们已经讲解过了。今天开始，我们正式进入到论文的内容。「[[名相词典/中文/随文释义|随文释义]]」：随顺论文的文字，来解释其中的义理。这当中，我们把论文分成两大科：乙一、[[名相词典/中文/承圣言以标宗|承圣言以标宗]]；乙二、[[名相词典/中文/设问答以明宗|设问答以明宗]]。
+（第三講）甲三、[[名相词典/中文/随文释义|隨文釋義]]。我們這次研究《百法明門論》課程，總共分成四大科：甲一、「[[名相词典/中文/论主略史|論主略史]]」；甲二、「解釋題目」；甲三、「[[名相词典/中文/随文释义|隨文釋義]]」；甲四、「[[名相词典/中文/结示劝修|結示勸修]]」。前面兩科是前言，是進入正文之前應有的認識，這兩科我們已經講解過了。今天開始，我們正式進入到論文的內容。「[[名相词典/中文/随文释义|隨文釋義]]」：隨順論文的文字，來解釋其中的義理。這當中，我們把論文分成兩大科：乙一、[[名相词典/中文/承圣言以标宗|承聖言以標宗]]；乙二、[[名相词典/中文/设问答以明宗|設問答以明宗]]。
 
 **English**
 (Lecture Three) Section Three: [[名相词典/English/explaining the meaning in accordance with the text|Explaining the Meaning in Accordance with the Text]]. Our course of study of the *Treatise on the Hundred Dharmas* is divided into four main parts: (1) "[[名相词典/English/a brief history of the author|A Brief History of the Author]] of the Treatise"; (2) "Explaining the Title"; (3) "[[名相词典/English/explaining the meaning in accordance with the text|Explaining the Meaning in Accordance with the Text]]"; and (4) "A [[名相词典/English/concluding exhortation to practice|Concluding Exhortation to Practice]]." The first two parts are introductory — the understanding one ought to have before entering the main text — and these two we have already explained. Beginning today, we formally enter the content of the treatise proper. "[[名相词典/English/explaining the meaning in accordance with the text|Explaining the meaning in accordance with the text]]" means: following along with the words of the treatise, to explain the doctrinal meaning within them. Within this, we divide the treatise-text into two main parts: (1) "receiving the sacred word so as to set forth the tenet"; and (2) "setting up questions and answers so as to clarify the tenet."
@@ -25,7 +25,7 @@
 **§121**
 
 **中文**
-古印度的一些重要论典，比方说《[[名相词典/中文/瑜伽师地论|瑜伽师地论]]》乃至于《百法明门论》等等，印度人在解释佛法，都是先做一个略说、总说，然后再广泛的说明。本论的结构也是如此：首先「[[名相词典/中文/承圣言以标宗|承圣言以标宗]]」——先传承佛陀的[[名相词典/中文/圣言量|圣言量]]，标出本论的宗旨，先简单的把本论的宗旨标示出来；其次再用问答的方式，广泛详细的说明本论的宗旨。这是本论的结构方式。
+古印度的一些重要論典，比方說《[[名相词典/中文/瑜伽师地论|瑜伽師地論]]》乃至於《百法明門論》等等，印度人在解釋佛法，都是先做一個略說、總說，然後再廣泛的說明。本論的結構也是如此：首先「[[名相词典/中文/承圣言以标宗|承聖言以標宗]]」——先傳承佛陀的[[名相词典/中文/圣言量|聖言量]]，標出本論的宗旨，先簡單的把本論的宗旨標示出來；其次再用問答的方式，廣泛詳細的說明本論的宗旨。這是本論的結構方式。
 
 **English**
 In some important treatises of ancient India — for instance, the *Yogācārabhūmi-śāstra* and even the *Treatise on the Hundred Dharmas* — when Indians explained the Buddha-dharma, they would always first give a brief, general statement, and only then a broad and detailed exposition. The structure of the present treatise is likewise: first, "receiving the sacred word so as to set forth the tenet" — first transmitting the [[名相词典/English/authoritative sacred word|authoritative sacred word]] (*āptavacana*) of the Buddha and setting forth the guiding tenet of this treatise, briefly indicating the treatise's tenet; and next, using the method of question and answer to explain the treatise's tenet broadly and in detail. This is the structural manner of the treatise.
@@ -41,7 +41,7 @@ Một số luận điển quan trọng của Ấn Độ cổ, chẳng hạn 《[
 **§122**
 
 **中文**
-乙一、[[名相词典/中文/承圣言以标宗|承圣言以标宗]]。【如世尊言：「[[名相词典/中文/一切法无我|一切法无我]]。」】[[名相词典/中文/天亲菩萨|天亲菩萨]]在讲《百法明门论》之前，先标出本论的宗旨。『如世尊言』：这个「如」就是「随顺」。意思是说，本论的宗旨不是我（[[名相词典/中文/天亲菩萨|天亲菩萨]]）能够觉悟的，而是传承世尊在一切[[名相词典/中文/大乘|大乘]]经典的开示，这个传承来自于佛陀的说法。
+乙一、[[名相词典/中文/承圣言以标宗|承聖言以標宗]]。【如世尊言：「[[名相词典/中文/一切法无我|一切法無我]]。」】[[名相词典/中文/天亲菩萨|天親菩薩]]在講《百法明門論》之前，先標出本論的宗旨。『如世尊言』：這個「如」就是「隨順」。意思是說，本論的宗旨不是我（[[名相词典/中文/天亲菩萨|天親菩薩]]）能夠覺悟的，而是傳承世尊在一切[[名相词典/中文/大乘|大乘]]經典的開示，這個傳承來自於佛陀的說法。
 
 **English**
 (1) Receiving the sacred word so as to set forth the tenet. **[As the World-Honored One said: "[[名相词典/English/all dharmas are without self|All dharmas are without self]]."]** Before expounding the *Treatise on the Hundred Dharmas*, [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] first sets forth the guiding tenet of the treatise. "As the World-Honored One said": this "as" means "in accordance with, following." The meaning is that the tenet of this treatise is not something that I (Vasubandhu) am able to awaken to on my own, but is a transmission of the World-Honored One's teachings throughout all the Mahāyāna scriptures; this transmission derives from the Buddha's own preaching of the Dharma.
@@ -57,7 +57,7 @@ Một số luận điển quan trọng của Ấn Độ cổ, chẳng hạn 《[
 **§123**
 
 **中文**
-就像我们一般经典的「[[名相词典/中文/如是我闻|如是我闻]]」，这是[[名相词典/中文/阿难尊者|阿难尊者]]在结集经典时，先作一个表态：以下的经文，不是我阿难能够觉悟到的，是传承佛陀的法——我如是闻、我如是说，这个法是大智慧光明的佛陀所宣说的，是没有错谬、不颠倒的。[[名相词典/中文/天亲菩萨|天亲菩萨]]亦复如是：「如世尊言」，皆是随顺于[[名相词典/中文/大乘|大乘]]经典佛陀的[[名相词典/中文/圣言量|圣言量]]。
+就像我們一般經典的「[[名相词典/中文/如是我闻|如是我聞]]」，這是[[名相词典/中文/阿难尊者|阿難尊者]]在結集經典時，先作一個表態：以下的經文，不是我阿難能夠覺悟到的，是傳承佛陀的法——我如是聞、我如是說，這個法是大智慧光明的佛陀所宣說的，是沒有錯謬、不顛倒的。[[名相词典/中文/天亲菩萨|天親菩薩]]亦復如是：「如世尊言」，皆是隨順於[[名相词典/中文/大乘|大乘]]經典佛陀的[[名相词典/中文/圣言量|聖言量]]。
 
 **English**
 It is like the "[[名相词典/English/Thus have I heard|Thus have I heard]]" at the beginning of scriptures in general: this is [[名相词典/English/Venerable Ānanda|Venerable Ānanda]], when compiling the scriptures, first making a declaration — that the scriptural text which follows is not something that I, Ānanda, was able to awaken to on my own, but is a transmission of the Buddha's Dharma. "[[名相词典/English/Thus have I heard|Thus have I heard]], thus do I relate": this Dharma was proclaimed by the Buddha of great wisdom and radiance; it is free of error and not inverted. [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] is likewise: "As the World-Honored One said" — all of it is in accordance with the [[名相词典/English/authoritative sacred word|authoritative sacred word]] of the Buddha in the Mahāyāna scriptures.
@@ -73,7 +73,7 @@ Giống như “[[名相词典/TiếngViệt/Như thị ngã văn|Như thị ng�
 **§124**
 
 **中文**
-佛陀讲什么呢？『[[名相词典/中文/一切法无我|一切法无我]]』，这就是本论的宗旨。「一切法」，在本论当中分成两类：一个是「[[名相词典/中文/有为法|有为法]]」，一个是「[[名相词典/中文/无为法|无为法]]」。有造作[[名相词典/中文/因缘|因缘]]的就是「[[名相词典/中文/有为法|有为法]]」；不是[[名相词典/中文/因缘|因缘]]造作、呈现一种寂静状态的是「[[名相词典/中文/无为法|无为法]]」。「[[名相词典/中文/有为法|有为法]]」又分成两类：第一个是「[[名相词典/中文/色法|色法]]」，第二个是「[[名相词典/中文/心法|心法]]」。「色、心」二法又分成两类：一个是我们[[名相词典/中文/凡夫|凡夫]]的——「惑、业、苦」杂染的境界；一个是[[名相词典/中文/圣人|圣人]]表现出来的——清净的境界。上述这一切都叫做「一切法」，本论把它统摄成「百法」。这一切现象的百法，它的本质是什么呢？「无我」，也就是「[[名相词典/中文/人无我|人无我]]、[[名相词典/中文/法无我|法无我]]」。简单讲，这一切法一定要假借[[名相词典/中文/因缘|因缘]]才能够成就，离开了[[名相词典/中文/因缘|因缘]]，没有独立自主的体性。无论是人、或是法，都没有独立自主的体性，这叫「无我」。
+佛陀講什麼呢？『[[名相词典/中文/一切法无我|一切法無我]]』，這就是本論的宗旨。「一切法」，在本論當中分成兩類：一個是「[[名相词典/中文/有为法|有為法]]」，一個是「[[名相词典/中文/无为法|無為法]]」。有造作[[名相词典/中文/因缘|因緣]]的就是「[[名相词典/中文/有为法|有為法]]」；不是[[名相词典/中文/因缘|因緣]]造作、呈現一種寂靜狀態的是「[[名相词典/中文/无为法|無為法]]」。「[[名相词典/中文/有为法|有為法]]」又分成兩類：第一個是「[[名相词典/中文/色法|色法]]」，第二個是「[[名相词典/中文/心法|心法]]」。「色、心」二法又分成兩類：一個是我們[[名相词典/中文/凡夫|凡夫]]的——「惑、業、苦」雜染的境界；一個是[[名相词典/中文/圣人|聖人]]表現出來的——清淨的境界。上述這一切都叫做「一切法」，本論把它統攝成「百法」。這一切現象的百法，它的本質是什麼呢？「無我」，也就是「[[名相词典/中文/人无我|人無我]]、[[名相词典/中文/法无我|法無我]]」。簡單講，這一切法一定要假借[[名相词典/中文/因缘|因緣]]才能夠成就，離開了[[名相词典/中文/因缘|因緣]]，沒有獨立自主的體性。無論是人、或是法，都沒有獨立自主的體性，這叫「無我」。
 
 **English**
 What did the Buddha say? "[[名相词典/English/all dharmas are without self|All dharmas are without self]]" — this is the tenet of the treatise. "All dharmas," in this treatise, divide into two categories: one is "[[名相词典/English/conditioned dharmas|conditioned dharmas]]" (*saṃskṛta*), and the other is "[[名相词典/English/unconditioned dharmas|unconditioned dharmas]]" (*asaṃskṛta*). That which has the [[名相词典/English/condition as cause|condition as cause]] of activity is "conditioned dharma"; that which is not made by [[名相词典/English/condition as cause|condition as cause]] and presents a state of quiescence is "unconditioned dharma." "[[名相词典/English/conditioned dharmas|Conditioned dharmas]]" further divide into two categories: first, "[[名相词典/English/form|form]]" (*rūpa*), and second, "[[名相词典/English/mind|mind]]" (*citta*). The two dharmas of "form and mind" further divide into two categories: one is that of us ordinary beings — the defiled states of "[[名相词典/English/passion, karma, and suffering|passion, karma, and suffering]]" (*kleśa, karma, duḥkha*); the other is that manifested by the noble ones — the pure states. All the above is called "all dharmas," which the treatise subsumes under the "Hundred Dharmas." As for these Hundred Dharmas of all phenomena, what is their essential nature? "No-self," that is, "the [[名相词典/English/absence of self|absence of self]] and the [[名相词典/English/emptiness of dharmas|emptiness of dharmas]]." Put simply, all these dharmas can only be brought about by borrowing [[名相词典/English/condition as cause|condition as cause]]; apart from [[名相词典/English/condition as cause|condition as cause]], they have no independent, self-governing essence. Whether persons or dharmas, none has an independent, self-governing essence — this is called "no-self."
@@ -89,7 +89,7 @@ Qu'a dit le Bouddha ? « [[名相词典/Français/tous les dharmas sont sans soi
 **§125**
 
 **中文**
-这是简单的消文。我们看蕅祖的解释，经文分成三段：『此借圣言，以征起也。』[[名相词典/中文/天亲菩萨|天亲菩萨]]先假借佛陀的开示来「征起」；「征」就是「证明」，证明这个宗旨是正确、不颠倒的；因为这是佛说的，佛陀所说的道理，当然是不颠倒的——来证明本论的宗旨。以下把「[[名相词典/中文/一切法无我|一切法无我]]」——「[[名相词典/中文/人无我|人无我]]」跟「[[名相词典/中文/法无我|法无我]]」做一个定义。
+這是簡單的消文。我們看蕅祖的解釋，經文分成三段：『此借聖言，以征起也。』[[名相词典/中文/天亲菩萨|天親菩薩]]先假借佛陀的開示來「征起」；「征」就是「證明」，證明這個宗旨是正確、不顛倒的；因為這是佛說的，佛陀所說的道理，當然是不顛倒的——來證明本論的宗旨。以下把「[[名相词典/中文/一切法无我|一切法無我]]」——「[[名相词典/中文/人无我|人無我]]」跟「[[名相词典/中文/法无我|法無我]]」做一個定義。
 
 **English**
 This is a simple parsing of the text. Let us look at Patriarch Ǒuyì's explanation; the passage divides into three parts: "This borrows the sacred word in order to introduce [the theme]." [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] first borrows the Buddha's teaching to "introduce and evoke [the theme]"; "to evoke" means "to prove" — to prove that this tenet is correct and not inverted. Because this was spoken by the Buddha, and the principles the Buddha speaks are of course not inverted — [it is used] to prove the tenet of the treatise. What follows gives a definition of "[[名相词典/English/all dharmas are without self|all dharmas are without self]]" — the "[[名相词典/English/absence of self|absence of self]]" and the "[[名相词典/English/emptiness of dharmas|emptiness of dharmas]]."
@@ -105,7 +105,7 @@ Ceci est une analyse simple du texte. Regardons l'explication du patriarche Ǒuy
 **§126**
 
 **中文**
-什么叫「法」呢？『[[名相词典/中文/法名轨持|法名轨持]]』，「法」就是轨持。「轨」就是一种轨范，有了轨范，「轨生意解」，能令我们生起了解；「持」是任持[[名相词典/中文/自性|自性]]，能任意的执持它的体性，不失不坏。
+什麼叫「法」呢？『[[名相词典/中文/法名轨持|法名軌持]]』，「法」就是軌持。「軌」就是一種軌範，有了軌範，「軌生意解」，能令我們生起了解；「持」是任持[[名相词典/中文/自性|自性]]，能任意的執持它的體性，不失不壞。
 
 **English**
 What is a "dharma"? "'Dharma' means 'rule and retention.'" A "dharma" is precisely "rule and retention." "Rule" is a kind of norm or standard; having a norm, "the norm gives rise to conceptual understanding" — it can cause us to give rise to an understanding [of the thing]. "Retention" means retaining and upholding its own nature — it is able to hold onto its own essence, so that it is not lost and not destroyed.
@@ -121,7 +121,7 @@ Thế nào gọi là “pháp”? “[[名相词典/TiếngViệt/pháp danh qu�
 **§127**
 
 **中文**
-我们举一个例子：譬如「抚尺」是一个法，是「[[名相词典/中文/有为法|有为法]]」的[[名相词典/中文/色法|色法]]，有一个轨范；透过这个轨范，你就能够认识它是一个抚尺——它的材质是木头、形状是长方形……下次再看到同样的东西，我们就知道它是一个抚尺。因为它有一个轨范，使令我们对它产生认识，而这个轨范在[[名相词典/中文/业力|业力]]还没有消失前，能够任持[[名相词典/中文/自性|自性]]，保持住它的体性。又好比我们「人」也是一样，这个人是某某法师，他的眼耳鼻舌身、他的相貌，有一定的轨范，他不可能今天是这个相貌、明天变成另外一种相貌，因为他有一个轨范，使令我们认识他；而且能够在某个时段里，保持他的轨范不失掉。这个就是「法」——凡是能够见闻觉知的这一切，都是「法」，它所涵盖的范围很广。
+我們舉一個例子：譬如「撫尺」是一個法，是「[[名相词典/中文/有为法|有為法]]」的[[名相词典/中文/色法|色法]]，有一個軌範；透過這個軌範，你就能夠認識它是一個撫尺——它的材質是木頭、形狀是長方形……下次再看到同樣的東西，我們就知道它是一個撫尺。因為它有一個軌範，使令我們對它產生認識，而這個軌範在[[名相词典/中文/业力|業力]]還沒有消失前，能夠任持[[名相词典/中文/自性|自性]]，保持住它的體性。又好比我們「人」也是一樣，這個人是某某法師，他的眼耳鼻舌身、他的相貌，有一定的軌範，他不可能今天是這個相貌、明天變成另外一種相貌，因為他有一個軌範，使令我們認識他；而且能夠在某個時段裡，保持他的軌範不失掉。這個就是「法」——凡是能夠見聞覺知的這一切，都是「法」，它所涵蓋的範圍很廣。
 
 **English**
 Let us give an example: for instance, a "gavel/ruler" (a speaker's rapping-stick) is a dharma — a form-dharma among the [[名相词典/English/conditioned dharmas|conditioned dharmas]] — and it has a norm; through this norm, you are able to recognize it as a gavel: its material is wood, its shape is rectangular… and the next time we see the same kind of thing, we know it is a gavel. Because it has a norm that enables us to form a recognition of it, and this norm, before its [[名相词典/English/karmic force|karmic force]] has vanished, is able to retain and uphold its own nature, maintaining its essence. Again, take us "humans" — it is the same: this person is such-and-such a Dharma-master; his eyes, ears, nose, tongue, and body, and his features, have a definite norm. He cannot possibly have this appearance today and change into another appearance tomorrow, because he has a norm that enables us to recognize him; and during a certain span of time, he is able to keep his norm without losing it. This is a "dharma" — everything that can be seen, heard, sensed, or cognized is a "dharma"; the range it covers is very broad.
@@ -137,7 +137,7 @@ Chúng ta nêu một ví dụ: chẳng hạn “cây thước (phủ xích)” l
 **§128**
 
 **中文**
-『[[名相词典/中文/我名主宰|我名主宰]]』，所谓「我」是指能够独立自主的主宰者。我们一般常说：「我」住在色身里面、我能够主宰我的色身。其实我们哪能够主宰？我们的身体[[名相词典/中文/刹那|刹那]][[名相词典/中文/刹那|刹那]]老、病、死，你说「我现在要把老病死给停下来！」没办法，根本作不了主！我们的身体每一个细胞，都会起老病死的变化，你不能主宰，你没有主宰的权力，是[[名相词典/中文/业力|业力]]在主宰，所以讲「无我」是正确、不颠倒的。『[[名相词典/中文/我名主宰|我名主宰]]』，能够不受[[名相词典/中文/因缘|因缘]]的控制、能够主宰万法，这才叫「我」；当然这样的「我」是不存在的。
+『[[名相词典/中文/我名主宰|我名主宰]]』，所謂「我」是指能夠獨立自主的主宰者。我們一般常說：「我」住在色身裡面、我能夠主宰我的色身。其實我們哪能夠主宰？我們的身體[[名相词典/中文/刹那|剎那]][[名相词典/中文/刹那|剎那]]老、病、死，你說「我現在要把老病死給停下來！」沒辦法，根本作不了主！我們的身體每一個細胞，都會起老病死的變化，你不能主宰，你沒有主宰的權力，是[[名相词典/中文/业力|業力]]在主宰，所以講「無我」是正確、不顛倒的。『[[名相词典/中文/我名主宰|我名主宰]]』，能夠不受[[名相词典/中文/因缘|因緣]]的控制、能夠主宰萬法，這才叫「我」；當然這樣的「我」是不存在的。
 
 **English**
 "'Self' means 'sovereign controller.'" The so-called "self" refers to a sovereign controller that can be independent and self-governing. We commonly say: "I" dwell within the physical body, and I can control my body. But how could we actually control it? Our body moment by moment ages, sickens, and dies; if you say, "I will now bring aging, sickness, and death to a halt!" — there is no way, you fundamentally cannot be the master of it! Every cell of our body undergoes the changes of aging, sickness, and death; you cannot control it, you have no controlling authority — it is [[名相词典/English/karmic force|karmic force]] that controls it. So to speak of "no-self" is correct and not inverted. "'Self' means 'sovereign controller'": one that can be free from the control of [[名相词典/English/condition as cause|condition as cause]] and can be the sovereign controller of the myriad dharmas — only that could be called a "self"; and of course such a "self" does not exist.
@@ -153,7 +153,7 @@ Chúng ta nêu một ví dụ: chẳng hạn “cây thước (phủ xích)” l
 **§129**
 
 **中文**
-『今既言[[名相词典/中文/一切法无我|一切法无我]]，须遍于一切法中通达二无我义也。』既然讲「[[名相词典/中文/一切法无我|一切法无我]]」，不是某一部分的法，而是全部的法都是无我，因此我们学习本论，就应该普遍于一切法当中，通达二无我义——「[[名相词典/中文/人无我|人无我]]、[[名相词典/中文/法无我|法无我]]」。这是我们研究百法的目的：透过《百法明门论》的学习，我们了解到「[[名相词典/中文/一切法无我|一切法无我]]」的义理。这是在进入本论之前，[[名相词典/中文/天亲菩萨|天亲菩萨]]先把本论的宗旨标出来，使令我们对正文有一个明确的会归处。
+『今既言[[名相词典/中文/一切法无我|一切法無我]]，須遍於一切法中通達二無我義也。』既然講「[[名相词典/中文/一切法无我|一切法無我]]」，不是某一部分的法，而是全部的法都是無我，因此我們學習本論，就應該普遍於一切法當中，通達二無我義——「[[名相词典/中文/人无我|人無我]]、[[名相词典/中文/法无我|法無我]]」。這是我們研究百法的目的：透過《百法明門論》的學習，我們了解到「[[名相词典/中文/一切法无我|一切法無我]]」的義理。這是在進入本論之前，[[名相词典/中文/天亲菩萨|天親菩薩]]先把本論的宗旨標出來，使令我們對正文有一個明確的會歸處。
 
 **English**
 "Now, since it is said that '[[名相词典/English/all dharmas are without self|all dharmas are without self]],' one must, throughout all dharmas, penetrate the meaning of the twofold selflessness." Since it says "[[名相词典/English/all dharmas are without self|all dharmas are without self]]" — not some part of dharmas, but the entirety of dharmas being without self — therefore, in studying this treatise, we ought, throughout all dharmas, to penetrate the meaning of the twofold selflessness: "the [[名相词典/English/absence of self|absence of self]] and the [[名相词典/English/emptiness of dharmas|emptiness of dharmas]]." This is the purpose of our studying the Hundred Dharmas: through studying the *Treatise on the Hundred Dharmas*, we come to understand the principle that "[[名相词典/English/all dharmas are without self|all dharmas are without self]]." Before we enter the treatise, [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] first sets forth the tenet of the treatise, giving us a clear point of convergence for the main text.
@@ -169,7 +169,7 @@ Chúng ta nêu một ví dụ: chẳng hạn “cây thước (phủ xích)” l
 **§130**
 
 **中文**
-关于「[[名相词典/中文/一切法无我|一切法无我]]」，我们看附表一：「[[名相词典/中文/万法唯识|万法唯识]]」。『[[名相词典/中文/一切法无我|一切法无我]]』是整个[[名相词典/中文/大乘|大乘]]佛法的主要宗旨。[[名相词典/中文/小乘|小乘]]佛法但发明「[[名相词典/中文/人无我|人无我]]」，不发明「[[名相词典/中文/法无我|法无我]]」；[[名相词典/中文/大乘|大乘]]佛法主张二无我——「[[名相词典/中文/人无我|人无我]]，法也无我」。站在唯识的角度，它是以「[[名相词典/中文/万法唯识|万法唯识]]」的思想来发明「无我义」；为什么「[[名相词典/中文/一切法无我|一切法无我]]」？因为一切法是[[名相词典/中文/心识|心识]]所变现，所以是「无我」。
+關於「[[名相词典/中文/一切法无我|一切法無我]]」，我們看附表一：「[[名相词典/中文/万法唯识|萬法唯識]]」。『[[名相词典/中文/一切法无我|一切法無我]]』是整個[[名相词典/中文/大乘|大乘]]佛法的主要宗旨。[[名相词典/中文/小乘|小乘]]佛法但發明「[[名相词典/中文/人无我|人無我]]」，不發明「[[名相词典/中文/法无我|法無我]]」；[[名相词典/中文/大乘|大乘]]佛法主張二無我——「[[名相词典/中文/人无我|人無我]]，法也無我」。站在唯識的角度，它是以「[[名相词典/中文/万法唯识|萬法唯識]]」的思想來發明「無我義」；為什麼「[[名相词典/中文/一切法无我|一切法無我]]」？因為一切法是[[名相词典/中文/心识|心識]]所變現，所以是「無我」。
 
 **English**
 Concerning "[[名相词典/English/all dharmas are without self|all dharmas are without self]]," let us look at Appendix One: "[[名相词典/English/the myriad dharmas are consciousness-only|the myriad dharmas are consciousness-only]]." "[[名相词典/English/all dharmas are without self|All dharmas are without self]]" is the principal tenet of the whole of Mahāyāna Buddhism. Lesser-Vehicle Buddhism only elucidates "the [[名相词典/English/absence of self|absence of self]]" and does not elucidate "the [[名相词典/English/emptiness of dharmas|emptiness of dharmas]]"; Mahāyāna Buddhism upholds the twofold selflessness — "the [[名相词典/English/absence of self|absence of self]], and dharmas too are without self." From the standpoint of Consciousness-Only, it uses the thought of "the myriad dharmas being consciousness-only" to elucidate the meaning of "no-self." Why are "all dharmas without self"? Because all dharmas are manifested by [[名相词典/English/mind-consciousness|mind-consciousness]], and therefore they are "without self."
@@ -185,7 +185,7 @@ Về “[[名相词典/TiếngViệt/tất cả pháp vô ngã|tất cả pháp 
 **§131**
 
 **中文**
-关于这个观念，我们看图表来解释比较清楚：先看最上的第一个圆圈是「[[名相词典/中文/业力|业力]]」；[[名相词典/中文/业力|业力]]包括了身、口、意三业。什么是「业」呢？就是造作，身口意所造作的行为就是「业」。比如说我今天拜佛，身体的活动——从站起来到跪下去、然后头著地、再起来，你今天累积了一个善业；嘴里念一句阿弥陀佛，这也是一个口的善业；内心一动，忆念佛陀、思惟佛陀的功德，这也是一种[[名相词典/中文/业力|业力]]。凡是身口意的造作都是业。这样的[[名相词典/中文/业力|业力]]，它的本质是一种无常，佛法讲「[[名相词典/中文/诸行无常|诸行无常]]」，就是说一切「[[名相词典/中文/有为法|有为法]]」都是[[名相词典/中文/刹那|刹那]][[名相词典/中文/刹那|刹那]]在变化；但虽然它[[名相词典/中文/刹那|刹那]][[名相词典/中文/刹那|刹那]]变化，也有它的功能，能[[名相词典/中文/熏习|熏习]]我们的[[名相词典/中文/阿赖耶识|阿赖耶识]]，就像香气能够[[名相词典/中文/熏习|熏习]]衣服——当香气慢慢散发出来的时候，香气会熏到我们的衣服上。
+關於這個觀念，我們看圖表來解釋比較清楚：先看最上的第一個圓圈是「[[名相词典/中文/业力|業力]]」；[[名相词典/中文/业力|業力]]包括了身、口、意三業。什麼是「業」呢？就是造作，身口意所造作的行為就是「業」。比如說我今天拜佛，身體的活動——從站起來到跪下去、然後頭著地、再起來，你今天累積了一個善業；嘴裡念一句阿彌陀佛，這也是一個口的善業；內心一動，憶念佛陀、思惟佛陀的功德，這也是一種[[名相词典/中文/业力|業力]]。凡是身口意的造作都是業。這樣的[[名相词典/中文/业力|業力]]，它的本質是一種無常，佛法講「[[名相词典/中文/诸行无常|諸行無常]]」，就是說一切「[[名相词典/中文/有为法|有為法]]」都是[[名相词典/中文/刹那|剎那]][[名相词典/中文/刹那|剎那]]在變化；但雖然它[[名相词典/中文/刹那|剎那]][[名相词典/中文/刹那|剎那]]變化，也有它的功能，能[[名相词典/中文/熏习|熏習]]我們的[[名相词典/中文/阿赖耶识|阿賴耶識]]，就像香氣能夠[[名相词典/中文/熏习|熏習]]衣服——當香氣慢慢散發出來的時候，香氣會熏到我們的衣服上。
 
 **English**
 Concerning this idea, let us look at the diagram, which explains it more clearly: first look at the topmost first circle, which is "[[名相词典/English/karmic force|karmic force]]"; [[名相词典/English/karmic force|karmic force]] includes the [[名相词典/English/three karmas of body, speech, and mind|three karmas of body, speech, and mind]]. What is "karma"? It is action; the actions performed by body, speech, and mind are "karma." For example, if today I bow to the Buddha, the body's activity — from rising to kneeling down, then touching the head to the ground, then rising again — you have today accumulated a wholesome karma; reciting "Amitābha Buddha" with the mouth is likewise a wholesome karma of speech; when the mind stirs, recollecting the Buddha and contemplating the Buddha's merits is also a kind of [[名相词典/English/karmic force|karmic force]]. Whatever is done by body, speech, or mind is karma. Such [[名相词典/English/karmic force|karmic force]] is, in essence, a kind of impermanence — the Buddha-dharma speaks of "[[名相词典/English/all formations are impermanent|all formations are impermanent]]," meaning that all "[[名相词典/English/conditioned dharmas|conditioned dharmas]]" are changing moment by moment; yet although it changes moment by moment, it also has its function: it can perfume our [[名相词典/English/store consciousness|store consciousness]] (*ālaya-vijñāna*), just as fragrance can perfume clothing — when the fragrance gradually diffuses out, the fragrance perfumes our clothes.
@@ -201,7 +201,7 @@ Về quan [[名相词典/TiếngViệt/niệm|niệm]] này, chúng ta xem đồ
 **§132**
 
 **中文**
-我们解释什么叫「阿赖耶」？「阿赖耶」是印度语，翻成中文叫「藏」，蕴藏的「藏」。什么是「藏」呢？就是「摄持不失」。它能够把我们的行为，不管是外在身体、口的行为，或是内心的活动，把它保存起来；但是[[名相词典/中文/阿赖耶识|阿赖耶识]]本身不造业。
+我們解釋什麼叫「阿賴耶」？「阿賴耶」是印度語，翻成中文叫「藏」，蘊藏的「藏」。什麼是「藏」呢？就是「攝持不失」。它能夠把我們的行為，不管是外在身體、口的行為，或是內心的活動，把它保存起來；但是[[名相词典/中文/阿赖耶识|阿賴耶識]]本身不造業。
 
 **English**
 Let us explain what "ālaya" means. "Ālaya" is a Sanskrit word, translated into Chinese as "store" (*zàng*), the "store" of "storing up." What is the "store"? It is "gathering, holding, and not losing." It is able to take our actions — whether the outer actions of body and speech, or the inner activities of mind — and preserve them; yet the [[名相词典/English/store consciousness|store consciousness]] (*ālaya-vijñāna*) does not itself create karma.
@@ -217,7 +217,7 @@ Chúng ta giải thích thế nào gọi là “A-lại-da”? “A-lại-da” 
 **§133**
 
 **中文**
-我们可以把八种[[名相词典/中文/心识|心识]]，简单分成两类：「[[名相词典/中文/前七识|前七识]]」是造业的，它能够造作善业、恶业、[[名相词典/中文/有漏|有漏]]业、[[名相词典/中文/无漏|无漏]]业。而这个「[[名相词典/中文/第八识|第八识]]」它本身不造业，它是一种很微细的[[名相词典/中文/心识|心识]]流动，非常微细。它不造业，它的功能是什么呢？「摄持不失」：它将前[[名相词典/中文/七转识|七转识]]所造的[[名相词典/中文/业力|业力]]保存下来。所以「[[名相词典/中文/阿赖耶识|阿赖耶识]]」其实就是我们有情生命的本体，也就是我们一般心理学说的「潜[[名相词典/中文/意识|意识]]」。我们不容易发现，但是它存在。它是一个有明了性的[[名相词典/中文/心识|心识]]，这个[[名相词典/中文/心识|心识]]可以把你无量劫来所造的善、恶业功能全部保存下来，就是所谓的「[[名相词典/中文/种子|种子]]」；这个[[名相词典/中文/种子|种子]]有引生未来[[名相词典/中文/果报|果报]]的功能。
+我們可以把八種[[名相词典/中文/心识|心識]]，簡單分成兩類：「[[名相词典/中文/前七识|前七識]]」是造業的，它能夠造作善業、惡業、[[名相词典/中文/有漏|有漏]]業、[[名相词典/中文/无漏|無漏]]業。而這個「[[名相词典/中文/第八识|第八識]]」它本身不造業，它是一種很微細的[[名相词典/中文/心识|心識]]流動，非常微細。它不造業，它的功能是什麼呢？「攝持不失」：它將前[[名相词典/中文/七转识|七轉識]]所造的[[名相词典/中文/业力|業力]]保存下來。所以「[[名相词典/中文/阿赖耶识|阿賴耶識]]」其實就是我們有情生命的本體，也就是我們一般心理學說的「潛[[名相词典/中文/意识|意識]]」。我們不容易發現，但是它存在。它是一個有明了性的[[名相词典/中文/心识|心識]]，這個[[名相词典/中文/心识|心識]]可以把你無量劫來所造的善、惡業功能全部保存下來，就是所謂的「[[名相词典/中文/种子|種子]]」；這個[[名相词典/中文/种子|種子]]有引生未來[[名相词典/中文/果报|果報]]的功能。
 
 **English**
 We can, in simple terms, divide the [[名相词典/English/eight consciousnesses|eight consciousnesses]] into two categories: the "[[名相词典/English/first seven consciousnesses|first seven consciousnesses]]" are the ones that create karma — they can create wholesome karma, unwholesome karma, impure karma, and pure karma. But this "[[名相词典/English/eighth consciousness|eighth consciousness]]" does not itself create karma; it is a very subtle flow of [[名相词典/English/mind-consciousness|mind-consciousness]], extremely subtle. It does not create karma; what, then, is its function? "Gathering, holding, and not losing": it preserves the [[名相词典/English/karmic force|karmic force]] created by the first [[名相词典/English/seven evolving consciousnesses|seven evolving consciousnesses]]. So the "[[名相词典/English/store consciousness|store consciousness]]" is in fact the very substance of our sentient life — it is what ordinary psychology calls the "subconscious." We do not easily notice it, but it exists. It is a [[名相词典/English/mind-consciousness|mind-consciousness]] that possesses the quality of clear awareness, and this [[名相词典/English/mind-consciousness|mind-consciousness]] can preserve, in their entirety, the functional energies of the wholesome and unwholesome karma you have created over immeasurable eons — these are the so-called "[[名相词典/English/seeds|seeds]]" (*bīja*); and these [[名相词典/English/seeds|seeds]] have the function of giving rise to future [[名相词典/English/karmic result|karmic result]].
@@ -233,7 +233,7 @@ Chúng ta có thể đem tám loại [[名相词典/TiếngViệt/tâm thức|t�
 **§134**
 
 **中文**
-比如说：我今天念了十五分钟的佛号，每一句佛号[[名相词典/中文/刹那|刹那]][[名相词典/中文/刹那|刹那]]生灭，念完之后，我的[[名相词典/中文/第六意识|第六意识]]——这个粗显的[[名相词典/中文/意识|意识]]——并没有感觉身心有什么变化；但是我们内心的潜[[名相词典/中文/意识|意识]]已经开始产生变化了——在你的潜[[名相词典/中文/意识|意识]]里面，佛号的功能加强、[[名相词典/中文/往生|往生]]的力量也增加了一分、[[名相词典/中文/有漏|有漏]]的[[名相词典/中文/业力|业力]]又被破坏了一分，这就是[[名相词典/中文/阿赖耶识|阿赖耶识]]「受熏」的道理。你一造业，[[名相词典/中文/第八识|第八识]]的「[[名相词典/中文/阿赖耶识|阿赖耶识]]」就会有变化，它是我们有情生命流转的本体。
+比如說：我今天念了十五分鐘的佛號，每一句佛號[[名相词典/中文/刹那|剎那]][[名相词典/中文/刹那|剎那]]生滅，念完之後，我的[[名相词典/中文/第六意识|第六意識]]——這個粗顯的[[名相词典/中文/意识|意識]]——並沒有感覺身心有什麼變化；但是我們內心的潛[[名相词典/中文/意识|意識]]已經開始產生變化了——在你的潛[[名相词典/中文/意识|意識]]裡面，佛號的功能加強、[[名相词典/中文/往生|往生]]的力量也增加了一分、[[名相词典/中文/有漏|有漏]]的[[名相词典/中文/业力|業力]]又被破壞了一分，這就是[[名相词典/中文/阿赖耶识|阿賴耶識]]「受熏」的道理。你一造業，[[名相词典/中文/第八识|第八識]]的「[[名相词典/中文/阿赖耶识|阿賴耶識]]」就會有變化，它是我們有情生命流轉的本體。
 
 **English**
 For example: today I recited the buddha-name for fifteen minutes; each utterance of the buddha-name arises and perishes moment by moment, and after finishing, my [[名相词典/English/sixth consciousness|sixth consciousness]] — this coarse, manifest consciousness — does not feel that body and mind have undergone any change. But the subconscious of our mind has already begun to change — within your subconscious, the functional energy of the buddha-name is strengthened, the power for rebirth [in the Pure Land] is increased by a degree, and the impure [[名相词典/English/karmic force|karmic force]] is diminished by a degree. This is the principle of the [[名相词典/English/store consciousness|store consciousness]] "receiving [[名相词典/English/perfuming|perfuming]]." The moment you create karma, the "[[名相词典/English/store consciousness|store consciousness]]," the [[名相词典/English/eighth consciousness|eighth consciousness]], changes; it is the very substance through which our sentient life transmigrates.
@@ -249,7 +249,7 @@ Ví như: hôm nay tôi [[名相词典/TiếngViệt/niệm|niệm]] danh hiệu
 **§135**
 
 **中文**
-从这里我们可以了解：[[名相词典/中文/阿赖耶识|阿赖耶识]]也不是有独立自主的实体，它是受[[名相词典/中文/业力|业力]]的[[名相词典/中文/熏习|熏习]]；你一发动[[名相词典/中文/业力|业力]]，它就开始变化，不断的变化——一下子善的功能增加、一下子恶的功能增加……它把你所有的[[名相词典/中文/业力|业力]]，以「[[名相词典/中文/种子|种子]]」的方式保存下来，等到这个[[名相词典/中文/种子|种子]]达到一定的势力，它就变现出[[名相词典/中文/果报|果报]]来。
+從這裡我們可以了解：[[名相词典/中文/阿赖耶识|阿賴耶識]]也不是有獨立自主的實體，它是受[[名相词典/中文/业力|業力]]的[[名相词典/中文/熏习|熏習]]；你一發動[[名相词典/中文/业力|業力]]，它就開始變化，不斷的變化——一下子善的功能增加、一下子惡的功能增加……它把你所有的[[名相词典/中文/业力|業力]]，以「[[名相词典/中文/种子|種子]]」的方式保存下來，等到這個[[名相词典/中文/种子|種子]]達到一定的勢力，它就變現出[[名相词典/中文/果报|果報]]來。
 
 **English**
 From this we can understand: the [[名相词典/English/store consciousness|store consciousness]], too, is not an independent, self-governing substance; it receives the [[名相词典/English/perfuming|perfuming]] of [[名相词典/English/karmic force|karmic force]]. The moment you set [[名相词典/English/karmic force|karmic force]] in motion, it begins to change and changes ceaselessly — now the wholesome functions increase, now the unwholesome functions increase… It preserves all your [[名相词典/English/karmic force|karmic force]] in the form of "[[名相词典/English/seeds|seeds]]," and when these [[名相词典/English/seeds|seeds]] reach a certain strength, it manifests the [[名相词典/English/karmic result|karmic result]].
@@ -265,7 +265,7 @@ Từ đây chúng ta có thể hiểu: [[名相词典/TiếngViệt/thức A-l�
 **§136**
 
 **中文**
-「[[名相词典/中文/果报|果报]]」又可以分成两类：第一个是「[[名相词典/中文/心法|心法]]」，这是指[[名相词典/中文/前六识|前六识]]；第二个「[[名相词典/中文/色法|色法]]」，这是指[[名相词典/中文/五根|五根]][[名相词典/中文/六尘|六尘]]。「[[名相词典/中文/心法|心法]]」能够明了分别，「[[名相词典/中文/色法|色法]]」不能够明了分别。比如这个抚尺，你把抚尺做得再精妙、再光滑再好看，它还是不能了别；了别就是[[名相词典/中文/心法|心法]]。「[[名相词典/中文/前六识|前六识]]」它是一个「能取相」。一般我们认为这个「我」，大都是指[[名相词典/中文/第六意识|第六意识]]，很容易对它产生人[[名相词典/中文/我执|我执]]。我们的[[名相词典/中文/第六意识|第六意识]]是一种比较粗显的[[名相词典/中文/意识|意识]]状态，比如说我们坐在这里，能够思惟很多事情——思惟法义、思惟过去、思惟现在、思惟未来……这完全都是[[名相词典/中文/第六意识|第六意识]]的作用。[[名相词典/中文/第六意识|第六意识]]是我们能够感觉到的，它能够分别种种事情。在经论当中，对于人的[[名相词典/中文/第六意识|第六意识]]分成四种情况。
+「[[名相词典/中文/果报|果報]]」又可以分成兩類：第一個是「[[名相词典/中文/心法|心法]]」，這是指[[名相词典/中文/前六识|前六識]]；第二個「[[名相词典/中文/色法|色法]]」，這是指[[名相词典/中文/五根|五根]][[名相词典/中文/六尘|六塵]]。「[[名相词典/中文/心法|心法]]」能夠明了分別，「[[名相词典/中文/色法|色法]]」不能夠明了分別。比如這個撫尺，你把撫尺做得再精妙、再光滑再好看，它還是不能了別；了別就是[[名相词典/中文/心法|心法]]。「[[名相词典/中文/前六识|前六識]]」它是一個「能取相」。一般我們認為這個「我」，大都是指[[名相词典/中文/第六意识|第六意識]]，很容易對它產生人[[名相词典/中文/我执|我執]]。我們的[[名相词典/中文/第六意识|第六意識]]是一種比較粗顯的[[名相词典/中文/意识|意識]]狀態，比如說我們坐在這裡，能夠思惟很多事情——思惟法義、思惟過去、思惟現在、思惟未來……這完全都是[[名相词典/中文/第六意识|第六意識]]的作用。[[名相词典/中文/第六意识|第六意識]]是我們能夠感覺到的，它能夠分別種種事情。在經論當中，對於人的[[名相词典/中文/第六意识|第六意識]]分成四種情況。
 
 **English**
 "[[名相词典/English/karmic result|Karmic result]]" can also be divided into two categories: the first is "[[名相词典/English/mind|mind]]" (*citta*), which refers to the [[名相词典/English/first six consciousnesses|first six consciousnesses]]; the second is "[[名相词典/English/form|form]]" (*rūpa*), which refers to the [[名相词典/English/five faculties|five faculties]] and [[名相词典/English/six sense-objects|six sense-objects]]. "[[名相词典/English/mind|Mind]]" are able to discern clearly, whereas "[[名相词典/English/form|form]]" cannot discern clearly. For instance, this gavel — however finely, smoothly, and handsomely you make it, it still cannot cognize; cognition belongs to [[名相词典/English/mind|mind]]. The "[[名相词典/English/first six consciousnesses|first six consciousnesses]]" are a "grasping aspect" (the subject that apprehends). Generally, what we take to be the "self" mostly refers to the [[名相词典/English/sixth consciousness|sixth consciousness]], and it is very easy to give rise to attachment to a self of persons regarding it. Our [[名相词典/English/sixth consciousness|sixth consciousness]] is a relatively coarse and manifest state of consciousness; for example, as we sit here, we can think about many things — pondering doctrinal meaning, pondering the past, pondering the present, pondering the future… all of this is entirely the operation of the [[名相词典/English/sixth consciousness|sixth consciousness]]. The [[名相词典/English/sixth consciousness|sixth consciousness]] is what we are able to feel and be aware of; it can discriminate all sorts of things. In the scriptures and treatises, a person's [[名相词典/English/sixth consciousness|sixth consciousness]] is divided into four situations.
@@ -281,7 +281,7 @@ La « [[名相词典/Français/résultat karmique|résultat karmique]] » peut a
 **§137**
 
 **中文**
-一、善根强、[[名相词典/中文/烦恼|烦恼]]薄。这种人多数是从色界、无色界来的，过去生在高深的[[名相词典/中文/禅定|禅定]]中，几乎没有欲的活动；来到人间，他的[[名相词典/中文/烦恼|烦恼]]很淡薄，也不需要什么修行，[[名相词典/中文/烦恼|烦恼]]本身就很淡薄。因为[[名相词典/中文/烦恼|烦恼]]淡薄，过去生又经常听闻佛法、思惟佛法，所以佛法戒定慧的功能特别强，他只要一修行马上就成就圣道。像[[名相词典/中文/舍利弗尊者|舍利弗尊者]]最初虽然是信[[名相词典/中文/外道|外道]]的，但遇到佛法，七天就证得[[名相词典/中文/阿罗汉|阿罗汉]]果——善根很强、[[名相词典/中文/烦恼|烦恼]]淡薄。这是第一种，这种根器的人，当然很快就能够成就圣道。
+一、善根強、[[名相词典/中文/烦恼|煩惱]]薄。這種人多數是從色界、無色界來的，過去生在高深的[[名相词典/中文/禅定|禪定]]中，幾乎沒有欲的活動；來到人間，他的[[名相词典/中文/烦恼|煩惱]]很淡薄，也不需要什麼修行，[[名相词典/中文/烦恼|煩惱]]本身就很淡薄。因為[[名相词典/中文/烦恼|煩惱]]淡薄，過去生又經常聽聞佛法、思惟佛法，所以佛法戒定慧的功能特別強，他只要一修行馬上就成就聖道。像[[名相词典/中文/舍利弗尊者|舍利弗尊者]]最初雖然是信[[名相词典/中文/外道|外道]]的，但遇到佛法，七天就證得[[名相词典/中文/阿罗汉|阿羅漢]]果——善根很強、[[名相词典/中文/烦恼|煩惱]]淡薄。這是第一種，這種根器的人，當然很快就能夠成就聖道。
 
 **English**
 1. Strong wholesome roots and thin passions. Such persons mostly come from the form realm or the formless realm; in past lives they dwelt in deep [[名相词典/English/meditative concentration|meditative concentration]], with almost no activity of desire; when they come to the human world, their passions are very thin, and they need hardly any practice — the passions themselves are already very thin. Because their passions are thin, and because in past lives they frequently heard and contemplated the Buddha-dharma, the functional energy of the Buddha-dharma's precepts, [[名相词典/English/samādhi|samādhi]], and wisdom is especially strong in them; as soon as they practice, they immediately accomplish the noble path. For instance, [[名相词典/English/Venerable Śāriputra|Venerable Śāriputra]], though at first a believer in a non-Buddhist path, upon encountering the Buddha-dharma realized the fruit of arhatship within seven days — strong wholesome roots and thin passions. This is the first type; a person of such capacity can of course accomplish the noble path very quickly.
@@ -297,7 +297,7 @@ Một, thiện căn mạnh, [[名相词典/TiếngViệt/phiền não|phiền n�
 **§138**
 
 **中文**
-二、善根轻、[[名相词典/中文/烦恼|烦恼]]薄。这种人虽然[[名相词典/中文/烦恼|烦恼]]很淡薄，但是佛法的善根也淡薄，跟他讲佛法的道理，他也听不懂，讲很久还是不明白。虽然他不[[名相词典/中文/皈依|皈依]]佛法，但是他的[[名相词典/中文/烦恼|烦恼]]淡薄，所以不会去造恶业。也有这种人，这是第二种。
+二、善根輕、[[名相词典/中文/烦恼|煩惱]]薄。這種人雖然[[名相词典/中文/烦恼|煩惱]]很淡薄，但是佛法的善根也淡薄，跟他講佛法的道理，他也聽不懂，講很久還是不明白。雖然他不[[名相词典/中文/皈依|皈依]]佛法，但是他的[[名相词典/中文/烦恼|煩惱]]淡薄，所以不會去造惡業。也有這種人，這是第二種。
 
 **English**
 2. Light wholesome roots and thin passions. Although such a person's passions are very thin, his wholesome roots in the Buddha-dharma are also thin; when you explain the principles of the Buddha-dharma to him, he cannot understand, and even after you explain at length he still does not grasp it. Although he does not take refuge in the Buddha-dharma, because his passions are thin, he will not go and create evil karma. There are indeed such people; this is the second type.
@@ -313,7 +313,7 @@ Hai, thiện căn nhẹ, [[名相词典/TiếngViệt/phiền não|phiền não]
 **§139**
 
 **中文**
-三、善根强、[[名相词典/中文/烦恼|烦恼]]重。这种人你跟他讲佛法，虽然他能够接受、也愿意修行，但是一[[名相词典/中文/放逸|放逸]]，[[名相词典/中文/烦恼|烦恼]]的活动也是很炽盛。这种人过去多数是从欲界天、人天而来的，生生世世在欲界的境界里面活动。我们要是从欲界天来的人，这个人[[名相词典/中文/烦恼|烦恼]]就很重。为什么[[名相词典/中文/烦恼|烦恼]]会重呢？因为你经常造作，[[名相词典/中文/业力|业力]]去[[名相词典/中文/熏习|熏习]][[名相词典/中文/阿赖耶识|阿赖耶识]]。我们每个人的内心状态都不一样，为什么呢？这不是上帝创造的。你说「为什么我经常有这样的念头？」因为你经常做这样的事情，一次又一次造作，留下的印象就深刻了，不管是善法、不管是恶法，都是这样。所以这第三种人，过去在佛法栽培的善根深，但是五欲的活动也很强盛。
+三、善根強、[[名相词典/中文/烦恼|煩惱]]重。這種人你跟他講佛法，雖然他能夠接受、也願意修行，但是一[[名相词典/中文/放逸|放逸]]，[[名相词典/中文/烦恼|煩惱]]的活動也是很熾盛。這種人過去多數是從欲界天、人天而來的，生生世世在欲界的境界裡面活動。我們要是從欲界天來的人，這個人[[名相词典/中文/烦恼|煩惱]]就很重。為什麼[[名相词典/中文/烦恼|煩惱]]會重呢？因為你經常造作，[[名相词典/中文/业力|業力]]去[[名相词典/中文/熏习|熏習]][[名相词典/中文/阿赖耶识|阿賴耶識]]。我們每個人的內心狀態都不一樣，為什麼呢？這不是上帝創造的。你說「為什麼我經常有這樣的念頭？」因為你經常做這樣的事情，一次又一次造作，留下的印象就深刻了，不管是善法、不管是惡法，都是這樣。所以這第三種人，過去在佛法栽培的善根深，但是五欲的活動也很強盛。
 
 **English**
 3. Strong wholesome roots and heavy passions. When you explain the Buddha-dharma to such a person, although he can accept it and is willing to practice, yet the moment he becomes lax, the activity of passions is also very fierce. Such persons mostly come from the desire-realm heavens or the human-and-heavenly [destinies], having, life after life, been active within the states of the desire realm. If a person has come from the desire-realm heavens, that person's passions are heavy. Why are the passions heavy? Because you frequently act, and the [[名相词典/English/karmic force|karmic force]] perfumes the [[名相词典/English/store consciousness|store consciousness]]. Each of us has a different inner state of mind — why? This is not created by a god. If you ask, "Why do I frequently have such thoughts?" — it is because you frequently do such things: acting again and again, the impression left grows deep. This is so whether it be wholesome dharmas or unwholesome dharmas. So this third type of person, in the past, cultivated deep wholesome roots in the Buddha-dharma, yet the activity of the five desires is also very vigorous.
@@ -329,7 +329,7 @@ Ba, thiện căn mạnh, [[名相词典/TiếngViệt/phiền não|phiền não]
 **§140**
 
 **中文**
-四、善根薄弱、[[名相词典/中文/烦恼|烦恼]]炽盛。这种人最糟糕，跟他讲佛法的道理，他既不能接受、[[名相词典/中文/烦恼|烦恼]]又很重。这种人多数是从[[名相词典/中文/三恶道|三恶道]]来的，因为[[名相词典/中文/三恶道|三恶道]]的[[名相词典/中文/果报|果报]]不能听闻佛法，也没有机会听闻佛法。[[名相词典/中文/三恶道|三恶道]]的[[名相词典/中文/果报|果报]]除了地狱，畜生跟饿鬼也有欲——有男女的欲望、饮食的欲望、各式各样的欲望；长时间在欲望里面活动，所以[[名相词典/中文/烦恼|烦恼]]也很重，却没机会栽培善根，很可惜，把时间都空过了。
+四、善根薄弱、[[名相词典/中文/烦恼|煩惱]]熾盛。這種人最糟糕，跟他講佛法的道理，他既不能接受、[[名相词典/中文/烦恼|煩惱]]又很重。這種人多數是從[[名相词典/中文/三恶道|三惡道]]來的，因為[[名相词典/中文/三恶道|三惡道]]的[[名相词典/中文/果报|果報]]不能聽聞佛法，也沒有機會聽聞佛法。[[名相词典/中文/三恶道|三惡道]]的[[名相词典/中文/果报|果報]]除了地獄，畜生跟餓鬼也有欲——有男女的慾望、飲食的慾望、各式各樣的慾望；長時間在慾望裡面活動，所以[[名相词典/中文/烦恼|煩惱]]也很重，卻沒機會栽培善根，很可惜，把時間都空過了。
 
 **English**
 4. Weak wholesome roots and blazing passions. This type is the worst: when you explain the principles of the Buddha-dharma to him, he can neither accept them, and his passions are also very heavy. Such persons mostly come from the [[名相词典/English/three evil destinies|three evil destinies]], for the [[名相词典/English/karmic result|karmic result]]-bodies of the [[名相词典/English/three evil destinies|three evil destinies]] cannot hear the Buddha-dharma and have no opportunity to hear it. As for the retributions of the [[名相词典/English/three evil destinies|three evil destinies]] — apart from the hells, animals and hungry ghosts also have desire: the desire between male and female, the desire for food and drink, all sorts of desires. Having been active within desire for a long time, their passions are also very heavy, yet they had no chance to cultivate wholesome roots — a great pity, for the time was all spent in vain.
@@ -345,7 +345,7 @@ Bốn, thiện căn yếu ớt, [[名相词典/TiếngViệt/phiền não|phiề
 **§141**
 
 **中文**
-「[[名相词典/中文/第六意识|第六意识]]」有这四种状态。但是我们看经论，佛陀的意思：一个人[[名相词典/中文/烦恼|烦恼]]重，要是「善根强」还有得救；如果这个人[[名相词典/中文/烦恼|烦恼]]很淡薄，但是没有善根，佛陀很紧张。因为你没有善根，内心没有光明、就没有解脱的[[名相词典/中文/因缘|因缘]]。所以，我们的内心，经常的忆念「[[名相词典/中文/皈依|皈依]]佛、[[名相词典/中文/皈依|皈依]]法、[[名相词典/中文/皈依|皈依]]僧」、经常的听闻佛法、思惟法义，让第六[[名相词典/中文/心识|心识]]佛法的善根加强，是一件很重要的事。
+「[[名相词典/中文/第六意识|第六意識]]」有這四種狀態。但是我們看經論，佛陀的意思：一個人[[名相词典/中文/烦恼|煩惱]]重，要是「善根強」還有得救；如果這個人[[名相词典/中文/烦恼|煩惱]]很淡薄，但是沒有善根，佛陀很緊張。因為你沒有善根，內心沒有光明、就沒有解脫的[[名相词典/中文/因缘|因緣]]。所以，我們的內心，經常的憶念「[[名相词典/中文/皈依|皈依]]佛、[[名相词典/中文/皈依|皈依]]法、[[名相词典/中文/皈依|皈依]]僧」、經常的聽聞佛法、思惟法義，讓第六[[名相词典/中文/心识|心識]]佛法的善根加強，是一件很重要的事。
 
 **English**
 The "[[名相词典/English/sixth consciousness|sixth consciousness]]" has these four states. But looking at the scriptures and treatises, the Buddha's meaning is this: if a person has heavy passions but "strong wholesome roots," there is still hope of rescue; but if a person has very thin passions yet no wholesome roots, the Buddha is very anxious. For if you have no wholesome roots, there is no light within your mind, and so there is no cause and condition for liberation. Therefore it is a very important matter for our mind to frequently recollect "[[名相词典/English/taking refuge|taking refuge]] in the Buddha, [[名相词典/English/taking refuge|taking refuge]] in the Dharma, [[名相词典/English/taking refuge|taking refuge]] in the Saṅgha," to frequently hear the Buddha-dharma and contemplate its meaning, so as to strengthen the wholesome roots of the Buddha-dharma in the [[名相词典/English/sixth consciousness|sixth consciousness]].
@@ -361,7 +361,7 @@ La « [[名相词典/Français/sixième conscience|sixième conscience]] » a ce
 **§142**
 
 **中文**
-其次还有[[名相词典/中文/色法|色法]]，[[名相词典/中文/色法|色法]]分成两种：第一个是「[[名相词典/中文/五根|五根]]」，第二个是「[[名相词典/中文/六尘|六尘]]」。「[[名相词典/中文/五根|五根]]」：眼、耳、鼻、舌、身，这是讲到我们的[[名相词典/中文/正报|正报]]。有些人[[名相词典/中文/正报|正报]]看起来很庄严，过去[[名相词典/中文/五戒十善|五戒十善]]的[[名相词典/中文/业力|业力]]强；有些人看起来比较丑陋，就是[[名相词典/中文/五戒十善|五戒十善]]的[[名相词典/中文/业力|业力]]薄弱；虽然他也有得到人的标准，但是他刚好及格而已。有些人福报大、人也高大、身体也健康，各人[[名相词典/中文/正报|正报]]不同。
+其次還有[[名相词典/中文/色法|色法]]，[[名相词典/中文/色法|色法]]分成兩種：第一個是「[[名相词典/中文/五根|五根]]」，第二個是「[[名相词典/中文/六尘|六塵]]」。「[[名相词典/中文/五根|五根]]」：眼、耳、鼻、舌、身，這是講到我們的[[名相词典/中文/正报|正報]]。有些人[[名相词典/中文/正报|正報]]看起來很莊嚴，過去[[名相词典/中文/五戒十善|五戒十善]]的[[名相词典/中文/业力|業力]]強；有些人看起來比較丑陋，就是[[名相词典/中文/五戒十善|五戒十善]]的[[名相词典/中文/业力|業力]]薄弱；雖然他也有得到人的標準，但是他剛好及格而已。有些人福報大、人也高大、身體也健康，各人[[名相词典/中文/正报|正報]]不同。
 
 **English**
 Next there are also [[名相词典/English/form|form]], which divide into two kinds: first the "[[名相词典/English/five faculties|five faculties]]," and second the "[[名相词典/English/six sense-objects|six sense-objects]]." The "[[名相词典/English/five faculties|five faculties]]" — eye, ear, nose, tongue, and body — refer to our "[[名相词典/English/direct retribution|direct retribution]]" (the body itself). Some people's [[名相词典/English/direct retribution|direct retribution]] looks very dignified — the [[名相词典/English/karmic force|karmic force]] of their past keeping of the [[名相词典/English/five precepts and ten wholesome deeds|five precepts and ten wholesome deeds]] was strong; some people look rather ugly — the [[名相词典/English/karmic force|karmic force]] of the [[名相词典/English/five precepts and ten wholesome deeds|five precepts and ten wholesome deeds]] was weak; although they too attained the standard of a human being, they only barely passed. Some people have great merit-reward, are tall and imposing, and are physically healthy — each person's [[名相词典/English/direct retribution|direct retribution]] differs.
@@ -377,7 +377,7 @@ Kế nữa còn có [[名相词典/TiếngViệt/sắc pháp|sắc pháp]], [[�
 **§143**
 
 **中文**
-「[[名相词典/中文/六尘|六尘]]」：色、声、香、味、触、法，这是[[名相词典/中文/依报|依报]]的环境。我们看欧美国家，像瑞士、加拿大，那里的山河大地、生活环境就是庄严，空气污染也没有那么严重；东南亚国家，生活环境水平就比较差，这也是各人的[[名相词典/中文/业力|业力]]。
+「[[名相词典/中文/六尘|六塵]]」：色、聲、香、味、觸、法，這是[[名相词典/中文/依报|依報]]的環境。我們看歐美國家，像瑞士、加拿大，那裡的山河大地、生活環境就是莊嚴，空氣污染也沒有那麼嚴重；東南亞國家，生活環境水平就比較差，這也是各人的[[名相词典/中文/业力|業力]]。
 
 **English**
 The "[[名相词典/English/six sense-objects|six sense-objects]]" — form, sound, smell, taste, touch, and mental-objects — are the environment of "[[名相词典/English/circumstantial retribution|circumstantial retribution]]." Look at the countries of Europe and America, such as Switzerland and Canada: there the mountains, rivers, and land, and the living environment, are dignified, and air pollution is not so severe; in Southeast Asian countries, the standard of the living environment is comparatively poorer — this too is each person's [[名相词典/English/karmic force|karmic force]].
@@ -393,7 +393,7 @@ Les « [[名相词典/Français/six objets sensoriels|six objets sensoriels]] »
 **§144**
 
 **中文**
-在《[[名相词典/中文/瑜伽师地论|瑜伽师地论]]》上说，一个人造了杀业之后，堕到[[名相词典/中文/三恶道|三恶道]]去，等[[名相词典/中文/三恶道|三恶道]][[名相词典/中文/果报|果报]]受完，得到人的[[名相词典/中文/果报|果报]]，杀业的势力还会在——就像地震震完之后还有余震。什么样的余震呢？就是所招感的环境会有很多毒药，吃东西也有毒药、有各式各样的毒药，使令我们的寿命未尽就死了，这是因为杀业重。像我们台湾就是这种境界：人福报很大，但是环境污染也很厉害。我们从[[名相词典/中文/业力|业力]]角度来观察：很喜欢修布施，但是也很喜欢杀生，就是这种[[名相词典/中文/果报|果报]]，所以得[[名相词典/中文/果报|果报]]的时候物质非常的丰富，但是有很多问题，很多会折损我们生命的东西在里面。就是为了这个问题，你要维持生命你一定要吃，一吃就会念念折损你的生命。
+在《[[名相词典/中文/瑜伽师地论|瑜伽師地論]]》上說，一個人造了殺業之後，墮到[[名相词典/中文/三恶道|三惡道]]去，等[[名相词典/中文/三恶道|三惡道]][[名相词典/中文/果报|果報]]受完，得到人的[[名相词典/中文/果报|果報]]，殺業的勢力還會在——就像地震震完之後還有餘震。什麼樣的餘震呢？就是所招感的環境會有很多毒藥，吃東西也有毒藥、有各式各樣的毒藥，使令我們的壽命未盡就死了，這是因為殺業重。像我們台灣就是這種境界：人福報很大，但是環境污染也很厲害。我們從[[名相词典/中文/业力|業力]]角度來觀察：很喜歡修布施，但是也很喜歡殺生，就是這種[[名相词典/中文/果报|果報]]，所以得[[名相词典/中文/果报|果報]]的時候物質非常的豐富，但是有很多問題，很多會折損我們生命的東西在裡面。就是為了這個問題，你要維持生命你一定要吃，一吃就會念念折損你的生命。
 
 **English**
 The *Yogācārabhūmi-śāstra* says that after a person has created killing-karma and fallen into the [[名相词典/English/three evil destinies|three evil destinies]], once the [[名相词典/English/karmic result|karmic result]] of the [[名相词典/English/three evil destinies|three evil destinies]] has been exhausted and he attains the [[名相词典/English/karmic result|karmic result]] of a human being, the force of the killing-karma still remains — just as, after an earthquake has struck, there are still aftershocks. What sort of aftershock? The environment thereby summoned will contain many poisons; the food, too, has poison, all sorts of poisons, causing our lifespan to end before its allotted term — this is due to heavy killing-karma. Our Taiwan is just such a situation: people's merit-reward is very great, yet environmental pollution is also very severe. Observing from the standpoint of [[名相词典/English/karmic force|karmic force]]: [people here] are very fond of practicing giving, but are also very fond of killing living beings — it is just this kind of [[名相词典/English/karmic result|karmic result]]. So when the [[名相词典/English/karmic result|karmic result]] is received, material things are extremely abundant, yet there are many problems, many things within it that erode our life. It is precisely because of this problem that, to sustain life you must eat, and once you eat, thought after thought it erodes your life.
@@ -409,7 +409,7 @@ Trong 《[[名相词典/TiếngViệt/Du-già Sư Địa Luận|Du-già Sư Đ�
 **§145**
 
 **中文**
-这个就是[[名相词典/中文/依报|依报]]的环境——色、声、香、味、触、法[[名相词典/中文/六尘|六尘]]的境界。这个就是我们所受用的，不管是[[名相词典/中文/正报|正报]]、不管是[[名相词典/中文/依报|依报]]，都是所受用的。我们根据这样的[[名相词典/中文/果报|果报]]体，以「人」来说，多数会认为：[[名相词典/中文/第六意识|第六意识]]住在我的[[名相词典/中文/正报|正报]]里，这个[[名相词典/中文/正报|正报]]就是我的依止处，就像一个人住在房子里，去受用这些色声香味触法。一般人是这样的心情。
+這個就是[[名相词典/中文/依报|依報]]的環境——色、聲、香、味、觸、法[[名相词典/中文/六尘|六塵]]的境界。這個就是我們所受用的，不管是[[名相词典/中文/正报|正報]]、不管是[[名相词典/中文/依报|依報]]，都是所受用的。我們根據這樣的[[名相词典/中文/果报|果報]]體，以「人」來說，多數會認為：[[名相词典/中文/第六意识|第六意識]]住在我的[[名相词典/中文/正报|正報]]裡，這個[[名相词典/中文/正报|正報]]就是我的依止處，就像一個人住在房子裡，去受用這些色聲香味觸法。一般人是這樣的心情。
 
 **English**
 This is the environment of [[名相词典/English/circumstantial retribution|circumstantial retribution]] — the states of the [[名相词典/English/six sense-objects|six sense-objects]]: form, sound, smell, taste, touch, and mental-objects. This is what we make use of; whether [[名相词典/English/direct retribution|direct retribution]] or [[名相词典/English/circumstantial retribution|circumstantial retribution]], all of it is what we make use of. On the basis of such a [[名相词典/English/karmic result|karmic result]]-body, taking "humans" as an example, most people will think: the [[名相词典/English/sixth consciousness|sixth consciousness]] dwells within my [[名相词典/English/direct retribution|direct retribution]], and this [[名相词典/English/direct retribution|direct retribution]] is my basis of support, just as a person dwells in a house and makes use of these — form, sound, smell, taste, touch, and mental-objects. This is the ordinary person's frame of mind.
@@ -425,7 +425,7 @@ Ceci est l'environnement de la [[名相词典/Français/rétribution circonstanc
 **§146**
 
 **中文**
-当然「[[名相词典/中文/第六意识|第六意识]]」是无[[名相词典/中文/自性|自性]]的。你看《[[名相词典/中文/弘一大师|弘一大师]]传》，你可以看得出来：[[名相词典/中文/弘一大师|弘一大师]]未出家之前，个性是一个风流才子，个性很豪放；但是出家之后，经过[[名相词典/中文/戒波罗蜜|戒波罗蜜]]的[[名相词典/中文/熏习|熏习]]，个性变得非常小心谨慎，连走路都还看地上，看看有没有小蚂蚁。你看传记，他出家前、出家后判若两人。如果[[名相词典/中文/第六意识|第六意识]]有一个「自我」，那到底哪一个才是[[名相词典/中文/弘一大师|弘一大师]]呢？出家前跟出家后的思想转变那么大。
+當然「[[名相词典/中文/第六意识|第六意識]]」是無[[名相词典/中文/自性|自性]]的。你看《[[名相词典/中文/弘一大师|弘一大師]]傳》，你可以看得出來：[[名相词典/中文/弘一大师|弘一大師]]未出家之前，個性是一個風流才子，個性很豪放；但是出家之後，經過[[名相词典/中文/戒波罗蜜|戒波羅蜜]]的[[名相词典/中文/熏习|熏習]]，個性變得非常小心謹慎，連走路都還看地上，看看有沒有小螞蟻。你看傳記，他出家前、出家後判若兩人。如果[[名相词典/中文/第六意识|第六意識]]有一個「自我」，那到底哪一個才是[[名相词典/中文/弘一大师|弘一大師]]呢？出家前跟出家後的思想轉變那麼大。
 
 **English**
 Of course, the "[[名相词典/English/sixth consciousness|sixth consciousness]]" is without [[名相词典/English/self-nature|self-nature]]. If you read *The Biography of [[名相词典/English/Master Hongyi|Master Hongyi]]*, you can see it: before [[名相词典/English/Master Hongyi|Master Hongyi]] went forth, his temperament was that of a romantic, talented gentleman, very free-spirited and unrestrained; but after going forth, through the [[名相词典/English/perfuming|perfuming]] of the [[名相词典/English/perfection of moral discipline|perfection of moral discipline]] (*śīla-pāramitā*), his temperament became extremely careful and cautious — even when walking he would look at the ground to see whether there were any little ants. Reading his biography, before and after going forth he was like two different people. If the [[名相词典/English/sixth consciousness|sixth consciousness]] had a "self," then which one, after all, was the real [[名相词典/English/Master Hongyi|Master Hongyi]]? The transformation of thought before and after going forth was so great.
@@ -441,7 +441,7 @@ Bien sûr, la « [[名相词典/Français/sixième conscience|sixième conscienc
 **§147**
 
 **中文**
-所以我们的[[名相词典/中文/第六意识|第六意识]]受于[[名相词典/中文/熏习|熏习]]：你用染法去[[名相词典/中文/熏习|熏习]]它，它就会有变化；你用清净的法去熏它，它也会有变化。它的本质是空，但是它受熏。而且[[名相词典/中文/第六意识|第六意识]]、这个[[名相词典/中文/果报|果报]]体，它会继续再造业——虽然它是过去串习而成就的一个[[名相词典/中文/心识|心识]]跟[[名相词典/中文/色法|色法]]，但是它会依止现前的[[名相词典/中文/心识|心识]]跟[[名相词典/中文/色法|色法]]再继续造业；造了业之后，就会再[[名相词典/中文/熏习|熏习]][[名相词典/中文/阿赖耶识|阿赖耶识]]，再变现下一期的[[名相词典/中文/果报|果报]]……就这样循环不已。在这当中有三种「相续」的情况。
+所以我們的[[名相词典/中文/第六意识|第六意識]]受於[[名相词典/中文/熏习|熏習]]：你用染法去[[名相词典/中文/熏习|熏習]]它，它就會有變化；你用清淨的法去熏它，它也會有變化。它的本質是空，但是它受熏。而且[[名相词典/中文/第六意识|第六意識]]、這個[[名相词典/中文/果报|果報]]體，它會繼續再造業——雖然它是過去串習而成就的一個[[名相词典/中文/心识|心識]]跟[[名相词典/中文/色法|色法]]，但是它會依止現前的[[名相词典/中文/心识|心識]]跟[[名相词典/中文/色法|色法]]再繼續造業；造了業之後，就會再[[名相词典/中文/熏习|熏習]][[名相词典/中文/阿赖耶识|阿賴耶識]]，再變現下一期的[[名相词典/中文/果报|果報]]……就這樣循環不已。在這當中有三種「相續」的情況。
 
 **English**
 So our [[名相词典/English/sixth consciousness|sixth consciousness]] receives [[名相词典/English/perfuming|perfuming]]: if you perfume it with defiled dharmas, it will change; if you perfume it with pure dharmas, it will also change. Its essence is empty, yet it receives [[名相词典/English/perfuming|perfuming]]. Moreover, the [[名相词典/English/sixth consciousness|sixth consciousness]] — this [[名相词典/English/karmic result|karmic result]]-body — will go on to create more karma: although it is a [[名相词典/English/mind-consciousness|mind-consciousness]] and form-dharma accomplished through past repeated habituation, it will, based on the present [[名相词典/English/mind-consciousness|mind-consciousness]] and form-dharma, continue to create karma; and after creating karma, it will again perfume the [[名相词典/English/store consciousness|store consciousness]], which again manifests the [[名相词典/English/karmic result|karmic result]] of the next lifetime… and so it cycles unendingly. Within this there are three kinds of "continuity."
@@ -457,7 +457,7 @@ Cho nên [[名相词典/TiếngViệt/thức thứ sáu|thức thứ sáu]] củ
 **§148**
 
 **中文**
-第一、[[名相词典/中文/生命相续|生命相续]]。有情的生命是相续的，这一期做人、下一期生天，天的[[名相词典/中文/果报|果报]]受尽之后，罪业的力量成熟了，又堕到[[名相词典/中文/三恶道|三恶道]]去……不管到哪里，这个[[名相词典/中文/果报|果报]]不会断灭，它会一期再接一期。这是第一个[[名相词典/中文/生命相续|生命相续]]。
+第一、[[名相词典/中文/生命相续|生命相續]]。有情的生命是相續的，這一期做人、下一期生天，天的[[名相词典/中文/果报|果報]]受盡之後，罪業的力量成熟了，又墮到[[名相词典/中文/三恶道|三惡道]]去……不管到哪裡，這個[[名相词典/中文/果报|果報]]不會斷滅，它會一期再接一期。這是第一個[[名相词典/中文/生命相续|生命相續]]。
 
 **English**
 First, the [[名相词典/English/continuity of life|continuity of life]]. The life of sentient beings is continuous: in this term one is human, in the next term born in the heavens; after the heavenly [[名相词典/English/karmic result|karmic result]] is exhausted, the force of sinful karma matures, and one falls again into the [[名相词典/English/three evil destinies|three evil destinies]]… No matter where one goes, this [[名相词典/English/karmic result|karmic result]] is not cut off and annihilated; it goes on, term after term. This is the first, the [[名相词典/English/continuity of life|continuity of life]].
@@ -473,7 +473,7 @@ Thứ nhất, [[名相词典/TiếngViệt/sinh mệnh tương tục|sinh mệnh
 **§149**
 
 **中文**
-第二、[[名相词典/中文/业果相续|业果相续]]。生命怎么能够相续呢？背后是谁在支持呢？是「[[名相词典/中文/业力|业力]]」，因为[[名相词典/中文/业力|业力]]被我们的[[名相词典/中文/心识|心识]]保存下来。第二个是[[名相词典/中文/业力|业力]]相续。第三、[[名相词典/中文/心识相续|心识相续]]。[[名相词典/中文/业力|业力]]怎么能够相续呢？就是「[[名相词典/中文/心识|心识]]」的相续。因为我们的[[名相词典/中文/阿赖耶识|阿赖耶识]]，它一生一生相续，把我们[[名相词典/中文/业力|业力]]的功能保存下来。[[名相词典/中文/生命相续|生命相续]]、[[名相词典/中文/业果相续|业果相续]]、[[名相词典/中文/心识相续|心识相续]]，这三种相续。
+第二、[[名相词典/中文/业果相续|業果相續]]。生命怎麼能夠相續呢？背後是誰在支持呢？是「[[名相词典/中文/业力|業力]]」，因為[[名相词典/中文/业力|業力]]被我們的[[名相词典/中文/心识|心識]]保存下來。第二個是[[名相词典/中文/业力|業力]]相續。第三、[[名相词典/中文/心识相续|心識相續]]。[[名相词典/中文/业力|業力]]怎麼能夠相續呢？就是「[[名相词典/中文/心识|心識]]」的相續。因為我們的[[名相词典/中文/阿赖耶识|阿賴耶識]]，它一生一生相續，把我們[[名相词典/中文/业力|業力]]的功能保存下來。[[名相词典/中文/生命相续|生命相續]]、[[名相词典/中文/业果相续|業果相續]]、[[名相词典/中文/心识相续|心識相續]]，這三種相續。
 
 **English**
 Second, the [[名相词典/English/continuity of karma-and-fruit|continuity of karma-and-fruit]]. How is it that life can be continuous? Who supports it behind the scenes? It is "[[名相词典/English/karmic force|karmic force]]," because [[名相词典/English/karmic force|karmic force]] is preserved by our [[名相词典/English/mind-consciousness|mind-consciousness]]. The second is the continuity of [[名相词典/English/karmic force|karmic force]]. Third, the [[名相词典/English/continuity of mind-consciousness|continuity of mind-consciousness]]. How is it that [[名相词典/English/karmic force|karmic force]] can be continuous? It is the continuity of "[[名相词典/English/mind-consciousness|mind-consciousness]]." Because our [[名相词典/English/store consciousness|store consciousness]] continues life after life, preserving the functional energies of our [[名相词典/English/karmic force|karmic force]]. The [[名相词典/English/continuity of life|continuity of life]], the [[名相词典/English/continuity of karma-and-fruit|continuity of karma-and-fruit]], and the [[名相词典/English/continuity of mind-consciousness|continuity of mind-consciousness]] — these three continuities.
@@ -489,7 +489,7 @@ Thứ hai, [[名相词典/TiếngViệt/nghiệp quả tương tục|nghiệp qu
 **§150**
 
 **中文**
-我讲一个小故事，大家体会体会这个观念：佛在世的时候，舍卫国国王叫[[名相词典/中文/波斯匿王|波斯匿王]]。[[名相词典/中文/波斯匿王|波斯匿王]]有一次带著[[名相词典/中文/茉莉夫人|茉莉夫人]]到山林间去游玩，游玩不是两个人，他是带著很大的军队保护著他去。游玩过了几天后，就要回城里去，在回程当中，来到一个精舍（就是比丘修行的地方），这时候突然所有的大象（他是坐著大象）都停下来，耳朵都竖起来，因为从僧团里面，有一位比丘诵经的声音非常的好听，发出很优美的声音，非常好听，连大象都停下来。[[名相词典/中文/波斯匿王|波斯匿王]]也很欢喜、[[名相词典/中文/茉莉夫人|茉莉夫人]]也欢喜、军队也欢喜，连大象都听得很欢喜。
+我講一個小故事，大家體會體會這個觀念：佛在世的時候，舍衛國國王叫[[名相词典/中文/波斯匿王|波斯匿王]]。[[名相词典/中文/波斯匿王|波斯匿王]]有一次帶著[[名相词典/中文/茉莉夫人|茉莉夫人]]到山林間去遊玩，遊玩不是兩個人，他是帶著很大的軍隊保護著他去。遊玩過了幾天後，就要回城裡去，在回程當中，來到一個精舍（就是比丘修行的地方），這時候突然所有的大象（他是坐著大象）都停下來，耳朵都豎起來，因為從僧團裡面，有一位比丘誦經的聲音非常的好聽，發出很優美的聲音，非常好聽，連大象都停下來。[[名相词典/中文/波斯匿王|波斯匿王]]也很歡喜、[[名相词典/中文/茉莉夫人|茉莉夫人]]也歡喜、軍隊也歡喜，連大象都聽得很歡喜。
 
 **English**
 Let me tell a little story, so that everyone may appreciate this idea: In the Buddha's time, the king of the country of Śrāvastī was named [[名相词典/English/King Prasenajit|King Prasenajit]]. [[名相词典/English/King Prasenajit|King Prasenajit]] once took [[名相词典/English/Queen Mallikā|Queen Mallikā]] out to roam among the forested mountains; and it was not just the two of them going — he went with a very large army escorting him. After roaming for several days, they were about to return to the city, and on the way back they came to a monastery (a place where bhikṣus practice). At that moment, all the elephants (he was riding an elephant) suddenly stopped, ears pricked up, because from within the monastic community the voice of a certain bhikṣu chanting scriptures was extremely pleasing — emitting a most beautiful sound, so pleasing that even the elephants stopped. [[名相词典/English/King Prasenajit|King Prasenajit]] too was delighted, [[名相词典/English/Queen Mallikā|Queen Mallikā]] too was delighted, the army too was delighted, and even the elephants listened with delight.
@@ -505,7 +505,7 @@ Tôi kể một câu chuyện nhỏ, để đại chúng thể hội quan [[名�
 **§151**
 
 **中文**
-[[名相词典/中文/波斯匿王|波斯匿王]]就说：「这位比丘发出这么美妙的声音，我一定要重赏他，我要赏他十万两黄金。」[[名相词典/中文/茉莉夫人|茉莉夫人]]说：「你想要赏他黄金，那你先拿出来。」[[名相词典/中文/波斯匿王|波斯匿王]]说：「不可以，我要亲自供养他。」[[名相词典/中文/茉莉夫人|茉莉夫人]]说：「您要先把黄金交给我，我再交给他。」因为[[名相词典/中文/茉莉夫人|茉莉夫人]]是佛教徒，经常跟比丘来往，她知道这位比丘容貌非常丑陋，恐怕[[名相词典/中文/波斯匿王|波斯匿王]]见到他就反悔了，所以才会提出这个要求。最后他们还是去拜见这位比丘，结果[[名相词典/中文/波斯匿王|波斯匿王]]抬头一看：啊！这个人的声音这么美妙，怎么长得这么丑陋？看得都有点害怕。[[名相词典/中文/波斯匿王|波斯匿王]]说，这个人的声音这么好听，怎么长这个样子呢？就去礼见佛陀。
+[[名相词典/中文/波斯匿王|波斯匿王]]就說：「這位比丘發出這麼美妙的聲音，我一定要重賞他，我要賞他十萬兩黃金。」[[名相词典/中文/茉莉夫人|茉莉夫人]]說：「你想要賞他黃金，那你先拿出來。」[[名相词典/中文/波斯匿王|波斯匿王]]說：「不可以，我要親自供養他。」[[名相词典/中文/茉莉夫人|茉莉夫人]]說：「您要先把黃金交給我，我再交給他。」因為[[名相词典/中文/茉莉夫人|茉莉夫人]]是佛教徒，經常跟比丘來往，她知道這位比丘容貌非常丑陋，恐怕[[名相词典/中文/波斯匿王|波斯匿王]]見到他就反悔了，所以才會提出這個要求。最後他們還是去拜見這位比丘，結果[[名相词典/中文/波斯匿王|波斯匿王]]抬頭一看：啊！這個人的聲音這麼美妙，怎麼長得這麼丑陋？看得都有點害怕。[[名相词典/中文/波斯匿王|波斯匿王]]說，這個人的聲音這麼好聽，怎麼長這個樣子呢？就去禮見佛陀。
 
 **English**
 [[名相词典/English/King Prasenajit|King Prasenajit]] said: "This bhikṣu produces such a wondrous sound; I must richly reward him — I will reward him with a hundred thousand taels of gold." [[名相词典/English/Queen Mallikā|Queen Mallikā]] said: "If you wish to reward him with gold, then first bring it out." [[名相词典/English/King Prasenajit|King Prasenajit]] said: "No; I wish to offer it to him personally." [[名相词典/English/Queen Mallikā|Queen Mallikā]] said: "You should first hand the gold to me, and I will then hand it to him." Because [[名相词典/English/Queen Mallikā|Queen Mallikā]] was a Buddhist and frequently associated with bhikṣus, she knew that this bhikṣu was extremely ugly in appearance, and feared that once [[名相词典/English/King Prasenajit|King Prasenajit]] saw him he would go back on his word — that is why she made this request. In the end they still went to pay their respects to this bhikṣu, and when [[名相词典/English/King Prasenajit|King Prasenajit]] looked up: Ah! this man's voice is so wondrous — how could he look so ugly? He was even a bit frightened at the sight. [[名相词典/English/King Prasenajit|King Prasenajit]] said: this man's voice is so pleasing, how could he look like this? And so he went to pay his respects to the Buddha.
@@ -521,7 +521,7 @@ Le [[名相词典/Français/Roi Prasenajit|roi Prasenajit]] dit : « Ce bhikṣu
 **§152**
 
 **中文**
-佛陀告诉他说：在过去久远劫以前，有一尊佛出世，说法[[名相词典/中文/因缘|因缘]]结束后就入[[名相词典/中文/涅槃|涅槃]]，留下了一些[[名相词典/中文/舍利|舍利]]子。这时候有一位国王，很虔诚的[[名相词典/中文/皈依|皈依]]佛陀，准备盖一座七层宝塔，用种种宝物来庄严这座宝塔。当然这是一个很浩大的工程，他就召集国内所有工程师，耗资很多金钱和时间来打造。其中有一位工程师就埋怨说：「供养这几个小[[名相词典/中文/舍利|舍利]]子，有需要这么大的宝塔吗？」经常抱怨，一边抱怨一边做。
+佛陀告訴他說：在過去久遠劫以前，有一尊佛出世，說法[[名相词典/中文/因缘|因緣]]結束後就入[[名相词典/中文/涅槃|涅槃]]，留下了一些[[名相词典/中文/舍利|舍利]]子。這時候有一位國王，很虔誠的[[名相词典/中文/皈依|皈依]]佛陀，準備蓋一座七層寶塔，用種種寶物來莊嚴這座寶塔。當然這是一個很浩大的工程，他就召集國內所有工程師，耗資很多金錢和時間來打造。其中有一位工程師就埋怨說：「供養這幾個小[[名相词典/中文/舍利|舍利]]子，有需要這麼大的寶塔嗎？」經常抱怨，一邊抱怨一邊做。
 
 **English**
 The Buddha told him: In the distant past, incalculable eons ago, a certain Buddha appeared in the world; after the conditions for his preaching of the Dharma had ended, he entered [[名相词典/English/nirvāṇa|nirvāṇa]], leaving behind some [[名相词典/English/relics|relics]] (*śarīra*). At that time there was a king who very devoutly took refuge in the Buddha and prepared to build a seven-storied jeweled stūpa, adorning this stūpa with all manner of precious things. Of course this was a vast undertaking, so he convened all the craftsmen in the country, expending much money and time to construct it. Among them was one craftsman who complained, saying: "To make offerings to these few tiny [[名相词典/English/relics|relics]], is there any need for such a huge stūpa?" He complained frequently, complaining even as he worked.
@@ -537,7 +537,7 @@ Le Bouddha lui dit : Dans un passé lointain, il y a d'innombrables éons, un ce
 **§153**
 
 **中文**
-等到这座宝塔完成之后，宝塔很庄严，[[名相词典/中文/舍利|舍利]]子也供在里面。国王带著文武百官、老百姓礼拜，一礼拜的时候[[名相词典/中文/舍利|舍利]]子就放光。这个工程师本来看不起[[名相词典/中文/舍利|舍利]]子，经常出恶口毁谤，看到[[名相词典/中文/舍利|舍利]]子放光生起信心，痛哭流涕在[[名相词典/中文/舍利|舍利]]子前[[名相词典/中文/忏悔|忏悔]]：「我不应该起这样的恶口。」[[名相词典/中文/忏悔|忏悔]]以后，还买了铃挂在塔上，供养佛陀的[[名相词典/中文/舍利|舍利]]，并发愿希望生生世世[[名相词典/中文/皈依|皈依]]佛陀。
+等到這座寶塔完成之後，寶塔很莊嚴，[[名相词典/中文/舍利|舍利]]子也供在裡面。國王帶著文武百官、老百姓禮拜，一禮拜的時候[[名相词典/中文/舍利|舍利]]子就放光。這個工程師本來看不起[[名相词典/中文/舍利|舍利]]子，經常出惡口譭謗，看到[[名相词典/中文/舍利|舍利]]子放光生起信心，痛哭流涕在[[名相词典/中文/舍利|舍利]]子前[[名相词典/中文/忏悔|懺悔]]：「我不應該起這樣的惡口。」[[名相词典/中文/忏悔|懺悔]]以後，還買了鈴掛在塔上，供養佛陀的[[名相词典/中文/舍利|舍利]]，併發願希望生生世世[[名相词典/中文/皈依|皈依]]佛陀。
 
 **English**
 When the stūpa was completed, it was very dignified, and the [[名相词典/English/relics|relics]] were enshrined within it. The king, together with his civil and military officials and the common people, came to worship, and the moment they worshipped, the [[名相词典/English/relics|relics]] emitted light. This craftsman, who had originally looked down on the [[名相词典/English/relics|relics]] and frequently uttered evil, slanderous words, upon seeing the [[名相词典/English/relics|relics]] emit light gave rise to [[名相词典/English/faith|faith]]; weeping bitterly, he repented before the [[名相词典/English/relics|relics]]: "I should not have uttered such evil words." After repenting, he also bought a bell and hung it on the stūpa, making an offering to the Buddha's [[名相词典/English/relics|relics]], and vowed that in life after life he wished to take refuge in the Buddha.
@@ -553,7 +553,7 @@ Lorsque le stūpa fut achevé, il était très digne, et les [[名相词典/Fran
 **§154**
 
 **中文**
-佛陀说：以前的那个工程师就是这个比丘。因为他毁谤、口出恶口，毁谤[[名相词典/中文/舍利|舍利]]，因为[[名相词典/中文/忏悔|忏悔]]、发愿的力量，免除[[名相词典/中文/三恶道|三恶道]]的[[名相词典/中文/果报|果报]]；但是因为当时所面对的是[[名相词典/中文/三宝|三宝]]境界，今世虽得人身，还有残存的旧势力在，所以招感丑陋的[[名相词典/中文/果报|果报]]。由于他供养铃，所以声音特别美妙；内心当中曾经发愿要[[名相词典/中文/皈依|皈依]]佛陀，所以今生得值佛出家修行，成就圣道。
+佛陀說：以前的那個工程師就是這個比丘。因為他譭謗、口出惡口，譭謗[[名相词典/中文/舍利|舍利]]，因為[[名相词典/中文/忏悔|懺悔]]、發願的力量，免除[[名相词典/中文/三恶道|三惡道]]的[[名相词典/中文/果报|果報]]；但是因為當時所面對的是[[名相词典/中文/三宝|三寶]]境界，今世雖得人身，還有殘存的舊勢力在，所以招感丑陋的[[名相词典/中文/果报|果報]]。由於他供養鈴，所以聲音特別美妙；內心當中曾經發願要[[名相词典/中文/皈依|皈依]]佛陀，所以今生得值佛出家修行，成就聖道。
 
 **English**
 The Buddha said: that craftsman of long ago is this very bhikṣu. Because he slandered and uttered evil words, slandering the [[名相词典/English/relics|relics]], yet by the power of his [[名相词典/English/repentance|repentance]] and vow, he was spared the [[名相词典/English/karmic result|karmic result]] of the [[名相词典/English/three evil destinies|three evil destinies]]; but because what he had confronted at that time was the domain of the [[名相词典/English/Three Jewels|Three Jewels]], although in this life he obtained a human body, there was still a remnant of the old [karmic] force, and so he brought upon himself the [[名相词典/English/karmic result|karmic result]] of an ugly appearance. Because he had offered a bell, his voice is especially wondrous; and because within his mind he had once vowed to take refuge in the Buddha, in this life he was able to encounter the Buddha, go forth, practice, and accomplish the noble path.
@@ -569,7 +569,7 @@ Le Bouddha dit : cet artisan d'autrefois est ce bhikṣu même. Parce qu'il calo
 **§155**
 
 **中文**
-看这个意思：我们所造的善、恶业是不能相互抵消的！不可能说：「我过去造了杀业的恶因，我现在用布施来抵消。」没有这回事情。当这个[[名相词典/中文/业力|业力]]被保存下来，它会一个一个得[[名相词典/中文/果报|果报]]。所以我们的[[名相词典/中文/果报|果报]]各式各样都有，酸甜苦辣都有，为什么呢？因为我们造业的时候，也是各式各样的。这些业造作了之后，绝对不可能靠布施来抵消的！唯一的方法就是「[[名相词典/中文/忏悔|忏悔]]」，只有[[名相词典/中文/忏悔|忏悔]]才能折损恶业。
+看這個意思：我們所造的善、惡業是不能相互抵消的！不可能說：「我過去造了殺業的惡因，我現在用布施來抵消。」沒有這回事情。當這個[[名相词典/中文/业力|業力]]被保存下來，它會一個一個得[[名相词典/中文/果报|果報]]。所以我們的[[名相词典/中文/果报|果報]]各式各樣都有，酸甜苦辣都有，為什麼呢？因為我們造業的時候，也是各式各樣的。這些業造作了之後，絕對不可能靠布施來抵消的！唯一的方法就是「[[名相词典/中文/忏悔|懺悔]]」，只有[[名相词典/中文/忏悔|懺悔]]才能折損惡業。
 
 **English**
 See the point of this: the wholesome and unwholesome karma we create cannot cancel each other out! It is not possible to say, "In the past I created the evil cause of killing-karma; now I will use giving to cancel it out." There is no such thing. Once this [[名相词典/English/karmic force|karmic force]] is preserved, it will ripen into [[名相词典/English/karmic result|karmic result]] one by one. So our retributions come in all sorts — sour, sweet, bitter, and pungent, all of them. Why? Because when we created the karma, it too was of all sorts. Once these karmas have been done, it is absolutely impossible to cancel them out by giving! The only method is "[[名相词典/English/repentance|repentance]]"; only [[名相词典/English/repentance|repentance]] can diminish evil karma.
@@ -585,7 +585,7 @@ Xem ý này: thiện, ác [[名相词典/TiếngViệt/nghi|nghi]]ệp chúng ta
 **§156**
 
 **中文**
-我们造作「[[名相词典/中文/业力|业力]]」去[[名相词典/中文/熏习|熏习]]「阿赖耶」，「阿赖耶」变现「[[名相词典/中文/果报|果报]]」，有它的[[名相词典/中文/等流|等流]]性，这就是发明「[[名相词典/中文/万法唯识|万法唯识]]」的道理——是我们的[[名相词典/中文/业力|业力]]，[[名相词典/中文/熏习|熏习]]了微细的「[[名相词典/中文/阿赖耶识|阿赖耶识]]」，[[名相词典/中文/阿赖耶识|阿赖耶识]]变现[[名相词典/中文/果报|果报]]；[[名相词典/中文/果报|果报]]当中，最主要的是「[[名相词典/中文/前六识|前六识]]」，这是比较粗的[[名相词典/中文/心识|心识]]；[[名相词典/中文/前六识|前六识]]面对这个[[名相词典/中文/果报|果报]]，又再继续造业，这个[[名相词典/中文/业力|业力]]又再[[名相词典/中文/熏习|熏习]][[名相词典/中文/阿赖耶识|阿赖耶识]]，又变现下一期的[[名相词典/中文/果报|果报]]……使令我们的[[名相词典/中文/生命相续|生命相续]]、[[名相词典/中文/业果相续|业果相续]]、乃至于[[名相词典/中文/心识相续|心识相续]]。这当中都没有一个独立自主的「我」存在，完全是由于「[[名相词典/中文/业力|业力]]」的作用而显现出来的。
+我們造作「[[名相词典/中文/业力|業力]]」去[[名相词典/中文/熏习|熏習]]「阿賴耶」，「阿賴耶」變現「[[名相词典/中文/果报|果報]]」，有它的[[名相词典/中文/等流|等流]]性，這就是發明「[[名相词典/中文/万法唯识|萬法唯識]]」的道理——是我們的[[名相词典/中文/业力|業力]]，[[名相词典/中文/熏习|熏習]]了微細的「[[名相词典/中文/阿赖耶识|阿賴耶識]]」，[[名相词典/中文/阿赖耶识|阿賴耶識]]變現[[名相词典/中文/果报|果報]]；[[名相词典/中文/果报|果報]]當中，最主要的是「[[名相词典/中文/前六识|前六識]]」，這是比較粗的[[名相词典/中文/心识|心識]]；[[名相词典/中文/前六识|前六識]]面對這個[[名相词典/中文/果报|果報]]，又再繼續造業，這個[[名相词典/中文/业力|業力]]又再[[名相词典/中文/熏习|熏習]][[名相词典/中文/阿赖耶识|阿賴耶識]]，又變現下一期的[[名相词典/中文/果报|果報]]……使令我們的[[名相词典/中文/生命相续|生命相續]]、[[名相词典/中文/业果相续|業果相續]]、乃至於[[名相词典/中文/心识相续|心識相續]]。這當中都沒有一個獨立自主的「我」存在，完全是由於「[[名相词典/中文/业力|業力]]」的作用而顯現出來的。
 
 **English**
 We create "[[名相词典/English/karmic force|karmic force]]" that perfumes the "store [-consciousness]," and the "store" manifests "[[名相词典/English/karmic result|karmic result]]," which has its own "flowing-forth" character (*niṣyanda*, [[名相词典/English/homogeneous outflow|homogeneous outflow]]). This is precisely how the principle of "the myriad dharmas being consciousness-only" is elucidated: it is our [[名相词典/English/karmic force|karmic force]] that perfumes the subtle "[[名相词典/English/store consciousness|store consciousness]]," and the [[名相词典/English/store consciousness|store consciousness]] manifests [[名相词典/English/karmic result|karmic result]]; within that [[名相词典/English/karmic result|karmic result]], the most important is the "[[名相词典/English/first six consciousnesses|first six consciousnesses]]," which are the coarser mind-consciousnesses; the [[名相词典/English/first six consciousnesses|first six consciousnesses]], facing this [[名相词典/English/karmic result|karmic result]], again go on to create karma, and this [[名相词典/English/karmic force|karmic force]] again perfumes the [[名相词典/English/store consciousness|store consciousness]], which again manifests the [[名相词典/English/karmic result|karmic result]] of the next lifetime… causing our life to be continuous, our karma-and-fruit to be continuous, and even our [[名相词典/English/mind-consciousness|mind-consciousness]] to be continuous. In all of this there is no independent, self-governing "self" that exists; it is entirely displayed through the operation of "[[名相词典/English/karmic force|karmic force]]."
@@ -601,7 +601,7 @@ Chúng ta tạo tác “[[名相词典/TiếngViệt/nghi|nghi]]ệp lực” đ
 **§157**
 
 **中文**
-以上是总说，我们再看第二段「问答释疑」，把「[[名相词典/中文/一切法无我|一切法无我]]」的观念，用问答的方式来解释。『问：若实无我，谁能造业？谁受果耶？』
+以上是總說，我們再看第二段「問答釋疑」，把「[[名相词典/中文/一切法无我|一切法無我]]」的觀念，用問答的方式來解釋。『問：若實無我，誰能造業？誰受果耶？』
 
 **English**
 The above was the general statement; now let us look at the second part, "questions and answers resolving doubts," which explains the idea of "[[名相词典/English/all dharmas are without self|all dharmas are without self]]" through the method of question and answer. "Question: If there is really no self, who is it that can create karma? Who receives the fruit [of it]?"
@@ -617,7 +617,7 @@ Trên đây là tổng thuyết, chúng ta lại xem đoạn thứ hai “vấn 
 **§158**
 
 **中文**
-一般的思想是：应该有一个常住不变的「我」，这个「我」是独立自主的，造业的人是「我」、受[[名相词典/中文/果报|果报]]的人也是「我」，我们一般是这样的思想。假设生命体没有一个独立自主的「我」，那么谁来造业呢？我在拜佛，在拜佛的是「我」；假设没有一个「我」，是谁在拜佛呢？谁能够去创造[[名相词典/中文/业力|业力]]，以后又是谁去得[[名相词典/中文/果报|果报]]呢？换句话说：[[名相词典/中文/凡夫|凡夫]]认为没有一个「我」，因果就不能成立——因地是「我」造作的、果地也是「我」去受报的，应该要有一个「我」吧？提出了这个问难。我们看[[名相词典/中文/大乘|大乘]]唯识论师怎么回答。
+一般的思想是：應該有一個常住不變的「我」，這個「我」是獨立自主的，造業的人是「我」、受[[名相词典/中文/果报|果報]]的人也是「我」，我們一般是這樣的思想。假設生命體沒有一個獨立自主的「我」，那麼誰來造業呢？我在拜佛，在拜佛的是「我」；假設沒有一個「我」，是誰在拜佛呢？誰能夠去創造[[名相词典/中文/业力|業力]]，以後又是誰去得[[名相词典/中文/果报|果報]]呢？換句話說：[[名相词典/中文/凡夫|凡夫]]認為沒有一個「我」，因果就不能成立——因地是「我」造作的、果地也是「我」去受報的，應該要有一個「我」吧？提出了這個問難。我們看[[名相词典/中文/大乘|大乘]]唯識論師怎麼回答。
 
 **English**
 The ordinary way of thinking is: there ought to be a permanent, unchanging "self"; this "self" is independent and self-governing; the one who creates karma is "I," and the one who receives the [[名相词典/English/karmic result|karmic result]] is also "I." This is how we ordinarily think. Suppose the life-entity has no independent, self-governing "self" — then who creates the karma? I am bowing to the Buddha; the one bowing to the Buddha is "I." Suppose there were no "self" — then who is it that bows to the Buddha? Who is able to create [[名相词典/English/karmic force|karmic force]], and later who is it that receives the [[名相词典/English/karmic result|karmic result]]? In other words: the [[名相词典/English/ordinary being|ordinary being]] thinks that if there is no "self," then cause and effect cannot be established — since it is "I" who acts on the causal ground, and "I" who receives the [[名相词典/English/karmic result|karmic result]] on the fruition ground, there ought surely to be a "self"? This is the objection raised. Let us see how the Mahāyāna Consciousness-Only treatise-masters answer it.
@@ -633,7 +633,7 @@ Tư [[名相词典/TiếngViệt/tưởng|tưởng]] thông thường là: phả
 **§159**
 
 **中文**
-『答：然诸有情，[[名相词典/中文/心心所法|心心所法]]，[[名相词典/中文/因缘|因缘]]力故，相续不断，造业受果，于理无违。』说：有情众生不一定要有一个「我」，才能够造业。如果没有「我」，谁能够造业呢？『心、[[名相词典/中文/心所|心所]]法』——是你的心！你现在那个明了的心，它就能够造业，不一定要有「我」。就是你这个明了的心，[[名相词典/中文/烦恼|烦恼]]重也好、善根强也好，都是过去串习来的。你的明了性——[[名相词典/中文/心王|心王]]跟[[名相词典/中文/心所|心所]]，它能够造业。
+『答：然諸有情，[[名相词典/中文/心心所法|心心所法]]，[[名相词典/中文/因缘|因緣]]力故，相續不斷，造業受果，於理無違。』說：有情眾生不一定要有一個「我」，才能夠造業。如果沒有「我」，誰能夠造業呢？『心、[[名相词典/中文/心所|心所]]法』——是你的心！你現在那個明了的心，它就能夠造業，不一定要有「我」。就是你這個明了的心，[[名相词典/中文/烦恼|煩惱]]重也好、善根強也好，都是過去串習來的。你的明了性——[[名相词典/中文/心王|心王]]跟[[名相词典/中文/心所|心所]]，它能夠造業。
 
 **English**
 "Answer: Yet all sentient beings, by the force of the [[名相词典/English/condition as cause|condition as cause]] of the [[名相词典/English/mind and mental activities|mind and mental activities]] (*citta* and *caitta*), continue on unbroken, creating karma and receiving fruit — and in this there is no contradiction with reason." It says: sentient beings do not necessarily need to have a "self" in order to create karma. If there is no "self," who can create karma? "The [[名相词典/English/mind and mental activities|mind and mental activities]]" — it is your mind! That clearly-aware mind of yours right now is able to create karma; there need not be a "self." It is just this clearly-aware mind of yours — whether the passions be heavy or the wholesome roots be strong, all of it has come from past repeated habituation. Your quality of clear awareness — the mind-king and the [[名相词典/English/mental activities|mental activities]] — is able to create karma.
@@ -649,7 +649,7 @@ Tư [[名相词典/TiếngViệt/tưởng|tưởng]] thông thường là: phả
 **§160**
 
 **中文**
-『[[名相词典/中文/因缘|因缘]]力故』：你内心的[[名相词典/中文/心识|心识]]，[[名相词典/中文/刹那|刹那]][[名相词典/中文/刹那|刹那]]的「起心动念」，这个就是「[[名相词典/中文/因缘|因缘]]力故」，一下子起善念、一下子起恶念，而这样的[[名相词典/中文/因缘|因缘]]造作相续不断，白天也活动、晚上也活动，如同水流，相续不断的流动。
+『[[名相词典/中文/因缘|因緣]]力故』：你內心的[[名相词典/中文/心识|心識]]，[[名相词典/中文/刹那|剎那]][[名相词典/中文/刹那|剎那]]的「起心動念」，這個就是「[[名相词典/中文/因缘|因緣]]力故」，一下子起善念、一下子起惡念，而這樣的[[名相词典/中文/因缘|因緣]]造作相續不斷，白天也活動、晚上也活動，如同水流，相續不斷的流動。
 
 **English**
 "By the force of [[名相词典/English/condition as cause|condition as cause]]": your inner [[名相词典/English/mind-consciousness|mind-consciousness]], moment by moment "gives rise to thoughts and stirs into motion" — this is precisely "the force of [[名相词典/English/condition as cause|condition as cause]]." Now a wholesome thought arises, now an unwholesome thought arises, and such conditioned activity is continuous and unbroken: active by day and active by night, like a flowing stream, flowing on continuously without interruption.
@@ -665,7 +665,7 @@ Tư [[名相词典/TiếngViệt/tưởng|tưởng]] thông thường là: phả
 **§161**
 
 **中文**
-『造业受果，于理无违』：你今世的[[名相词典/中文/心识|心识]]去造业，下辈子的[[名相词典/中文/心识|心识]]去得[[名相词典/中文/果报|果报]]，这个道理是可以成立的，不一定要有一个「我」。就是说：你依止现在的[[名相词典/中文/心识|心识]]去造业，好比你现在是一个男人，你以男人的[[名相词典/中文/心识|心识]]去造业；下一生你没有堕到[[名相词典/中文/三恶道|三恶道]]，也没有到天上去，你还是做人，做一个女人，当然这个[[名相词典/中文/心识|心识]]就变化了，因为女人跟男人[[名相词典/中文/心识|心识]]不同，这时候你就以女人的[[名相词典/中文/心识|心识]]去受用[[名相词典/中文/果报|果报]]。这个流转过程，现在的[[名相词典/中文/心识|心识]]跟下辈子的[[名相词典/中文/心识|心识]]不一样、思想也不一样——男人跟女人的[[名相词典/中文/心识|心识]]怎么会一样呢？你今生是一个乞丐，没有钱，看到谁都会觉得很自卑；但是你修习布施、持戒、忍辱、[[名相词典/中文/精进|精进]]、[[名相词典/中文/禅定|禅定]]……种种的善业，下辈子做一个[[名相词典/中文/转轮圣王|转轮圣王]]，七宝千子、统领四天下，那时候的内心状态就完全不一样了，充满了自信。
+『造業受果，於理無違』：你今世的[[名相词典/中文/心识|心識]]去造業，下輩子的[[名相词典/中文/心识|心識]]去得[[名相词典/中文/果报|果報]]，這個道理是可以成立的，不一定要有一個「我」。就是說：你依止現在的[[名相词典/中文/心识|心識]]去造業，好比你現在是一個男人，你以男人的[[名相词典/中文/心识|心識]]去造業；下一生你沒有墮到[[名相词典/中文/三恶道|三惡道]]，也沒有到天上去，你還是做人，做一個女人，當然這個[[名相词典/中文/心识|心識]]就變化了，因為女人跟男人[[名相词典/中文/心识|心識]]不同，這時候你就以女人的[[名相词典/中文/心识|心識]]去受用[[名相词典/中文/果报|果報]]。這個流轉過程，現在的[[名相词典/中文/心识|心識]]跟下輩子的[[名相词典/中文/心识|心識]]不一樣、思想也不一樣——男人跟女人的[[名相词典/中文/心识|心識]]怎麼會一樣呢？你今生是一個乞丐，沒有錢，看到誰都會覺得很自卑；但是你修習布施、持戒、忍辱、[[名相词典/中文/精进|精進]]、[[名相词典/中文/禅定|禪定]]……種種的善業，下輩子做一個[[名相词典/中文/转轮圣王|轉輪聖王]]，七寶千子、統領四天下，那時候的內心狀態就完全不一樣了，充滿了自信。
 
 **English**
 "Creating karma and receiving fruit — in this there is no contradiction with reason": the [[名相词典/English/mind-consciousness|mind-consciousness]] of your present life creates karma, and the [[名相词典/English/mind-consciousness|mind-consciousness]] of your next life receives the [[名相词典/English/karmic result|karmic result]]; this principle can be established, and there need not be a "self." That is to say: based on your present [[名相词典/English/mind-consciousness|mind-consciousness]] you create karma — for instance, you are now a man, and you create karma with a man's [[名相词典/English/mind-consciousness|mind-consciousness]]; in your next life you have not fallen into the [[名相词典/English/three evil destinies|three evil destinies]], nor gone up to the heavens, but you are still human, born as a woman. Of course this [[名相词典/English/mind-consciousness|mind-consciousness]] has then changed, because a woman's [[名相词典/English/mind-consciousness|mind-consciousness]] differs from a man's, and at that point you experience the [[名相词典/English/karmic result|karmic result]] with a woman's [[名相词典/English/mind-consciousness|mind-consciousness]]. In this process of transmigration, the present [[名相词典/English/mind-consciousness|mind-consciousness]] and the next life's [[名相词典/English/mind-consciousness|mind-consciousness]] are not the same, and the thinking is not the same either — how could a man's and a woman's [[名相词典/English/mind-consciousness|mind-consciousness]] be the same? In this life you are a beggar with no money, feeling inferior at the sight of anyone; but if you cultivate giving, keeping the precepts, patience, vigor, [[名相词典/English/meditative concentration|meditative concentration]]… all sorts of wholesome karma, in your next life you become a [[名相词典/English/wheel-turning sage-king|wheel-turning sage-king]] (*cakravartin*), with the seven treasures and a thousand sons, ruling over the four continents — and at that time your inner state is completely different, brimming with confidence.
@@ -681,7 +681,7 @@ Tư [[名相词典/TiếngViệt/tưởng|tưởng]] thông thường là: phả
 **§162**
 
 **中文**
-『若实无我，谁能造业？谁受果耶？』就是：你现在的[[名相词典/中文/心识|心识]]去造业，你下一生的[[名相词典/中文/心识|心识]]去受用[[名相词典/中文/果报|果报]]——「[[名相词典/中文/万法唯识|万法唯识]]」。没有一个「我」，因为你的[[名相词典/中文/心识|心识]]有变化。如果我们的[[名相词典/中文/心识|心识]]有一个独立的自我，那不管造再大的善业、造再大的恶业，这个[[名相词典/中文/心识|心识]]都不会变化；因为有「我」，它就能够独立自主，它不受[[名相词典/中文/业力|业力]]影响而变化——事实上这个「我」是不存在的。所以说：『然诸有情，[[名相词典/中文/心心所法|心心所法]]，[[名相词典/中文/因缘|因缘]]力故，相续不断，造业受果，于理无违。』这跟[[名相词典/中文/缘起|缘起]]的道理是不相违背的。你的[[名相词典/中文/心识|心识]]造业之后，[[名相词典/中文/心识|心识]]就开始变化：造的善业强，[[名相词典/中文/心识|心识]]善的功能就增强，心情也比较好，对自己的信心又加强；造的恶业强，[[名相词典/中文/心识|心识]]就开始堕落——就是这样，『[[名相词典/中文/因缘|因缘]]力故，相续不断，造业受果，于理无违。』
+『若實無我，誰能造業？誰受果耶？』就是：你現在的[[名相词典/中文/心识|心識]]去造業，你下一生的[[名相词典/中文/心识|心識]]去受用[[名相词典/中文/果报|果報]]——「[[名相词典/中文/万法唯识|萬法唯識]]」。沒有一個「我」，因為你的[[名相词典/中文/心识|心識]]有變化。如果我們的[[名相词典/中文/心识|心識]]有一個獨立的自我，那不管造再大的善業、造再大的惡業，這個[[名相词典/中文/心识|心識]]都不會變化；因為有「我」，它就能夠獨立自主，它不受[[名相词典/中文/业力|業力]]影響而變化——事實上這個「我」是不存在的。所以說：『然諸有情，[[名相词典/中文/心心所法|心心所法]]，[[名相词典/中文/因缘|因緣]]力故，相續不斷，造業受果，於理無違。』這跟[[名相词典/中文/缘起|緣起]]的道理是不相違背的。你的[[名相词典/中文/心识|心識]]造業之後，[[名相词典/中文/心识|心識]]就開始變化：造的善業強，[[名相词典/中文/心识|心識]]善的功能就增強，心情也比較好，對自己的信心又加強；造的惡業強，[[名相词典/中文/心识|心識]]就開始墮落——就是這樣，『[[名相词典/中文/因缘|因緣]]力故，相續不斷，造業受果，於理無違。』
 
 **English**
 "If there is really no self, who is it that can create karma? Who receives the fruit?" — namely: your present [[名相词典/English/mind-consciousness|mind-consciousness]] creates the karma, and your next life's [[名相词典/English/mind-consciousness|mind-consciousness]] experiences the [[名相词典/English/karmic result|karmic result]] — "[[名相词典/English/the myriad dharmas are consciousness-only|the myriad dharmas are consciousness-only]]." There is no "self," because your [[名相词典/English/mind-consciousness|mind-consciousness]] undergoes change. If our [[名相词典/English/mind-consciousness|mind-consciousness]] had an independent self, then no matter how great the wholesome karma created, nor how great the unwholesome karma created, this [[名相词典/English/mind-consciousness|mind-consciousness]] would never change; for with a "self," it would be independent and self-governing, unaffected and unchanged by [[名相词典/English/karmic force|karmic force]] — but in fact this "self" does not exist. Hence it is said: "Yet all sentient beings, by the force of the [[名相词典/English/condition as cause|condition as cause]] of the [[名相词典/English/mind and mental activities|mind and mental activities]], continue on unbroken, creating karma and receiving fruit — and in this there is no contradiction with reason." This does not contradict the principle of dependent arising. After your [[名相词典/English/mind-consciousness|mind-consciousness]] creates karma, the [[名相词典/English/mind-consciousness|mind-consciousness]] begins to change: if the wholesome karma created is strong, the wholesome functions of the [[名相词典/English/mind-consciousness|mind-consciousness]] are strengthened, the mood is better, and one's self-confidence is again reinforced; if the unwholesome karma created is strong, the [[名相词典/English/mind-consciousness|mind-consciousness]] begins to degenerate — just so, "by the force of [[名相词典/English/condition as cause|condition as cause]], continuing on unbroken, creating karma and receiving fruit — in this there is no contradiction with reason."
@@ -697,7 +697,7 @@ Tư [[名相词典/TiếngViệt/tưởng|tưởng]] thông thường là: phả
 **§163**
 
 **中文**
-我们将这个观念再解释一下：「[[名相词典/中文/阿赖耶识|阿赖耶识]]」——我们生命的根本就是[[名相词典/中文/阿赖耶识|阿赖耶识]]，[[名相词典/中文/阿赖耶识|阿赖耶识]]的本质是不常又不断，它受你[[名相词典/中文/业力|业力]]的[[名相词典/中文/熏习|熏习]]。就「不常」来说：「生灭变异，虚伪无主。」它有生灭相、有变异相，这当中没有一个主宰者。我们的生命体最主要的根本[[名相词典/中文/心识|心识]]是[[名相词典/中文/阿赖耶识|阿赖耶识]]，[[名相词典/中文/阿赖耶识|阿赖耶识]]是「去后来先作主公」——「去后」生命结束的时候，[[名相词典/中文/前七识|前七识]]全都停下来，是[[名相词典/中文/第八识|第八识]]最后离开；「来先」也就是我们投胎的时候，[[名相词典/中文/第八识|第八识]]先投胎，先有[[名相词典/中文/第八识|第八识]]才创造出前[[名相词典/中文/七转识|七转识]]，所以「[[名相词典/中文/第八识|第八识]]」是生命体的根本。
+我們將這個觀念再解釋一下：「[[名相词典/中文/阿赖耶识|阿賴耶識]]」——我們生命的根本就是[[名相词典/中文/阿赖耶识|阿賴耶識]]，[[名相词典/中文/阿赖耶识|阿賴耶識]]的本質是不常又不斷，它受你[[名相词典/中文/业力|業力]]的[[名相词典/中文/熏习|熏習]]。就「不常」來說：「生滅變異，虛偽無主。」它有生滅相、有變異相，這當中沒有一個主宰者。我們的生命體最主要的根本[[名相词典/中文/心识|心識]]是[[名相词典/中文/阿赖耶识|阿賴耶識]]，[[名相词典/中文/阿赖耶识|阿賴耶識]]是「去後來先作主公」——「去後」生命結束的時候，[[名相词典/中文/前七识|前七識]]全都停下來，是[[名相词典/中文/第八识|第八識]]最後離開；「來先」也就是我們投胎的時候，[[名相词典/中文/第八识|第八識]]先投胎，先有[[名相词典/中文/第八识|第八識]]才創造出前[[名相词典/中文/七转识|七轉識]]，所以「[[名相词典/中文/第八识|第八識]]」是生命體的根本。
 
 **English**
 Let us explain this idea a bit further: the "[[名相词典/English/store consciousness|store consciousness]]" — the root of our life is precisely the [[名相词典/English/store consciousness|store consciousness]], whose essential nature is neither permanent nor annihilated, and which receives the [[名相词典/English/perfuming|perfuming]] of your [[名相词典/English/karmic force|karmic force]]. As for its being "not permanent": "arising, perishing, altering, and changing — false and without a master." It has the [[名相词典/English/characteristics|characteristics]] of arising and perishing, and of alteration and change, and within this there is no sovereign controller. The most fundamental root [[名相词典/English/mind-consciousness|mind-consciousness]] of our life-entity is the [[名相词典/English/store consciousness|store consciousness]], which "is the last to depart and the first to arrive, acting as the master." "Last to depart": when life ends, the [[名相词典/English/first seven consciousnesses|first seven consciousnesses]] all cease, and the [[名相词典/English/eighth consciousness|eighth consciousness]] is the last to leave; "first to arrive": that is, when we take rebirth, the [[名相词典/English/eighth consciousness|eighth consciousness]] is the first to take rebirth — only when there is first the [[名相词典/English/eighth consciousness|eighth consciousness]] are the first [[名相词典/English/seven evolving consciousnesses|seven evolving consciousnesses]] then created. So the "[[名相词典/English/eighth consciousness|eighth consciousness]]" is the root of the life-entity.
@@ -713,7 +713,7 @@ Chúng ta giải thích quan [[名相词典/TiếngViệt/niệm|niệm]] này t
 **§164**
 
 **中文**
-但是这个生命体，它不是一个常态，它会变化。《唯识学》比喻说：就像一条手帕，这条手帕一下子变出一只兔子、一下子又变出一只老虎，其实那是一种魔术的力量，它的本质只是一条普通的手帕；兔子、老虎都没有真实性。这意思怎么说呢？「魔术的力量」就是比喻「[[名相词典/中文/业力|业力]]」：如果你造五戒的[[名相词典/中文/业力|业力]]去[[名相词典/中文/熏习|熏习]][[名相词典/中文/阿赖耶识|阿赖耶识]]，[[名相词典/中文/阿赖耶识|阿赖耶识]]就变现庄严的人天[[名相词典/中文/果报|果报]]；如果你造杀盗淫妄的[[名相词典/中文/业力|业力]]去[[名相词典/中文/熏习|熏习]][[名相词典/中文/阿赖耶识|阿赖耶识]]，[[名相词典/中文/阿赖耶识|阿赖耶识]]把这些讯息保存下来，就变现[[名相词典/中文/三恶道|三恶道]]的[[名相词典/中文/果报|果报]]出来，这个[[名相词典/中文/果报|果报]]就是一种苦恼的[[名相词典/中文/果报|果报]]。就像手帕能变出各式各样的花样来，这样的[[名相词典/中文/果报|果报]]都是随[[名相词典/中文/因缘|因缘]]而变化的。
+但是這個生命體，它不是一個常態，它會變化。《唯識學》比喻說：就像一條手帕，這條手帕一下子變出一隻兔子、一下子又變出一隻老虎，其實那是一種魔術的力量，它的本質只是一條普通的手帕；兔子、老虎都沒有真實性。這意思怎麼說呢？「魔術的力量」就是比喻「[[名相词典/中文/业力|業力]]」：如果你造五戒的[[名相词典/中文/业力|業力]]去[[名相词典/中文/熏习|熏習]][[名相词典/中文/阿赖耶识|阿賴耶識]]，[[名相词典/中文/阿赖耶识|阿賴耶識]]就變現莊嚴的人天[[名相词典/中文/果报|果報]]；如果你造殺盜淫妄的[[名相词典/中文/业力|業力]]去[[名相词典/中文/熏习|熏習]][[名相词典/中文/阿赖耶识|阿賴耶識]]，[[名相词典/中文/阿赖耶识|阿賴耶識]]把這些訊息保存下來，就變現[[名相词典/中文/三恶道|三惡道]]的[[名相词典/中文/果报|果報]]出來，這個[[名相词典/中文/果报|果報]]就是一種苦惱的[[名相词典/中文/果报|果報]]。就像手帕能變出各式各樣的花樣來，這樣的[[名相词典/中文/果报|果報]]都是隨[[名相词典/中文/因缘|因緣]]而變化的。
 
 **English**
 But this life-entity is not a constant state; it changes. Consciousness-Only studies use a simile: it is like a handkerchief that at one moment conjures forth a rabbit and at the next a tiger — in fact this is a kind of magical power, and its essence is merely an ordinary handkerchief; the rabbit and the tiger have no true reality. What does this mean? The "magical power" is a simile for "[[名相词典/English/karmic force|karmic force]]": if you create the [[名相词典/English/karmic force|karmic force]] of the five precepts to perfume the [[名相词典/English/store consciousness|store consciousness]], the [[名相词典/English/store consciousness|store consciousness]] manifests the dignified [[名相词典/English/karmic result|karmic result]] of the human and heavenly realms; if you create the [[名相词典/English/karmic force|karmic force]] of killing, stealing, sexual misconduct, and lying to perfume the [[名相词典/English/store consciousness|store consciousness]], the [[名相词典/English/store consciousness|store consciousness]] preserves this information and manifests forth the [[名相词典/English/karmic result|karmic result]] of the [[名相词典/English/three evil destinies|three evil destinies]] — and this [[名相词典/English/karmic result|karmic result]] is a [[名相词典/English/karmic result|karmic result]] of suffering and [[名相词典/English/passions|passions]]. Just as a handkerchief can conjure forth all sorts of patterns, such retributions all change in accordance with [[名相词典/English/condition as cause|condition as cause]].
@@ -729,7 +729,7 @@ Nhưng thân mệnh này không phải là một trạng thái thường hằng,
 **§165**
 
 **中文**
-[[名相词典/中文/阿赖耶识|阿赖耶识]]它「不常」，但是可也「不断」——「恒常相续，无有间断」。虽然它不断不断地变化，却从没有断灭的时候。我们的生命从无始劫以来，生命的水流，从无始劫流到现在，有时候做人、有时候升天、有时候堕到[[名相词典/中文/三恶道|三恶道]]去……不断的变化，但是「恒常相续，无有间断」，从没有间断过，每一个[[名相词典/中文/刹那|刹那]]都有生命的存在。
+[[名相词典/中文/阿赖耶识|阿賴耶識]]它「不常」，但是可也「不斷」——「恆常相續，無有間斷」。雖然它不斷不斷地變化，卻從沒有斷滅的時候。我們的生命從無始劫以來，生命的水流，從無始劫流到現在，有時候做人、有時候升天、有時候墮到[[名相词典/中文/三恶道|三惡道]]去……不斷的變化，但是「恆常相續，無有間斷」，從沒有間斷過，每一個[[名相词典/中文/刹那|剎那]]都有生命的存在。
 
 **English**
 The [[名相词典/English/store consciousness|store consciousness]] is "not permanent," but it is also "not annihilated" — "constantly continuous, without interruption." Although it changes ceaselessly, there is never a moment when it is cut off and annihilated. Our life, from beginningless eons, the flowing stream of life, has flowed from beginningless eons down to the present — sometimes human, sometimes ascending to the heavens, sometimes falling into the [[名相词典/English/three evil destinies|three evil destinies]]… changing ceaselessly, yet "constantly continuous, without interruption," never once broken off; in every single moment there is the existence of life.
@@ -745,7 +745,7 @@ La [[名相词典/Français/conscience-réceptacle|conscience-réceptacle]] est 
 **§166**
 
 **中文**
-『不常又不断』讲出一个譬喻——『喻如暴流』，就像是急速的水流。水流看起来有变化，一下子大波浪、一下子小波浪，但是这个水流一个接一个，中间没有空隙。我们生命的本质，就是这样不常又不断。
+『不常又不斷』講出一個譬喻——『喻如暴流』，就像是急速的水流。水流看起來有變化，一下子大波浪、一下子小波浪，但是這個水流一個接一個，中間沒有空隙。我們生命的本質，就是這樣不常又不斷。
 
 **English**
 "Neither permanent nor annihilated" is illustrated by a simile — "likened to a rushing torrent," like a swiftly flowing stream. The stream appears to change — now a great wave, now a small wave — but this stream flows one [drop] after another, with no gap in between. The essential nature of our life is just this: neither permanent nor annihilated.
@@ -761,7 +761,7 @@ La [[名相词典/Français/conscience-réceptacle|conscience-réceptacle]] est 
 **§167**
 
 **中文**
-最后做一个总结：『由此故知，定无实我，但有诸识，无始时来，前灭后生，因果相续；由妄[[名相词典/中文/熏习|熏习]]，似我相现，愚者于中，妄执为我。』依照这个道理可以知道：我们的生命体，不管是人的生命、天的生命、各种的生命，都没有一个恒常住、不变异的「自我」——没有这样的「自我」。那是谁造业？谁受[[名相词典/中文/果报|果报]]呢？『但有诸识』，是我们现前一个明了的[[名相词典/中文/心识|心识]]，就是「[[名相词典/中文/八识|八识]]」——它无始劫来，前灭后生，[[名相词典/中文/刹那|刹那]][[名相词典/中文/刹那|刹那]]的造业，使令因果相续。
+最後做一個總結：『由此故知，定無實我，但有諸識，無始時來，前滅後生，因果相續；由妄[[名相词典/中文/熏习|熏習]]，似我相現，愚者於中，妄執為我。』依照這個道理可以知道：我們的生命體，不管是人的生命、天的生命、各種的生命，都沒有一個恆常住、不變異的「自我」——沒有這樣的「自我」。那是誰造業？誰受[[名相词典/中文/果报|果報]]呢？『但有諸識』，是我們現前一個明了的[[名相词典/中文/心识|心識]]，就是「[[名相词典/中文/八识|八識]]」——它無始劫來，前滅後生，[[名相词典/中文/刹那|剎那]][[名相词典/中文/刹那|剎那]]的造業，使令因果相續。
 
 **English**
 Finally, a summary is made: "From this, therefore, one knows: there is definitely no real self, but only the various consciousnesses, which, from beginningless time, perish before and arise after, cause and effect continuing on; through deluded [[名相词典/English/perfuming|perfuming]], an appearance resembling a self manifests, and the foolish, within this, deludedly grasp it as a self." According to this principle we can know: our life-entity — whether a human life, a heavenly life, or any kind of life — has no permanently abiding, unchanging "self"; there is no such "self." Then who creates karma? Who receives the [[名相词典/English/karmic result|karmic result]]? "There are only the various consciousnesses": it is a clearly-aware [[名相词典/English/mind-consciousness|mind-consciousness]] present before us, namely the "[[名相词典/English/eight consciousnesses|eight consciousnesses]]" — which, from beginningless eons, perishing before and arising after, moment by moment create karma, causing cause and effect to continue on.
@@ -777,7 +777,7 @@ Cuối cùng làm một tổng kết: “Do đây nên biết, quyết không c�
 **§168**
 
 **中文**
-这样一个[[名相词典/中文/心识|心识]]的流动，[[名相词典/中文/刹那|刹那]][[名相词典/中文/刹那|刹那]]创造[[名相词典/中文/业力|业力]]，再由这个[[名相词典/中文/心识|心识]]去得[[名相词典/中文/果报|果报]]。在这样虚妄的[[名相词典/中文/业力|业力]][[名相词典/中文/熏习|熏习]]之下、相续当中，『似我相现』，有一个相似于「我」的相貌出现。因为我们的[[名相词典/中文/心识|心识]]流动太快，这个水流流得太快，会让我们感觉水流好像是一个水柱，其实这个水流是一个接一个的。我们的[[名相词典/中文/心识|心识]]也是如此，它流动太快，我们察觉不到它的变化，以为是一种常住的；愚痴的众生就执著为「我」，有一个「我」的存在。
+這樣一個[[名相词典/中文/心识|心識]]的流動，[[名相词典/中文/刹那|剎那]][[名相词典/中文/刹那|剎那]]創造[[名相词典/中文/业力|業力]]，再由這個[[名相词典/中文/心识|心識]]去得[[名相词典/中文/果报|果報]]。在這樣虛妄的[[名相词典/中文/业力|業力]][[名相词典/中文/熏习|熏習]]之下、相續當中，『似我相現』，有一個相似於「我」的相貌出現。因為我們的[[名相词典/中文/心识|心識]]流動太快，這個水流流得太快，會讓我們感覺水流好像是一個水柱，其實這個水流是一個接一個的。我們的[[名相词典/中文/心识|心識]]也是如此，它流動太快，我們察覺不到它的變化，以為是一種常住的；愚癡的眾生就執著為「我」，有一個「我」的存在。
 
 **English**
 Such a flow of [[名相词典/English/mind-consciousness|mind-consciousness]], moment by moment creating [[名相词典/English/karmic force|karmic force]], then by this same [[名相词典/English/mind-consciousness|mind-consciousness]] receives the [[名相词典/English/karmic result|karmic result]]. Under such deluded [[名相词典/English/perfuming|perfuming]] of [[名相词典/English/karmic force|karmic force]], within this continuity, "an appearance resembling a self manifests" — an appearance similar to a "self" makes its appearance. Because our [[名相词典/English/mind-consciousness|mind-consciousness]] flows too fast — this stream flows too swiftly — it gives us the sense that the stream is like a column of water, when in fact the stream is [made of drops] one after another. Our [[名相词典/English/mind-consciousness|mind-consciousness]] is likewise: it flows too fast, and we cannot detect its changes, taking it to be something permanently abiding; and foolish sentient beings then grasp it as a "self," [thinking] there is a "self" that exists.
@@ -793,7 +793,7 @@ Một dòng chảy [[名相词典/TiếngViệt/tâm thức|tâm thức]] như v
 **§169**
 
 **中文**
-如果说我们的生命体有一个「我」，这个世间就没有[[名相词典/中文/阿罗汉|阿罗汉]]、没有佛陀了！就是说，如果「我」是真实的、不是「[[名相词典/中文/因缘|因缘]]」[[名相词典/中文/熏习|熏习]]而有的，那这个「我」就不能消灭掉，修再深的戒定慧都不能破坏它、改变它。而实是没有「我」，我们内心的本质是清净的，是我们自己想出一个「我」来、自己打妄想想出一个「我」来，所以才能够对治掉。因为这个「我」是不存在的，真实的本来面目是没有「我」，我们自己想出一个「我」，当然这个不真实，是可以对治的，就把它消灭掉，就是恢复本来面目了。简单讲，本来就是这样子：本来就是一个[[名相词典/中文/心识|心识]]的流动，这个[[名相词典/中文/心识|心识]]能够造业，也能够保存[[名相词典/中文/业力|业力]]；一期一期的造业、一期一期的变现[[名相词典/中文/果报|果报]]，[[名相词典/中文/心识|心识]]就是这样相续——「[[名相词典/中文/万法唯识|万法唯识]]」。
+如果說我們的生命體有一個「我」，這個世間就沒有[[名相词典/中文/阿罗汉|阿羅漢]]、沒有佛陀了！就是說，如果「我」是真實的、不是「[[名相词典/中文/因缘|因緣]]」[[名相词典/中文/熏习|熏習]]而有的，那這個「我」就不能消滅掉，修再深的戒定慧都不能破壞它、改變它。而實是沒有「我」，我們內心的本質是清淨的，是我們自己想出一個「我」來、自己打妄想想出一個「我」來，所以才能夠對治掉。因為這個「我」是不存在的，真實的本來面目是沒有「我」，我們自己想出一個「我」，當然這個不真實，是可以對治的，就把它消滅掉，就是恢復本來面目了。簡單講，本來就是這樣子：本來就是一個[[名相词典/中文/心识|心識]]的流動，這個[[名相词典/中文/心识|心識]]能夠造業，也能夠保存[[名相词典/中文/业力|業力]]；一期一期的造業、一期一期的變現[[名相词典/中文/果报|果報]]，[[名相词典/中文/心识|心識]]就是這樣相續——「[[名相词典/中文/万法唯识|萬法唯識]]」。
 
 **English**
 If our life-entity had a "self," then this world would have no arhats and no Buddhas! That is to say, if the "self" were real and not something arisen through the [[名相词典/English/perfuming|perfuming]] of "[[名相词典/English/condition as cause|condition as cause]]," then this "self" could not be eliminated, and however deep the precepts, [[名相词典/English/samādhi|samādhi]], and wisdom one cultivated, none could destroy or change it. But the truth is there is no "self"; the essential nature of our mind is pure, and it is we ourselves who have thought up a "self," we ourselves who by deluded imagining have conjured up a "self" — which is precisely why it can be counteracted. Because this "self" does not exist — the true original face is without a "self," and we ourselves have thought up a "self" — of course this is not real and can be counteracted; once it is eliminated, the original face is restored. Put simply, it was always thus: it was always just a flow of [[名相词典/English/mind-consciousness|mind-consciousness]], and this [[名相词典/English/mind-consciousness|mind-consciousness]] can create karma and can also preserve [[名相词典/English/karmic force|karmic force]]; creating karma term after term, manifesting [[名相词典/English/karmic result|karmic result]] term after term, the [[名相词典/English/mind-consciousness|mind-consciousness]] continues on just so — "[[名相词典/English/the myriad dharmas are consciousness-only|the myriad dharmas are consciousness-only]]."
@@ -809,7 +809,7 @@ Nếu nói thân mệnh chúng ta có một cái “ngã”, thì thế gian nà
 **§170**
 
 **中文**
-「[[名相词典/中文/万法唯识|万法唯识]]」的道理，我们可以用一句话来做总结，古德说：「[[名相词典/中文/法性本来空寂，因果丝毫不爽|法性本来空寂，因果丝毫不爽]]。」这句话讲得很好！就著「法性」来说，一切法是空寂的——「无我、无我所」，没有一个独立的「自我」存在；虽然没有「我」，但也不落「断灭见」——因果丝毫不爽。「一切法空」，但是你不要造业，你一造业就有一种力量能够得[[名相词典/中文/果报|果报]]！因果丝毫不爽。
+「[[名相词典/中文/万法唯识|萬法唯識]]」的道理，我們可以用一句話來做總結，古德說：「[[名相词典/中文/法性本来空寂，因果丝毫不爽|法性本來空寂，因果絲毫不爽]]。」這句話講得很好！就著「法性」來說，一切法是空寂的——「無我、無我所」，沒有一個獨立的「自我」存在；雖然沒有「我」，但也不落「斷滅見」——因果絲毫不爽。「一切法空」，但是你不要造業，你一造業就有一種力量能夠得[[名相词典/中文/果报|果報]]！因果絲毫不爽。
 
 **English**
 The principle of "the myriad dharmas being consciousness-only" can be summed up in a single saying; as an ancient worthy said: "[[名相词典/English/the dharma-nature is originally empty and still, yet cause and effect are not off by a hair|The dharma-nature is originally empty and still, yet cause and effect are not off by a hair]]'s breadth." This saying is very well put! With respect to the "dharma-nature," all dharmas are empty and still — "without self and without what belongs to self," with no independent "self" existing; yet although there is no "self," it does not fall into the "view of annihilation" — cause and effect are not off by a hair. "All dharmas are empty," but you had best not create karma, for the moment you create karma there is a force able to bring about [[名相词典/English/karmic result|karmic result]]! Cause and effect are not off by a hair.
@@ -825,7 +825,7 @@ Le principe des « innombrables dharmas ne sont que conscience » peut se résum
 **§171**
 
 **中文**
-禅宗有一则公案叫「[[名相词典/中文/野狐禅|野狐禅]]」：[[名相词典/中文/百丈禅师|百丈禅师]]有一次开讲《金刚般若波罗蜜经》，《[[名相词典/中文/金刚经|金刚经]]》一方面讲空、另一方面又不断灭。说法圆满之后，大家都离开了，这当中有一位白发的老翁，听了非常的欢喜，跟[[名相词典/中文/百丈禅师|百丈禅师]]顶礼。禅师就问他说：「你是谁啊？」看这个人气质也不凡。他说：我过去是[[名相词典/中文/迦叶佛|迦叶佛]]时代的比丘（[[名相词典/中文/迦叶佛|迦叶佛]]是释迦牟尼佛上一尊佛，[[名相词典/中文/迦叶佛|迦叶佛]]时代的人，人寿二万岁），那时候他是一位上座比丘。他一位弟子问他说：「大修行人还落因果也无？」大修行人他的内心经常安住在[[名相词典/中文/毕竟空|毕竟空]]，那么内心常游[[名相词典/中文/毕竟空|毕竟空]]，还受不受因果呢？「大修行人还落因果也无？」我当时回答：「[[名相词典/中文/不落因果|不落因果]]。」大修行人因果不能够系缚他，[[名相词典/中文/不落因果|不落因果]]。讲这句话以后，五百世堕落野狐之身。
+禪宗有一則公案叫「[[名相词典/中文/野狐禅|野狐禪]]」：[[名相词典/中文/百丈禅师|百丈禪師]]有一次開講《金剛般若波羅蜜經》，《[[名相词典/中文/金刚经|金剛經]]》一方面講空、另一方面又不斷滅。說法圓滿之後，大家都離開了，這當中有一位白髮的老翁，聽了非常的歡喜，跟[[名相词典/中文/百丈禅师|百丈禪師]]頂禮。禪師就問他說：「你是誰啊？」看這個人氣質也不凡。他說：我過去是[[名相词典/中文/迦叶佛|迦葉佛]]時代的比丘（[[名相词典/中文/迦叶佛|迦葉佛]]是釋迦牟尼佛上一尊佛，[[名相词典/中文/迦叶佛|迦葉佛]]時代的人，人壽二萬歲），那時候他是一位上座比丘。他一位弟子問他說：「大修行人還落因果也無？」大修行人他的內心經常安住在[[名相词典/中文/毕竟空|畢竟空]]，那麼內心常游[[名相词典/中文/毕竟空|畢竟空]]，還受不受因果呢？「大修行人還落因果也無？」我當時回答：「[[名相词典/中文/不落因果|不落因果]]。」大修行人因果不能夠繫縛他，[[名相词典/中文/不落因果|不落因果]]。講這句話以後，五百世墮落野狐之身。
 
 **English**
 There is a Chan (Zen) kōan called "[[名相词典/English/the wild-fox Chan|the wild-fox Chan]]": [[名相词典/English/Chan Master Baizhang|Chan Master Baizhang]] was once expounding the *Vajra Prajñāpāramitā Sūtra* ([[名相词典/English/Diamond Sūtra|Diamond Sūtra]]). The *[[名相词典/English/Diamond Sūtra|Diamond Sūtra]]* on the one hand speaks of [[名相词典/English/emptiness|emptiness]], and on the other hand does not fall into annihilation. After the teaching was complete, everyone left, and among them was a white-haired old man who, having listened, was greatly delighted and bowed to [[名相词典/English/Chan Master Baizhang|Chan Master Baizhang]]. The master asked him: "Who are you?" — for this man's bearing was extraordinary. He said: In the past I was a bhikṣu in the time of [[名相词典/English/Kāśyapa Buddha|Kāśyapa Buddha]] ([[名相词典/English/Kāśyapa Buddha|Kāśyapa Buddha]] is the Buddha before Śākyamuni Buddha; the people of [[名相词典/English/Kāśyapa Buddha|Kāśyapa Buddha]]'s time had a lifespan of twenty thousand years), and at that time I was a senior-elder bhikṣu. One of my disciples asked me: "Does a person of great cultivation still fall under cause and effect, or not?" A person of great cultivation abides constantly in [[名相词典/English/ultimate emptiness|ultimate emptiness]] within his mind — so, with the mind ever roaming in [[名相词典/English/ultimate emptiness|ultimate emptiness]], is he still subject to cause and effect or not? "Does a person of great cultivation still fall under cause and effect, or not?" I answered at that time: "He does not fall under cause and effect." [Meaning that] cause and effect cannot bind a person of great cultivation; he does not fall under cause and effect. Having spoken this sentence, I fell into the body of a wild fox for five hundred lifetimes.
@@ -841,7 +841,7 @@ Thiền tông có một công án gọi là “[[名相词典/TiếngViệt/Dã 
 **§172**
 
 **中文**
-因果也是各式各样，他造了罪业，但是善根还不失掉。做了狐狸以后头脑还很清楚，有些人做狐狸那就糊涂了；他有罪业使令他得到狐狸的[[名相词典/中文/果报|果报]]，但是过去在佛法栽培的善根还在，所以继续地听闻佛法。这时候，他的心结解开了，希望能得到上师的印证，所以再问：「大修行人还落因果也无？」[[名相词典/中文/百丈禅师|百丈禅师]]说：「[[名相词典/中文/不昧因果|不昧因果]]。」老人听了很欢喜，就说：「我已经解脱野狐之身了！明天到后山去，有一只很大的狐狸，就是我的尸体。」说完就离开了。
+因果也是各式各樣，他造了罪業，但是善根還不失掉。做了狐狸以後頭腦還很清楚，有些人做狐狸那就糊塗了；他有罪業使令他得到狐狸的[[名相词典/中文/果报|果報]]，但是過去在佛法栽培的善根還在，所以繼續地聽聞佛法。這時候，他的心結解開了，希望能得到上師的印證，所以再問：「大修行人還落因果也無？」[[名相词典/中文/百丈禅师|百丈禪師]]說：「[[名相词典/中文/不昧因果|不昧因果]]。」老人聽了很歡喜，就說：「我已經解脫野狐之身了！明天到後山去，有一隻很大的狐狸，就是我的尸體。」說完就離開了。
 
 **English**
 Cause and effect too come in all sorts of ways: he had created sinful karma, yet his wholesome roots were not lost. After becoming a fox his mind was still very clear — some people, on becoming foxes, become muddled; he had sinful karma that caused him to receive the [[名相词典/English/karmic result|karmic result]] of a fox, but the wholesome roots he had cultivated in the Buddha-dharma in the past were still present, so he continued to hear the Buddha-dharma. At this point, his mental knot was undone, and he hoped to obtain confirmation from a master, so he asked again: "Does a person of great cultivation still fall under cause and effect, or not?" [[名相词典/English/Chan Master Baizhang|Chan Master Baizhang]] said: "He is [[名相词典/English/not blind to cause and effect|not blind to cause and effect]]." Hearing this, the old man was greatly delighted and said: "I am now liberated from the body of a wild fox! Tomorrow, go to the back of the mountain; there is a very large fox — that is my corpse." Having said this, he departed.
@@ -857,7 +857,7 @@ Nhân quả cũng đủ loại: ông đã tạo tội [[名相词典/TiếngVi�
 **§173**
 
 **中文**
-所以说：「大修行人还落因果也无？」就是「[[名相词典/中文/不昧因果|不昧因果]]」。一切法的本质「[[名相词典/中文/毕竟空|毕竟空]]」——无我、无我所；但是你一造业，在这个[[名相词典/中文/空性|空性]]当中，就产生一股势力、一种功能。虽然功能本身并没有一个独立自主的我，但是在你还没有[[名相词典/中文/忏悔|忏悔]]清净之前，它就有一种势力，使令你在六道里面得[[名相词典/中文/果报|果报]]。如果它是一个善的[[名相词典/中文/业力|业力]]，就会使令你在比较高层次的法界得[[名相词典/中文/果报|果报]]，[[名相词典/中文/正报|正报]]庄严、所受用的[[名相词典/中文/依报|依报]]环境也庄严；如果这个[[名相词典/中文/业力|业力]]是恶的，就会使令你在苦恼的[[名相词典/中文/三恶道|三恶道]]得[[名相词典/中文/果报|果报]]，[[名相词典/中文/正报|正报]]看起来丑陋、外在受用的环境也苦恼。
+所以說：「大修行人還落因果也無？」就是「[[名相词典/中文/不昧因果|不昧因果]]」。一切法的本質「[[名相词典/中文/毕竟空|畢竟空]]」——無我、無我所；但是你一造業，在這個[[名相词典/中文/空性|空性]]當中，就產生一股勢力、一種功能。雖然功能本身並沒有一個獨立自主的我，但是在你還沒有[[名相词典/中文/忏悔|懺悔]]清淨之前，它就有一種勢力，使令你在六道里面得[[名相词典/中文/果报|果報]]。如果它是一個善的[[名相词典/中文/业力|業力]]，就會使令你在比較高層次的法界得[[名相词典/中文/果报|果報]]，[[名相词典/中文/正报|正報]]莊嚴、所受用的[[名相词典/中文/依报|依報]]環境也莊嚴；如果這個[[名相词典/中文/业力|業力]]是惡的，就會使令你在苦惱的[[名相词典/中文/三恶道|三惡道]]得[[名相词典/中文/果报|果報]]，[[名相词典/中文/正报|正報]]看起來丑陋、外在受用的環境也苦惱。
 
 **English**
 So it is said: "Does a person of great cultivation still fall under cause and effect, or not?" — the answer is "He is [[名相词典/English/not blind to cause and effect|not blind to cause and effect]]." The essential nature of all dharmas is "[[名相词典/English/ultimate emptiness|ultimate emptiness]]" — without self and without what belongs to self; but the moment you create karma, within this very [[名相词典/English/emptiness|emptiness]] a force, a functional energy, is produced. Although the function itself has no independent, self-governing self, yet before you have repented and become pure, it possesses a force that causes you to receive [[名相词典/English/karmic result|karmic result]] within the six destinies. If it is a wholesome [[名相词典/English/karmic force|karmic force]], it will cause you to receive [[名相词典/English/karmic result|karmic result]] in a comparatively higher dharma-realm, with a dignified [[名相词典/English/direct retribution|direct retribution]] and a dignified circumstantial-[[名相词典/English/karmic result|karmic result]] environment to enjoy; if this [[名相词典/English/karmic force|karmic force]] is evil, it will cause you to receive [[名相词典/English/karmic result|karmic result]] in the suffering-filled [[名相词典/English/three evil destinies|three evil destinies]], with a [[名相词典/English/direct retribution|direct retribution]] that looks ugly and an outer environment of enjoyment that is also full of [[名相词典/English/passions|passions]].
@@ -873,7 +873,7 @@ Cho nên nói: “Bậc đại tu hành còn rơi vào nhân quả chăng?” ch
 **§174**
 
 **中文**
-「[[名相词典/中文/法性本来空寂，因果丝毫不爽|法性本来空寂，因果丝毫不爽]]。」这整个因果的建立，就是依止我们「[[名相词典/中文/心识|心识]]」的流动：造业也是[[名相词典/中文/心识|心识]]，去得[[名相词典/中文/果报|果报]]、受用[[名相词典/中文/果报|果报]]是谁呢？也是「[[名相词典/中文/心识|心识]]」。「[[名相词典/中文/万法唯识|万法唯识]]」——你的[[名相词典/中文/心识|心识]]去造业，结果还是你的[[名相词典/中文/心识|心识]]去得[[名相词典/中文/果报|果报]]，所以说「[[名相词典/中文/一切法无我|一切法无我]]」。佛法讲「无我」不生断灭见，就是这个道理，这就是本论的宗旨。
+「[[名相词典/中文/法性本来空寂，因果丝毫不爽|法性本來空寂，因果絲毫不爽]]。」這整個因果的建立，就是依止我們「[[名相词典/中文/心识|心識]]」的流動：造業也是[[名相词典/中文/心识|心識]]，去得[[名相词典/中文/果报|果報]]、受用[[名相词典/中文/果报|果報]]是誰呢？也是「[[名相词典/中文/心识|心識]]」。「[[名相词典/中文/万法唯识|萬法唯識]]」——你的[[名相词典/中文/心识|心識]]去造業，結果還是你的[[名相词典/中文/心识|心識]]去得[[名相词典/中文/果报|果報]]，所以說「[[名相词典/中文/一切法无我|一切法無我]]」。佛法講「無我」不生斷滅見，就是這個道理，這就是本論的宗旨。
 
 **English**
 "[[名相词典/English/the dharma-nature is originally empty and still, yet cause and effect are not off by a hair|The dharma-nature is originally empty and still, yet cause and effect are not off by a hair]]'s breadth." This entire establishment of cause and effect rests upon the flow of our "[[名相词典/English/mind-consciousness|mind-consciousness]]": what creates karma is also [[名相词典/English/mind-consciousness|mind-consciousness]]; and who is it that receives the [[名相词典/English/karmic result|karmic result]] and experiences it? It, too, is "[[名相词典/English/mind-consciousness|mind-consciousness]]." "[[名相词典/English/the myriad dharmas are consciousness-only|The myriad dharmas are consciousness-only]]" — your [[名相词典/English/mind-consciousness|mind-consciousness]] creates the karma, and in the end it is still your [[名相词典/English/mind-consciousness|mind-consciousness]] that receives the [[名相词典/English/karmic result|karmic result]]; hence it is said, "[[名相词典/English/all dharmas are without self|all dharmas are without self]]." That the Buddha-dharma speaks of "no-self" without giving rise to the view of annihilation — this is precisely the principle, and this is the tenet of the treatise.

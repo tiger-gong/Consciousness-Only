@@ -347,7 +347,7 @@ def build_epub(lectures: list[tuple[int, list[dict]]]) -> None:
   Chinese · English · Français · Tiếng Việt<br/><br/>
   Paragraphs numbered continuously as §1–§{last}<br/><br/>
   Dotted terms are glossary notes — tap or click to read the explanation.<br/>
-  虚线名相可点按弹出释义。</p>
+  虛線名相可點按彈出釋義。</p>
 </div>
 """.format(last=lectures[-1][1][-1]['global'])
 

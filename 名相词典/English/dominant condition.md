@@ -19,5 +19,5 @@ Whatever has a strong efficacious power that can aid another dharma's arising or
 
 ## Other languages
 - 中文：[[中文/增上缘|增上缘]]
-- Français：[[Français/condition prédominante|condition prédominante]]
+- Français：[[Français/condition souveraine|condition souveraine]]
 - Tiếng Việt：[[TiếngViệt/tăng thượng duyên|tăng thượng duyên]]

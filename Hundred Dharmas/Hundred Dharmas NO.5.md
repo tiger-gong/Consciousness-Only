@@ -1,15 +1,15 @@
-# 《大乘百法明门论·直解》五语对照（第五讲）
+# 《大乘百法明門論·直解》五語對照（第五講）
 
-> **原著**：天亲菩萨造 · 蕅益大师注 · 净界法师讲述
-> **对照语言**：简体中文（原文，繁转简）／ English ／ Français ／ Tiếng Việt
-> **排版体例**：逐段依次呈现 中文 → English → Français → Tiếng Việt（全书 Volume 1 连续编号 §N；佛学名词意译为主，首次出现附梵文/音译）
+> **原著**：天親菩薩造 · 蕅益大師注 · 淨界法師講述
+> **對照語言**：繁體中文（原文）／ English ／ Français ／ Tiếng Việt
+> **排版體例**：逐段依次呈現 中文 → English → Français → Tiếng Việt（全書 Volume 1 連續編號 §N；佛學名詞意譯為主，首次出現附梵文/音譯）
 
 ---
 
 **§240**
 
 **中文**
-（第五讲）本论「[[名相词典/中文/随文释义|随文释义]]」，我们分成两大科：第一大科、「[[名相词典/中文/承圣言以标宗|承圣言以标宗]]」，是说明「百法明门论」的宗旨：『如世尊言，[[名相词典/中文/一切法无我|一切法无我]]』。[[名相词典/中文/天亲菩萨|天亲菩萨]]在造论之前，先标出本论的宗旨。如，随顺或者说是依止。我依止佛陀的圣教量来标出本论的宗旨。什么是本论的宗旨呢？「[[名相词典/中文/一切法无我|一切法无我]]」。换句话说：一切[[名相词典/中文/有为法|有为法]]、[[名相词典/中文/无为法|无为法]]，不管是生灭法、不生不灭法，这些法都不是自然而有的，也不是上帝创造的，都是要假借[[名相词典/中文/因缘|因缘]]和合才能够出现的，从本性上来观察，它是「[[名相词典/中文/毕竟空|毕竟空]]」——无我、无我所，所以叫做「无我」，学习本论就是要了解这个道理。这是第一大科，「[[名相词典/中文/承圣言以标宗|承圣言以标宗]]」。
+（第五講）本論「[[名相词典/中文/随文释义|隨文釋義]]」，我們分成兩大科：第一大科、「[[名相词典/中文/承圣言以标宗|承聖言以標宗]]」，是說明「百法明門論」的宗旨：『如世尊言，[[名相词典/中文/一切法无我|一切法無我]]』。[[名相词典/中文/天亲菩萨|天親菩薩]]在造論之前，先標出本論的宗旨。如，隨順或者說是依止。我依止佛陀的聖教量來標出本論的宗旨。什麼是本論的宗旨呢？「[[名相词典/中文/一切法无我|一切法無我]]」。換句話說：一切[[名相词典/中文/有为法|有為法]]、[[名相词典/中文/无为法|無為法]]，不管是生滅法、不生不滅法，這些法都不是自然而有的，也不是上帝創造的，都是要假借[[名相词典/中文/因缘|因緣]]和合才能夠出現的，從本性上來觀察，它是「[[名相词典/中文/毕竟空|畢竟空]]」——無我、無我所，所以叫做「無我」，學習本論就是要了解這個道理。這是第一大科，「[[名相词典/中文/承圣言以标宗|承聖言以標宗]]」。
 
 **English**
 (Lecture Five) In this treatise’s “explanation following the text,” we divide into two major sections. The first major section, “Relying on the holy teaching to mark the purport,” explains the purport of the Treatise on the Illumination of the Hundred Dharmas: “As the World-Honored One has said, [[名相词典/English/all dharmas are without self|all dharmas are without self]].” Before composing the treatise, [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] first marks out its purport. “As” means in accordance with, or relying upon. I rely upon the Buddha’s authoritative holy teaching to mark the purport of this treatise. What is the purport of this treatise? “[[名相词典/English/all dharmas are without self|All dharmas are without self]].” In other words: all [[名相词典/English/conditioned dharmas|conditioned dharmas]] and [[名相词典/English/unconditioned dharmas|unconditioned dharmas]]—whether arising-and-ceasing or neither arising nor ceasing—these dharmas are not naturally existent of themselves, nor created by a God; they appear only by borrowing the coming together of [[名相词典/English/condition as cause|condition as cause]]. Observed from their intrinsic nature, they are “ultimately empty”—without self and without what belongs to a self—and so this is called “without self.” To study this treatise is precisely to understand this principle. This is the first major section, “Relying on the holy teaching to mark the purport.”
@@ -25,7 +25,7 @@
 **§241**
 
 **中文**
-第二大科、「[[名相词典/中文/设问答以明宗|设问答以明宗]]」，就是设立了两个问答，来广泛的说明「[[名相词典/中文/一切法无我|一切法无我]]」的道理。这当中就有两番的问答：「何等一切法？」「云何为无我？」[[名相词典/中文/一切法无我|一切法无我]]分成两部分，先解释什么是一切法的「差别相」，然后再说明「无我」的道理。那么[[名相词典/中文/天亲菩萨|天亲菩萨]]解释一切法，是先简略的说明一切法的项目，就是[[名相词典/中文/五位百法|五位百法]]的名称，以及生起的次第。以下就广泛、详细的说明百法的差别相。
+第二大科、「[[名相词典/中文/设问答以明宗|設問答以明宗]]」，就是設立了兩個問答，來廣泛的說明「[[名相词典/中文/一切法无我|一切法無我]]」的道理。這當中就有兩番的問答：「何等一切法？」「云何為無我？」[[名相词典/中文/一切法无我|一切法無我]]分成兩部分，先解釋什麼是一切法的「差別相」，然後再說明「無我」的道理。那麼[[名相词典/中文/天亲菩萨|天親菩薩]]解釋一切法，是先簡略的說明一切法的項目，就是[[名相词典/中文/五位百法|五位百法]]的名稱，以及生起的次第。以下就廣泛、詳細的說明百法的差別相。
 
 **English**
 The second major section, “Setting up questions and answers to clarify the purport,” establishes two exchanges of question and answer to explain more broadly the principle that “[[名相词典/English/all dharmas are without self|all dharmas are without self]].” Within this there are two rounds of Q&A: “What are all dharmas?” “In what sense are they without self?” “[[名相词典/English/all dharmas are without self|All dharmas are without self]]” divides into two parts: first explaining the “differentiated aspects” of all dharmas, then clarifying the principle of “non-self.” When [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] explains all dharmas, he first briefly sets out their items—that is, the names of the five categories of the Hundred Dharmas, and the order in which they arise. Below, he broadly and in detail explains the differentiated aspects of the Hundred Dharmas.
@@ -41,7 +41,7 @@ La deuxième grande section, « Établir questions et réponses pour éclaircir 
 **§242**
 
 **中文**
-所谓「心」，唯识的定义就是「了别」，是说它跟境界接触的时候，能够对所缘的境界，生起明了、分别的功能，这叫「[[名相词典/中文/心法|心法]]」。它有明了、分别的功能。[[名相词典/中文/心法|心法]]总共有八个识，先把它的内容标出来：
+所謂「心」，唯識的定義就是「了別」，是說它跟境界接觸的時候，能夠對所緣的境界，生起明了、分別的功能，這叫「[[名相词典/中文/心法|心法]]」。它有明了、分別的功能。[[名相词典/中文/心法|心法]]總共有八個識，先把它的內容標出來：
 
 **English**
 As for “mind,” in Yogācāra its definition is “discernment” (vijñapti)—when it makes [[名相词典/English/contact|contact]] with an object, it can give rise, toward the object that is taken as support, to the function of clear awareness and discrimination; this is called a “mind dharma.” It has the function of clear awareness and discrimination. [[名相词典/English/mind|Mind]] altogether comprise [[名相词典/English/eight consciousnesses|eight consciousnesses]]; first we mark out their content:
@@ -57,7 +57,7 @@ Gọi là 「tâm」, [[名相词典/TiếngViệt/định|định]] nghĩa củ
 **§243**
 
 **中文**
-[第一[[名相词典/中文/心法|心法]]，略有八种：一、[[名相词典/中文/眼识|眼识]]。二、[[名相词典/中文/耳识|耳识]]。三、[[名相词典/中文/鼻识|鼻识]]。四、[[名相词典/中文/舌识|舌识]]。五、[[名相词典/中文/身识|身识]]。六、[[名相词典/中文/意识|意识]]。七、[[名相词典/中文/末那识|末那识]]。八、[[名相词典/中文/阿赖耶识|阿赖耶识]]。]
+[第一[[名相词典/中文/心法|心法]]，略有八種：一、[[名相词典/中文/眼识|眼識]]。二、[[名相词典/中文/耳识|耳識]]。三、[[名相词典/中文/鼻识|鼻識]]。四、[[名相词典/中文/舌识|舌識]]。五、[[名相词典/中文/身识|身識]]。六、[[名相词典/中文/意识|意識]]。七、[[名相词典/中文/末那识|末那識]]。八、[[名相词典/中文/阿赖耶识|阿賴耶識]]。]
 
 **English**
 [As for the first, [[名相词典/English/mind|mind]], in brief there are eight kinds: 1. [[名相词典/English/visual consciousness|visual consciousness]]; 2. [[名相词典/English/auditory consciousness|auditory consciousness]]; 3. [[名相词典/English/olfactory consciousness|olfactory consciousness]]; 4. [[名相词典/English/gustatory consciousness|gustatory consciousness]]; 5. [[名相词典/English/tactile consciousness|tactile consciousness]]; 6. [[名相词典/English/mind-consciousness|mind-consciousness]]; 7. manas; 8. ālaya-vijñāna.]
@@ -73,7 +73,7 @@ Gọi là 「tâm」, [[名相词典/TiếngViệt/định|định]] nghĩa củ
 **§244**
 
 **中文**
-「[[名相词典/中文/心法|心法]]」在一切[[名相词典/中文/有为法|有为法]]当中，它造业的势力最强大，「一切最胜故」。它的内容有八个：[[名相词典/中文/眼识|眼识]]、[[名相词典/中文/耳识|耳识]]、[[名相词典/中文/鼻识|鼻识]]、[[名相词典/中文/舌识|舌识]]、[[名相词典/中文/身识|身识]]、[[名相词典/中文/意识|意识]]、[[名相词典/中文/末那识|末那识]]、[[名相词典/中文/阿赖耶识|阿赖耶识]]。这是标出它的名称。
+「[[名相词典/中文/心法|心法]]」在一切[[名相词典/中文/有为法|有為法]]當中，它造業的勢力最強大，「一切最勝故」。它的內容有八個：[[名相词典/中文/眼识|眼識]]、[[名相词典/中文/耳识|耳識]]、[[名相词典/中文/鼻识|鼻識]]、[[名相词典/中文/舌识|舌識]]、[[名相词典/中文/身识|身識]]、[[名相词典/中文/意识|意識]]、[[名相词典/中文/末那识|末那識]]、[[名相词典/中文/阿赖耶识|阿賴耶識]]。這是標出它的名稱。
 
 **English**
 Among all [[名相词典/English/conditioned dharmas|conditioned dharmas]], “[[名相词典/English/mind|mind]]” have the strongest force in creating karma—“because they are foremost among all.” Their content is eight: [[名相词典/English/visual consciousness|visual consciousness]], [[名相词典/English/auditory consciousness|auditory consciousness]], [[名相词典/English/olfactory consciousness|olfactory consciousness]], [[名相词典/English/gustatory consciousness|gustatory consciousness]], [[名相词典/English/tactile consciousness|tactile consciousness]], [[名相词典/English/mind-consciousness|mind-consciousness]], manas (the seventh consciousness), and ālaya-vijñāna (the [[名相词典/English/eighth consciousness|eighth consciousness]]). This marks out their names.
@@ -89,7 +89,7 @@ Parmi tous les [[名相词典/Français/dharmas conditionnés|dharmas conditionn
 **§245**
 
 **中文**
-我们看[[名相词典/中文/蕅益大师|蕅益大师]]的解释，解释分成两段：第一个「总标」，先将[[名相词典/中文/心法|心法]]的体性跟作用作一个总标；第二段再详细的解释[[名相词典/中文/八识|八识]]的作用。总标当中又分成两段，第一段是发明「[[名相词典/中文/心识|心识]]的体性」，第二段是讲「[[名相词典/中文/心识|心识]]的作用」。先看第一段：
+我們看[[名相词典/中文/蕅益大师|蕅益大師]]的解釋，解釋分成兩段：第一個「總標」，先將[[名相词典/中文/心法|心法]]的體性跟作用作一個總標；第二段再詳細的解釋[[名相词典/中文/八识|八識]]的作用。總標當中又分成兩段，第一段是發明「[[名相词典/中文/心识|心識]]的體性」，第二段是講「[[名相词典/中文/心识|心識]]的作用」。先看第一段：
 
 **English**
 Let us look at [[名相词典/English/Master Ǒuyì|Master Ǒuyì]]’s explanation. It divides into two passages: the first is the “general heading,” first giving a general mark of the nature and function of [[名相词典/English/mind|mind]]; the second then explains in detail the functions of the [[名相词典/English/eight consciousnesses|eight consciousnesses]]. Within the general heading there are again two passages: the first clarifies “the nature of [[名相词典/English/mind-consciousness|mind-consciousness]],” the second discusses “the function of [[名相词典/English/mind-consciousness|mind-consciousness]].” First look at the first passage:
@@ -105,7 +105,7 @@ Chúng ta xem giải thích của Ngẫu Ích đại sư; giải thích chia th�
 **§246**
 
 **中文**
-『心性离过绝非，尚不可名之为一，云何有八？』
+『心性離過絕非，尚不可名之為一，云何有八？』
 
 **English**
 “The nature of mind is free from fault and cut off from the false; it cannot even be named as one—how then could there be eight?”
@@ -121,7 +121,7 @@ Chúng ta xem giải thích của Ngẫu Ích đại sư; giải thích chia th�
 **§247**
 
 **中文**
-我们这一念心的本质，「性」就是本质，虽然经常起[[名相词典/中文/烦恼|烦恼]]，遇到可爱的境界起贪[[名相词典/中文/烦恼|烦恼]]、遇到不可爱的境界起瞋[[名相词典/中文/烦恼|烦恼]]，这些都是一种外在的作用，就它的本性来说，是『离过绝非』；以教门来说是「清净本然，周遍法界」—清净就是「离相」离一切相；以禅宗来说就是「本来无一物，何处惹尘埃。」我们的本性离一切的过非，那么既然是离一切过非，尚不可名之为一，云何有八？它是一种无我、无我所的清净法性，这种平等法性的境界是没有对立的，「一」都不可得，哪有所谓「八」识的体性呢？从体性来说是[[名相词典/中文/毕竟空|毕竟空]]，无我无我所，『离过绝非』，离一切对立的相貌。从作用来说：
+我們這一念心的本質，「性」就是本質，雖然經常起[[名相词典/中文/烦恼|煩惱]]，遇到可愛的境界起貪[[名相词典/中文/烦恼|煩惱]]、遇到不可愛的境界起瞋[[名相词典/中文/烦恼|煩惱]]，這些都是一種外在的作用，就它的本性來說，是『離過絕非』；以教門來說是「清淨本然，周遍法界」—清淨就是「離相」離一切相；以禪宗來說就是「本來無一物，何處惹塵埃。」我們的本性離一切的過非，那麼既然是離一切過非，尚不可名之為一，云何有八？它是一種無我、無我所的清淨法性，這種平等法性的境界是沒有對立的，「一」都不可得，哪有所謂「八」識的體性呢？從體性來說是[[名相词典/中文/毕竟空|畢竟空]]，無我無我所，『離過絕非』，離一切對立的相貌。從作用來說：
 
 **English**
 The essence of this thought-moment of mind—“nature” means essence—although passions often arise, [[名相词典/English/craving|craving]] arising when we meet agreeable objects, aversion when we meet disagreeable ones, these are all outer functions; as for its intrinsic nature, it is “free from fault and cut off from the false.” In terms of the doctrinal gate, it is “intrinsically pure by nature, pervading the dharma-realm”—purity means “free from marks,” free from all marks; in Chan terms, “Originally there is not a single thing; where could dust alight?” Our intrinsic nature is free from all fault and falsity; and since it is free from all fault and falsity, it cannot even be named as one—how then could there be eight? It is a pure dharma-nature without self and without what belongs to a self; in this realm of equal dharma-nature there is no opposition—“one” itself cannot be obtained, so how could there be the nature of “eight” consciousnesses? From the side of nature it is ultimately empty, without self and without what belongs to a self—“free from fault and cut off from the false,” free from all marks of opposition. From the side of function:
@@ -137,7 +137,7 @@ Bản chất của một [[名相词典/TiếngViệt/niệm|niệm]] tâm này,
 **§248**
 
 **中文**
-『若论相用，浩然无涯，今就有情分中相用最显著者，略有八种。』既然它的「本性」是[[名相词典/中文/毕竟空|毕竟空]]，那么这八个识是怎么安立呢？是约著它的「相状」跟「作用」来说的。因为内心一动，就有作用、就有相状，可能是染污的相状，也可能是清净的相状；每个人的[[名相词典/中文/烦恼|烦恼]]跟善根各式各样，所以内心不动的时候，是离过绝非，什么事都没有，但是这种情况我们做不到，[[名相词典/中文/凡夫|凡夫]]就是喜欢起心动念，一动之后，『浩然无涯』，内心的活动就有各式各样。『今就有情分中「相用」最显著者，略有八种。』我们无法把每一个人的起心动念，很微细、清楚的讲出来，怎么办呢？就把比较明显的，列出八种作用。
+『若論相用，浩然無涯，今就有情分中相用最顯著者，略有八種。』既然它的「本性」是[[名相词典/中文/毕竟空|畢竟空]]，那麼這八個識是怎麼安立呢？是約著它的「相狀」跟「作用」來說的。因為內心一動，就有作用、就有相狀，可能是染污的相狀，也可能是清淨的相狀；每個人的[[名相词典/中文/烦恼|煩惱]]跟善根各式各樣，所以內心不動的時候，是離過絕非，什麼事都沒有，但是這種情況我們做不到，[[名相词典/中文/凡夫|凡夫]]就是喜歡起心動念，一動之後，『浩然無涯』，內心的活動就有各式各樣。『今就有情分中「相用」最顯著者，略有八種。』我們無法把每一個人的起心動念，很微細、清楚的講出來，怎麼辦呢？就把比較明顯的，列出八種作用。
 
 **English**
 “If one speaks of marks and functions, they are vast without bound; now, among the marks and functions in the part of sentient beings that are most evident, in brief there are eight kinds.” Since its “intrinsic nature” is ultimately empty, how then are these [[名相词典/English/eight consciousnesses|eight consciousnesses]] established? They are established with respect to “marks” and “functions.” Once the mind stirs, there is function and there is mark—perhaps a defiled mark, perhaps a pure mark; each person’s passions and wholesome roots are of all sorts. So when the mind does not stir, it is free from fault and cut off from the false—nothing at all—but we cannot manage that situation; ordinary beings love to give rise to thoughts and stirrings, and once there is stirring, “vast without bound,” the activities of the mind take all sorts of forms. “Now, among the ‘marks and functions’ in the part of sentient beings that are most evident, in brief there are eight kinds.” We cannot explain every person’s stirrings of mind in fine and clear detail—so what to do? We take the more evident ones and list eight kinds of function.
@@ -153,7 +153,7 @@ Bản chất của một [[名相词典/TiếngViệt/niệm|niệm]] tâm này,
 **§249**
 
 **中文**
-这句话的意思是说：我们研究《百法》，不要有一种错误的观念，以为我们这念心有八个体性，我们原本妄想就很严重，研究唯识之后，还打了八个妄想、有八个心，不是这个意思。是就著它的各种功能，各安立一个法——[[名相词典/中文/眼识|眼识]]的功能，能够了别外在的色尘，我们安立作「[[名相词典/中文/眼识|眼识]]」；能够听到声音，安立它是「[[名相词典/中文/耳识|耳识]]」；能够去尝味道，安立作「[[名相词典/中文/舌识|舌识]]」…有这样的功能，就安立这样的作用。
+這句話的意思是說：我們研究《百法》，不要有一種錯誤的觀念，以為我們這念心有八個體性，我們原本妄想就很嚴重，研究唯識之後，還打了八個妄想、有八個心，不是這個意思。是就著它的各種功能，各安立一個法——[[名相词典/中文/眼识|眼識]]的功能，能夠了別外在的色塵，我們安立作「[[名相词典/中文/眼识|眼識]]」；能夠聽到聲音，安立它是「[[名相词典/中文/耳识|耳識]]」；能夠去嘗味道，安立作「[[名相词典/中文/舌识|舌識]]」…有這樣的功能，就安立這樣的作用。
 
 **English**
 What this sentence means is: when we study the Hundred Dharmas, we must not hold a mistaken view, thinking that this thought-moment of mind has eight natures. Our false thinking was already severe; after studying Yogācāra we would then spin eight more delusions—as if there were eight minds. That is not the meaning. Rather, with respect to its various functions, each is established as a dharma: the function of [[名相词典/English/visual consciousness|visual consciousness]] can discern outer form-dust, so we establish it as “[[名相词典/English/visual consciousness|visual consciousness]]”; able to hear sound, we establish it as “[[名相词典/English/auditory consciousness|auditory consciousness]]”; able to taste flavors, we establish it as “[[名相词典/English/gustatory consciousness|gustatory consciousness]]”… Having such a function, we establish such a role.
@@ -169,7 +169,7 @@ Câu này nghĩa là: chúng ta nghiên cứu Bách pháp, đừng có quan [[�
 **§250**
 
 **中文**
-比如我们说海公长老，我们可以称他「院长」，也可以称他「方丈和尚」，那他的名称是怎么安立的呢？是约「作用」。就著他在佛学院能够表现领导的作用，安立作「院长」；就著他能够住持一间寺庙，安立作「方丈」…他有各式各样的名称，老和尚、长老…这些都是约著他所发动出来的的作用来安立的；其实他就是他，海公就是海公，都是同一个人。
+比如我們說海公長老，我們可以稱他「院長」，也可以稱他「方丈和尚」，那他的名稱是怎麼安立的呢？是約「作用」。就著他在佛學院能夠表現領導的作用，安立作「院長」；就著他能夠住持一間寺廟，安立作「方丈」…他有各式各樣的名稱，老和尚、長老…這些都是約著他所發動出來的的作用來安立的；其實他就是他，海公就是海公，都是同一個人。
 
 **English**
 For example, when we speak of Elder Master Hai Gong, we may call him “dean,” or we may call him “abbot.” How are these names established? With respect to “function.” With respect to his leadership in the Buddhist academy, he is established as “dean”; with respect to his ability to preside over a monastery, he is established as “abbot”… He has all sorts of names—old monk, elder… These are all established with respect to the functions he sets in motion; in fact he is simply himself—Hai Gong is Hai Gong—one and the same person.
@@ -185,7 +185,7 @@ Ví như nói Hải Công trưởng lão, chúng ta có thể gọi Ngài 「vi�
 **§251**
 
 **中文**
-就是说这以下的八个识，是因为我们内心基本上有八个很特殊的作用，虽然每一个人的[[名相词典/中文/心识|心识]]各式各样，但是大致上有八个最大的作用，所以安立了八个识，是约著它的「相、用」安立的。这是我们应该清楚的。不要认为有八个自体的识，这样就违背前面的宗旨，[[名相词典/中文/天亲菩萨|天亲菩萨]]已经告诉我们百法的宗旨是「[[名相词典/中文/一切法无我|一切法无我]]」。所以『就有情分中相用最显著者，略有八种』，这个「相用」是一种[[名相词典/中文/因缘|因缘]]所表现的作用。这是[[名相词典/中文/蕅益大师|蕅益大师]]在解释[[名相词典/中文/八识|八识]]之前，先作一个说明。
+就是說這以下的八個識，是因為我們內心基本上有八個很特殊的作用，雖然每一個人的[[名相词典/中文/心识|心識]]各式各樣，但是大致上有八個最大的作用，所以安立了八個識，是約著它的「相、用」安立的。這是我們應該清楚的。不要認為有八個自體的識，這樣就違背前面的宗旨，[[名相词典/中文/天亲菩萨|天親菩薩]]已經告訴我們百法的宗旨是「[[名相词典/中文/一切法无我|一切法無我]]」。所以『就有情分中相用最顯著者，略有八種』，這個「相用」是一種[[名相词典/中文/因缘|因緣]]所表現的作用。這是[[名相词典/中文/蕅益大师|蕅益大師]]在解釋[[名相词典/中文/八识|八識]]之前，先作一個說明。
 
 **English**
 That is to say: the [[名相词典/English/eight consciousnesses|eight consciousnesses]] below are so because our mind basically has eight quite special functions. Although each person’s [[名相词典/English/mind-consciousness|mind-consciousness]] is of all sorts, roughly speaking there are eight greatest functions, and so [[名相词典/English/eight consciousnesses|eight consciousnesses]] are established—established with respect to “marks and functions.” This we should be clear about. Do not think there are [[名相词典/English/eight consciousnesses|eight consciousnesses]] with their own substantial selves; that would contradict the purport stated earlier. [[名相词典/English/Bodhisattva Vasubandhu|Bodhisattva Vasubandhu]] has already told us that the purport of the Hundred Dharmas is “[[名相词典/English/all dharmas are without self|all dharmas are without self]].” Therefore “among the marks and functions in the part of sentient beings that are most evident, in brief there are eight kinds”—these “marks and functions” are functions manifested by [[名相词典/English/condition as cause|condition as cause]]. This is [[名相词典/English/Master Ǒuyì|Master Ǒuyì]]’s preliminary clarification before explaining the [[名相词典/English/eight consciousnesses|eight consciousnesses]].
@@ -201,7 +201,7 @@ Tức là [[名相词典/TiếngViệt/tám thức|tám thức]] phía dưới, 
 **§252**
 
 **中文**
-这八个识，我们先看附表二——[[名相词典/中文/八识|八识]]业用。这个补充讲表不是我有这样的智慧能够画出来，这个补充讲表引用台中李炳南老居士所画的。
+這八個識，我們先看附表二——[[名相词典/中文/八识|八識]]業用。這個補充講表不是我有這樣的智慧能夠畫出來，這個補充講表引用台中李炳南老居士所畫的。
 
 **English**
 For these [[名相词典/English/eight consciousnesses|eight consciousnesses]], let us first look at Supplementary Chart Two—the karmic functions of the [[名相词典/English/eight consciousnesses|eight consciousnesses]]. This supplementary teaching chart is not something I had the wisdom to draw myself; it cites the chart drawn by the elder layman Li Bingnan of Taichung.
@@ -217,7 +217,7 @@ Pour ces [[名相词典/Français/huit consciences|huit consciences]], regardons
 **§253**
 
 **中文**
-先看图的右上边，这个「性」是指「[[名相词典/中文/真如|真如]]佛性」—「真者」，真实不虚，它的体性是不颠倒、真实不虚的；「如者」，恒常不变，纵使造了五逆十恶，仍然是一种清净的境界；它是「真」，也是「如」的一种佛性；佛者「觉」也，一种明明觉觉的本性。
+先看圖的右上邊，這個「性」是指「[[名相词典/中文/真如|真如]]佛性」—「真者」，真實不虛，它的體性是不顛倒、真實不虛的；「如者」，恆常不變，縱使造了五逆十惡，仍然是一種清淨的境界；它是「真」，也是「如」的一種佛性；佛者「覺」也，一種明明覺覺的本性。
 
 **English**
 First look at the upper right of the chart. This “nature” refers to “tathatā buddha-nature”—“true” means real and not false: its essence is not inverted, real and not false; “such” means constantly unchanging: even if one has committed the five heinous deeds and the ten evils, it remains a pure realm. It is a buddha-nature that is both “true” and “such.” “Buddha” means “awakening”—an intrinsically clear and awake nature.
@@ -233,7 +233,7 @@ Trước xem góc trên bên phải của đồ biểu. 「Tánh」 này chỉ �
 **§254**
 
 **中文**
-从经典上来看，这个[[名相词典/中文/真如|真如]]佛性是我们每个人本来具足的，不管我们愿不愿意承认，它恒常存在，它的相貌是清净本然、周遍法界，可以说是「本来无一物，何处惹尘埃。」这是我们的本来面目。佛陀讲这句话的意思是说，我们每个人的内心，都有三件事情一直在系缚我们：
+從經典上來看，這個[[名相词典/中文/真如|真如]]佛性是我們每個人本來具足的，不管我們願不願意承認，它恆常存在，它的相貌是清淨本然、周遍法界，可以說是「本來無一物，何處惹塵埃。」這是我們的本來面目。佛陀講這句話的意思是說，我們每個人的內心，都有三件事情一直在繫縛我們：
 
 **English**
 From the sūtras, this tathatā buddha-nature is originally complete in each of us. Whether we are willing to acknowledge it or not, it constantly exists; its aspect is intrinsically pure by nature, pervading the dharma-realm—one may say, “Originally there is not a single thing; where could dust alight?” This is our original face. What the Buddha means by saying this is that in each person’s mind, three things have constantly been binding us:
@@ -249,7 +249,7 @@ Từ kinh điển mà xem, [[名相词典/TiếngViệt/chân như|chân như]] 
 **§255**
 
 **中文**
-第一个是「[[名相词典/中文/烦恼|烦恼]]」，我们多多少少都有[[名相词典/中文/烦恼|烦恼]]活动，有些人[[名相词典/中文/烦恼|烦恼]]重、有些人[[名相词典/中文/烦恼|烦恼]]轻，都有[[名相词典/中文/烦恼|烦恼]]。其次，我们内心有无量无边的「[[名相词典/中文/业力|业力]]」，常常感觉到有些事情自己实在做不了主。第三个是「[[名相词典/中文/果报|果报]]」。就是惑、业、苦。
+第一個是「[[名相词典/中文/烦恼|煩惱]]」，我們多多少少都有[[名相词典/中文/烦恼|煩惱]]活動，有些人[[名相词典/中文/烦恼|煩惱]]重、有些人[[名相词典/中文/烦恼|煩惱]]輕，都有[[名相词典/中文/烦恼|煩惱]]。其次，我們內心有無量無邊的「[[名相词典/中文/业力|業力]]」，常常感覺到有些事情自己實在做不了主。第三個是「[[名相词典/中文/果报|果報]]」。就是惑、業、苦。
 
 **English**
 The first is “[[名相词典/English/passions|passions]]”: we all have of the passions activity to some degree—some heavier, some lighter, but all have passions. Next, within the mind there is boundless “[[名相词典/English/karmic force|karmic force]]”; we often feel that in some matters we truly cannot be our own master. The third is “fruition.” That is: [[名相词典/English/delusion|delusion]], karma, and suffering.
@@ -265,7 +265,7 @@ Thứ nhất là 「[[名相词典/TiếngViệt/phiền não|phiền não]]」�
 **§256**
 
 **中文**
-我们再来看看「清净本然，周遍法界」，这句话的意思是说：「惑、业、苦」不是本来有的，我们本来不是这样的境界，是后来才有的，所以是可以对治、消灭的。我们的本来面目是清净本然，但是一念不觉、一念的妄动，如《[[名相词典/中文/大乘|大乘]]起信论》上说：「[[名相词典/中文/真如|真如]]不守[[名相词典/中文/自性|自性]]」，[[名相词典/中文/真如|真如]]原本是很清净的，但是我们[[名相词典/中文/凡夫|凡夫]]不欢喜安住在[[名相词典/中文/空性|空性]]，就向外去动——「[[名相词典/中文/真如|真如]]不守[[名相词典/中文/自性|自性]]，一念不觉。」就变成了「识」。
+我們再來看看「清淨本然，周遍法界」，這句話的意思是說：「惑、業、苦」不是本來有的，我們本來不是這樣的境界，是後來才有的，所以是可以對治、消滅的。我們的本來面目是清淨本然，但是一念不覺、一念的妄動，如《[[名相词典/中文/大乘|大乘]]起信論》上說：「[[名相词典/中文/真如|真如]]不守[[名相词典/中文/自性|自性]]」，[[名相词典/中文/真如|真如]]原本是很清淨的，但是我們[[名相词典/中文/凡夫|凡夫]]不歡喜安住在[[名相词典/中文/空性|空性]]，就向外去動——「[[名相词典/中文/真如|真如]]不守[[名相词典/中文/自性|自性]]，一念不覺。」就變成了「識」。
 
 **English**
 Let us look again at “intrinsically pure by nature, pervading the dharma-realm.” What this means is: “[[名相词典/English/delusion|delusion]], karma, and suffering” were not originally present; we were not originally in such a condition—they came later—and so they can be countered and extinguished. Our original face is intrinsically pure by nature; but with one thought of non-awakening, one false stirring—as the Awakening of [[名相词典/English/faith|Faith]] in the Mahāyāna says, “[[名相词典/English/true suchness|True suchness]] does not abide in its own nature”—[[名相词典/English/true suchness|true suchness]] was originally very pure, yet we ordinary beings do not delight in abiding in [[名相词典/English/emptiness|emptiness]], and so we move outward: “[[名相词典/English/true suchness|True suchness]] does not abide in its own nature; with one thought of non-awakening,” it becomes “consciousness.”
@@ -281,7 +281,7 @@ Chúng ta lại xem 「thanh tịnh bổn nhiên, chu biến pháp giới」—c
 **§257**
 
 **中文**
-这个「识」虽然是了别，但是「识」有杂染的意味，[[名相词典/中文/凡夫|凡夫]]才讲「识」，[[名相词典/中文/圣人|圣人]]是讲智慧，[[名相词典/中文/转识成智|转识成智]]。通常我们在经论里看到「识」，就是有染污的意思，不是清净的，所以图表中有很多黑点，表示有很多的[[名相词典/中文/烦恼|烦恼]]、[[名相词典/中文/业力|业力]]、痛苦的[[名相词典/中文/果报|果报]]，也就是有[[名相词典/中文/惑业苦|惑业苦]]的轮回。
+這個「識」雖然是了別，但是「識」有雜染的意味，[[名相词典/中文/凡夫|凡夫]]才講「識」，[[名相词典/中文/圣人|聖人]]是講智慧，[[名相词典/中文/转识成智|轉識成智]]。通常我們在經論裡看到「識」，就是有染污的意思，不是清淨的，所以圖表中有很多黑點，表示有很多的[[名相词典/中文/烦恼|煩惱]]、[[名相词典/中文/业力|業力]]、痛苦的[[名相词典/中文/果报|果報]]，也就是有[[名相词典/中文/惑业苦|惑業苦]]的輪迴。
 
 **English**
 Although this “consciousness” is discernment, “consciousness” carries a sense of defilement. Only for ordinary beings do we speak of “consciousness”; for the noble ones we speak of wisdom—[[名相词典/English/transforming consciousness into wisdom|transforming consciousness into wisdom]]. Ordinarily, when we see “consciousness” in the sūtras and treatises, it implies defilement, not purity. So the chart has many black dots, indicating much [[名相词典/English/passions|passions]], [[名相词典/English/karmic force|karmic force]], and painful fruition—that is, the saṃsāra of [[名相词典/English/delusion|delusion]], karma, and suffering.
@@ -297,7 +297,7 @@ Bien que cette « conscience » soit discrimination claire, « conscience » por
 **§258**
 
 **中文**
-第一个最微细的识就是[[名相词典/中文/第八识|第八识]]，就是[[名相词典/中文/异熟|异熟]]的功能。这八个识有八个功能，《[[名相词典/中文/成唯识论|成唯识论]]》把它会归成三大类：
+第一個最微細的識就是[[名相词典/中文/第八识|第八識]]，就是[[名相词典/中文/异熟|異熟]]的功能。這八個識有八個功能，《[[名相词典/中文/成唯识论|成唯識論]]》把它會歸成三大類：
 
 **English**
 The first and subtlest consciousness is the [[名相词典/English/eighth consciousness|eighth consciousness]]—the function of vipāka (retribution). These [[名相词典/English/eight consciousnesses|eight consciousnesses]] have eight functions; the Cheng weishi lun gathers them into three major classes:
@@ -313,8 +313,8 @@ Thức thứ nhất vi tế nhất chính là [[名相词典/TiếngViệt/thứ
 **§259**
 
 **中文**
-「[[名相词典/中文/异熟|异熟]]」—[[名相词典/中文/第八识|第八识]]
-「[[名相词典/中文/第八识|第八识]]」它的形相非常的微细，我们昨天有简单说过，[[名相词典/中文/第八识|第八识]]并不造业，它不造善业也不造恶业，永远保持「无记」的状态。你造善业它也不帮助你，你造恶业它也不阻止你，完全没有意见；[[名相词典/中文/前七识|前七识]]要造重大的善业、恶业，它完全保持没有意见，就是相续保持一种无记的状态。那么它的功能是什么呢？就是「受熏」，接受[[名相词典/中文/业力|业力]]的[[名相词典/中文/熏习|熏习]]，把[[名相词典/中文/种子|种子]]保存下来，就做这件事情。所以我们[[名相词典/中文/第八识|第八识]]的功能，《唯识学》安立作「[[名相词典/中文/异熟|异熟]]」，它的功能就是[[名相词典/中文/异熟|异熟]]；另外一个功能「阿赖耶」，前面有说过，就是「摄持」。这地方《[[名相词典/中文/成唯识论|成唯识论]]》是安立作[[名相词典/中文/异熟|异熟]]。
+「[[名相词典/中文/异熟|異熟]]」—[[名相词典/中文/第八识|第八識]]
+「[[名相词典/中文/第八识|第八識]]」它的形相非常的微細，我們昨天有簡單說過，[[名相词典/中文/第八识|第八識]]並不造業，它不造善業也不造惡業，永遠保持「無記」的狀態。你造善業它也不幫助你，你造惡業它也不阻止你，完全沒有意見；[[名相词典/中文/前七识|前七識]]要造重大的善業、惡業，它完全保持沒有意見，就是相續保持一種無記的狀態。那麼它的功能是什麼呢？就是「受熏」，接受[[名相词典/中文/业力|業力]]的[[名相词典/中文/熏习|熏習]]，把[[名相词典/中文/种子|種子]]保存下來，就做這件事情。所以我們[[名相词典/中文/第八识|第八識]]的功能，《唯識學》安立作「[[名相词典/中文/异熟|異熟]]」，它的功能就是[[名相词典/中文/异熟|異熟]]；另外一個功能「阿賴耶」，前面有說過，就是「攝持」。這地方《[[名相词典/中文/成唯识论|成唯識論]]》是安立作[[名相词典/中文/异熟|異熟]]。
 
 **English**
 “Vipāka (retribution)”—the [[名相词典/English/eighth consciousness|eighth consciousness]]
@@ -333,7 +333,7 @@ La « [[名相词典/Français/huitième conscience|huitième conscience]] » es
 **§260**
 
 **中文**
-「[[名相词典/中文/异熟|异熟]]」的意思，简单说就是「[[名相词典/中文/果报|果报]]」—[[名相词典/中文/果报|果报]]识，它本身不造业，只是收集你造业的结果，它受熏。为什么不直接解释为「[[名相词典/中文/果报|果报]]」呢？要讲「[[名相词典/中文/异熟|异熟]]」，因为它有三个特殊的意义：
+「[[名相词典/中文/异熟|異熟]]」的意思，簡單說就是「[[名相词典/中文/果报|果報]]」—[[名相词典/中文/果报|果報]]識，它本身不造業，只是收集你造業的結果，它受熏。為什麼不直接解釋為「[[名相词典/中文/果报|果報]]」呢？要講「[[名相词典/中文/异熟|異熟]]」，因為它有三個特殊的意義：
 
 **English**
 The meaning of “vipāka,” simply put, is “fruition”—the fruition-consciousness. It itself does not create karma; it only collects the results of the karma you create; it receives perfume. Why not explain it directly as “fruition”? We say “vipāka” because it has three special meanings:
@@ -349,7 +349,7 @@ Le sens de « vipāka », simplement dit, est « fruit » — la conscience-frui
 **§261**
 
 **中文**
-（一）异时而熟：是说[[名相词典/中文/第八识|第八识]]的功能，我们前[[名相词典/中文/七转识|七转识]]在造业的时候，不能马上得[[名相词典/中文/果报|果报]]，[[名相词典/中文/第八识|第八识]]先把它保存下来，这个[[名相词典/中文/业力|业力]]要累积一段时间。好比我现在出了家、或者准备要出家；我现在开始造善业，造了[[名相词典/中文/极乐世界|极乐世界]]的善业、或者是天道的善业，虽然我造了那么大的善业，但是我现在的[[名相词典/中文/果报|果报]]，还是人的[[名相词典/中文/果报|果报]]。这是怎么回事呢？因为「异时而熟」，这些善业先被保存下来，不是马上得[[名相词典/中文/果报|果报]]，你现在的[[名相词典/中文/果报|果报]]暂时被[[名相词典/中文/第八识|第八识]]摄持住、这个[[名相词典/中文/果报|果报]]的势力还没有消失，所以不能马上转变。就是：「造业时间」跟「得[[名相词典/中文/果报|果报]]的时间」不一样，这就是「异时而熟」。
+（一）異時而熟：是說[[名相词典/中文/第八识|第八識]]的功能，我們前[[名相词典/中文/七转识|七轉識]]在造業的時候，不能馬上得[[名相词典/中文/果报|果報]]，[[名相词典/中文/第八识|第八識]]先把它保存下來，這個[[名相词典/中文/业力|業力]]要累積一段時間。好比我現在出了家、或者準備要出家；我現在開始造善業，造了[[名相词典/中文/极乐世界|極樂世界]]的善業、或者是天道的善業，雖然我造了那麼大的善業，但是我現在的[[名相词典/中文/果报|果報]]，還是人的[[名相词典/中文/果报|果報]]。這是怎麼回事呢？因為「異時而熟」，這些善業先被保存下來，不是馬上得[[名相词典/中文/果报|果報]]，你現在的[[名相词典/中文/果报|果報]]暫時被[[名相词典/中文/第八识|第八識]]攝持住、這個[[名相词典/中文/果报|果報]]的勢力還沒有消失，所以不能馬上轉變。就是：「造業時間」跟「得[[名相词典/中文/果报|果報]]的時間」不一樣，這就是「異時而熟」。
 
 **English**
 (1) Retribution at a different time: this refers to the function of the [[名相词典/English/eighth consciousness|eighth consciousness]]. When our first seven transforming consciousnesses create karma, fruition cannot be obtained at once; the [[名相词典/English/eighth consciousness|eighth consciousness]] first preserves it, and this [[名相词典/English/karmic force|karmic force]] must accumulate for a period. For example, I have now gone forth, or am preparing to go forth; I now begin to create wholesome karma—wholesome karma for the [[名相词典/English/Land of Ultimate Bliss|Land of Ultimate Bliss]], or for the heavenly realms. Although I have created such great wholesome karma, my present fruition is still a human fruition. How is that? Because of “retribution at a different time”: this wholesome karma is first preserved, not immediately fruited; your present fruition is temporarily held by the [[名相词典/English/eighth consciousness|eighth consciousness]], and the force of that fruition has not yet disappeared, so it cannot transform at once. That is: the “time of creating karma” and the “time of receiving fruition” are not the same—this is “retribution at a different time.”
@@ -365,7 +365,7 @@ Le sens de « vipāka », simplement dit, est « fruit » — la conscience-frui
 **§262**
 
 **中文**
-（二）异类而熟：前面是讲「时间」的差异，这里是讲「因跟果」性质的差异。异类，「类」就是种类，所谓「因通[[名相词典/中文/三性|三性]]，果为无记」，是说：你造业时，有善业、恶业、无记[[名相词典/中文/三性|三性]]；你能够造广大的善业，也可能因一时的糊涂，造了重大的恶业，业有善性、恶性，但是[[名相词典/中文/果报|果报]]只有「无记」，[[名相词典/中文/果报|果报]]不讲善恶。你当一个贫穷的人、得到贫穷[[名相词典/中文/果报|果报]]，贫穷[[名相词典/中文/果报|果报]]只能说「这是恶业所招感的不可乐[[名相词典/中文/果报|果报]]」，不可以说「贫穷是属于恶性」；如果这个[[名相词典/中文/果报|果报]]的本质就是「恶性」，因为恶性有招感性，它又会招感恶的[[名相词典/中文/果报|果报]]，这样的话，一个人要是堕落到一个恶的[[名相词典/中文/果报|果报]]，那就永远没办法解脱了。事实上有些人在贫穷当中奋发向上、更加努力，这种[[名相词典/中文/果报|果报]]反而使令他增上，怎么能说它是恶性呢？所以：「[[名相词典/中文/果报|果报]]」不论善恶，[[名相词典/中文/果报|果报]]只论可乐、不可乐。这是第二个。
+（二）異類而熟：前面是講「時間」的差異，這裡是講「因跟果」性質的差異。異類，「類」就是種類，所謂「因通[[名相词典/中文/三性|三性]]，果為無記」，是說：你造業時，有善業、惡業、無記[[名相词典/中文/三性|三性]]；你能夠造廣大的善業，也可能因一時的糊塗，造了重大的惡業，業有善性、惡性，但是[[名相词典/中文/果报|果報]]只有「無記」，[[名相词典/中文/果报|果報]]不講善惡。你當一個貧窮的人、得到貧窮[[名相词典/中文/果报|果報]]，貧窮[[名相词典/中文/果报|果報]]只能說「這是惡業所招感的不可樂[[名相词典/中文/果报|果報]]」，不可以說「貧窮是屬於惡性」；如果這個[[名相词典/中文/果报|果報]]的本質就是「惡性」，因為惡性有招感性，它又會招感惡的[[名相词典/中文/果报|果報]]，這樣的話，一個人要是墮落到一個惡的[[名相词典/中文/果报|果報]]，那就永遠沒辦法解脫了。事實上有些人在貧窮當中奮發向上、更加努力，這種[[名相词典/中文/果报|果報]]反而使令他增上，怎麼能說它是惡性呢？所以：「[[名相词典/中文/果报|果報]]」不論善惡，[[名相词典/中文/果报|果報]]只論可樂、不可樂。這是第二個。
 
 **English**
 (2) Retribution in a different class: earlier was about difference of “time”; here it is about difference of nature between “cause and result.” Different class—“class” means kind. As the saying goes, “the cause covers the [[名相词典/English/three natures|three natures]]; the fruit is indeterminate”: when you create karma, there are the [[名相词典/English/three natures|three natures]] of wholesome, unwholesome, and indeterminate. You may create vast wholesome karma, or through a moment’s confusion create grave unwholesome karma; karma has wholesome and unwholesome nature, but fruition is only “indeterminate”—fruition is not spoken of as wholesome or unwholesome. If you are a poor person and receive the fruition of poverty, one can only say “this is an unpleasant fruition drawn by unwholesome karma”; one cannot say “poverty belongs to the unwholesome nature.” If the essence of that fruition were itself “unwholesome,” then because the unwholesome nature has the power to draw further fruition, it would again draw unwholesome fruition—and thus if someone fell into an unwholesome fruition, there would forever be no way to liberation. In fact some people, amid poverty, strive upward and work even harder; such a fruition instead causes them to advance—how then can one call it unwholesome? Therefore: “fruition” is not discussed as wholesome or unwholesome; fruition is discussed only as pleasant or unpleasant. This is the second.
@@ -381,7 +381,7 @@ Le sens de « vipāka », simplement dit, est « fruit » — la conscience-frui
 **§263**
 
 **中文**
-（三）「变异而熟」：这是说从因到果的过程，会有一些变化。比如说我造了五逆十恶，这些[[名相词典/中文/业力|业力]]被[[名相词典/中文/第八识|第八识]]摄持住了，内心就会有一些不安，但是只要尚未得[[名相词典/中文/果报|果报]]的[[名相词典/中文/业力|业力]]，都还有很多的变数。你可以透过拜忏、念佛的修行功德——万德洪名，这个清水珠投到你的内心，跟你的五逆十恶一接触的时候，清珠投于浊水，浊水不得不清。念念之间，就把你五逆十恶的罪业慢慢慢慢给消灭掉。
+（三）「變異而熟」：這是說從因到果的過程，會有一些變化。比如說我造了五逆十惡，這些[[名相词典/中文/业力|業力]]被[[名相词典/中文/第八识|第八識]]攝持住了，內心就會有一些不安，但是只要尚未得[[名相词典/中文/果报|果報]]的[[名相词典/中文/业力|業力]]，都還有很多的變數。你可以透過拜懺、念佛的修行功德——萬德洪名，這個清水珠投到你的內心，跟你的五逆十惡一接觸的時候，清珠投於濁水，濁水不得不清。念念之間，就把你五逆十惡的罪業慢慢慢慢給消滅掉。
 
 **English**
 (3) “Retribution with transformation”: this means that in the process from cause to fruit, there will be some change. For example, if I have committed the five heinous deeds and the ten evils, this [[名相词典/English/karmic force|karmic force]] is held by the [[名相词典/English/eighth consciousness|eighth consciousness]], and there will be some unease in the mind; yet as long as the karma has not yet fruited, there remain many variables. Through the meritorious practice of [[名相词典/English/repentance|repentance]] and mindfulness of the Buddha—the vast Name of myriad virtues—this clear-water pearl is cast into your mind; when it meets your five heinous deeds and ten evils, the clear pearl cast into muddy water—the muddy water cannot but become clear. Thought after thought, the evil karma of your five heinous deeds and ten evils is gradually, gradually extinguished.
@@ -397,7 +397,7 @@ Le sens de « vipāka », simplement dit, est « fruit » — la conscience-frui
 **§264**
 
 **中文**
-只要一口气还在，自己的[[名相词典/中文/业力|业力]]，都有能力去改变！[[名相词典/中文/业力|业力]]不是永远保持不变的，这就是「变异而熟」。除非这个「[[名相词典/中文/果报|果报]]」已经出现了，那就很难改变了；只要这个[[名相词典/中文/业力|业力]]还被[[名相词典/中文/第八识|第八识]]保存，那就有很大的变数，有可能会随[[名相词典/中文/因缘|因缘]]条件而继续增长，也有可能会消减下来，它会起变化。
+只要一口氣還在，自己的[[名相词典/中文/业力|業力]]，都有能力去改變！[[名相词典/中文/业力|業力]]不是永遠保持不變的，這就是「變異而熟」。除非這個「[[名相词典/中文/果报|果報]]」已經出現了，那就很難改變了；只要這個[[名相词典/中文/业力|業力]]還被[[名相词典/中文/第八识|第八識]]保存，那就有很大的變數，有可能會隨[[名相词典/中文/因缘|因緣]]條件而繼續增長，也有可能會消減下來，它會起變化。
 
 **English**
 As long as there is still one breath left, one’s own [[名相词典/English/karmic force|karmic force]] still has the capacity to be changed! [[名相词典/English/karmic force|Karmic force]] does not forever remain unchanged—this is “retribution with transformation.” Unless this “fruition” has already appeared, in which case it is very hard to change—so long as this [[名相词典/English/karmic force|karmic force]] is still preserved by the [[名相词典/English/eighth consciousness|eighth consciousness]], there remains great variability: it may continue to grow with [[名相词典/English/condition as cause|condition as cause]], or it may diminish; it will undergo change.
@@ -413,7 +413,7 @@ Chỉ cần còn một hơi thở, nghiệp lực của mình vẫn còn năng l
 **§265**
 
 **中文**
-综合上述：「因」和「果」之间有三种性质：一个是「异时」，指时间上的差异；第二个「异类」，是指性质上的差异；第三个「变异」，是从因到果，中间产生各式各样的变化。这三种性质都是以「[[名相词典/中文/第八识|第八识]]」为主，所以安立[[名相词典/中文/第八识|第八识]]叫「[[名相词典/中文/异熟识|异熟识]]」。从无始劫来到现在，它负责收集你的[[名相词典/中文/业力|业力]]，把你每一生所造的[[名相词典/中文/业力|业力]]，全部收集起来，处于内心当中，并不断地变化。当然它自己不能变化，就是你[[名相词典/中文/前七识|前七识]]去造业，然后对它产生影响，总之[[名相词典/中文/第八识|第八识]]的主要功能就是「[[名相词典/中文/异熟|异熟]]」。这是第一个。
+綜合上述：「因」和「果」之間有三種性質：一個是「異時」，指時間上的差異；第二個「異類」，是指性質上的差異；第三個「變異」，是從因到果，中間產生各式各樣的變化。這三種性質都是以「[[名相词典/中文/第八识|第八識]]」為主，所以安立[[名相词典/中文/第八识|第八識]]叫「[[名相词典/中文/异熟识|異熟識]]」。從無始劫來到現在，它負責收集你的[[名相词典/中文/业力|業力]]，把你每一生所造的[[名相词典/中文/业力|業力]]，全部收集起來，處於內心當中，並不斷地變化。當然它自己不能變化，就是你[[名相词典/中文/前七识|前七識]]去造業，然後對它產生影響，總之[[名相词典/中文/第八识|第八識]]的主要功能就是「[[名相词典/中文/异熟|異熟]]」。這是第一個。
 
 **English**
 To sum up the above: between “cause” and “fruit” there are three properties: one is “different time,” meaning difference in time; the second, “different class,” meaning difference in nature; the third, “transformation,” meaning that from cause to fruit, all sorts of changes arise in between. These three properties all have the “[[名相词典/English/eighth consciousness|eighth consciousness]]” as principal, and so the [[名相词典/English/eighth consciousness|eighth consciousness]] is established as the “vipāka-consciousness.” From beginningless kalpas until now, it has been responsible for collecting your [[名相词典/English/karmic force|karmic force]]—gathering all the karma created in each lifetime, holding it within the mind, and continually changing. Of course it cannot change by itself: it is that your [[名相词典/English/first seven consciousnesses|first seven consciousnesses]] create karma and then influence it. In short, the main function of the [[名相词典/English/eighth consciousness|eighth consciousness]] is “vipāka.” This is the first.
@@ -429,8 +429,8 @@ Tổng hợp trên: giữa 「nhân」 và 「quả」 có ba tánh chất: mộ
 **§266**
 
 **中文**
-「思量」—「第七识」
-第七[[名相词典/中文/意识|意识]]它不造善也不造恶，跟[[名相词典/中文/第八识|第八识]]的性质一样，都是属于无记，不过它的无记是「[[名相词典/中文/有覆无记|有覆无记]]」。前面的第八[[名相词典/中文/意识|意识]]是「不覆」，它不覆盖[[名相词典/中文/真如|真如]]、也不障碍圣道，第七[[名相词典/中文/意识|意识]]它障碍圣道。第七[[名相词典/中文/意识|意识]]的功能是「思量」，思量就是思惟度量。我们说「识」有了别性，那第七[[名相词典/中文/意识|意识]]为什么安立作「思量」呢？因为第七识的明了性，它的特性——能够对所缘境生起很「深入」的思惟观察，它的深入跟微细，不是[[名相词典/中文/前六识|前六识]]所能比的，它能够对所缘境深入跟微细的观察，而且是「相续」的观察。
+「思量」—「第七識」
+第七[[名相词典/中文/意识|意識]]它不造善也不造惡，跟[[名相词典/中文/第八识|第八識]]的性質一樣，都是屬於無記，不過它的無記是「[[名相词典/中文/有覆无记|有覆無記]]」。前面的第八[[名相词典/中文/意识|意識]]是「不覆」，它不覆蓋[[名相词典/中文/真如|真如]]、也不障礙聖道，第七[[名相词典/中文/意识|意識]]它障礙聖道。第七[[名相词典/中文/意识|意識]]的功能是「思量」，思量就是思惟度量。我們說「識」有了別性，那第七[[名相词典/中文/意识|意識]]為什麼安立作「思量」呢？因為第七識的明了性，它的特性——能夠對所緣境生起很「深入」的思惟觀察，它的深入跟微細，不是[[名相词典/中文/前六识|前六識]]所能比的，它能夠對所緣境深入跟微細的觀察，而且是「相續」的觀察。
 
 **English**
 “Deliberation-and-assessment”—the seventh consciousness
@@ -449,7 +449,7 @@ Thức thứ bảy không tạo thiện cũng không tạo ác; tính chất gi�
 **§267**
 
 **中文**
-「第七识」不像「[[名相词典/中文/第六意识|第六意识]]」的所缘境是变化的，[[名相词典/中文/第六意识|第六意识]]有时候想善、有时候想恶，有时候想过去、有时候想现在，就像猴子去抓树枝一样，一下子抓住这棵树枝，又放掉、抓另一棵…[[名相词典/中文/前六识|前六识]]都是各式各样的变化。但是第七[[名相词典/中文/意识|意识]]是非常专一的，它的所缘境就是「[[名相词典/中文/第八识|第八识]]」，它就是从头到尾一直注意[[名相词典/中文/第八识|第八识]]。注意[[名相词典/中文/第八识|第八识]]做什么呢？就把[[名相词典/中文/第八识|第八识]]错认为「我」，执持[[名相词典/中文/第八识|第八识]]的「[[名相词典/中文/见分|见分]]」为我。
+「第七識」不像「[[名相词典/中文/第六意识|第六意識]]」的所緣境是變化的，[[名相词典/中文/第六意识|第六意識]]有時候想善、有時候想惡，有時候想過去、有時候想現在，就像猴子去抓樹枝一樣，一下子抓住這棵樹枝，又放掉、抓另一棵…[[名相词典/中文/前六识|前六識]]都是各式各樣的變化。但是第七[[名相词典/中文/意识|意識]]是非常專一的，它的所緣境就是「[[名相词典/中文/第八识|第八識]]」，它就是從頭到尾一直注意[[名相词典/中文/第八识|第八識]]。注意[[名相词典/中文/第八识|第八識]]做什麼呢？就把[[名相词典/中文/第八识|第八識]]錯認為「我」，執持[[名相词典/中文/第八识|第八識]]的「[[名相词典/中文/见分|見分]]」為我。
 
 **English**
 The “seventh consciousness” is not like the “[[名相词典/English/sixth consciousness|sixth consciousness]],” whose objects of cognition keep changing. The [[名相词典/English/sixth consciousness|sixth consciousness]] sometimes thinks of the wholesome, sometimes of the unwholesome; sometimes of the past, sometimes of the present—like a monkey grasping branches: in one moment it seizes this branch, then lets go and grabs another… The [[名相词典/English/first six consciousnesses|first six consciousnesses]] are all various and changing. But the seventh consciousness is extremely single-pointed: its object of cognition is precisely the “[[名相词典/English/eighth consciousness|eighth consciousness]],” and from beginning to end it keeps attending to the eighth. What does it do in attending to the eighth? It misapprehends the [[名相词典/English/eighth consciousness|eighth consciousness]] as “I,” grasping the “seeing-part” of the [[名相词典/English/eighth consciousness|eighth consciousness]] as self.
@@ -465,7 +465,7 @@ La « septième conscience » n’est pas comme la « [[名相词典/Français/s
 **§268**
 
 **中文**
-这是怎么回事啊？就是说：第七[[名相词典/中文/意识|意识]]的性质，并不向外攀缘，它的明了性不向外，它欢喜向内。它向内攀缘谁呢？攀缘[[名相词典/中文/第八识|第八识]]。[[名相词典/中文/第八识|第八识]]的明了性非常微细，[[名相词典/中文/刹那|刹那]]生、[[名相词典/中文/刹那|刹那]]灭，[[名相词典/中文/刹那|刹那]]生、[[名相词典/中文/刹那|刹那]]灭…但是因为第七[[名相词典/中文/意识|意识]]的[[名相词典/中文/心识|心识]]比较粗，[[名相词典/中文/第八识|第八识]]比较细，所以它看[[名相词典/中文/第八识|第八识]]以为[[名相词典/中文/第八识|第八识]]是恒常住、不变异的，它的明了性一直存在，是常住真心；就好像我们看日光灯一样，感觉灯光是相续的，其实日光灯闪烁的频率，一分钟有一百二十下，但是我们眼睛的观察力比较粗，看日光灯，也是感觉日光灯是常住不变的。第七识也是这样，它一次一次对[[名相词典/中文/第八识|第八识]]思量--恒审思量[[名相词典/中文/第八识|第八识]]，然后执为我，它的功能就是「执我」。
+這是怎麼回事啊？就是說：第七[[名相词典/中文/意识|意識]]的性質，並不向外攀緣，它的明了性不向外，它歡喜向內。它向內攀緣誰呢？攀緣[[名相词典/中文/第八识|第八識]]。[[名相词典/中文/第八识|第八識]]的明了性非常微細，[[名相词典/中文/刹那|剎那]]生、[[名相词典/中文/刹那|剎那]]滅，[[名相词典/中文/刹那|剎那]]生、[[名相词典/中文/刹那|剎那]]滅…但是因為第七[[名相词典/中文/意识|意識]]的[[名相词典/中文/心识|心識]]比較粗，[[名相词典/中文/第八识|第八識]]比較細，所以它看[[名相词典/中文/第八识|第八識]]以為[[名相词典/中文/第八识|第八識]]是恆常住、不變異的，它的明了性一直存在，是常住真心；就好像我們看日光燈一樣，感覺燈光是相續的，其實日光燈閃爍的頻率，一分鐘有一百二十下，但是我們眼睛的觀察力比較粗，看日光燈，也是感覺日光燈是常住不變的。第七識也是這樣，它一次一次對[[名相词典/中文/第八识|第八識]]思量--恆審思量[[名相词典/中文/第八识|第八識]]，然後執為我，它的功能就是「執我」。
 
 **English**
 How does this come about? It means: the nature of the seventh consciousness does not cling outward; its luminous clarity does not go outward—it prefers to turn inward. Whom does it cling to inwardly? It clings to the [[名相词典/English/eighth consciousness|eighth consciousness]]. The luminous clarity of the eighth is extremely subtle—arising and ceasing in each [[名相词典/English/instant|instant]], arising and ceasing in each [[名相词典/English/instant|instant]]… But because the [[名相词典/English/mind-consciousness|mind-consciousness]] of the seventh is relatively coarse and the eighth is relatively fine, when it looks at the eighth it takes the eighth to be permanently abiding and unchanging, its luminous clarity always present—a permanently abiding true mind. It is like looking at a fluorescent lamp: we feel the light is continuous, yet in fact the lamp flickers at a rate of one hundred twenty times a minute; but our eyes’ power of observation is relatively coarse, so looking at the lamp we also feel it is permanent and unchanging. The seventh consciousness is the same: again and again it deliberates upon the eighth—constantly examining and deliberating upon the eighth—and then grasps it as self. Its function is precisely “self-grasping.”
@@ -481,7 +481,7 @@ Comment cela se fait-il ? Cela veut dire : la nature de la septième conscience 
 **§269**
 
 **中文**
-第七识在[[名相词典/中文/有漏|有漏]]位是「执我」，但是[[名相词典/中文/转识成智|转识成智]]之后，就转成思量「我法二空」平等之理—平等性智；[[名相词典/中文/凡夫|凡夫]]位是思量「我法二执」，这两个不同，但是都是思量。第七[[名相词典/中文/意识|意识]]的功能是思量，能够对所缘境深入微细的观察。再看[[名相词典/中文/前六识|前六识]]：
+第七識在[[名相词典/中文/有漏|有漏]]位是「執我」，但是[[名相词典/中文/转识成智|轉識成智]]之後，就轉成思量「我法二空」平等之理—平等性智；[[名相词典/中文/凡夫|凡夫]]位是思量「我法二執」，這兩個不同，但是都是思量。第七[[名相词典/中文/意识|意識]]的功能是思量，能夠對所緣境深入微細的觀察。再看[[名相词典/中文/前六识|前六識]]：
 
 **English**
 In the stage with outflows, the seventh consciousness is “self-grasping”; but after consciousness is transformed into wisdom, it turns to deliberating the equal principle of the “[[名相词典/English/emptiness|emptiness]] of person and dharmas”—the wisdom of equality. At the ordinary stage it deliberates the “two graspings of person and dharmas.” These two differ, yet both are deliberation. The function of the seventh consciousness is deliberation: it can observe its object of cognition deeply and subtly. Now look at the [[名相词典/English/first six consciousnesses|first six consciousnesses]]:
@@ -497,8 +497,8 @@ Au stade avec souillures, la septième conscience est « saisie du soi » ; mais
 **§270**
 
 **中文**
-「了境」—「[[名相词典/中文/前六识|前六识]]」
-[[名相词典/中文/前六识|前六识]]的功能，《[[名相词典/中文/成唯识论|成唯识论]]》安立作「了境」，「了」就是「了别」的意思。虽然[[名相词典/中文/八识|八识]]都有了别功能，但是[[名相词典/中文/前六识|前六识]]的了别功能特别明显，因为第八跟第七识的了别性，都非常微细，性质不是那么明显。[[名相词典/中文/第八识|第八识]]的了别性所发动出来的作用，是「[[名相词典/中文/异熟|异熟]]」的特性多；第七识是「思量」的特性多；[[名相词典/中文/前六识|前六识]]是「真实了别」——了别外在[[名相词典/中文/六尘|六尘]]的境界，色、声、香、味、触、法，并且广泛的明了分别过去、现在、未来，所以安立作「了境」。
+「了境」—「[[名相词典/中文/前六识|前六識]]」
+[[名相词典/中文/前六识|前六識]]的功能，《[[名相词典/中文/成唯识论|成唯識論]]》安立作「了境」，「了」就是「了別」的意思。雖然[[名相词典/中文/八识|八識]]都有了別功能，但是[[名相词典/中文/前六识|前六識]]的了別功能特別明顯，因為第八跟第七識的了別性，都非常微細，性質不是那麼明顯。[[名相词典/中文/第八识|第八識]]的了別性所發動出來的作用，是「[[名相词典/中文/异熟|異熟]]」的特性多；第七識是「思量」的特性多；[[名相词典/中文/前六识|前六識]]是「真實了別」——了別外在[[名相词典/中文/六尘|六塵]]的境界，色、聲、香、味、觸、法，並且廣泛的明了分別過去、現在、未來，所以安立作「了境」。
 
 **English**
 “Cognizing objects”—the “[[名相词典/English/first six consciousnesses|first six consciousnesses]]”
@@ -517,7 +517,7 @@ Công năng của [[名相词典/TiếngViệt/sáu thức trước|sáu thức 
 **§271**
 
 **中文**
-在图表中，我们看[[名相词典/中文/第六意识|第六意识]]是在「中间」，然后从右边到左边，就是眼、耳、鼻、舌、身。[[名相词典/中文/前六识|前六识]]大都是一起活动的，它的功能就是了境，了别外在[[名相词典/中文/六尘|六尘]]的境界。从这个表，我们可以知道整个唯识大纲，依《[[名相词典/中文/成唯识论|成唯识论]]》的分类，分成这三类：第一个，它的体性是「[[名相词典/中文/异熟|异熟]]」；第二个「思量」这是第七[[名相词典/中文/意识|意识]]：第三个「了境」是[[名相词典/中文/前六识|前六识]]。
+在圖表中，我們看[[名相词典/中文/第六意识|第六意識]]是在「中間」，然後從右邊到左邊，就是眼、耳、鼻、舌、身。[[名相词典/中文/前六识|前六識]]大都是一起活動的，它的功能就是了境，了別外在[[名相词典/中文/六尘|六塵]]的境界。從這個表，我們可以知道整個唯識大綱，依《[[名相词典/中文/成唯识论|成唯識論]]》的分類，分成這三類：第一個，它的體性是「[[名相词典/中文/异熟|異熟]]」；第二個「思量」這是第七[[名相词典/中文/意识|意識]]：第三個「了境」是[[名相词典/中文/前六识|前六識]]。
 
 **English**
 In the chart, we see the [[名相词典/English/sixth consciousness|sixth consciousness]] in the “middle,” and then from right to left: eye, ear, nose, tongue, and body. The [[名相词典/English/first six consciousnesses|first six consciousnesses]] mostly operate together; their function is cognizing objects—cognizing the outer realms of the [[名相词典/English/six sense-objects|six sense-objects]]. From this table we can know the whole outline of Consciousness-Only. According to the classification of the Cheng Weishi Lun, they fall into these three types: first, the essential nature is “retribution-in-difference”; second, “deliberation-and-assessment”—this is the seventh consciousness; third, “cognizing objects”—the [[名相词典/English/first six consciousnesses|first six consciousnesses]].
@@ -533,7 +533,7 @@ Trong biểu đồ, chúng ta thấy thức thứ sáu ở “giữa”, rồi t
 **§272**
 
 **中文**
-这是个大纲的说明，以下看讲义第十面，我们再看[[名相词典/中文/蕅益大师|蕅益大师]]说明「别释[[名相词典/中文/八识|八识]]的相用」，别释当中蕅祖把[[名相词典/中文/八识|八识]]分成了四类：一、是前五识，二、第六识，三、第七识，四、[[名相词典/中文/第八识|第八识]]。在唯识学有的地方把[[名相词典/中文/八识|八识]]分成四类，有的地方是分成三类，都可以。先看第一个「前五识」：
+這是個大綱的說明，以下看講義第十面，我們再看[[名相词典/中文/蕅益大师|蕅益大師]]說明「別釋[[名相词典/中文/八识|八識]]的相用」，別釋當中蕅祖把[[名相词典/中文/八识|八識]]分成了四類：一、是前五識，二、第六識，三、第七識，四、[[名相词典/中文/第八识|第八識]]。在唯識學有的地方把[[名相词典/中文/八识|八識]]分成四類，有的地方是分成三類，都可以。先看第一個「前五識」：
 
 **English**
 This is an outline explanation. Below, look at page ten of the handouts; we will look again at [[名相词典/English/Master Ǒuyì|Master Ǒuyì]]’s explanation of “the particular exposition of the [[名相词典/English/characteristics|characteristics]] and functions of the [[名相词典/English/eight consciousnesses|eight consciousnesses]].” In that particular exposition, [[名相词典/English/Master Ǒuyì|Master Ǒuyì]] divides the [[名相词典/English/eight consciousnesses|eight consciousnesses]] into four types: first, the five sense consciousnesses; second, the [[名相词典/English/sixth consciousness|sixth consciousness]]; third, the seventh consciousness; fourth, the [[名相词典/English/eighth consciousness|eighth consciousness]]. In Consciousness-Only studies, some places divide the eight into four types, some into three—either is fine. First look at the first—“the five sense consciousnesses”:
@@ -549,7 +549,7 @@ Voici une explication d’ensemble. Ci-dessous, regardez la page dix du fascicul
 **§273**
 
 **中文**
-『依于眼根，了别色尘，名为[[名相词典/中文/眼识|眼识]]。依于耳根，了别声尘，名为[[名相词典/中文/耳识|耳识]]。依于鼻根，了别香臭，名为[[名相词典/中文/鼻识|鼻识]]。依于舌根，了别滋味，名为[[名相词典/中文/舌识|舌识]]。依于身根，了别痛痒寒热等触，名为[[名相词典/中文/身识|身识]]。』前五识都有它「所依的根」以及「所缘的境」。我们看这个表可能会清楚一点，前五识的作用是「了境」，前五识都有它的所依跟所缘。所谓「依」，是指它的依止处要有「根」。「根」在《唯识学》是解释为「依托」，这是一种譬喻，就像一棵树能够生起枝叶花果，是要依托它的根去吸收阳光、水分跟矿物质等等，才能生长枝叶花果。比喻说我们前五识要生起了别的功能，也要依止「根」。叫做眼根，眼跟就是我们能够看到的这个四大，它是属于[[名相词典/中文/色法|色法]]，眼根就是眼球。
+『依於眼根，了別色塵，名為[[名相词典/中文/眼识|眼識]]。依於耳根，了別聲塵，名為[[名相词典/中文/耳识|耳識]]。依於鼻根，了別香臭，名為[[名相词典/中文/鼻识|鼻識]]。依於舌根，了別滋味，名為[[名相词典/中文/舌识|舌識]]。依於身根，了別痛癢寒熱等觸，名為[[名相词典/中文/身识|身識]]。』前五識都有它「所依的根」以及「所緣的境」。我們看這個表可能會清楚一點，前五識的作用是「了境」，前五識都有它的所依跟所緣。所謂「依」，是指它的依止處要有「根」。「根」在《唯識學》是解釋為「依托」，這是一種譬喻，就像一棵樹能夠生起枝葉花果，是要依托它的根去吸收陽光、水分跟礦物質等等，才能生長枝葉花果。比喻說我們前五識要生起了別的功能，也要依止「根」。叫做眼根，眼跟就是我們能夠看到的這個四大，它是屬於[[名相词典/中文/色法|色法]]，眼根就是眼球。
 
 **English**
 『Relying on the eye faculty, cognizing form-dust, it is called [[名相词典/English/visual consciousness|visual consciousness]]. Relying on the ear faculty, cognizing sound-dust, it is called [[名相词典/English/auditory consciousness|auditory consciousness]]. Relying on the nose faculty, cognizing fragrance and foulness, it is called [[名相词典/English/olfactory consciousness|olfactory consciousness]]. Relying on the tongue faculty, cognizing flavors, it is called [[名相词典/English/gustatory consciousness|gustatory consciousness]]. Relying on the body faculty, cognizing pain, itch, cold, heat, and other touches, it is called [[名相词典/English/tactile consciousness|tactile consciousness]].』 Each of the five sense consciousnesses has its “supporting faculty” and its “object of cognition.” Looking at this table may make it clearer: the function of the five sense consciousnesses is “cognizing objects,” and each has its support and its object. So-called “support” means that its place of reliance must have a “faculty.” In Consciousness-Only, “faculty” is explained as “that which is relied upon”—a metaphor, like a tree that can bring forth branches, leaves, flowers, and fruit only by relying on its roots to absorb sunlight, water, minerals, and so on. By analogy, for our five sense consciousnesses to give rise to the function of cognizing-and-apprehending, they too must rely on “faculties.” It is called the eye faculty; the eye faculty is these four great elements that we can see—it belongs to [[名相词典/English/form|form]]; the eye faculty is the eyeball.
@@ -565,7 +565,7 @@ Voici une explication d’ensemble. Ci-dessous, regardez la page dix du fascicul
 **§274**
 
 **中文**
-这个「根」，医学上比较肤浅的看法，是认为我们眼睛能够了别青黄赤白，是因为眼睛里有「视神经」的系统，这个视神经是一个[[名相词典/中文/色法|色法]]，可以用显微镜看到。但是佛法否定这样的思想，佛法认为我们眼睛能够看到东西，是我们内心有一个明了的「[[名相词典/中文/心法|心法]]」，是「[[名相词典/中文/眼识|眼识]]」的作用。
+這個「根」，醫學上比較膚淺的看法，是認為我們眼睛能夠了別青黃赤白，是因為眼睛裡有「視神經」的系統，這個視神經是一個[[名相词典/中文/色法|色法]]，可以用顯微鏡看到。但是佛法否定這樣的思想，佛法認為我們眼睛能夠看到東西，是我們內心有一個明了的「[[名相词典/中文/心法|心法]]」，是「[[名相词典/中文/眼识|眼識]]」的作用。
 
 **English**
 As for this “faculty,” medicine’s rather superficial view holds that our eyes can cognize blue, yellow, red, and white because there is an “optic nerve” system in the eye—and that optic nerve is a form dharma, visible under a microscope. But the Buddhadharma rejects that view. The Buddhadharma holds that we can see things because within our mind there is a luminous “mind dharma”—the functioning of “[[名相词典/English/visual consciousness|visual consciousness]].”
@@ -581,7 +581,7 @@ Quant à cette « faculté », le regard assez superficiel de la médecine tient
 **§275**
 
 **中文**
-举个例子：我从这个地方开车到竹山，从竹山开到鹿谷，没有错，能够走的是车子在走，但是是谁在开车呢？是「人」在开，真正能够开车的是人，你没有人，车怎么会动呢？这个意思就是说：人比喻[[名相词典/中文/眼识|眼识]]，因为有[[名相词典/中文/眼识|眼识]]、有[[名相词典/中文/心法|心法]]在里面，这个[[名相词典/中文/心法|心法]]是无形无相的，「根」只是依止处而已。
+舉個例子：我從這個地方開車到竹山，從竹山開到鹿谷，沒有錯，能夠走的是車子在走，但是是誰在開車呢？是「人」在開，真正能夠開車的是人，你沒有人，車怎麼會動呢？這個意思就是說：人比喻[[名相词典/中文/眼识|眼識]]，因為有[[名相词典/中文/眼识|眼識]]、有[[名相词典/中文/心法|心法]]在裡面，這個[[名相词典/中文/心法|心法]]是無形無相的，「根」只是依止處而已。
 
 **English**
 Take an example: I drive from here to Zhushan, from Zhushan on to Lugu. True enough, what travels is the car traveling—but who is driving? It is a “person” driving; what truly can drive is the person. Without a person, how would the car move? The meaning is this: the person is a metaphor for [[名相词典/English/visual consciousness|visual consciousness]]. Because there is [[名相词典/English/visual consciousness|visual consciousness]]—a mind dharma—within, and that mind dharma is without form or appearance, the “faculty” is only the place of reliance.
@@ -597,7 +597,7 @@ Nêu ví dụ: tôi từ chỗ này lái xe đến Trúc Sơn, từ Trúc Sơn l
 **§276**
 
 **中文**
-《楞严经》上佛陀说：一个人眼球败坏了，但是他的[[名相词典/中文/眼识|眼识]]仍然存在，怎么知道呢？你眼球败坏，你看到的是一片暗相，但是你那个明了性还在。如果说我们能够看到东西是眼球的作用，当眼球破坏的时候，你整个明了功能，应该都消失掉才对。但事实上不是，你的明了性——[[名相词典/中文/眼识|眼识]]还是在，因为它所依托的跟败坏了，它不能分别青黄赤白，但是它那个明了性还是在。看到眼前是一片黑暗，还是看到了。你看到了没有？「我看到了！」看到什么呢？「看到一片黑暗！」一片黑暗也是所缘境。就像一个人在暗室没有灯光的地方，也是看到了暗相。
+《楞嚴經》上佛陀說：一個人眼球敗壞了，但是他的[[名相词典/中文/眼识|眼識]]仍然存在，怎麼知道呢？你眼球敗壞，你看到的是一片暗相，但是你那個明了性還在。如果說我們能夠看到東西是眼球的作用，當眼球破壞的時候，你整個明了功能，應該都消失掉才對。但事實上不是，你的明了性——[[名相词典/中文/眼识|眼識]]還是在，因為它所依托的跟敗壞了，它不能分別青黃赤白，但是它那個明了性還是在。看到眼前是一片黑暗，還是看到了。你看到了沒有？「我看到了！」看到什麼呢？「看到一片黑暗！」一片黑暗也是所緣境。就像一個人在暗室沒有燈光的地方，也是看到了暗相。
 
 **English**
 In the Śūraṅgama Sūtra the Buddha says: when a person’s eyeball is ruined, his [[名相词典/English/visual consciousness|visual consciousness]] still exists. How do we know? When your eyeball is ruined, what you see is a stretch of darkness—yet that luminous clarity is still there. If seeing things were the function of the eyeball, then when the eyeball is destroyed, your whole function of luminosity ought to disappear. But in fact it does not: your luminous clarity—[[名相词典/English/visual consciousness|visual consciousness]]—is still there. Because the faculty it relies on is ruined, it cannot discriminate blue, yellow, red, and white, yet that luminous clarity is still there. Seeing a stretch of darkness before the eyes—you have still seen. Have you seen? “I have seen!” Seen what? “Seen a stretch of darkness!” A stretch of darkness is also an object of cognition. Just as a person in a dark room without light has still seen the appearance of darkness.
@@ -613,7 +613,7 @@ Trong Kinh Thủ Lăng Nghiêm, Đức Phật nói: một người nhãn cầu h
 **§277**
 
 **中文**
-所以《[[名相词典/中文/八识规矩颂|八识规矩颂]]》中有解释：「愚者难分识与根」，就是这句话——愚痴的人不能分别「根」跟「识」，根是[[名相词典/中文/色法|色法]]，没有明了性，真正明了的是「[[名相词典/中文/心法|心法]]」。所以这里我们要解释一下，「根」虽然没有明了性，但是它是「识」所依托，当「根」败坏时，「识」的了别还是会有障碍。这是所依。
+所以《[[名相词典/中文/八识规矩颂|八識規矩頌]]》中有解釋：「愚者難分識與根」，就是這句話——愚癡的人不能分別「根」跟「識」，根是[[名相词典/中文/色法|色法]]，沒有明了性，真正明了的是「[[名相词典/中文/心法|心法]]」。所以這裡我們要解釋一下，「根」雖然沒有明了性，但是它是「識」所依托，當「根」敗壞時，「識」的了別還是會有障礙。這是所依。
 
 **English**
 So the [[名相词典/English/Verses on the Structure of the Eight Consciousnesses|Verses on the Structure of the Eight Consciousnesses]] explain: “The foolish find it hard to distinguish consciousness from faculty”—that is this point: the foolish cannot discriminate “faculty” from “consciousness.” The faculty is a form dharma, without luminous clarity; what truly cognizes is the “mind dharma.” So here we must explain a little: although the “faculty” has no luminous clarity, it is that upon which “consciousness” relies; when the “faculty” is ruined, the cognizing-and-apprehending of “consciousness” will still meet obstruction. This is the support.
@@ -629,7 +629,7 @@ Vậy trong [[名相词典/TiếngViệt/Bát Thức Quy Củ Tụng|Bát Thức
 **§278**
 
 **中文**
-还有「所缘」—是色尘，青黄赤白…「识」、「所依」、「所缘」，三者关系，《[[名相词典/中文/瑜伽师地论|瑜伽师地论]]》讲一个譬喻说：有一个人，他开一部车到某一个地方去办事，能开车的人就是「识」，（明了性就是「识」）；车子就是所依，就是「根」，必须要依止「根」；处所就是「尘」，要到那个尘境去造业；可能是造善业、造恶业、各式各样的业。就是人坐车到某一个处所去办事，那些要办的事就是「业」。从这样的譬喻就可以知道，「识、根、尘」这[[名相词典/中文/十八界|十八界]]的关系，主要的作用是在「识」，这个明了性，能够造业的是「识」。但是识要造业，还不能单独活动，必须依止「根」还有「所缘境」，才能够造业，这就是「所依」跟「所缘」。
+還有「所緣」—是色塵，青黃赤白…「識」、「所依」、「所緣」，三者關係，《[[名相词典/中文/瑜伽师地论|瑜伽師地論]]》講一個譬喻說：有一個人，他開一部車到某一個地方去辦事，能開車的人就是「識」，（明了性就是「識」）；車子就是所依，就是「根」，必須要依止「根」；處所就是「塵」，要到那個塵境去造業；可能是造善業、造惡業、各式各樣的業。就是人坐車到某一個處所去辦事，那些要辦的事就是「業」。從這樣的譬喻就可以知道，「識、根、塵」這[[名相词典/中文/十八界|十八界]]的關係，主要的作用是在「識」，這個明了性，能夠造業的是「識」。但是識要造業，還不能單獨活動，必須依止「根」還有「所緣境」，才能夠造業，這就是「所依」跟「所緣」。
 
 **English**
 There is also the “object of cognition”—form-dust: blue, yellow, red, white… As for the relation among the three—“consciousness,” “support,” and “object of cognition”—the Yogācārabhūmi gives a metaphor: there is a person who drives a car to some place to do business. The one who can drive is “consciousness” (luminous clarity is “consciousness”); the car is the support—the “faculty”—one must rely on the “faculty”; the place is the “dust”—one goes to that dust-realm to create karma, perhaps wholesome karma, unwholesome karma, all sorts of karma. That is: a person rides in a car to some place to handle affairs, and those affairs to be handled are “karma.” From this metaphor one can know: in the relation of “consciousness, faculty, and dust”—these [[名相词典/English/eighteen elements|eighteen elements]]—the main activity is in “consciousness”; this luminous clarity, what can create karma, is “consciousness.” But for consciousness to create karma, it still cannot operate alone: it must rely on the “faculty” and also on the “object of cognition” before it can create karma. These are the “support” and the “object of cognition.”
@@ -645,7 +645,7 @@ Còn có “sở duyên”—là sắc trần, xanh vàng đỏ trắng… Quan 
 **§279**
 
 **中文**
-那么，[[名相词典/中文/耳识|耳识]]要依止「耳根」，去分别各式各样、高低曲折的声音。[[名相词典/中文/鼻识|鼻识]]要依止「鼻根」，才能够分别各式各样香臭的味道；舌头要依止「舌根」，才能够分别酸甜苦辣的味道；[[名相词典/中文/身识|身识]]依止「身根」，才能够分别痛、痒、寒热等等触尘。「五识」依止「[[名相词典/中文/五根|五根]]」，去了别「五种尘境」，这个就是五识的功能。
+那麼，[[名相词典/中文/耳识|耳識]]要依止「耳根」，去分別各式各樣、高低曲折的聲音。[[名相词典/中文/鼻识|鼻識]]要依止「鼻根」，才能夠分別各式各樣香臭的味道；舌頭要依止「舌根」，才能夠分別酸甜苦辣的味道；[[名相词典/中文/身识|身識]]依止「身根」，才能夠分別痛、癢、寒熱等等觸塵。「五識」依止「[[名相词典/中文/五根|五根]]」，去了別「五種塵境」，這個就是五識的功能。
 
 **English**
 So [[名相词典/English/auditory consciousness|auditory consciousness]] must rely on the “ear faculty” to discriminate all sorts of sounds, high and low, winding and turning. [[名相词典/English/olfactory consciousness|Olfactory consciousness]] must rely on the “nose faculty” before it can discriminate all sorts of fragrant and foul smells; the tongue must rely on the “tongue faculty” before it can discriminate sour, sweet, bitter, and pungent flavors; [[名相词典/English/tactile consciousness|tactile consciousness]] relies on the “body faculty” before it can discriminate pain, itch, cold, heat, and other touch-dusts. The “five consciousnesses” rely on the “[[名相词典/English/five faculties|five faculties]]” to cognize the “five kinds of dust-realms”—this is the function of the five consciousnesses.
@@ -661,7 +661,7 @@ Vậy [[名相词典/TiếngViệt/nhĩ thức|nhĩ thức]] phải y chỉ “n
 **§280**
 
 **中文**
-这个五识，我们一般讲「[[名相词典/中文/十八界|十八界]]」--[[名相词典/中文/六根|六根]]、[[名相词典/中文/六尘|六尘]]、六识；「界」就是界限。在[[名相词典/中文/凡夫|凡夫]]位，眼、耳、鼻、舌、身、意，各有各的界限，「[[名相词典/中文/眼识|眼识]]」只能够了别「色尘」，你不能说我用眼睛去听声音，不可以，[[名相词典/中文/凡夫|凡夫]]不可以！它有它活动的范围，「[[名相词典/中文/眼识|眼识]]」活动的所范围只能在青黄赤白这个色尘上活动，不可能跑到声音的境界去活动，[[名相词典/中文/圣人|圣人]]才可以，「初地菩萨」的[[名相词典/中文/六根|六根]]就能够互用；比如说这个人的眼睛坏掉了，没关系，他用耳朵可以看到色尘，他的[[名相词典/中文/耳识|耳识]]能够了别色尘；这是入了「法性」的[[名相词典/中文/圣人|圣人]]，[[名相词典/中文/六根|六根]]才能够互用；这十八法对他来说没有障碍，但是[[名相词典/中文/凡夫|凡夫]]不可以，就各有各的界限，这是我们第一个要注意的。
+這個五識，我們一般講「[[名相词典/中文/十八界|十八界]]」--[[名相词典/中文/六根|六根]]、[[名相词典/中文/六尘|六塵]]、六識；「界」就是界限。在[[名相词典/中文/凡夫|凡夫]]位，眼、耳、鼻、舌、身、意，各有各的界限，「[[名相词典/中文/眼识|眼識]]」只能夠了別「色塵」，你不能說我用眼睛去聽聲音，不可以，[[名相词典/中文/凡夫|凡夫]]不可以！它有它活動的範圍，「[[名相词典/中文/眼识|眼識]]」活動的所範圍只能在青黃赤白這個色塵上活動，不可能跑到聲音的境界去活動，[[名相词典/中文/圣人|聖人]]才可以，「初地菩薩」的[[名相词典/中文/六根|六根]]就能夠互用；比如說這個人的眼睛壞掉了，沒關係，他用耳朵可以看到色塵，他的[[名相词典/中文/耳识|耳識]]能夠了別色塵；這是入了「法性」的[[名相词典/中文/圣人|聖人]]，[[名相词典/中文/六根|六根]]才能夠互用；這十八法對他來說沒有障礙，但是[[名相词典/中文/凡夫|凡夫]]不可以，就各有各的界限，這是我們第一個要注意的。
 
 **English**
 These five consciousnesses we ordinarily speak of as the “[[名相词典/English/eighteen elements|eighteen elements]]”—six faculties, six dusts, six consciousnesses; “element” means a boundary. At the ordinary stage, eye, ear, nose, tongue, body, and mind each have their own boundaries. “[[名相词典/English/visual consciousness|Visual consciousness]]” can only cognize “form-dust”; you cannot say, “I use my eyes to hear sounds”—you may not; ordinary beings may not! It has its own range of activity: the range of “[[名相词典/English/visual consciousness|visual consciousness]]” can only operate upon form-dust—blue, yellow, red, white; it cannot run off into the realm of sound. Only sages can: from the first-bhūmi bodhisattva onward, the six faculties can function interchangeably. For example, if this person’s eyes are ruined, no matter—he can see form-dust with his ears; his [[名相词典/English/auditory consciousness|auditory consciousness]] can cognize form-dust. This is a sage who has entered “dharmatā”; only then can the six faculties function interchangeably. For him these eighteen dharmas pose no obstruction. But ordinary beings may not: each has its own boundary. This is the first point we must note.
@@ -677,7 +677,7 @@ Năm thức này, chúng ta thường nói “[[名相词典/TiếngViệt/mư�
 **§281**
 
 **中文**
-其次，「前五识」不能单独生起了别的功能，「前五识」一定要依止「[[名相词典/中文/第六意识|第六意识]]」。从这个图表可以看出来：你用眼睛看东西，但是你的[[名相词典/中文/第六意识|第六意识]]在这里——心不在焉，则视而不见、听而不闻。比如说，我的眼睛专心在看一件东西，又想要专心念佛，不可以！也就是说，我们「眼耳鼻舌身」五识的活动，一定要跟「[[名相词典/中文/第六意识|第六意识]]」和合，[[名相词典/中文/第六意识|第六意识]]不帮助你，前五识不能单独活动，它要以[[名相词典/中文/第六意识|第六意识]]当作[[名相词典/中文/增上缘|增上缘]]，这是前五识的情况。前五识我们比较容易了解，因为前五识是比较容易观察到的境界，不像第七识、[[名相词典/中文/第八识|第八识]]那么的微细。
+其次，「前五識」不能單獨生起了別的功能，「前五識」一定要依止「[[名相词典/中文/第六意识|第六意識]]」。從這個圖表可以看出來：你用眼睛看東西，但是你的[[名相词典/中文/第六意识|第六意識]]在這裡——心不在焉，則視而不見、聽而不聞。比如說，我的眼睛專心在看一件東西，又想要專心念佛，不可以！也就是說，我們「眼耳鼻舌身」五識的活動，一定要跟「[[名相词典/中文/第六意识|第六意識]]」和合，[[名相词典/中文/第六意识|第六意識]]不幫助你，前五識不能單獨活動，它要以[[名相词典/中文/第六意识|第六意識]]當作[[名相词典/中文/增上缘|增上緣]]，這是前五識的情況。前五識我們比較容易了解，因為前五識是比較容易觀察到的境界，不像第七識、[[名相词典/中文/第八识|第八識]]那麼的微細。
 
 **English**
 Next: the “five sense consciousnesses” cannot give rise to the function of cognizing-and-apprehending on their own; the “five sense consciousnesses” must rely on the “[[名相词典/English/sixth consciousness|sixth consciousness]].” From this chart you can see: you use your eyes to look at something, but your [[名相词典/English/sixth consciousness|sixth consciousness]] is elsewhere—when the mind is not present, you look without seeing and listen without hearing. For example, if my eyes are concentrated on looking at one thing, and I also want to concentrate on reciting the Buddha’s name—you cannot! That is to say: the activity of our five consciousnesses—“eye, ear, nose, tongue, body”—must unite with the “[[名相词典/English/sixth consciousness|sixth consciousness]].” If the [[名相词典/English/sixth consciousness|sixth consciousness]] does not assist you, the five sense consciousnesses cannot operate alone; they take the [[名相词典/English/sixth consciousness|sixth consciousness]] as an enhancing condition. This is the situation of the five sense consciousnesses. The five sense consciousnesses we understand more easily, because they are relatively observable realms—unlike the seventh and eighth consciousnesses, which are so subtle.
@@ -693,7 +693,7 @@ Thứ đến: “năm thức trước” không thể một mình sinh khởi c�
 **§282**
 
 **中文**
-前五识有没有问题？这是一类的，依止[[名相词典/中文/五根|五根]]了别五种的尘境，叫做五识。当然，每个人的「五识」不太一样，这是过去的[[名相词典/中文/因缘|因缘]]。有些人的[[名相词典/中文/眼识|眼识]]功能特别强，能够看到阴间的事情，了别性特别广大，阳间的人看得到，阴间的鬼也看得到；有些人的[[名相词典/中文/舌识|舌识]]特别敏锐，你看那些卖茶的人，能够微细地分别这些茶的味道；再看「龙树菩萨」，分辨味觉的[[名相词典/中文/舌识|舌识]]也很特别，他拜一位师父学隐身术，他师父不肯教他，只把隐身术的药丸交给他，他把药丸放到嘴里嚼一嚼，就把七十五种药味，每一种药味的含量及其比例全部写出来，他师父被他吓到了，因为一般中医药味合在一起之后，就很难辨别出来，连用仪器都无法分别出来，他的[[名相词典/中文/舌识|舌识]]分别能力到这种境界。每一个人的「眼、耳、鼻、舌、身」也是各式各样。
+前五識有沒有問題？這是一類的，依止[[名相词典/中文/五根|五根]]了別五種的塵境，叫做五識。當然，每個人的「五識」不太一樣，這是過去的[[名相词典/中文/因缘|因緣]]。有些人的[[名相词典/中文/眼识|眼識]]功能特別強，能夠看到陰間的事情，了別性特別廣大，陽間的人看得到，陰間的鬼也看得到；有些人的[[名相词典/中文/舌识|舌識]]特別敏銳，你看那些賣茶的人，能夠微細地分別這些茶的味道；再看「龍樹菩薩」，分辨味覺的[[名相词典/中文/舌识|舌識]]也很特別，他拜一位師父學隱身術，他師父不肯教他，只把隱身術的藥丸交給他，他把藥丸放到嘴裡嚼一嚼，就把七十五種藥味，每一種藥味的含量及其比例全部寫出來，他師父被他嚇到了，因為一般中醫藥味合在一起之後，就很難辨別出來，連用儀器都無法分別出來，他的[[名相词典/中文/舌识|舌識]]分別能力到這種境界。每一個人的「眼、耳、鼻、舌、身」也是各式各樣。
 
 **English**
 Any questions about the five sense consciousnesses? They are one type: relying on the [[名相词典/English/five faculties|five faculties]] to cognize the five kinds of dust-realms—called the five consciousnesses. Of course, each person’s “five consciousnesses” are somewhat different—this is past [[名相词典/English/condition as cause|condition as cause]]. Some people’s [[名相词典/English/visual consciousness|visual consciousness]] is especially strong: they can see affairs of the yin realm; their cognizing nature is especially vast—they see people of the yang world and also see ghosts of the yin world. Some people’s [[名相词典/English/gustatory consciousness|gustatory consciousness]] is especially keen: look at tea sellers, able to discriminate finely the flavors of these teas. Or look at “Bodhisattva Nāgārjuna”: the [[名相词典/English/gustatory consciousness|gustatory consciousness]] that discriminates taste was also quite special. He took a teacher to learn the art of invisibility; his teacher would not teach him, and only handed him the invisibility pill. He put the pill in his mouth, chewed it a little, and wrote out all seventy-five medicinal flavors—the content and proportion of each—completely. His teacher was startled, because when ordinary Chinese medicinal flavors are combined, they are very hard to tell apart—even instruments cannot discriminate them—yet his [[名相词典/English/gustatory consciousness|gustatory consciousness]]’s power of discrimination reached that level. Each person’s “eye, ear, nose, tongue, and body” are likewise various.
@@ -709,7 +709,7 @@ Năm thức trước có vấn đề gì không? Đây là một loại: y chỉ
 **§283**
 
 **中文**
-其实，「眼、耳、鼻、舌、身」虽然不能单独活动，但是它能够帮助「[[名相词典/中文/第六意识|第六意识]]」，特别是我们人道法界，「眼睛」跟「耳朵」就非常重要了。你的眼睛不能看东西，就很糟糕了，不能看经典；耳朵不能听声音，就不能听闻法义；所以这五识当中，「[[名相词典/中文/眼识|眼识]]」跟「[[名相词典/中文/耳识|耳识]]」对于修学佛法的人很重要。其它的识稍微钝一点没关系，「[[名相词典/中文/眼识|眼识]]」跟「[[名相词典/中文/耳识|耳识]]」就很重要。这就是「前五识」，它是依止「[[名相词典/中文/五根|五根]]」了别「五尘」的境界，都是向外攀缘的。
+其實，「眼、耳、鼻、舌、身」雖然不能單獨活動，但是它能夠幫助「[[名相词典/中文/第六意识|第六意識]]」，特別是我們人道法界，「眼睛」跟「耳朵」就非常重要了。你的眼睛不能看東西，就很糟糕了，不能看經典；耳朵不能聽聲音，就不能聽聞法義；所以這五識當中，「[[名相词典/中文/眼识|眼識]]」跟「[[名相词典/中文/耳识|耳識]]」對於修學佛法的人很重要。其它的識稍微鈍一點沒關係，「[[名相词典/中文/眼识|眼識]]」跟「[[名相词典/中文/耳识|耳識]]」就很重要。這就是「前五識」，它是依止「[[名相词典/中文/五根|五根]]」了別「五塵」的境界，都是向外攀緣的。
 
 **English**
 In fact, although “eye, ear, nose, tongue, and body” cannot operate alone, they can assist the “[[名相词典/English/sixth consciousness|sixth consciousness]].” Especially in our human dharma-realm, the “eyes” and “ears” are extremely important. If your eyes cannot see, it is very troublesome—you cannot read the scriptures; if your ears cannot hear sounds, you cannot listen to the meaning of the Dharma. So among these five consciousnesses, “[[名相词典/English/visual consciousness|visual consciousness]]” and “[[名相词典/English/auditory consciousness|auditory consciousness]]” are very important for those who cultivate the Buddhadharma. If the other consciousnesses are a bit dull, it does not matter so much—“[[名相词典/English/visual consciousness|visual consciousness]]” and “[[名相词典/English/auditory consciousness|auditory consciousness]]” are what matter. These are the “five sense consciousnesses”: relying on the “[[名相词典/English/five faculties|five faculties]],” they cognize the realms of the “five dusts,” and all cling outward.
@@ -725,8 +725,8 @@ Thật ra, “nhãn, nhĩ, tỷ, thiệt, thân” tuy không thể hoạt độ
 **§284**
 
 **中文**
-[[名相词典/中文/意识|意识]]
-蕅祖的注解：『依于[[名相词典/中文/意根|意根]]，遍了五尘，亦能分别落谢影子，亦能通缘过去未来，名为[[名相词典/中文/意识|意识]]。』「[[名相词典/中文/第六意识|第六意识]]」所依止的根是「[[名相词典/中文/意根|意根]]」，这个[[名相词典/中文/意根|意根]]就是第七[[名相词典/中文/意识|意识]]，它是属于「[[名相词典/中文/心法|心法]]」，很特别。前五识所依的根都是「[[名相词典/中文/色法|色法]]」，是地水火风所成，没有明了性的[[名相词典/中文/色法|色法]]。但是[[名相词典/中文/第六意识|第六意识]]所依的「[[名相词典/中文/意根|意根]]」，是属于[[名相词典/中文/心法|心法]]，是有明了性的，依止第七识为其所依止根，来做三件事情：
+[[名相词典/中文/意识|意識]]
+蕅祖的註解：『依於[[名相词典/中文/意根|意根]]，遍了五塵，亦能分別落謝影子，亦能通緣過去未來，名為[[名相词典/中文/意识|意識]]。』「[[名相词典/中文/第六意识|第六意識]]」所依止的根是「[[名相词典/中文/意根|意根]]」，這個[[名相词典/中文/意根|意根]]就是第七[[名相词典/中文/意识|意識]]，它是屬於「[[名相词典/中文/心法|心法]]」，很特別。前五識所依的根都是「[[名相词典/中文/色法|色法]]」，是地水火風所成，沒有明了性的[[名相词典/中文/色法|色法]]。但是[[名相词典/中文/第六意识|第六意識]]所依的「[[名相词典/中文/意根|意根]]」，是屬於[[名相词典/中文/心法|心法]]，是有明了性的，依止第七識為其所依止根，來做三件事情：
 
 **English**
 Consciousness
@@ -745,8 +745,8 @@ Chú giải của Ngẫu tổ: 『Y ư [[名相词典/TiếngViệt/ý căn|ý c
 **§285**
 
 **中文**
-一、遍了五尘
-所谓「遍了五尘」，就是我们一般讲的「五俱[[名相词典/中文/意识|意识]]」。前面的五识只能够分别自类的尘境，「[[名相词典/中文/眼识|眼识]]」只能够了别「色尘」，乃至「[[名相词典/中文/身识|身识]]」只能够了别「触尘」；但是[[名相词典/中文/第六意识|第六意识]]不同，[[名相词典/中文/第六意识|第六意识]]能够跟前面的五识合作，普遍地了别五尘的境界，它的活动范围很广，能够了别颜色、也能够听声音、也能够嗅香，乃至于触觉。它可以跟前面的五识同时活动，普遍了别五尘的境界，所以叫「五俱[[名相词典/中文/意识|意识]]」。这是第一点。
+一、遍了五塵
+所謂「遍了五塵」，就是我們一般講的「五俱[[名相词典/中文/意识|意識]]」。前面的五識只能夠分別自類的塵境，「[[名相词典/中文/眼识|眼識]]」只能夠了別「色塵」，乃至「[[名相词典/中文/身识|身識]]」只能夠了別「觸塵」；但是[[名相词典/中文/第六意识|第六意識]]不同，[[名相词典/中文/第六意识|第六意識]]能夠跟前面的五識合作，普遍地了別五塵的境界，它的活動範圍很廣，能夠了別顏色、也能夠聽聲音、也能夠嗅香，乃至於觸覺。它可以跟前面的五識同時活動，普遍了別五塵的境界，所以叫「五俱[[名相词典/中文/意识|意識]]」。這是第一點。
 
 **English**
 1. Universally cognizing the five dusts
@@ -765,8 +765,8 @@ Gọi “biến liễu ngũ trần” chính là điều chúng ta thường nó
 **§286**
 
 **中文**
-二、亦能分别落谢影子
-[[名相词典/中文/第六意识|第六意识]]也能够生起「独头[[名相词典/中文/意识|意识]]」——脱离前五识而单独活动。「前五识」一定要配合「[[名相词典/中文/第六意识|第六意识]]」才能够活动，但是第六识可以不需要和前五识一起活动。比方说我在打坐时，我的眼、耳、鼻、舌、身，前五识的分别都停下来，第六识还是可以专心的忆念阿弥陀佛的名号；它能分别五尘所落谢的影像——独头[[名相词典/中文/意识|意识]]，所以可以单独的打妄想、分别。这是讲到空间，再看它的时间。
+二、亦能分別落謝影子
+[[名相词典/中文/第六意识|第六意識]]也能夠生起「獨頭[[名相词典/中文/意识|意識]]」——脫離前五識而單獨活動。「前五識」一定要配合「[[名相词典/中文/第六意识|第六意識]]」才能夠活動，但是第六識可以不需要和前五識一起活動。比方說我在打坐時，我的眼、耳、鼻、舌、身，前五識的分別都停下來，第六識還是可以專心的憶念阿彌陀佛的名號；它能分別五塵所落謝的影像——獨頭[[名相词典/中文/意识|意識]]，所以可以單獨的打妄想、分別。這是講到空間，再看它的時間。
 
 **English**
 2. It can also discriminate residual images that have settled
@@ -785,8 +785,8 @@ Thức thứ sáu cũng có thể sinh khởi “độc đầu [[名相词典/Ti
 **§287**
 
 **中文**
-三、亦能通缘过去、未来
-前五识只能够分别现在的境界，[[名相词典/中文/第六意识|第六意识]]不同——虽然这件事情已经过去了，它能够单独地把过去的影像，再次的回忆起来；虽然这件事情还没有出现，心中没有影像，它可以自己创造一个影像出来，筹计未来；所以它的分别功能，就比前五识广大——「通缘过去、通缘现在、通缘未来」，名为「[[名相词典/中文/意识|意识]]」。
+三、亦能通緣過去、未來
+前五識只能夠分別現在的境界，[[名相词典/中文/第六意识|第六意識]]不同——雖然這件事情已經過去了，它能夠單獨地把過去的影像，再次的回憶起來；雖然這件事情還沒有出現，心中沒有影像，它可以自己創造一個影像出來，籌計未來；所以它的分別功能，就比前五識廣大——「通緣過去、通緣現在、通緣未來」，名為「[[名相词典/中文/意识|意識]]」。
 
 **English**
 3. It can also pervade past and future as objects
@@ -805,7 +805,7 @@ Năm thức trước chỉ có thể phân biệt cảnh giới hiện tại; th
 **§288**
 
 **中文**
-『前五识所依[[名相词典/中文/五根|五根]]，皆是净色。此第六识所依[[名相词典/中文/意根|意根]]，则是[[名相词典/中文/心法|心法]]。』这是补充说明前面五识所依的[[名相词典/中文/五根|五根]]，都是「净色根」，属于「[[名相词典/中文/色法|色法]]」；那么[[名相词典/中文/第六意识|第六意识]]所依的「[[名相词典/中文/意根|意根]]」，它是有了别性的「[[名相词典/中文/心法|心法]]」，就是「第七[[名相词典/中文/意识|意识]]」。这是把[[名相词典/中文/第六意识|第六意识]]做个简要说明。这个地方有没有问题？
+『前五識所依[[名相词典/中文/五根|五根]]，皆是淨色。此第六識所依[[名相词典/中文/意根|意根]]，則是[[名相词典/中文/心法|心法]]。』這是補充說明前面五識所依的[[名相词典/中文/五根|五根]]，都是「淨色根」，屬於「[[名相词典/中文/色法|色法]]」；那麼[[名相词典/中文/第六意识|第六意識]]所依的「[[名相词典/中文/意根|意根]]」，它是有了別性的「[[名相词典/中文/心法|心法]]」，就是「第七[[名相词典/中文/意识|意識]]」。這是把[[名相词典/中文/第六意识|第六意識]]做個簡要說明。這個地方有沒有問題？
 
 **English**
 『The [[名相词典/English/five faculties|five faculties]] upon which the five sense consciousnesses rely are all pure form. The mind-faculty upon which this [[名相词典/English/sixth consciousness|sixth consciousness]] relies is a mind dharma.』 This supplements the foregoing: the [[名相词典/English/five faculties|five faculties]] upon which the five consciousnesses rely are all “pure form faculties,” belonging to “[[名相词典/English/form|form]]”; and the “mind-faculty” upon which the [[名相词典/English/sixth consciousness|sixth consciousness]] relies is a “mind dharma” that has the nature of cognizing-and-apprehending—namely the “seventh consciousness.” This briefly explains the [[名相词典/English/sixth consciousness|sixth consciousness]]. Any questions here?
@@ -821,8 +821,8 @@ Năm thức trước chỉ có thể phân biệt cảnh giới hiện tại; th
 **§289**
 
 **中文**
-问：……
-答：前五识所依的根是「[[名相词典/中文/色法|色法]]」，前五识是[[名相词典/中文/心法|心法]]，识就是了别嘛。前五识所依的根是个「[[名相词典/中文/色法|色法]]」，[[名相词典/中文/第六意识|第六意识]]所依的根是个「[[名相词典/中文/心法|心法]]」，依止「[[名相词典/中文/心法|心法]]」生起了别，是它特别的地方。
+問：……
+答：前五識所依的根是「[[名相词典/中文/色法|色法]]」，前五識是[[名相词典/中文/心法|心法]]，識就是了別嘛。前五識所依的根是個「[[名相词典/中文/色法|色法]]」，[[名相词典/中文/第六意识|第六意識]]所依的根是個「[[名相词典/中文/心法|心法]]」，依止「[[名相词典/中文/心法|心法]]」生起了別，是它特別的地方。
 
 **English**
 Question: …
@@ -841,8 +841,8 @@ Hỏi: …
 **§290**
 
 **中文**
-问：……
-答：[[名相词典/中文/第六意识|第六意识]]它能够不必要眼睛的帮忙，它自己就能够现出影像，比如我们修观，修不净观。种种不净物，充满于身内；常流出不止，如漏囊盛粪。这种境界我们眼睛没有看到，眼睛是闭起来的，但是[[名相词典/中文/第六意识|第六意识]]能够根据名言，创造出一个所缘境的影像。
+問：……
+答：[[名相词典/中文/第六意识|第六意識]]它能夠不必要眼睛的幫忙，它自己就能夠現出影像，比如我們修觀，修不淨觀。種種不淨物，充滿於身內；常流出不止，如漏囊盛糞。這種境界我們眼睛沒有看到，眼睛是閉起來的，但是[[名相词典/中文/第六意识|第六意識]]能夠根據名言，創造出一個所緣境的影像。
 
 **English**
 Question: …
@@ -861,7 +861,7 @@ Hỏi: …
 **§291**
 
 **中文**
-种种不净物，一个人的色身是种种不净物，三十六种大小便溺等各式各样的不净物充满于身内。不但是充满于身内它还流出来，常流出不止，如漏囊盛粪。就像臭皮囊，九个孔经常流出大小便溺等不净物。我们[[名相词典/中文/第六意识|第六意识]]去分别这样的色身的境界，这个时候眼睛没有在看，耳朵也没有在听，这是[[名相词典/中文/第六意识|第六意识]]的独头[[名相词典/中文/意识|意识]]，去分别落谢的影像。这个落谢就是说你曾经学习过的法义，你一定是曾经学习过的。这个是[[名相词典/中文/第六意识|第六意识]]的功能，它能够单独活动。
+種種不淨物，一個人的色身是種種不淨物，三十六種大小便溺等各式各樣的不淨物充滿於身內。不但是充滿於身內它還流出來，常流出不止，如漏囊盛糞。就像臭皮囊，九個孔經常流出大小便溺等不淨物。我們[[名相词典/中文/第六意识|第六意識]]去分別這樣的色身的境界，這個時候眼睛沒有在看，耳朵也沒有在聽，這是[[名相词典/中文/第六意识|第六意識]]的獨頭[[名相词典/中文/意识|意識]]，去分別落謝的影像。這個落謝就是說你曾經學習過的法義，你一定是曾經學習過的。這個是[[名相词典/中文/第六意识|第六意識]]的功能，它能夠單獨活動。
 
 **English**
 All manner of impure things: a person’s form-body is all manner of impure things—thirty-six kinds of urine, feces, and the like, filling the body within. Not only do they fill the body within; they also flow out, constantly flowing without cease, like a leaking sack holding filth. Like a stinking skin-bag, the nine orifices constantly emit urine, feces, and other impurities. When our [[名相词典/English/sixth consciousness|sixth consciousness]] discriminates such a realm of the form-body, at that time the eyes are not looking and the ears are not listening—this is the solitary consciousness of the [[名相词典/English/sixth consciousness|sixth consciousness]], discriminating residual images that have settled. “Settled” means Dharma meanings you have previously studied—you must have studied them before. This is the function of the [[名相词典/English/sixth consciousness|sixth consciousness]]: it can operate alone.

@@ -2,7 +2,7 @@
 type: 校准表
 source: "Hôbôgirin, Dictionnaire encyclopédique du bouddhisme d'après les sources chinoises et japonaises, fasc. I–III (Maison franco-japonaise, 1929–1937)"
 scope: 汉日佛典通用名相（唯识专名覆盖有限）
-status: 已执行（部分）
+status: 暂停（待 LVP 1928《La Siddhi de Hiuan-tsang》）
 tags:
   - 名相
   - 校准
@@ -118,6 +118,21 @@ Hôbôgirin fasc. I–III 只排到 "Chi"，唯识四分无条目可查，**此�
 | 阿赖耶识 conscience-réceptacle | 现代法语通行译名，Hôbôgirin 无覆盖 |
 | 等流 effusion homogène | Hôbôgirin 作 Coulée，属该书自创体例 |
 | 行舍 équanimité (des formations) | équanimité 是地道法语；Cook 改作 indifference，但法语 indifférence 贬义过重 |
+| 心所 facteurs mentaux（再确认） | LVP《俱舍论》法译索引中 caitta 出现 50 次，从不做法语意译；不宜改作 activités mentales |
+| 八识 conscience | LVP《俱舍论》用 connaissance visuelle（75 次）而非 conscience visuelle。成唯识论法译是否同样用 connaissance 无法从俱舍论外推，暂不改 |
+
+## 补一轮：Lodrö Sangpo 对照表与 LVP《俱舍论》法译
+
+2017 年 Motilal 三卷本 Part 3 的「Concordance of French and English translations」**拿不到**：版权期内（定价约 160 美元），无合法免费电子版。且该卷与「Concordance of Chinese and Japanese editions」并列，几乎可以肯定是**页码对照**，不是术语表。即便拿到，对照的也是 Lodrö Sangpo 英译页码，不是 Cook。LVP 本人大量留梵文不译（Cook 亦指出 Wei Tat / LVP 几乎不译专名），从英文反推法文这条路本来就窄。
+
+替代底本：archive.org 上的 LVP《俱舍论》法译（Geuthner, 1923–31），与《成唯识论》同出一人之手、术语同源。据此补了两条先前标为「推衍」的唯识专名：
+
+| 汉 | 原译 | 新译 | 依据 |
+|---|---|---|---|
+| 见分 | partie qui voit | **partie voyante** | 法语唯识通称 darśanabhāga；与 Cook seeing part 同向 |
+| 增上缘 | condition prédominante | **condition souveraine** | LVP《俱舍论》法译 + Hôbôgirin（condition souveraine）；Cook 作 dominant condition |
+
+未改 `conscience` → `connaissance`：虽俱舍论证据充分，但不能确认《成唯识论》法译沿用同一用字。
 
 ## 执行结果
 
@@ -129,6 +144,6 @@ Hôbôgirin fasc. I–III 只排到 "Chi"，唯识四分无条目可查，**此�
 
 法语缩合是这一轮的主要技术坑：passion 以辅音起首，直接替换会写出 `d'passion`；而正文用的是印刷体撇号 `’` 而非 ASCII `'`，第一版规则漏掉了 7 处，已补正并全量复查。
 
-## 下一步
+## 暂停
 
-真正完整的法语校准仍需 La Vallée Poussin《La Siddhi de Hiuan-tsang》。一条可行的绕道：2017 年 Lodrö Sangpo 英译 LVP 三卷本，其第三卷收有 **「Concordance of French and English translations」**——有了这张法英对照表，可从已对齐 Cook 的英文反推 LVP 的法文用词，覆盖本轮无法取证的四分、八识、四缘等唯识专名。
+法语词典暂维持现状。四分中的自证分 / 证自证分、三性细目、所缘缘等，等法国友人找到 LVP 1928《La Siddhi de Hiuan-tsang》后再校准。
