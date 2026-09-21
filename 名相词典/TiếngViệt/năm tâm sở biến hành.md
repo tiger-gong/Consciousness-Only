@@ -1,12 +1,15 @@
 ---
 concept: 五遍行心所
 lang: vi
-aliases: []
+aliases: 
+  - năm biến hành tâm sở
+
 tags:
   - 名相
 ---
 
-# năm biến hành tâm sở
+# năm tâm sở biến hành
+> 校准自「năm biến hành tâm sở」，依 Tuệ Sỹ, *Luận Thành Duy Thức*。
 
 ## Giải thích（Tiếng Việt）
 Tác ý, xúc, thọ, tưởng, tư năm thứ, ở hết thảy tâm (tám thức) đều có thể sinh khởi, nên gọi biến hành.

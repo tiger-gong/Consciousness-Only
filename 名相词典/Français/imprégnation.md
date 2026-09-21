@@ -17,4 +17,4 @@ Les actes bons ou mauvais exprimés par notre corps et notre parole, ou les pens
 ## Autres langues
 - 中文：[[中文/熏习|熏习]]
 - English：[[English/perfuming|perfuming]]
-- Tiếng Việt：[[TiếngViệt/huân tập (thọ huân)|huân tập (thọ huân)]]
+- Tiếng Việt：[[TiếngViệt/huân tập|huân tập]]

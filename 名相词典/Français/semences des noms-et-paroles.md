@@ -14,4 +14,4 @@ Aussi appelées empreintes résiduelles d'écoulement homogène : les semences q
 ## Autres langues
 - 中文：[[中文/名言种子|名言种子]]
 - English：[[English/name-and-word seeds|name-and-word seeds]]
-- Tiếng Việt：[[TiếngViệt/danh ngôn chủng tử|danh ngôn chủng tử]]
+- Tiếng Việt：[[TiếngViệt/chủng tử danh ngôn|chủng tử danh ngôn]]

@@ -17,4 +17,4 @@ Regret, sleep, investigation, and examination—four whose moral nature (wholeso
 ## Other languages
 - 中文：[[中文/不定心所|不定心所]]
 - Français：[[Français/facteurs mentaux indéterminés|facteurs mentaux indéterminés]]
-- Tiếng Việt：[[TiếngViệt/bất định tâm sở|bất định tâm sở]]
+- Tiếng Việt：[[TiếngViệt/tâm sở bất định|tâm sở bất định]]

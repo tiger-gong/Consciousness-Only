@@ -14,4 +14,4 @@ Also called habit energy of equal flow: the seeds that are the direct causal con
 ## Other languages
 - 中文：[[中文/名言种子|名言种子]]
 - Français：[[Français/semences des noms-et-paroles|semences des noms-et-paroles]]
-- Tiếng Việt：[[TiếngViệt/danh ngôn chủng tử|danh ngôn chủng tử]]
+- Tiếng Việt：[[TiếngViệt/chủng tử danh ngôn|chủng tử danh ngôn]]

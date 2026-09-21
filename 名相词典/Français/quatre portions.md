@@ -18,4 +18,4 @@ tags:
 ## Autres langues
 - 中文：[[名相词典/中文/四分|四分]]
 - English：[[名相词典/English/four parts|four parts]]
-- Tiếng Việt：[[名相词典/TiếngViệt/tứ phần|tứ phần]]
+- Tiếng Việt：[[名相词典/TiếngViệt/bốn phần|bốn phần]]

@@ -3,7 +3,6 @@ concept: 四分
 lang: en
 aliases:
   - four portions
-  - four portions
 tags:
   - 名相
   - 别名
@@ -20,4 +19,4 @@ tags:
 ## Other languages
 - 中文：[[名相词典/中文/四分|四分]]
 - Français：[[名相词典/Français/quatre portions|quatre portions]]
-- Tiếng Việt：[[名相词典/TiếngViệt/tứ phần|tứ phần]]
+- Tiếng Việt：[[名相词典/TiếngViệt/bốn phần|bốn phần]]

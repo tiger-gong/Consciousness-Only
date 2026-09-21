@@ -17,4 +17,4 @@ Nature dépendante d'autrui. Aussi appelée caractéristique dépendante d'autru
 ## Autres langues
 - 中文：[[中文/依他起性|依他起性]]
 - English：[[English/dependent on others|dependent on others]]
-- Tiếng Việt：[[TiếngViệt/y tha khởi tính|y tha khởi tính]]
+- Tiếng Việt：[[TiếngViệt/tự tính y tha khởi|tự tính y tha khởi]]

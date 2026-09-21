@@ -4,11 +4,14 @@ lang: vi
 sanskrit: vāsanā
 aliases:
   - vāsanā
+  - huân tập (thọ huân)
 tags:
   - 名相
 ---
 
-# huân tập (thọ huân)
+# huân tập
+> 校准自「huân tập (thọ huân)」，依 Tuệ Sỹ, *Luận Thành Duy Thức*。
+
 **梵 / Sanskrit**：*vāsanā*
 
 ## Giải thích（Tiếng Việt）

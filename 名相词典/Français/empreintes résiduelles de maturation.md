@@ -14,4 +14,4 @@ Voir semences karmiques. Formées par l'imprégnation des actes contaminés salu
 ## Autres langues
 - 中文：[[中文/异熟习气|异熟习气]]
 - English：[[English/habit energy of retribution|habit energy of retribution]]
-- Tiếng Việt：[[TiếngViệt/dị thục tập khí|dị thục tập khí]]
+- Tiếng Việt：[[TiếngViệt/tập khí dị thục|tập khí dị thục]]

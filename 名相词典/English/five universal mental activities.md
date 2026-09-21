@@ -17,4 +17,4 @@ Attention, contact, feeling, conception, and volition—five that can arise in a
 ## Other languages
 - 中文：[[中文/五遍行心所|五遍行心所]]
 - Français：[[Français/cinq facteurs mentaux universellement actifs|cinq facteurs mentaux universellement actifs]]
-- Tiếng Việt：[[TiếngViệt/năm biến hành tâm sở|năm biến hành tâm sở]]
+- Tiếng Việt：[[TiếngViệt/năm tâm sở biến hành|năm tâm sở biến hành]]

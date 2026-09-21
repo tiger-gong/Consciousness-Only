@@ -20,4 +20,4 @@ One of the eleven good mental activities among the mental activities. Also calle
 ## Other languages
 - 中文：[[中文/精进|精进]]
 - Français：[[Français/énergie (diligence)|énergie (diligence)]]
-- Tiếng Việt：[[TiếngViệt/tinh tiến|tinh tiến]]
+- Tiếng Việt：[[TiếngViệt/tinh tấn|tinh tấn]]

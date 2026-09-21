@@ -20,4 +20,4 @@ Non-discriminating wisdom that directly realizes true suchness, free from subjec
 ## Other languages
 - 中文：[[中文/无分别智|无分别智]]
 - Français：[[Français/sagesse non discriminative|sagesse non discriminative]]
-- Tiếng Việt：[[TiếngViệt/vô phân biệt trí|vô phân biệt trí]]
+- Tiếng Việt：[[TiếngViệt/trí vô phân biệt|trí vô phân biệt]]

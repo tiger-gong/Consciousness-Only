@@ -14,4 +14,4 @@ Désir, résolution, mémoire, concentration et sagesse—cinq qui surgissent ch
 ## Autres langues
 - 中文：[[中文/别境心所|别境心所]]
 - English：[[English/mental activities with specific objects|mental activities with specific objects]]
-- Tiếng Việt：[[TiếngViệt/biệt cảnh tâm sở|biệt cảnh tâm sở]]
+- Tiếng Việt：[[TiếngViệt/tâm sở biệt cảnh|tâm sở biệt cảnh]]

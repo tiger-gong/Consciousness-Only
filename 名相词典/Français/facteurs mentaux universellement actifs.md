@@ -14,4 +14,4 @@ C'est-à-dire les cinq facteurs mentaux universellement actifs, qui pénètrent 
 ## Autres langues
 - 中文：[[中文/遍行心所|遍行心所]]
 - English：[[English/universal mental activities|universal mental activities]]
-- Tiếng Việt：[[TiếngViệt/biến hành tâm sở|biến hành tâm sở]]
+- Tiếng Việt：[[TiếngViệt/tâm sở biến hành|tâm sở biến hành]]

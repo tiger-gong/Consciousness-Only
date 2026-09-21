@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*apatrāpya*
 
 ## Giải thích（Tiếng Việt）
-Một trong các thiện tâm sở thuộc tâm sở hữu pháp. Quý là tâm liêm sỉ: làm việc xấu không còn mặt mũi thấy người gọi quý. Thành Duy Thức Luận nói: “Thế nào là quý? Nương lực thế gian, lấy khinh cự bạo ác làm tính; đối trị vô quý, chỉ tức ác hạnh làm nghiệp.” Quý cũng như tàm, có thể chỉ tức ác hạnh. Xem Thành Duy Thức Luận, quyển 6.
+Một trong các tâm sở thiện thuộc tâm sở hữu pháp. Quý là tâm liêm sỉ: làm việc xấu không còn mặt mũi thấy người gọi quý. Thành Duy Thức Luận nói: “Thế nào là quý? Nương lực thế gian, lấy khinh cự bạo ác làm tính; đối trị vô quý, chỉ tức ác hạnh làm nghiệp.” Quý cũng như tàm, có thể chỉ tức ác hạnh. Xem Thành Duy Thức Luận, quyển 6.
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/愧|愧]]

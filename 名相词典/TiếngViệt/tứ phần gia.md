@@ -9,7 +9,7 @@ tags:
 # tứ phần gia
 
 ## Giải thích（Tiếng Việt）
-Thuyết thức thể tứ phần được xem là chính nghĩa Duy Thức. Thập đại luận sư: An Huệ chỉ lập tự chứng phần (nhất phần gia); Nan-đà lập kiến, tướng nhị phần (nhị phần gia); Trần-na lập kiến, tướng, tự chứng tam phần (tam phần gia); Hộ Pháp lập kiến, tướng, tự chứng, chứng tự chứng tứ phần (tứ phần gia). Khi huân tập, kiến phần huân năng duyên chủng tử, tướng phần huân sở duyên chủng tử, tự thể phần cũng huân; chứng tự chứng phần không có thế dụng năng huân. Xem Thành Duy Thức Luận, quyển 2.
+Thuyết bốn phần của thức được xem là chính nghĩa Duy Thức. Thập đại luận sư: An Huệ chỉ lập tự chứng phần (nhất phần gia); Nan-đà lập kiến, tướng nhị phần (nhị phần gia); Trần-na lập kiến, tướng, tự chứng tam phần (tam phần gia); Hộ Pháp lập kiến, tướng, tự chứng, chứng tự chứng bốn phần (bốn phần gia). Khi huân tập, kiến phần huân năng duyên chủng tử, tướng phần huân sở duyên chủng tử, tự thể phần cũng huân; chứng tự chứng phần không có thế dụng năng huân. Xem Thành Duy Thức Luận, quyển 2.
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/四分家|四分家]]

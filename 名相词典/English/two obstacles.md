@@ -17,4 +17,4 @@ A joint term for the obstacle of the passions and the obstacle to the knowable.
 ## Other languages
 - 中文：[[中文/二障|二障]]
 - Français：[[Français/deux obstacles|deux obstacles]]
-- Tiếng Việt：[[TiếngViệt/nhị chướng|nhị chướng]]
+- Tiếng Việt：[[TiếngViệt/hai chướng|hai chướng]]

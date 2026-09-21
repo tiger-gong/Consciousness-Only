@@ -8,12 +8,13 @@ tags:
   - 别名
 ---
 
-# tứ phần
+# bốn phần
+> 校准自「tứ phần」，依 Tuệ Sỹ, *Luận Thành Duy Thức*。
 
 ## Giải thích（Tiếng Việt）
-“Tứ phần” thường chỉ “thức thể tứ phần”. Xem từ mục chính.
+“Bốn phần” thường chỉ “bốn phần của thức”. Xem từ mục chính.
 
-→ 主词条：[[名相词典/TiếngViệt/thức thể tứ phần|thức thể tứ phần]]
+→ 主词条：[[名相词典/TiếngViệt/bốn phần của thức|bốn phần của thức]]
 
 ## Các ngôn ngữ khác
 - 中文：[[名相词典/中文/四分|四分]]

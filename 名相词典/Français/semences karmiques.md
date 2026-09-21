@@ -17,4 +17,4 @@ Aussi appelées empreintes résiduelles de maturation : les semences qui sont la
 ## Autres langues
 - 中文：[[中文/业种子|业种子]]
 - English：[[English/karmic seeds|karmic seeds]]
-- Tiếng Việt：[[TiếngViệt/nghiệp chủng tử|nghiệp chủng tử]]
+- Tiếng Việt：[[TiếngViệt/chủng tử nghiệp|chủng tử nghiệp]]

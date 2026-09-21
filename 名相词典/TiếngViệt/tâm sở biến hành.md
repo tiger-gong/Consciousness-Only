@@ -1,15 +1,18 @@
 ---
 concept: 遍行心所
 lang: vi
-aliases: []
+aliases: 
+  - biến hành tâm sở
+
 tags:
   - 名相
 ---
 
-# biến hành tâm sở
+# tâm sở biến hành
+> 校准自「biến hành tâm sở」，依 Tuệ Sỹ, *Luận Thành Duy Thức*。
 
 ## Giải thích（Tiếng Việt）
-Tức năm biến hành tâm sở, chu biến hết thảy tâm hành.
+Tức năm tâm sở biến hành, chu biến hết thảy tâm hành.
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/遍行心所|遍行心所]]

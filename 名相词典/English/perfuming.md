@@ -17,4 +17,4 @@ The good and evil actions expressed through our body and speech, or the good and
 ## Other languages
 - 中文：[[中文/熏习|熏习]]
 - Français：[[Français/imprégnation|imprégnation]]
-- Tiếng Việt：[[TiếngViệt/huân tập (thọ huân)|huân tập (thọ huân)]]
+- Tiếng Việt：[[TiếngViệt/huân tập|huân tập]]

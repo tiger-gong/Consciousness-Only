@@ -14,4 +14,4 @@ Regret, sommeil, investigation et examen—quatre dont la nature morale (salutai
 ## Autres langues
 - 中文：[[中文/不定心所|不定心所]]
 - English：[[English/nondetermined mental activities|nondetermined mental activities]]
-- Tiếng Việt：[[TiếngViệt/bất định tâm sở|bất định tâm sở]]
+- Tiếng Việt：[[TiếngViệt/tâm sở bất định|tâm sở bất định]]

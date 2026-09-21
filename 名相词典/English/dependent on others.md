@@ -20,4 +20,4 @@ Other-dependent nature. Also called the dependent on others characteristic or co
 ## Other languages
 - 中文：[[中文/依他起性|依他起性]]
 - Français：[[Français/nature dépendante d'autrui|nature dépendante d'autrui]]
-- Tiếng Việt：[[TiếngViệt/y tha khởi tính|y tha khởi tính]]
+- Tiếng Việt：[[TiếngViệt/tự tính y tha khởi|tự tính y tha khởi]]

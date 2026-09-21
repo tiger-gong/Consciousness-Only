@@ -20,4 +20,4 @@ Also called the imagined characteristic; one of the three self-natures of Consci
 ## Other languages
 - 中文：[[中文/遍计所执性|遍计所执性]]
 - Français：[[Français/nature imaginée (complètement conçue)|nature imaginée (complètement conçue)]]
-- Tiếng Việt：[[TiếngViệt/biến kế sở chấp tính|biến kế sở chấp tính]]
+- Tiếng Việt：[[TiếngViệt/tự tính biến kế sở chấp|tự tính biến kế sở chấp]]

@@ -20,4 +20,4 @@ A transliteration of the Sanskrit ālaya. The Consciousness-Only school posits e
 ## Other languages
 - 中文：[[中文/阿赖耶识|阿赖耶识]]
 - Français：[[Français/conscience-réceptacle|conscience-réceptacle]]
-- Tiếng Việt：[[TiếngViệt/A-lại-da thức|A-lại-da thức]]
+- Tiếng Việt：[[TiếngViệt/thức A-lại-da|Thức A-lại-da]]

@@ -17,4 +17,4 @@ Aussi appelées les trois natures propres : la nature imaginée, la nature dépe
 ## Autres langues
 - 中文：[[中文/三性|三性]]
 - English：[[English/three natures|three natures]]
-- Tiếng Việt：[[TiếngViệt/tam tính (ba tự tính)|tam tính (ba tự tính)]]
+- Tiếng Việt：[[TiếngViệt/ba tự tính|ba tự tính]]

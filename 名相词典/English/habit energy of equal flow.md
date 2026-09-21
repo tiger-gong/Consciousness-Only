@@ -17,4 +17,4 @@ See name-and-word seeds. Residual impressions that can induce homogeneous-outflo
 ## Other languages
 - 中文：[[中文/等流习气|等流习气]]
 - Français：[[Français/empreintes résiduelles d'écoulement homogène|empreintes résiduelles d'écoulement homogène]]
-- Tiếng Việt：[[TiếngViệt/đẳng lưu tập khí|đẳng lưu tập khí]]
+- Tiếng Việt：[[TiếngViệt/tập khí đẳng lưu|tập khí đẳng lưu]]

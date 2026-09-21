@@ -1,12 +1,15 @@
 ---
 concept: 二障
 lang: vi
-aliases: []
+aliases: 
+  - nhị chướng
+
 tags:
   - 名相
 ---
 
-# nhị chướng
+# hai chướng
+> 校准自「nhị chướng」，依 Tuệ Sỹ, *Luận Thành Duy Thức*。
 
 ## Giải thích（Tiếng Việt）
 Tên gọi chung của phiền não chướng và sở tri chướng.

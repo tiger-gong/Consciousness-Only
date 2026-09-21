@@ -17,4 +17,4 @@ tags:
 ## Other languages
 - 中文：[[中文/有漏种子|有漏种子]]
 - Français：[[Français/semences contaminées|semences contaminées]]
-- Tiếng Việt：[[TiếngViệt/hữu lậu chủng tử|hữu lậu chủng tử]]
+- Tiếng Việt：[[TiếngViệt/chủng tử hữu lậu|chủng tử hữu lậu]]

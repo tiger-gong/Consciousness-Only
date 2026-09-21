@@ -17,4 +17,4 @@ Aussi appelée caractéristique imaginée ; l'une des trois natures propres du R
 ## Autres langues
 - 中文：[[中文/遍计所执性|遍计所执性]]
 - English：[[English/imagined nature|imagined nature]]
-- Tiếng Việt：[[TiếngViệt/biến kế sở chấp tính|biến kế sở chấp tính]]
+- Tiếng Việt：[[TiếngViệt/tự tính biến kế sở chấp|tự tính biến kế sở chấp]]

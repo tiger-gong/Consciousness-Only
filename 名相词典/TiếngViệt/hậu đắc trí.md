@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*pṛṣṭhalabdha-jñāna*
 
 ## Giải thích（Tiếng Việt）
-Trí tuệ đạt được sau khi được vô phân biệt trí; có thể phân biệt rõ biết pháp y tha khởi như huyễn, phương tiện độ sinh; còn gọi như lượng trí.
+Trí tuệ đạt được sau khi được trí vô phân biệt; có thể phân biệt rõ biết pháp y tha khởi như huyễn, phương tiện độ sinh; còn gọi như lượng trí.
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/后得智|后得智]]

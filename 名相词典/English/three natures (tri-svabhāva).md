@@ -18,4 +18,4 @@ tags:
 ## Other languages
 - 中文：[[名相词典/中文/三自性|三自性]]
 - Français：[[名相词典/Français/trois natures (tri-svabhāva)|trois natures (tri-svabhāva)]]
-- Tiếng Việt：[[名相词典/TiếngViệt/ba tự tính|ba tự tính]]
+- Tiếng Việt：[[名相词典/TiếngViệt/ba tự tính (tri-svabhāva)|ba tự tính (tri-svabhāva)]]

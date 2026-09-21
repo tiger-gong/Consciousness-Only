@@ -14,4 +14,4 @@ La sixième des huit consciences ; surgissant en dépendance de la faculté ment
 ## Autres langues
 - 中文：[[中文/第六意识|第六意识]]
 - English：[[English/sixth consciousness|sixth consciousness]]
-- Tiếng Việt：[[TiếngViệt/đệ lục ý thức|đệ lục ý thức]]
+- Tiếng Việt：[[TiếngViệt/thức thứ sáu|thức thứ sáu]]

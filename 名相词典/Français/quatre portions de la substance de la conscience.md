@@ -14,4 +14,4 @@ L'école du Rien-que-conscience tient que la fonction cognitive de l'esprit-cons
 ## Autres langues
 - 中文：[[中文/识体四分|识体四分]]
 - English：[[English/four parts of consciousness|four parts of consciousness]]
-- Tiếng Việt：[[TiếngViệt/thức thể tứ phần|thức thể tứ phần]]
+- Tiếng Việt：[[TiếngViệt/bốn phần của thức|bốn phần của thức]]

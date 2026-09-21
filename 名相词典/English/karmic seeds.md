@@ -17,4 +17,4 @@ Also called habit energy of retribution: the seeds that are the indirect causal 
 ## Other languages
 - 中文：[[中文/业种子|业种子]]
 - Français：[[Français/semences karmiques|semences karmiques]]
-- Tiếng Việt：[[TiếngViệt/nghiệp chủng tử|nghiệp chủng tử]]
+- Tiếng Việt：[[TiếngViệt/chủng tử nghiệp|chủng tử nghiệp]]

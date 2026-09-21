@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*amoha*
 
 ## Giải thích（Tiếng Việt）
-Một trong các thiện tâm sở thuộc tâm sở hữu pháp. Vô si là minh đạt sự lý, không bị mê hoặc. Thành Duy Thức Luận nói: “Thế nào là vô si? Nơi các lý sự minh giải làm tính; đối trị ngu si, tác thiện làm nghiệp.” Minh giải lý sự chỉ sự hiểu rõ nghĩa lý Phật giáo như Tứ Thánh Đế, Bát Chánh Đạo.
+Một trong các tâm sở thiện thuộc tâm sở hữu pháp. Vô si là minh đạt sự lý, không bị mê hoặc. Thành Duy Thức Luận nói: “Thế nào là vô si? Nơi các lý sự minh giải làm tính; đối trị ngu si, tác thiện làm nghiệp.” Minh giải lý sự chỉ sự hiểu rõ nghĩa lý Phật giáo như Tứ Thánh Đế, Bát Chánh Đạo.
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/无痴|无痴]]

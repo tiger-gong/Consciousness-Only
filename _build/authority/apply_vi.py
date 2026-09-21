@@ -53,6 +53,18 @@ def update_body(raw: str, old: str, new: str) -> str:
     return out
 
 
+def precheck() -> None:
+    """动手之前先验完全部源与目标，避免半途失败留下残局。"""
+    for old, new in NEW.items():
+        if not (VI / f'{old}.md').exists():
+            raise SystemExit(f'缺少源文件: {old}.md')
+        dst = VI / f'{new}.md'
+        if dst.exists() and new not in NEW:
+            raise SystemExit(f'目标已被占用且不在改名表中: {new}.md')
+    if len(set(NEW.values())) != len(NEW):
+        raise SystemExit('改名表存在重名目标')
+
+
 def rename_vi() -> None:
     """两阶段改名，避免同批内互相覆盖。"""
     staged = {}
@@ -119,6 +131,7 @@ GIAITHICH = re.compile(r'(?ms)^(## Giải thích（Tiếng Việt）\n)(.*?)(?=^
 
 def main() -> None:
     print(f'模式: {"应用" if APPLY else "试运行"}   改名 {len(NEW)} 条\n')
+    precheck()
     rename_vi()
 
     for folder in OTHER:

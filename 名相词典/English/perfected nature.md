@@ -20,4 +20,4 @@ Also called the perfected characteristic; one of the three self-natures of Consc
 ## Other languages
 - 中文：[[中文/圆成实性|圆成实性]]
 - Français：[[Français/nature parfaitement accomplie|nature parfaitement accomplie]]
-- Tiếng Việt：[[TiếngViệt/viên thành thật tính|viên thành thật tính]]
+- Tiếng Việt：[[TiếngViệt/tự tính viên thành thật|tự tính viên thành thật]]

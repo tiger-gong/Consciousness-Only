@@ -17,4 +17,4 @@ The Consciousness-Only school holds that the cognitive function of mind-consciou
 ## Other languages
 - 中文：[[中文/识体四分|识体四分]]
 - Français：[[Français/quatre portions de la substance de la conscience|quatre portions de la substance de la conscience]]
-- Tiếng Việt：[[TiếngViệt/thức thể tứ phần|thức thể tứ phần]]
+- Tiếng Việt：[[TiếngViệt/bốn phần của thức|bốn phần của thức]]

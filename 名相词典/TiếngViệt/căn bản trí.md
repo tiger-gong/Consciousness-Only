@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*mūla-jñāna*
 
 ## Giải thích（Tiếng Việt）
-Tức vô phân biệt trí, là căn bản sở y của hậu đắc trí.
+Tức trí vô phân biệt, là căn bản sở y của hậu đắc trí.
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/根本智|根本智]]

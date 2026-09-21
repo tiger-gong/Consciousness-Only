@@ -17,4 +17,4 @@ Faith, diligence, shame, embarrassment, noncraving, non-hatred, non-delusion, se
 ## Other languages
 - 中文：[[中文/善心所|善心所]]
 - Français：[[Français/facteurs mentaux salutaires|facteurs mentaux salutaires]]
-- Tiếng Việt：[[TiếngViệt/thiện tâm sở|thiện tâm sở]]
+- Tiếng Việt：[[TiếngViệt/tâm sở thiện|tâm sở thiện]]

@@ -17,4 +17,4 @@ Translittération du sanskrit ālaya. L'école du Rien-que-conscience pose huit 
 ## Autres langues
 - 中文：[[中文/阿赖耶识|阿赖耶识]]
 - English：[[English/store consciousness|store consciousness]]
-- Tiếng Việt：[[TiếngViệt/A-lại-da thức|A-lại-da thức]]
+- Tiếng Việt：[[TiếngViệt/thức A-lại-da|Thức A-lại-da]]

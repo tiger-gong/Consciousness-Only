@@ -17,4 +17,4 @@ Desire, resolve, mindfulness, samādhi, and wisdom—five that each arise by cog
 ## Other languages
 - 中文：[[中文/别境心所|别境心所]]
 - Français：[[Français/facteurs mentaux spécifiques à l'objet|facteurs mentaux spécifiques à l'objet]]
-- Tiếng Việt：[[TiếngViệt/biệt cảnh tâm sở|biệt cảnh tâm sở]]
+- Tiếng Việt：[[TiếngViệt/tâm sở biệt cảnh|tâm sở biệt cảnh]]

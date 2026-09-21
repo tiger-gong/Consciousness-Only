@@ -630,7 +630,7 @@ The five [[名相词典/English/mental activities|mental activities]] above are 
 Les cinq [[名相词典/Français/facteurs mentaux|facteurs mentaux]] ci-dessus sont précisément les « facteurs d’objet particulier » (viniyata) : ils opèrent tous sur des objets d’appui cognitif particuliers et distincts. Les [[名相词典/Français/facteurs mentaux|facteurs mentaux]] d’« objet particulier » communiquent aussi avec le salutaire et le malsain : ils ne sont pas déterminés comme salutaires, ni déterminés comme malsains. Concomitants aux afflictions, ils sont malsains ; concomitants aux [[名相词典/Français/facteurs mentaux salutaires|facteurs mentaux salutaires]], ils sont salutaires. Bien — jusqu’ici, quelqu’un a-t-il des questions ?
 
 **Tiếng Việt**
-Năm [[名相词典/TiếngViệt/tâm sở|tâm sở]] trên đây chính là “biệt cảnh”: đều hoạt động nơi từng sở duyên cảnh giới riêng. [[名相词典/TiếngViệt/tâm sở|Tâm sở]] “biệt cảnh” cũng thông thiện ác: không quyết [[名相词典/TiếngViệt/định|định]] là thiện, cũng không quyết [[名相词典/TiếngViệt/định|định]] là ác; tương ưng [[名相词典/TiếngViệt/phiền não|phiền não]] thì là ác, tương ưng [[名相词典/TiếngViệt/thiện tâm sở|thiện tâm sở]] thì là thiện. Được, đến đây có vấn đề gì không?
+Năm [[名相词典/TiếngViệt/tâm sở|tâm sở]] trên đây chính là “biệt cảnh”: đều hoạt động nơi từng sở duyên cảnh giới riêng. [[名相词典/TiếngViệt/tâm sở|Tâm sở]] “biệt cảnh” cũng thông thiện ác: không quyết [[名相词典/TiếngViệt/định|định]] là thiện, cũng không quyết [[名相词典/TiếngViệt/định|định]] là ác; tương ưng [[名相词典/TiếngViệt/phiền não|phiền não]] thì là ác, tương ưng [[名相词典/TiếngViệt/tâm sở thiện|tâm sở thiện]] thì là thiện. Được, đến đây có vấn đề gì không?
 
 ---
 
@@ -886,7 +886,7 @@ First, according-with benefit in this life: it can cause this present life of ou
 Premièrement, le bénéfice conforme en cette vie : cela peut faire que cette vie présente soit « conforme » — s’accordant, selon le souhait. Ensuite, cela a un « bénéfice » : c’est bénéfique pour notre vie. Pour la plupart, c’est une récompense préliminaire en fleur. Chaque fois qu’un tel facteur mental salutaire opère, notre vie en cette naissance présente gagne une mesure de plus de bien.
 
 **Tiếng Việt**
-Một, thuận ích đời này: nó có thể khiến đời này của chúng ta 「thuận」—tùy thuận, như ý. Kế đến, nó có 「ích」, đối với sinh mạng chúng ta có lợi ích. Phần nhiều đây là hoa báo. [[名相词典/TiếngViệt/thiện tâm sở|Thiện tâm sở]] này hoạt động một lần, đối với sinh mạng đời này của chúng ta liền thêm một phần lợi ích.
+Một, thuận ích đời này: nó có thể khiến đời này của chúng ta 「thuận」—tùy thuận, như ý. Kế đến, nó có 「ích」, đối với sinh mạng chúng ta có lợi ích. Phần nhiều đây là hoa báo. [[名相词典/TiếngViệt/tâm sở thiện|Tâm sở thiện]] này hoạt động một lần, đối với sinh mạng đời này của chúng ta liền thêm một phần lợi ích.
 
 ---
 
@@ -902,7 +902,7 @@ Second, according-with benefit in later lives: if within the mind these eleven [
 Deuxièmement, le bénéfice conforme dans les vies ultérieures : si dans l’esprit ces onze [[名相词典/Français/facteurs mentaux salutaires|facteurs mentaux salutaires]] s’élèvent constamment, alors pour votre vie dans une naissance à venir il y a aussi un bénéfice conforme — vous pouvez aussi obtenir ce qui est selon le souhait, obtenir un fruit de mérite et de bénéfice. Aussi les établit-on comme « salutaires » : leur nature est déterminée. C’est-à-dire : plus ces onze [[名相词典/Français/facteurs mentaux|facteurs mentaux]] opèrent, plus grand est votre bénéfice conforme en cette vie et dans les vies ultérieures ; aussi les établit-on comme « salutaires ». Voici l’explication du sens de « salutaire » ; regardons maintenant leur contenu différencié.
 
 **Tiếng Việt**
-Hai, thuận ích đời khác: nội tâm bạn thường sinh khởi mười một [[名相词典/TiếngViệt/thiện tâm sở|thiện tâm sở]] này, đối với sinh mạng đời sau của bạn cũng có thuận ích, cũng có thể được như ý, được [[名相词典/TiếngViệt/quả báo|quả báo]] công đức lợi ích. Nên an lập làm 「thiện」, thể tánh của nó là quyết [[名相词典/TiếngViệt/định|định]]. Tức mười một [[名相词典/TiếngViệt/tâm sở|tâm sở]] này, hoạt động càng nhiều, thuận ích đời này, đời khác của bạn càng lớn, nên an lập làm 「thiện」. Đây là giải thích nghĩa của 「thiện」; xem tiếp nội dung sai biệt của nó.
+Hai, thuận ích đời khác: nội tâm bạn thường sinh khởi mười một [[名相词典/TiếngViệt/tâm sở thiện|tâm sở thiện]] này, đối với sinh mạng đời sau của bạn cũng có thuận ích, cũng có thể được như ý, được [[名相词典/TiếngViệt/quả báo|quả báo]] công đức lợi ích. Nên an lập làm 「thiện」, thể tánh của nó là quyết [[名相词典/TiếngViệt/định|định]]. Tức mười một [[名相词典/TiếngViệt/tâm sở|tâm sở]] này, hoạt động càng nhiều, thuận ích đời này, đời khác của bạn càng lớn, nên an lập làm 「thiện」. Đây là giải thích nghĩa của 「thiện」; xem tiếp nội dung sai biệt của nó.
 
 ---
 

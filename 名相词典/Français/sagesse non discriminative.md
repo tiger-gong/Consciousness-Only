@@ -17,4 +17,4 @@ Sagesse non discriminative qui réalise directement l'ainsité, libre de la disc
 ## Autres langues
 - 中文：[[中文/无分别智|无分别智]]
 - English：[[English/nondiscriminative knowledge|nondiscriminative knowledge]]
-- Tiếng Việt：[[TiếngViệt/vô phân biệt trí|vô phân biệt trí]]
+- Tiếng Việt：[[TiếngViệt/trí vô phân biệt|trí vô phân biệt]]

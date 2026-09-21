@@ -14,4 +14,4 @@ tags:
 ## Autres langues
 - 中文：[[中文/有漏种子|有漏种子]]
 - English：[[English/impure seeds|impure seeds]]
-- Tiếng Việt：[[TiếngViệt/hữu lậu chủng tử|hữu lậu chủng tử]]
+- Tiếng Việt：[[TiếngViệt/chủng tử hữu lậu|chủng tử hữu lậu]]

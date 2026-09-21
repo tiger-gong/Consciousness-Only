@@ -17,4 +17,4 @@ Also called the three self-natures: the imagined nature, the dependent on others
 ## Other languages
 - 中文：[[中文/三性|三性]]
 - Français：[[Français/trois natures|trois natures]]
-- Tiếng Việt：[[TiếngViệt/tam tính (ba tự tính)|tam tính (ba tự tính)]]
+- Tiếng Việt：[[TiếngViệt/ba tự tính|ba tự tính]]

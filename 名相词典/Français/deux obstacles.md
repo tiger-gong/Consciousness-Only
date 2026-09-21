@@ -14,4 +14,4 @@ Terme conjoint pour l'obstacle des afflictions et l'obstacle au connaissable.
 ## Autres langues
 - 中文：[[中文/二障|二障]]
 - English：[[English/two obstacles|two obstacles]]
-- Tiếng Việt：[[TiếngViệt/nhị chướng|nhị chướng]]
+- Tiếng Việt：[[TiếngViệt/hai chướng|hai chướng]]

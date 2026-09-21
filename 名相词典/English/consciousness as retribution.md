@@ -20,4 +20,4 @@ One of the alternate names of the eighth, ālaya-consciousness, insofar as it is
 ## Other languages
 - 中文：[[中文/异熟识|异熟识]]
 - Français：[[Français/conscience de maturation|conscience de maturation]]
-- Tiếng Việt：[[TiếngViệt/dị thục thức|dị thục thức]]
+- Tiếng Việt：[[TiếngViệt/thức dị thục|thức dị thục]]

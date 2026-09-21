@@ -1,12 +1,15 @@
 ---
 concept: 善心所
 lang: vi
-aliases: []
+aliases: 
+  - thiện tâm sở
+
 tags:
   - 名相
 ---
 
-# thiện tâm sở
+# tâm sở thiện
+> 校准自「thiện tâm sở」，依 Tuệ Sỹ, *Luận Thành Duy Thức*。
 
 ## Giải thích（Tiếng Việt）
 Tín, tinh tấn, tàm, quý, vô tham, vô sân, vô si, khinh an, bất phóng dật, hành xả, bất hại v.v. mười một thứ, chỉ tương ưng với thiện tâm.
