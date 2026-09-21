@@ -14,4 +14,4 @@ Khi chủng tử trong thức a-lại-da gặp duyên sinh khởi quả hiện h
 ## Các ngôn ngữ khác
 - 中文：[[中文/种子生现行|种子生现行]]
 - English：[[English/seeds giving rise to activity|seeds giving rise to activity]]
-- Français：[[Français/les semences donnant naissance à l'activité présente|les semences donnant naissance à l'activité présente]]
+- Français：[[Français/les semences donnant naissance à l'activité|les semences donnant naissance à l'activité]]

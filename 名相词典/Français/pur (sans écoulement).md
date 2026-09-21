@@ -4,15 +4,18 @@ lang: fr
 sanskrit: anāsrava
 aliases:
   - anāsrava
+  - non contaminé (sans écoulements)
 tags:
   - 名相
 ---
 
-# non contaminé (sans écoulements)
+# pur (sans écoulement)
+> 校准自「non contaminé (sans écoulements)」，依 Hôbôgirin（法-比古典学派体例）。
+
 **梵 / Sanskrit**：*anāsrava*
 
 ## Explication（Français）
-Dharmas non contaminés, libres d'afflictions, purs et sans souillure—p. ex. la sagesse non contaminée et la voie non contaminée. Capable de sortir du saṃsāra.
+Dharmas pur, libres de passions, purs et sans souillure—p. ex. la sagesse pur et la voie pur. Capable de sortir du saṃsāra.
 
 ## Autres langues
 - 中文：[[中文/无漏|无漏]]

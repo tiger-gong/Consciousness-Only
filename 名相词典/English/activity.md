@@ -16,5 +16,5 @@ Seeds are a doctrine established by the Dharma-characteristics school: latent ca
 
 ## Other languages
 - 中文：[[中文/现行|现行]]
-- Français：[[Français/activité présente (manifestation)|activité présente (manifestation)]]
+- Français：[[Français/activité|activité]]
 - Tiếng Việt：[[TiếngViệt/hiện hành|hiện hành]]

@@ -19,5 +19,5 @@ One of the four parts of consciousness. It refers to the cognizing function of t
 
 ## Other languages
 - 中文：[[中文/见分|见分]]
-- Français：[[Français/portion percevante (portion voyante)|portion percevante (portion voyante)]]
+- Français：[[Français/partie qui voit|partie qui voit]]
 - Tiếng Việt：[[TiếngViệt/kiến phần|kiến phần]]

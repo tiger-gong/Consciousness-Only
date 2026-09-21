@@ -18,5 +18,5 @@ tags:
 
 ## Other languages
 - 中文：[[名相词典/中文/四分|四分]]
-- Français：[[名相词典/Français/quatre portions|quatre portions]]
+- Français：[[名相词典/Français/quatre parties|quatre parties]]
 - Tiếng Việt：[[名相词典/TiếngViệt/bốn phần|bốn phần]]

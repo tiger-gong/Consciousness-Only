@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*arhat*
 
 ## Explication（Français）
-Sanskrit arhat, le fruit le plus élevé du véhicule des śrāvakas. Rendu par « tueur des voleurs [des afflictions] », « digne d'offrandes » et « sans nouvelle naissance »—celui qui a entièrement tranché les afflictions des vues et de la pensée dans les trois mondes et ne subira plus la naissance-et-mort.
+Sanskrit arhat, le fruit le plus élevé du véhicule des śrāvakas. Rendu par « tueur des voleurs [des passions] », « digne d'offrandes » et « sans nouvelle naissance »—celui qui a entièrement tranché les passions des vues et de la pensée dans les trois mondes et ne subira plus la naissance-et-mort.
 
 ## Autres langues
 - 中文：[[中文/阿罗汉|阿罗汉]]

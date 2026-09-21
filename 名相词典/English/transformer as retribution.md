@@ -16,5 +16,5 @@ One of the three transformers in Consciousness-Only; the retribution transformer
 
 ## Other languages
 - 中文：[[中文/异熟能变|异熟能变]]
-- Français：[[Français/transformateur de maturation|transformateur de maturation]]
+- Français：[[Français/transformateur de rétribution|transformateur de rétribution]]
 - Tiếng Việt：[[TiếngViệt/dị thục năng biến|dị thục năng biến]]

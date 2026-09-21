@@ -17,4 +17,4 @@ Một trong tâm pháp bốn phần: cảnh tướng do tự tâm thể biến h
 ## Các ngôn ngữ khác
 - 中文：[[中文/相分|相分]]
 - English：[[English/seen part|seen part]]
-- Français：[[Français/portion-image (portion vue)|portion-image (portion vue)]]
+- Français：[[Français/partie vue|partie vue]]

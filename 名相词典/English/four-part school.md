@@ -16,5 +16,5 @@ The doctrine of the four parts of consciousness is regarded as the Consciousness
 
 ## Other languages
 - 中文：[[中文/四分家|四分家]]
-- Français：[[Français/école des quatre portions|école des quatre portions]]
+- Français：[[Français/école des quatre parties|école des quatre parties]]
 - Tiếng Việt：[[TiếngViệt/tứ phần gia|tứ phần gia]]

@@ -17,4 +17,4 @@ Xem chủng tử danh ngôn. Tập khí có thể dẫn sinh quả đẳng lưu 
 ## Các ngôn ngữ khác
 - 中文：[[中文/等流习气|等流习气]]
 - English：[[English/habit energy of equal flow|habit energy of equal flow]]
-- Français：[[Français/empreintes résiduelles d'écoulement homogène|empreintes résiduelles d'écoulement homogène]]
+- Français：[[Français/imprégnations d'effusion homogène|imprégnations d'effusion homogène]]

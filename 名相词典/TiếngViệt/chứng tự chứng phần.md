@@ -14,4 +14,4 @@ Phần thứ tư trong bốn phần của thức, chứng tri lần nữa đối
 ## Các ngôn ngữ khác
 - 中文：[[中文/证自证分|证自证分]]
 - English：[[English/part that authenticates self-authentication|part that authenticates self-authentication]]
-- Français：[[Français/portion de ré-connaissance (conscience de l'auto-connaissance)|portion de ré-connaissance (conscience de l'auto-connaissance)]]
+- Français：[[Français/partie qui atteste l'auto-attestation|partie qui atteste l'auto-attestation]]

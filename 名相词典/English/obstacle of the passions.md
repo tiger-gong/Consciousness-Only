@@ -19,5 +19,5 @@ The passions rooted in grasping at a self, which obstruct nirvāṇa and screen 
 
 ## Other languages
 - 中文：[[中文/烦恼障|烦恼障]]
-- Français：[[Français/obstacle des afflictions|obstacle des afflictions]]
+- Français：[[Français/obstacle des passions|obstacle des passions]]
 - Tiếng Việt：[[TiếngViệt/phiền não chướng|phiền não chướng]]

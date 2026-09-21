@@ -16,5 +16,5 @@ The treatise-master Nanda advocated a two-part theory of mind-consciousness: the
 
 ## Other languages
 - 中文：[[中文/二分家|二分家]]
-- Français：[[Français/école des deux portions|école des deux portions]]
+- Français：[[Français/école des deux parties|école des deux parties]]
 - Tiếng Việt：[[TiếngViệt/nhị phần gia|nhị phần gia]]

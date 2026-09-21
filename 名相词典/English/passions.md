@@ -19,5 +19,5 @@ Sanskrit kleśa, referring to all the confusions and deluded imaginings that dis
 
 ## Other languages
 - 中文：[[中文/烦恼|烦恼]]
-- Français：[[Français/affliction|affliction]]
+- Français：[[Français/passion|passion]]
 - Tiếng Việt：[[TiếngViệt/phiền não|phiền não]]

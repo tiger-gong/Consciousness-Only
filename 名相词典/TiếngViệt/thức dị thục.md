@@ -20,4 +20,4 @@ Một trong các tên khác của thức thứ tám A-lại-da, xét về mặt 
 ## Các ngôn ngữ khác
 - 中文：[[中文/异熟识|异熟识]]
 - English：[[English/consciousness as retribution|consciousness as retribution]]
-- Français：[[Français/conscience de maturation|conscience de maturation]]
+- Français：[[Français/conscience de rétribution|conscience de rétribution]]

@@ -16,5 +16,5 @@ When seeds in the ālaya-consciousness meet conditions and give rise to the pres
 
 ## Other languages
 - 中文：[[中文/种子生现行|种子生现行]]
-- Français：[[Français/les semences donnant naissance à l'activité présente|les semences donnant naissance à l'activité présente]]
+- Français：[[Français/les semences donnant naissance à l'activité|les semences donnant naissance à l'activité]]
 - Tiếng Việt：[[TiếngViệt/chủng tử sinh hiện hành|chủng tử sinh hiện hành]]

@@ -19,5 +19,5 @@ The indeterminate retribution induced by retribution-causes (impure good and bad
 
 ## Other languages
 - 中文：[[中文/异熟果|异熟果]]
-- Français：[[Français/fruit mûri|fruit mûri]]
+- Français：[[Français/fruit de rétribution|fruit de rétribution]]
 - Tiếng Việt：[[TiếngViệt/dị thục quả|dị thục quả]]

@@ -4,11 +4,14 @@ lang: fr
 sanskrit: vipāka-vijñāna
 aliases:
   - vipāka-vijñāna
+  - conscience de maturation
 tags:
   - 名相
 ---
 
-# conscience de maturation
+# conscience de rétribution
+> 校准自「conscience de maturation」，依 Hôbôgirin（法-比古典学派体例）。
+
 **梵 / Sanskrit**：*vipāka-vijñāna*
 
 ## Explication（Français）

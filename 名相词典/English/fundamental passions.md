@@ -19,5 +19,5 @@ Greed, hatred, delusion, pride, doubt, and wrong view—six that are the root of
 
 ## Other languages
 - 中文：[[中文/根本烦恼|根本烦恼]]
-- Français：[[Français/afflictions-racines|afflictions-racines]]
+- Français：[[Français/passions fondamentales|passions fondamentales]]
 - Tiếng Việt：[[TiếngViệt/căn bản phiền não|căn bản phiền não]]

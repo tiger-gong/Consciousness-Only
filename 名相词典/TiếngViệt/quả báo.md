@@ -14,4 +14,4 @@ Tức kết quả do nghiệp nhân quá khứ chiêu cảm. Còn gọi là dị
 ## Các ngôn ngữ khác
 - 中文：[[中文/果报|果报]]
 - English：[[English/karmic result|karmic result]]
-- Français：[[Français/rétribution|rétribution]]
+- Français：[[Français/résultat karmique|résultat karmique]]

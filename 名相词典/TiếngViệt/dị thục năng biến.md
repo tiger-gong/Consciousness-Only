@@ -14,4 +14,4 @@ Một trong ba năng biến thức của Duy Thức tông; dị thục năng bi�
 ## Các ngôn ngữ khác
 - 中文：[[中文/异熟能变|异熟能变]]
 - English：[[English/transformer as retribution|transformer as retribution]]
-- Français：[[Français/transformateur de maturation|transformateur de maturation]]
+- Français：[[Français/transformateur de rétribution|transformateur de rétribution]]

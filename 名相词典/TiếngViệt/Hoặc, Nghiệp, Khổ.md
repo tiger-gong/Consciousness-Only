@@ -17,4 +17,4 @@ Chỉ ba thứ phiền não (hoặc), tạo tác (nghiệp), khổ quả (khổ)
 ## Các ngôn ngữ khác
 - 中文：[[中文/惑业苦|惑业苦]]
 - English：[[English/passion, karma, and suffering|passion, karma, and suffering]]
-- Français：[[Français/affliction, karma et souffrance|affliction, karma et souffrance]]
+- Français：[[Français/passion, karma et souffrance|passion, karma et souffrance]]

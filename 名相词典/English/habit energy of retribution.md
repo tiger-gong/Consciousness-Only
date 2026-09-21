@@ -16,5 +16,5 @@ See karmic seeds. Formed by the perfuming of impure wholesome and unwholesome ka
 
 ## Other languages
 - 中文：[[中文/异熟习气|异熟习气]]
-- Français：[[Français/empreintes résiduelles de maturation|empreintes résiduelles de maturation]]
+- Français：[[Français/imprégnations de rétribution|imprégnations de rétribution]]
 - Tiếng Việt：[[TiếngViệt/tập khí dị thục|tập khí dị thục]]

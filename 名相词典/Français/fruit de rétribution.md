@@ -4,15 +4,18 @@ lang: fr
 sanskrit: vipāka-phala
 aliases:
   - vipāka-phala
+  - fruit mûri
 tags:
   - 名相
 ---
 
-# fruit mûri
+# fruit de rétribution
+> 校准自「fruit mûri」，依 Hôbôgirin（法-比古典学派体例）。
+
 **梵 / Sanskrit**：*vipāka-phala*
 
 ## Explication（Français）
-La rétribution indéterminée suscitée par les causes-vipāka (karma bon et mauvais contaminé), comme le corps de rétribution totale des êtres des six destinées—d'où fruit-vipāka.
+La rétribution indéterminée suscitée par les causes-vipāka (karma bon et mauvais impur), comme le corps de rétribution totale des êtres des six destinées—d'où fruit-vipāka.
 
 ## Autres langues
 - 中文：[[中文/异熟果|异熟果]]

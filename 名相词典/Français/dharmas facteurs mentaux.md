@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*caitta*
 
 ## Explication（Français）
-Abrégés en facteurs mentaux : les fonctions psychologiques subordonnées à l'esprit-roi et surgissant en correspondance avec lui. Parmi les Cinq Catégories et Cent Dharmas, cinquante et un sont établis, en six divisions : universellement actifs, spécifiques à l'objet, salutaires, afflictifs, afflictions secondaires et indéterminés.
+Abrégés en facteurs mentaux : les fonctions psychologiques subordonnées à l'esprit-roi et surgissant en correspondance avec lui. Parmi les Cinq Catégories et Cent Dharmas, cinquante et un sont établis, en six divisions : universellement actifs, spécifiques à l'objet, salutaires, passionnels, passions secondaires et indéterminés.
 
 ## Autres langues
 - 中文：[[中文/心所有法|心所有法]]

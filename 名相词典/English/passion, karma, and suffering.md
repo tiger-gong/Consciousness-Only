@@ -19,5 +19,5 @@ Refers to the three—passion (delusion), karma (fabrication), and suffering (th
 
 ## Other languages
 - 中文：[[中文/惑业苦|惑业苦]]
-- Français：[[Français/affliction, karma et souffrance|affliction, karma et souffrance]]
+- Français：[[Français/passion, karma et souffrance|passion, karma et souffrance]]
 - Tiếng Việt：[[TiếngViệt/Hoặc, Nghiệp, Khổ|Hoặc, Nghiệp, Khổ]]

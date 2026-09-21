@@ -19,5 +19,5 @@ Pure dharmas free from passions, pure and undefiled—e.g., pure wisdom and the 
 
 ## Other languages
 - 中文：[[中文/无漏|无漏]]
-- Français：[[Français/non contaminé (sans écoulements)|non contaminé (sans écoulements)]]
+- Français：[[Français/pur (sans écoulement)|pur (sans écoulement)]]
 - Tiếng Việt：[[TiếngViệt/vô lậu|vô lậu]]

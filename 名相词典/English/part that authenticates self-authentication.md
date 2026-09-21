@@ -16,5 +16,5 @@ The fourth of the four parts of consciousness: further verifying the self-authen
 
 ## Other languages
 - 中文：[[中文/证自证分|证自证分]]
-- Français：[[Français/portion de ré-connaissance (conscience de l'auto-connaissance)|portion de ré-connaissance (conscience de l'auto-connaissance)]]
+- Français：[[Français/partie qui atteste l'auto-attestation|partie qui atteste l'auto-attestation]]
 - Tiếng Việt：[[TiếngViệt/chứng tự chứng phần|chứng tự chứng phần]]

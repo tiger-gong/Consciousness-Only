@@ -16,5 +16,5 @@ tags:
 
 ## Other languages
 - 中文：[[中文/有漏种子|有漏种子]]
-- Français：[[Français/semences contaminées|semences contaminées]]
+- Français：[[Français/semences impures|semences impures]]
 - Tiếng Việt：[[TiếngViệt/chủng tử hữu lậu|chủng tử hữu lậu]]

@@ -17,4 +17,4 @@ Phạn ngữ kleśa, chỉ hết thảy mê hoặc vọng tưởng làm rối lo
 ## Các ngôn ngữ khác
 - 中文：[[中文/烦恼|烦恼]]
 - English：[[English/passions|passions]]
-- Français：[[Français/affliction|affliction]]
+- Français：[[Français/passion|passion]]

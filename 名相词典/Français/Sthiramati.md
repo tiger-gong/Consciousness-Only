@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*Sthiramati*
 
 ## Explication（Français）
-Skt. Sthiramati ; l'un des dix grands maîtres du Rien-que-conscience ; établit la théorie d'une portion de la substance de conscience (portion d'auto-attestation) ; auteur d'un commentaire des Trente stances, etc.
+Skt. Sthiramati ; l'un des dix grands maîtres du Rien-que-conscience ; établit la théorie d'une partie de la substance de conscience (partie d'auto-attestation) ; auteur d'un commentaire des Trente stances, etc.
 
 ## Autres langues
 - 中文：[[中文/安慧|安慧]]

@@ -17,4 +17,4 @@ Cũng gọi tự thể phần, là phần thứ ba trong bốn phần của th�
 ## Các ngôn ngữ khác
 - 中文：[[中文/自证分|自证分]]
 - English：[[English/self-authenticating part|self-authenticating part]]
-- Français：[[Français/portion d'auto-connaissance|portion d'auto-connaissance]]
+- Français：[[Français/partie d'auto-attestation|partie d'auto-attestation]]

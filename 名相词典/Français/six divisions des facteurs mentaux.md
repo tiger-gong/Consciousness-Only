@@ -9,7 +9,7 @@ tags:
 # six divisions des facteurs mentaux
 
 ## Explication（Français）
-Les six classifications des facteurs mentaux : universellement actifs (cinq), spécifiques à l'objet (cinq), salutaires (onze), afflictions (six racines), afflictions secondaires (vingt) et indéterminés (quatre)—cinquante et un en tout.
+Les six classifications des facteurs mentaux : universellement actifs (cinq), spécifiques à l'objet (cinq), salutaires (onze), passions (six racines), passions secondaires (vingt) et indéterminés (quatre)—cinquante et un en tout.
 
 ## Autres langues
 - 中文：[[中文/六位心所|六位心所]]

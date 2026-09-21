@@ -16,5 +16,5 @@ The result called forth by past karmic causes. Also termed retribution, ripening
 
 ## Other languages
 - 中文：[[中文/果报|果报]]
-- Français：[[Français/rétribution|rétribution]]
+- Français：[[Français/résultat karmique|résultat karmique]]
 - Tiếng Việt：[[TiếngViệt/quả báo|quả báo]]

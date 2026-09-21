@@ -17,4 +17,4 @@ Xem chủng tử nghiệp. Do nghiệp hữu lậu thiện ác huân tập mà t
 ## Các ngôn ngữ khác
 - 中文：[[中文/异熟习气|异熟习气]]
 - English：[[English/habit energy of retribution|habit energy of retribution]]
-- Français：[[Français/empreintes résiduelles de maturation|empreintes résiduelles de maturation]]
+- Français：[[Français/imprégnations de rétribution|imprégnations de rétribution]]

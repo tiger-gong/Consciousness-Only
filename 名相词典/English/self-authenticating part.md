@@ -19,5 +19,5 @@ Also called the substance part; the third of the four parts of consciousness. Th
 
 ## Other languages
 - 中文：[[中文/自证分|自证分]]
-- Français：[[Français/portion d'auto-connaissance|portion d'auto-connaissance]]
+- Français：[[Français/partie d'auto-attestation|partie d'auto-attestation]]
 - Tiếng Việt：[[TiếngViệt/tự chứng phần|tự chứng phần]]

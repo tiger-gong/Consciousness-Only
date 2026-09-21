@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*ātma-grāha*
 
 ## Explication（Français）
-La saisie erronée qui s'attache à un soi réel. On distingue la saisie innée d'un soi (présente dès la naissance, subtile et difficile à trancher) et la saisie discriminative d'un soi (née d'enseignements erronés et de pensées perverses, grossière et plus aisée à trancher). La septième conscience-manas saisit constamment la portion percevante de la huitième conscience comme un soi—c'est la racine de la saisie innée d'un soi ; la sixième conscience mentale peut aussi produire la saisie d'un soi. La saisie d'un soi est le support de l'obstacle des afflictions.
+La saisie erronée qui s'attache à un soi réel. On distingue la saisie innée d'un soi (présente dès la naissance, subtile et difficile à trancher) et la saisie discriminative d'un soi (née d'enseignements erronés et de pensées perverses, grossière et plus aisée à trancher). La septième conscience-manas saisit constamment la partie percevante de la huitième conscience comme un soi—c'est la racine de la saisie innée d'un soi ; la sixième conscience mentale peut aussi produire la saisie d'un soi. La saisie d'un soi est le support de l'obstacle des passions.
 
 ## Autres langues
 - 中文：[[中文/我执|我执]]

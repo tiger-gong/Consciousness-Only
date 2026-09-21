@@ -17,4 +17,4 @@ Pháp hữu lậu: có phiền não, có tạp nhiễm. Lậu là tên khác c�
 ## Các ngôn ngữ khác
 - 中文：[[中文/有漏|有漏]]
 - English：[[English/impure|impure]]
-- Français：[[Français/contaminé (avec écoulements)|contaminé (avec écoulements)]]
+- Français：[[Français/impur (avec écoulement)|impur (avec écoulement)]]

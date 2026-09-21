@@ -19,5 +19,5 @@ Impure dharmas that have passions and defilement. “Leakage” (āsrava) is ano
 
 ## Other languages
 - 中文：[[中文/有漏|有漏]]
-- Français：[[Français/contaminé (avec écoulements)|contaminé (avec écoulements)]]
+- Français：[[Français/impur (avec écoulement)|impur (avec écoulement)]]
 - Tiếng Việt：[[TiếngViệt/hữu lậu|hữu lậu]]

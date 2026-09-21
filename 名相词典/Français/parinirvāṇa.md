@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*parinirvāṇa*
 
 ## Explication（Français）
-Sanskrit parinirvāṇa—entrer dans le nirvāṇa, l'extinction complète. Il signifie l'extinction des afflictions et la délivrance de la naissance-et-mort, désignant surtout un Buddha ou un sage abandonnant le corps et entrant dans la quiétude.
+Sanskrit parinirvāṇa—entrer dans le nirvāṇa, l'extinction complète. Il signifie l'extinction des passions et la délivrance de la naissance-et-mort, désignant surtout un Buddha ou un sage abandonnant le corps et entrant dans la quiétude.
 
 ## Autres langues
 - 中文：[[中文/灭度|灭度]]

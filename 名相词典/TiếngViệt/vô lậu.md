@@ -17,4 +17,4 @@ Pháp vô lậu: lìa phiền não, thanh tịnh vô nhiễm—như vô lậu tr
 ## Các ngôn ngữ khác
 - 中文：[[中文/无漏|无漏]]
 - English：[[English/pure|pure]]
-- Français：[[Français/non contaminé (sans écoulements)|non contaminé (sans écoulements)]]
+- Français：[[Français/pur (sans écoulement)|pur (sans écoulement)]]

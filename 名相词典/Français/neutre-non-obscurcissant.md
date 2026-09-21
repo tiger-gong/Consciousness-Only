@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*anivṛtāvyākṛta*
 
 ## Explication（Français）
-Ni bon ni mauvais, et sans voile d'affliction—p. ex. l'indéterminé-vipāka (la huitième conscience), l'indéterminé de maintien, l'indéterminé d'adresse, l'indéterminé de transformation, etc.
+Ni bon ni mauvais, et sans voile de passion—p. ex. l'indéterminé-vipāka (la huitième conscience), l'indéterminé de maintien, l'indéterminé d'adresse, l'indéterminé de transformation, etc.
 
 ## Autres langues
 - 中文：[[中文/无覆无记|无覆无记]]

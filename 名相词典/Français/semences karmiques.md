@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*karma-bīja*
 
 ## Explication（Français）
-Aussi appelées empreintes résiduelles de maturation : les semences qui sont la condition causale indirecte produisant tous les dharmas. Elles croissent par l'imprégnation des actes contaminés salutaires et non salutaires par les six consciences, et peuvent engendrer des fruits de maturation neutres dont la nature diffère du bien ou du mal de leur propre nature—d'où le nom de semences karmiques ou empreintes résiduelles de maturation.
+Aussi appelées imprégnations de rétribution : les semences qui sont la condition causale indirecte produisant tous les dharmas. Elles croissent par l'imprégnation des actes impurs salutaires et non salutaires par les six consciences, et peuvent engendrer des fruits de rétribution neutres dont la nature diffère du bien ou du mal de leur propre nature—d'où le nom de semences karmiques ou imprégnations de rétribution.
 
 ## Autres langues
 - 中文：[[中文/业种子|业种子]]

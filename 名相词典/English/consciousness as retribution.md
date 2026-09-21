@@ -19,5 +19,5 @@ One of the alternate names of the eighth, ālaya-consciousness, insofar as it is
 
 ## Other languages
 - 中文：[[中文/异熟识|异熟识]]
-- Français：[[Français/conscience de maturation|conscience de maturation]]
+- Français：[[Français/conscience de rétribution|conscience de rétribution]]
 - Tiếng Việt：[[TiếngViệt/thức dị thục|thức dị thục]]

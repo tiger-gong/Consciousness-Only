@@ -19,5 +19,5 @@ Retribution of a different kind: the cause may be good or bad, the result only i
 
 ## Other languages
 - 中文：[[中文/异熟|异熟]]
-- Français：[[Français/maturation (résultat mûri)|maturation (résultat mûri)]]
+- Français：[[Français/rétribution|rétribution]]
 - Tiếng Việt：[[TiếngViệt/dị thục|dị thục]]

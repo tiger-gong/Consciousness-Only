@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*nivṛtāvyākṛta*
 
 ## Explication（Français）
-Ni bon ni mauvais (indéterminé), mais des afflictions voilent le vrai esprit et font obstacle à la voie noble—p. ex. la conscience-manas et les afflictions qui lui correspondent.
+Ni bon ni mauvais (indéterminé), mais des passions voilent le vrai esprit et font obstacle à la voie noble—p. ex. la conscience-manas et les passions qui lui correspondent.
 
 ## Autres langues
 - 中文：[[中文/有覆无记|有覆无记]]

@@ -19,5 +19,5 @@ One of the four parts of mind dharmas: the objective appearance manifested on th
 
 ## Other languages
 - 中文：[[中文/相分|相分]]
-- Français：[[Français/portion-image (portion vue)|portion-image (portion vue)]]
+- Français：[[Français/partie vue|partie vue]]
 - Tiếng Việt：[[TiếngViệt/tướng phần|tướng phần]]

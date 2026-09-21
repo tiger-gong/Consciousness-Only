@@ -9,7 +9,7 @@ tags:
 # deux obstacles
 
 ## Explication（Français）
-Terme conjoint pour l'obstacle des afflictions et l'obstacle au connaissable.
+Terme conjoint pour l'obstacle des passions et l'obstacle au connaissable.
 
 ## Autres langues
 - 中文：[[中文/二障|二障]]
