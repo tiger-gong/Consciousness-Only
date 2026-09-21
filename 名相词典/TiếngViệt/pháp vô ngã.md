@@ -16,5 +16,5 @@ Một trong hai vô ngã, đối lại với “nhân vô ngã”. Nghĩa là tr
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/法无我|法无我]]
-- English：[[English/selflessness of dharmas|selflessness of dharmas]]
+- English：[[English/emptiness of dharmas|emptiness of dharmas]]
 - Français：[[Français/non-soi des dharmas|non-soi des dharmas]]

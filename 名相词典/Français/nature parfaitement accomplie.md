@@ -16,5 +16,5 @@ Aussi appelée caractéristique parfaitement accomplie ; l'une des trois natures
 
 ## Autres langues
 - 中文：[[中文/圆成实性|圆成实性]]
-- English：[[English/perfectly accomplished nature|perfectly accomplished nature]]
+- English：[[English/perfected nature|perfected nature]]
 - Tiếng Việt：[[TiếngViệt/viên thành thật tính|viên thành thật tính]]

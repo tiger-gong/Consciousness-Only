@@ -16,5 +16,5 @@ Une des petites afflictions concomitantes parmi les facteurs mentaux. L'avarice 
 
 ## Autres langues
 - 中文：[[中文/悭|悭]]
-- English：[[English/stinginess|stinginess]]
+- English：[[English/avarice|avarice]]
 - Tiếng Việt：[[TiếngViệt/xan|xan]]

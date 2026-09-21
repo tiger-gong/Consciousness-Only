@@ -16,5 +16,5 @@ Un des facteurs mentaux d'affliction fondamentale. La convoitise est la fonction
 
 ## Autres langues
 - 中文：[[中文/贪|贪]]
-- English：[[English/greed|greed]]
+- English：[[English/craving|craving]]
 - Tiếng Việt：[[TiếngViệt/tham|tham]]

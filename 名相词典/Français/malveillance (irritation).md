@@ -16,5 +16,5 @@ Une des petites afflictions concomitantes parmi les facteurs mentaux. La malveil
 
 ## Autres langues
 - 中文：[[中文/恼|恼]]
-- English：[[English/spite (vexation)|spite (vexation)]]
+- English：[[English/vexation|vexation]]
 - Tiếng Việt：[[TiếngViệt/não|não]]

@@ -16,5 +16,5 @@ Désigne la substance véritable qui pénètre tout l'univers ; la source de tou
 
 ## Autres langues
 - 中文：[[中文/真如|真如]]
-- English：[[English/suchness|suchness]]
+- English：[[English/true suchness|true suchness]]
 - Tiếng Việt：[[TiếngViệt/chân như|chân như]]

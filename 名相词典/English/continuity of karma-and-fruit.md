@@ -9,7 +9,7 @@ tags:
 # continuity of karma-and-fruit
 
 ## Explanation（English）
-Refers to the continuous, unbroken succession of wholesome and unwholesome karmic causes and their pleasant and painful retributions. Though the karma ceases, the seeds remain perfumed into the ālaya-consciousness, and when conditions are met they give rise to present activity and call forth the fruit.
+Refers to the continuous, unbroken succession of wholesome and unwholesome karmic causes and their pleasant and painful retributions. Though the karma ceases, the seeds remain perfumed into the ālaya-consciousness, and when conditions are met they give rise to activity and call forth the fruit.
 
 ## Other languages
 - 中文：[[中文/业果相续|业果相续]]

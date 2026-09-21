@@ -16,5 +16,5 @@ Dị thục, nghĩa dị loại mà chín: nhân thông thiện ác, quả chỉ
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/异熟|异熟]]
-- English：[[English/maturation (ripened result)|maturation (ripened result)]]
+- English：[[English/retribution|retribution]]
 - Français：[[Français/maturation (résultat mûri)|maturation (résultat mûri)]]

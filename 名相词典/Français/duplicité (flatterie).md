@@ -16,5 +16,5 @@ Parmi les cent dharmas en cinq catégories du Yogācāra, une petite affliction 
 
 ## Autres langues
 - 中文：[[中文/谄|谄]]
-- English：[[English/dissimulation (flattery)|dissimulation (flattery)]]
+- English：[[English/hypocrisy|hypocrisy]]
 - Tiếng Việt：[[TiếngViệt/siểm|siểm]]

@@ -16,5 +16,5 @@ Một trong các tâm sở bất định. Tầm là tầm cầu: tư duy thô l�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/寻|寻]]
-- English：[[English/initial inquiry (vitarka)|initial inquiry (vitarka)]]
+- English：[[English/applied thought|applied thought]]
 - Français：[[Français/investigation initiale (vitarka)|investigation initiale (vitarka)]]

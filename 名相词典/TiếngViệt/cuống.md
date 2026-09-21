@@ -16,5 +16,5 @@ Một trong các tâm sở tiểu tùy phiền não. Cuống là muốn mưu l�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/诳|诳]]
-- English：[[English/deception|deception]]
+- English：[[English/deceit|deceit]]
 - Français：[[Français/tromperie|tromperie]]

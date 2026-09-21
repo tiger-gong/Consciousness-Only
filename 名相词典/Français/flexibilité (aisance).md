@@ -16,5 +16,5 @@ L'un des facteurs mentaux salutaires parmi les facteurs mentaux. L'aise et la l�
 
 ## Autres langues
 - 中文：[[中文/轻安|轻安]]
-- English：[[English/pliancy (ease)|pliancy (ease)]]
+- English：[[English/serenity|serenity]]
 - Tiếng Việt：[[TiếngViệt/khinh an|khinh an]]

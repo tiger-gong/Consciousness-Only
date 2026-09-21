@@ -16,5 +16,5 @@ L'un des facteurs mentaux salutaires parmi les facteurs mentaux. La décence est
 
 ## Autres langues
 - 中文：[[中文/愧|愧]]
-- English：[[English/embarrassment (regard for others)|embarrassment (regard for others)]]
+- English：[[English/sense of shame|sense of shame]]
 - Tiếng Việt：[[TiếngViệt/quý|quý]]

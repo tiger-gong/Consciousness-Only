@@ -16,5 +16,5 @@ Thức liễu biệt sinh khởi nương nhãn căn, duyên sắc cảnh; một 
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/眼识|眼识]]
-- English：[[English/eye-consciousness|eye-consciousness]]
+- English：[[English/visual consciousness|visual consciousness]]
 - Français：[[Français/conscience visuelle|conscience visuelle]]

@@ -13,5 +13,5 @@ Tác ý, xúc, thọ, tưởng, tư năm thứ, ở hết thảy tâm (tám th�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/五遍行心所|五遍行心所]]
-- English：[[English/five universally active mental factors|five universally active mental factors]]
+- English：[[English/five universal mental activities|five universal mental activities]]
 - Français：[[Français/cinq facteurs mentaux universellement actifs|cinq facteurs mentaux universellement actifs]]

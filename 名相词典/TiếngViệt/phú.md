@@ -16,5 +16,5 @@ Một trong các tâm sở tiểu tùy phiền não. Phú là phủ che: phạm 
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/覆|覆]]
-- English：[[English/concealment (of faults)|concealment (of faults)]]
+- English：[[English/dissimulation|dissimulation]]
 - Français：[[Français/dissimulation (des fautes)|dissimulation (des fautes)]]

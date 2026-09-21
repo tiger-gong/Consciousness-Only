@@ -16,5 +16,5 @@ Một trong các biệt cảnh tâm sở thuộc tâm sở hữu pháp. Tuệ t�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/慧|慧]]
-- English：[[English/wisdom (discernment)|wisdom (discernment)]]
+- English：[[English/discernment|discernment]]
 - Français：[[Français/sagesse (discernement)|sagesse (discernement)]]

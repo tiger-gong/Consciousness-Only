@@ -16,5 +16,5 @@ Một trong thức thể tứ phần. Chỉ tác dụng năng duyên của các 
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/见分|见分]]
-- English：[[English/perceiving portion (seeing portion)|perceiving portion (seeing portion)]]
+- English：[[English/seeing part|seeing part]]
 - Français：[[Français/portion percevante (portion voyante)|portion percevante (portion voyante)]]

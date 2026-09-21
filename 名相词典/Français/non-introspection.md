@@ -16,5 +16,5 @@ L'un des cinquante-et-un facteurs mentaux du Yogācāra : la fonction mentale de
 
 ## Autres langues
 - 中文：[[中文/不正知|不正知]]
-- English：[[English/non-introspection (incorrect knowing)|non-introspection (incorrect knowing)]]
+- English：[[English/incorrect knowing|incorrect knowing]]
 - Tiếng Việt：[[TiếngViệt/bất chính tri|bất chính tri]]

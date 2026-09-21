@@ -16,5 +16,5 @@ Nghĩa là nương nơi nghiệp nhân mà trong sáu đường mê (trời, ng�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/生死|生死]]
-- English：[[English/birth-and-death|birth-and-death]]
+- English：[[English/birth and death|birth and death]]
 - Français：[[Français/naissance-et-mort|naissance-et-mort]]

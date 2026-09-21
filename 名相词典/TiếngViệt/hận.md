@@ -16,5 +16,5 @@ Thứ hai trong các tâm sở tiểu tùy phiền não. Hận là oán hận: �
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/恨|恨]]
-- English：[[English/resentment|resentment]]
+- English：[[English/hostility|hostility]]
 - Français：[[Français/rancune|rancune]]

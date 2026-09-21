@@ -16,5 +16,5 @@ L'un des noms alternatifs de la huitième conscience-ālaya, en tant que corps d
 
 ## Autres langues
 - 中文：[[中文/异熟识|异熟识]]
-- English：[[English/maturation consciousness|maturation consciousness]]
+- English：[[English/consciousness as retribution|consciousness as retribution]]
 - Tiếng Việt：[[TiếngViệt/dị thục thức|dị thục thức]]

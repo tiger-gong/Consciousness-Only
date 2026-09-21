@@ -16,5 +16,5 @@ Trí tuệ đạt được sau khi được vô phân biệt trí; có thể ph�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/后得智|后得智]]
-- English：[[English/subsequently attained wisdom|subsequently attained wisdom]]
+- English：[[English/subsequently acquired knowledge|subsequently acquired knowledge]]
 - Français：[[Français/sagesse ultérieurement obtenue|sagesse ultérieurement obtenue]]

@@ -16,5 +16,5 @@ Aussi appelée portion-substance ; la troisième des quatre portions de la subst
 
 ## Autres langues
 - 中文：[[中文/自证分|自证分]]
-- English：[[English/self-aware portion|self-aware portion]]
+- English：[[English/self-authenticating part|self-authenticating part]]
 - Tiếng Việt：[[TiếngViệt/tự chứng phần|tự chứng phần]]

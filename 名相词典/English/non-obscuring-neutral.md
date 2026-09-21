@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*anivṛtāvyākṛta*
 
 ## Explanation（English）
-Neither good nor bad, and without afflictive veiling—e.g., maturation-indeterminate (the eighth consciousness), deportment-indeterminate, craft-indeterminate, and transformation-indeterminate.
+Neither good nor bad, and without of the passions veiling—e.g., retribution-indeterminate (the eighth consciousness), deportment-indeterminate, craft-indeterminate, and transformation-indeterminate.
 
 ## Other languages
 - 中文：[[中文/无覆无记|无覆无记]]

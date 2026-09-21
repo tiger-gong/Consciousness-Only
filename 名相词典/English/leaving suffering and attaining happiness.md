@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*duḥkha / sukha*
 
 ## Explanation（English）
-Refers to escaping the suffering of the cycle of birth-and-death and attaining the bliss of nirvāṇa and liberation; it is the basic aim of Buddhist practice.
+Refers to escaping the suffering of the cycle of birth and death and attaining the bliss of nirvāṇa and liberation; it is the basic aim of Buddhist practice.
 
 ## Other languages
 - 中文：[[中文/离苦得乐|离苦得乐]]

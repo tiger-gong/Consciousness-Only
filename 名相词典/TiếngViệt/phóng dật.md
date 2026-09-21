@@ -16,5 +16,5 @@ Một trong các tâm sở đại tùy phiền não. Phóng dật là phóng đ�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/放逸|放逸]]
-- English：[[English/laxity (heedlessness)|laxity (heedlessness)]]
+- English：[[English/negligence|negligence]]
 - Français：[[Français/négligence|négligence]]

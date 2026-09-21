@@ -16,5 +16,5 @@ Sanskrit pudgala-nairātmya, l'une des deux absences-de-soi. Elle enseigne que l
 
 ## Autres langues
 - 中文：[[中文/人无我|人无我]]
-- English：[[English/selflessness of persons|selflessness of persons]]
+- English：[[English/absence of self|absence of self]]
 - Tiếng Việt：[[TiếngViệt/nhân vô ngã|nhân vô ngã]]

@@ -16,5 +16,5 @@ L'un des facteurs mentaux salutaires parmi les facteurs mentaux. La pudeur est l
 
 ## Autres langues
 - 中文：[[中文/惭|惭]]
-- English：[[English/shame (self-respect)|shame (self-respect)]]
+- English：[[English/conscience|conscience]]
 - Tiếng Việt：[[TiếngViệt/tàm|tàm]]

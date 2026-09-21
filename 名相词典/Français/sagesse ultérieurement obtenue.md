@@ -16,5 +16,5 @@ Sagesse obtenue après la sagesse non discriminative ; capable de discerner et d
 
 ## Autres langues
 - 中文：[[中文/后得智|后得智]]
-- English：[[English/subsequently attained wisdom|subsequently attained wisdom]]
+- English：[[English/subsequently acquired knowledge|subsequently acquired knowledge]]
 - Tiếng Việt：[[TiếngViệt/hậu đắc trí|hậu đắc trí]]

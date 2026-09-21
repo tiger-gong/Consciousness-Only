@@ -16,5 +16,5 @@ Quả báo vô ký do dị thục nhân (nghiệp thiện ác hữu lậu) chiê
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/异熟果|异熟果]]
-- English：[[English/matured fruit|matured fruit]]
+- English：[[English/result of retribution|result of retribution]]
 - Français：[[Français/fruit mûri|fruit mûri]]

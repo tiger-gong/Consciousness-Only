@@ -13,5 +13,5 @@ Le résultat appelé par les causes karmiques passées. Aussi nommé maturation,
 
 ## Autres langues
 - 中文：[[中文/果报|果报]]
-- English：[[English/retribution|retribution]]
+- English：[[English/karmic result|karmic result]]
 - Tiếng Việt：[[TiếngViệt/quả báo|quả báo]]

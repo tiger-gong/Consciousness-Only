@@ -16,5 +16,5 @@ Abrégés en facteurs mentaux : les fonctions psychologiques subordonnées à l'
 
 ## Autres langues
 - 中文：[[中文/心所有法|心所有法]]
-- English：[[English/mental-factor dharmas|mental-factor dharmas]]
+- English：[[English/dharmas that are mental activities|dharmas that are mental activities]]
 - Tiếng Việt：[[TiếngViệt/tâm sở hữu pháp|tâm sở hữu pháp]]

@@ -13,5 +13,5 @@ Thuyết thức thể tứ phần được xem là chính nghĩa Duy Thức. Th�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/四分家|四分家]]
-- English：[[English/four-portion school|four-portion school]]
+- English：[[English/four-part school|four-part school]]
 - Français：[[Français/école des quatre portions|école des quatre portions]]

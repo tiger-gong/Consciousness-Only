@@ -13,5 +13,5 @@ Hữu lậu tức có phiền não, có tạp nhiễm. Hữu lậu chủng tử 
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/有漏种子|有漏种子]]
-- English：[[English/contaminated seeds|contaminated seeds]]
+- English：[[English/impure seeds|impure seeds]]
 - Français：[[Français/semences contaminées|semences contaminées]]

@@ -16,5 +16,5 @@ Terme conjoint pour les dharmas-esprit (les huit esprits-rois) et les facteurs m
 
 ## Autres langues
 - 中文：[[中文/心心所法|心心所法]]
-- English：[[English/mind and mental factors|mind and mental factors]]
+- English：[[English/mind and mental activities|mind and mental activities]]
 - Tiếng Việt：[[TiếngViệt/tâm và tâm sở pháp|tâm và tâm sở pháp]]

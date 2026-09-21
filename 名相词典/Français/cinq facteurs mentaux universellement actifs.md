@@ -13,5 +13,5 @@ Attention, contact, sensation, conception et volition—cinq qui peuvent surgir 
 
 ## Autres langues
 - 中文：[[中文/五遍行心所|五遍行心所]]
-- English：[[English/five universally active mental factors|five universally active mental factors]]
+- English：[[English/five universal mental activities|five universal mental activities]]
 - Tiếng Việt：[[TiếngViệt/năm biến hành tâm sở|năm biến hành tâm sở]]

@@ -16,5 +16,5 @@ L'un des facteurs mentaux spécifiques à l'objet parmi les facteurs mentaux. L'
 
 ## Autres langues
 - 中文：[[中文/念|念]]
-- English：[[English/mindfulness (recollection)|mindfulness (recollection)]]
+- English：[[English/memory|memory]]
 - Tiếng Việt：[[TiếngViệt/niệm|niệm]]

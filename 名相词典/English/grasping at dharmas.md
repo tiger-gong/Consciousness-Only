@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*dharma-grāha*
 
 ## Explanation（English）
-The deluded grasping that clings to dharmas as having real substantial self-nature. Also divided into innate and discriminative. Grasping at dharmas is the basis of the hindrance to the knowable. The two vehicles sever grasping at a self but not grasping at dharmas; bodhisattvas sever both graspings—at a self and at dharmas.
+The deluded grasping that clings to dharmas as having real substantial self-nature. Also divided into innate and discriminative. Grasping at dharmas is the basis of the obstacle to the knowable. The two vehicles sever grasping at a self but not grasping at dharmas; bodhisattvas sever both graspings—at a self and at dharmas.
 
 ## Other languages
 - 中文：[[中文/法执|法执]]

@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*mūla-jñāna*
 
 ## Explanation（English）
-Namely non-discriminating wisdom, the fundamental basis on which subsequently attained wisdom depends.
+Namely nondiscriminative knowledge, the fundamental basis on which subsequently acquired knowledge depends.
 
 ## Other languages
 - 中文：[[中文/根本智|根本智]]

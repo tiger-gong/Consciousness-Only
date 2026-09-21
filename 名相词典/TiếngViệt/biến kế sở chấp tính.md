@@ -16,5 +16,5 @@ Cũng gọi biến kế sở chấp tướng, là một trong ba tự tính củ
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/遍计所执性|遍计所执性]]
-- English：[[English/imagined nature (thoroughly imagined)|imagined nature (thoroughly imagined)]]
+- English：[[English/imagined nature|imagined nature]]
 - Français：[[Français/nature imaginée (complètement conçue)|nature imaginée (complètement conçue)]]

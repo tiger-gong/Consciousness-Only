@@ -16,5 +16,5 @@ Un facteur mental indéterminé. Le sommeil est l'assoupissement : obscur et non
 
 ## Autres langues
 - 中文：[[中文/眠|眠]]
-- English：[[English/sleep (drowsiness)|sleep (drowsiness)]]
+- English：[[English/sloth|sloth]]
 - Tiếng Việt：[[TiếngViệt/miên|miên]]

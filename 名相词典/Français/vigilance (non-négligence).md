@@ -16,5 +16,5 @@ L'un des cinquante-et-un facteurs mentaux de l'école du Rien-que-conscience ; l
 
 ## Autres langues
 - 中文：[[中文/不放逸|不放逸]]
-- English：[[English/carefulness (non-laxity)|carefulness (non-laxity)]]
+- English：[[English/vigilance|vigilance]]
 - Tiếng Việt：[[TiếngViệt/bất phóng dật|bất phóng dật]]

@@ -16,5 +16,5 @@ Một trong các thiện tâm sở thuộc tâm sở hữu pháp. Tàm là tâm 
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/惭|惭]]
-- English：[[English/shame (self-respect)|shame (self-respect)]]
+- English：[[English/conscience|conscience]]
 - Français：[[Français/pudeur (respect de soi)|pudeur (respect de soi)]]

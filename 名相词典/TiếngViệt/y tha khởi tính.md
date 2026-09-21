@@ -16,5 +16,5 @@ Y tha khởi tính. Cũng gọi y tha khởi tướng, duyên khởi tự tính,
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/依他起性|依他起性]]
-- English：[[English/other-dependent nature|other-dependent nature]]
+- English：[[English/dependent on others|dependent on others]]
 - Français：[[Français/nature dépendante d'autrui|nature dépendante d'autrui]]

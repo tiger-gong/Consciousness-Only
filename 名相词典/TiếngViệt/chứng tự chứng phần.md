@@ -13,5 +13,5 @@ Phần thứ tư trong thức thể tứ phần, chứng tri lần nữa đối 
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/证自证分|证自证分]]
-- English：[[English/re-aware portion (awareness of self-awareness)|re-aware portion (awareness of self-awareness)]]
+- English：[[English/part that authenticates self-authentication|part that authenticates self-authentication]]
 - Français：[[Français/portion de ré-connaissance (conscience de l'auto-connaissance)|portion de ré-connaissance (conscience de l'auto-connaissance)]]

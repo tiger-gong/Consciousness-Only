@@ -16,5 +16,5 @@ Phạn ngữ manas, dịch nghĩa là ý, có nghĩa tư lương. Là thức th�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/末那识|末那识]]
-- English：[[English/manas-consciousness|manas-consciousness]]
+- English：[[English/manas|manas]]
 - Français：[[Français/conscience-manas|conscience-manas]]

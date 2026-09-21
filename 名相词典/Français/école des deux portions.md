@@ -13,5 +13,5 @@ Le maître des traités Nanda soutenait une théorie des deux portions de l'espr
 
 ## Autres langues
 - 中文：[[中文/二分家|二分家]]
-- English：[[English/two-portion school|two-portion school]]
+- English：[[English/two-part school|two-part school]]
 - Tiếng Việt：[[TiếngViệt/nhị phần gia|nhị phần gia]]

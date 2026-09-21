@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*karma-bīja*
 
 ## Explanation（English）
-Also called maturation residual impressions: the seeds that are the indirect causal condition producing all dharmas. They grow through the perfuming of contaminated wholesome and unwholesome karma by the six consciousnesses, and can bring about neutral maturation fruits whose nature differs from the good or evil of their own nature—hence called karmic seeds or maturation residual impressions.
+Also called habit energy of retribution: the seeds that are the indirect causal condition producing all dharmas. They grow through the perfuming of impure wholesome and unwholesome karma by the six consciousnesses, and can bring about neutral retribution fruits whose nature differs from the good or evil of their own nature—hence called karmic seeds or habit energy of retribution.
 
 ## Other languages
 - 中文：[[中文/业种子|业种子]]

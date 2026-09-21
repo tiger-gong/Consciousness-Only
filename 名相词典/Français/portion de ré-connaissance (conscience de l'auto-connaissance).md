@@ -13,5 +13,5 @@ La quatrième des quatre portions de la substance de la conscience : vérifier e
 
 ## Autres langues
 - 中文：[[中文/证自证分|证自证分]]
-- English：[[English/re-aware portion (awareness of self-awareness)|re-aware portion (awareness of self-awareness)]]
+- English：[[English/part that authenticates self-authentication|part that authenticates self-authentication]]
 - Tiếng Việt：[[TiếngViệt/chứng tự chứng phần|chứng tự chứng phần]]

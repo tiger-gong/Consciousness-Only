@@ -16,5 +16,5 @@ Sanskrit manas, traduit par le sens comme « mental », au sens de délibératio
 
 ## Autres langues
 - 中文：[[中文/末那识|末那识]]
-- English：[[English/manas-consciousness|manas-consciousness]]
+- English：[[English/manas|manas]]
 - Tiếng Việt：[[TiếngViệt/thức mạt-na|thức mạt-na]]

@@ -16,5 +16,5 @@ Quand l'instant précédent d'esprit et facteurs mentaux cesse, la condition qui
 
 ## Autres langues
 - 中文：[[中文/等无间缘|等无间缘]]
-- English：[[English/immediate-antecedent condition|immediate-antecedent condition]]
+- English：[[English/immediately antecedent condition|immediately antecedent condition]]
 - Tiếng Việt：[[TiếngViệt/đẳng vô gián duyên|đẳng vô gián duyên]]

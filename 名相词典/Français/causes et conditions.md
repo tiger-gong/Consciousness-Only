@@ -16,5 +16,5 @@ Terme conjoint pour cause (hetu) et condition (pratyaya), l'une des quatre condi
 
 ## Autres langues
 - 中文：[[中文/因缘|因缘]]
-- English：[[English/causes and conditions|causes and conditions]]
+- English：[[English/condition as cause|condition as cause]]
 - Tiếng Việt：[[TiếngViệt/nhân duyên|nhân duyên]]

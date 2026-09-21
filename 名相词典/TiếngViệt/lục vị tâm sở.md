@@ -13,5 +13,5 @@ Sáu loại phân loại tâm sở: biến hành (năm), biệt cảnh (năm), t
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/六位心所|六位心所]]
-- English：[[English/six divisions of mental factors|six divisions of mental factors]]
+- English：[[English/six groups of mental activities|six groups of mental activities]]
 - Français：[[Français/six divisions des facteurs mentaux|six divisions des facteurs mentaux]]

@@ -16,5 +16,5 @@ L'un des facteurs mentaux spécifiques à l'objet parmi les facteurs mentaux. La
 
 ## Autres langues
 - 中文：[[中文/慧|慧]]
-- English：[[English/wisdom (discernment)|wisdom (discernment)]]
+- English：[[English/discernment|discernment]]
 - Tiếng Việt：[[TiếngViệt/tuệ|tuệ]]

@@ -16,5 +16,5 @@ L'une des quatre portions de la substance de la conscience. Elle désigne la fon
 
 ## Autres langues
 - 中文：[[中文/见分|见分]]
-- English：[[English/perceiving portion (seeing portion)|perceiving portion (seeing portion)]]
+- English：[[English/seeing part|seeing part]]
 - Tiếng Việt：[[TiếngViệt/kiến phần|kiến phần]]

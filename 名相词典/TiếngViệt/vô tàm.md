@@ -16,5 +16,5 @@ Một trong các tâm sở trung tùy phiền não. Vô tàm là phản của t�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/无惭|无惭]]
-- English：[[English/shamelessness|shamelessness]]
+- English：[[English/lack of conscience|lack of conscience]]
 - Français：[[Français/impudeur|impudeur]]

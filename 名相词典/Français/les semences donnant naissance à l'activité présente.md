@@ -13,5 +13,5 @@ Quand les semences dans la conscience-ālaya rencontrent des conditions et font 
 
 ## Autres langues
 - 中文：[[中文/种子生现行|种子生现行]]
-- English：[[English/seeds giving rise to present activity|seeds giving rise to present activity]]
+- English：[[English/seeds giving rise to activity|seeds giving rise to activity]]
 - Tiếng Việt：[[TiếngViệt/chủng tử sinh hiện hành|chủng tử sinh hiện hành]]

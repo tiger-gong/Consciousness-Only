@@ -16,5 +16,5 @@ Conscience discriminante qui naît en s'appuyant sur la faculté corporelle, pre
 
 ## Autres langues
 - 中文：[[中文/身识|身识]]
-- English：[[English/body-consciousness|body-consciousness]]
+- English：[[English/tactile consciousness|tactile consciousness]]
 - Tiếng Việt：[[TiếngViệt/thân thức|thân thức]]

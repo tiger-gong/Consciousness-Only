@@ -16,5 +16,5 @@ Duy thức tông lập ngũ vị bách pháp; đây là một trong các tâm s�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/谄|谄]]
-- English：[[English/dissimulation (flattery)|dissimulation (flattery)]]
+- English：[[English/hypocrisy|hypocrisy]]
 - Français：[[Français/duplicité (flatterie)|duplicité (flatterie)]]

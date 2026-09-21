@@ -16,5 +16,5 @@ Tout ce qui a une force efficace supérieure, pouvant aider l'apparition d'un au
 
 ## Autres langues
 - 中文：[[中文/增上缘|增上缘]]
-- English：[[English/predominant condition|predominant condition]]
+- English：[[English/dominant condition|dominant condition]]
 - Tiếng Việt：[[TiếngViệt/tăng thượng duyên|tăng thượng duyên]]

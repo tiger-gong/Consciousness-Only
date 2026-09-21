@@ -16,5 +16,5 @@ Một trong các biệt cảnh tâm sở thuộc tâm sở hữu pháp. Niệm l
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/念|念]]
-- English：[[English/mindfulness (recollection)|mindfulness (recollection)]]
+- English：[[English/memory|memory]]
 - Français：[[Français/attention mémorielle (smṛti)|attention mémorielle (smṛti)]]

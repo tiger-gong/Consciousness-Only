@@ -16,5 +16,5 @@ Là âm dịch của Phạn ngữ ālaya. Duy Thức tông lập tám thức nh�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/阿赖耶识|阿赖耶识]]
-- English：[[English/storehouse-consciousness|storehouse-consciousness]]
+- English：[[English/store consciousness|store consciousness]]
 - Français：[[Français/conscience-réceptacle|conscience-réceptacle]]

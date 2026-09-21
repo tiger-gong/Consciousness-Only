@@ -16,5 +16,5 @@ Avidité, haine, ignorance, orgueil, doute et vue erronée—six qui sont la rac
 
 ## Autres langues
 - 中文：[[中文/根本烦恼|根本烦恼]]
-- English：[[English/root afflictions|root afflictions]]
+- English：[[English/fundamental passions|fundamental passions]]
 - Tiếng Việt：[[TiếngViệt/căn bản phiền não|căn bản phiền não]]

@@ -16,5 +16,5 @@ Une des grandes afflictions concomitantes parmi les facteurs mentaux. La paresse
 
 ## Autres langues
 - 中文：[[中文/懈怠|懈怠]]
-- English：[[English/laziness|laziness]]
+- English：[[English/indolence|indolence]]
 - Tiếng Việt：[[TiếngViệt/giải đãi|giải đãi]]

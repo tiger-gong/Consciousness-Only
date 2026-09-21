@@ -16,5 +16,5 @@ Một trong tâm pháp tứ phần: cảnh tướng do tự tâm thể biến hi
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/相分|相分]]
-- English：[[English/image portion (seen portion)|image portion (seen portion)]]
+- English：[[English/seen part|seen part]]
 - Français：[[Français/portion-image (portion vue)|portion-image (portion vue)]]

@@ -16,5 +16,5 @@ Một trong các tâm sở trung tùy phiền não. Vô quý là phản của qu
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/无愧|无愧]]
-- English：[[English/non-embarrassment|non-embarrassment]]
+- English：[[English/shamelessness|shamelessness]]
 - Français：[[Français/indécence|indécence]]

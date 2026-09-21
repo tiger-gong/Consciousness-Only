@@ -16,5 +16,5 @@ L'un des onze facteurs mentaux salutaires parmi les facteurs mentaux. Aussi appe
 
 ## Autres langues
 - 中文：[[中文/精进|精进]]
-- English：[[English/diligence (vigor)|diligence (vigor)]]
+- English：[[English/vigor|vigor]]
 - Tiếng Việt：[[TiếngViệt/tinh tiến|tinh tiến]]

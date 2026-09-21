@@ -16,5 +16,5 @@ Signifie que, sur la base de causes karmiques, les êtres subissent une successi
 
 ## Autres langues
 - 中文：[[中文/生死|生死]]
-- English：[[English/birth-and-death|birth-and-death]]
+- English：[[English/birth and death|birth and death]]
 - Tiếng Việt：[[TiếngViệt/sinh tử (sinh tử lưu chuyển)|sinh tử (sinh tử lưu chuyển)]]

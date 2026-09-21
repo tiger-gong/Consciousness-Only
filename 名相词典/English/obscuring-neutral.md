@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*nivṛtāvyākṛta*
 
 ## Explanation（English）
-Neither good nor bad (indeterminate), yet afflictions veil the true mind and obstruct the noble path—e.g., manas-consciousness and its concomitant afflictions.
+Neither good nor bad (indeterminate), yet passions veil the true mind and obstruct the noble path—e.g., manas and its concomitant passions.
 
 ## Other languages
 - 中文：[[中文/有覆无记|有覆无记]]

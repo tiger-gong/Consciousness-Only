@@ -16,5 +16,5 @@ Một trong các tâm sở bất định. Tứ là tứ sát: tư duy tinh tế 
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/伺|伺]]
-- English：[[English/sustained scrutiny (vicāra)|sustained scrutiny (vicāra)]]
+- English：[[English/sustained thought|sustained thought]]
 - Français：[[Français/investigation soutenue (vicāra)|investigation soutenue (vicāra)]]

@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*Sthiramati*
 
 ## Explanation（English）
-Skt. Sthiramati; one of the ten great masters of Consciousness-Only; established the one-portion theory of the substance of consciousness (the self-authenticating portion); authored a commentary on the Thirty Verses, etc.
+Skt. Sthiramati; one of the ten great masters of Consciousness-Only; established the one-part theory of the substance of consciousness (the self-authenticating part); authored a commentary on the Thirty Verses, etc.
 
 ## Other languages
 - 中文：[[中文/安慧|安慧]]

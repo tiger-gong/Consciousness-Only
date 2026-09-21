@@ -13,5 +13,5 @@ Dục, thắng giải, niệm, định, tuệ năm thứ, mỗi cái duyên cả
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/别境心所|别境心所]]
-- English：[[English/object-specific mental factors|object-specific mental factors]]
+- English：[[English/mental activities with specific objects|mental activities with specific objects]]
 - Français：[[Français/facteurs mentaux spécifiques à l'objet|facteurs mentaux spécifiques à l'objet]]

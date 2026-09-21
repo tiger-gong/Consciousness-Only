@@ -13,5 +13,5 @@ Duy Thức tông cho rằng tác dụng nhận thức của tâm thức có bố
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/识体四分|识体四分]]
-- English：[[English/four portions of the substance of consciousness|four portions of the substance of consciousness]]
+- English：[[English/four parts of consciousness|four parts of consciousness]]
 - Français：[[Français/quatre portions de la substance de la conscience|quatre portions de la substance de la conscience]]

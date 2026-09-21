@@ -16,5 +16,5 @@ Thức liễu biệt sinh khởi nương tỷ căn, duyên hương cảnh.
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/鼻识|鼻识]]
-- English：[[English/nose-consciousness|nose-consciousness]]
+- English：[[English/olfactory consciousness|olfactory consciousness]]
 - Français：[[Français/conscience olfactive|conscience olfactive]]

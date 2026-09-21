@@ -16,5 +16,5 @@ Một trong các tâm sở đại tùy phiền não. Giải đãi ngược với
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/懈怠|懈怠]]
-- English：[[English/laziness|laziness]]
+- English：[[English/indolence|indolence]]
 - Français：[[Français/paresse|paresse]]

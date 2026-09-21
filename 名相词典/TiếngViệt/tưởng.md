@@ -16,5 +16,5 @@ Một trong các biến hành tâm sở thuộc tâm sở hữu pháp. Tưởng 
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/想|想]]
-- English：[[English/perception (conception)|perception (conception)]]
+- English：[[English/conceptualization|conceptualization]]
 - Français：[[Français/perception (notion)|perception (notion)]]

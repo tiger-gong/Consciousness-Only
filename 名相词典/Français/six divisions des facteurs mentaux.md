@@ -13,5 +13,5 @@ Les six classifications des facteurs mentaux : universellement actifs (cinq), sp
 
 ## Autres langues
 - 中文：[[中文/六位心所|六位心所]]
-- English：[[English/six divisions of mental factors|six divisions of mental factors]]
+- English：[[English/six groups of mental activities|six groups of mental activities]]
 - Tiếng Việt：[[TiếngViệt/lục vị tâm sở|lục vị tâm sở]]

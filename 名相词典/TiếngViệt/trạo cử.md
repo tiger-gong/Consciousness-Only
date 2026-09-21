@@ -16,5 +16,5 @@ Một trong các tâm sở đại tùy phiền não. Trạo cử là tâm không
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/掉举|掉举]]
-- English：[[English/restlessness|restlessness]]
+- English：[[English/agitation|agitation]]
 - Français：[[Français/agitation|agitation]]

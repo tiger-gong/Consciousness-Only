@@ -16,5 +16,5 @@ Các phiền não lấy ngã chấp làm căn bản, có thể chướng ngại 
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/烦恼障|烦恼障]]
-- English：[[English/hindrance of afflictions|hindrance of afflictions]]
+- English：[[English/obstacle of the passions|obstacle of the passions]]
 - Français：[[Français/obstacle des afflictions|obstacle des afflictions]]

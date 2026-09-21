@@ -16,5 +16,5 @@ Là tên gọi chung của tâm pháp (tám tâm vương) và tâm sở hữu ph
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/心心所法|心心所法]]
-- English：[[English/mind and mental factors|mind and mental factors]]
+- English：[[English/mind and mental activities|mind and mental activities]]
 - Français：[[Français/esprit et facteurs mentaux|esprit et facteurs mentaux]]

@@ -16,5 +16,5 @@ tags:
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/色法|色法]]
-- English：[[English/form dharmas|form dharmas]]
+- English：[[English/form|form]]
 - Français：[[Français/dharmas de forme|dharmas de forme]]

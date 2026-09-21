@@ -16,5 +16,5 @@ Un facteur mental indéterminé. L'investigation soutenue est l'examen : réflex
 
 ## Autres langues
 - 中文：[[中文/伺|伺]]
-- English：[[English/sustained scrutiny (vicāra)|sustained scrutiny (vicāra)]]
+- English：[[English/sustained thought|sustained thought]]
 - Tiếng Việt：[[TiếngViệt/tứ|tứ]]

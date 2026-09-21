@@ -16,5 +16,5 @@ Khi niệm trước của tâm và tâm sở diệt, duyên đẳng vô gián kh
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/等无间缘|等无间缘]]
-- English：[[English/immediate-antecedent condition|immediate-antecedent condition]]
+- English：[[English/immediately antecedent condition|immediately antecedent condition]]
 - Français：[[Français/condition d'antécédent immédiat|condition d'antécédent immédiat]]

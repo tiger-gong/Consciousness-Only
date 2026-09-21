@@ -16,5 +16,5 @@ Dharmas contaminés qui comportent afflictions et souillure. « Fuite » (āsrav
 
 ## Autres langues
 - 中文：[[中文/有漏|有漏]]
-- English：[[English/contaminated (with outflows)|contaminated (with outflows)]]
+- English：[[English/impure|impure]]
 - Tiếng Việt：[[TiếngViệt/hữu lậu|hữu lậu]]

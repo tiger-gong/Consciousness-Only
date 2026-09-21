@@ -13,5 +13,5 @@ Les semences sont une doctrine établie par l'école des Caractéristiques des d
 
 ## Autres langues
 - 中文：[[中文/现行|现行]]
-- English：[[English/present activity (manifestation)|present activity (manifestation)]]
+- English：[[English/activity|activity]]
 - Tiếng Việt：[[TiếngViệt/hiện hành|hiện hành]]

@@ -16,5 +16,5 @@ L'un des facteurs mentaux salutaires parmi les facteurs mentaux. La non-convoiti
 
 ## Autres langues
 - 中文：[[中文/无贪|无贪]]
-- English：[[English/non-greed|non-greed]]
+- English：[[English/noncraving|noncraving]]
 - Tiếng Việt：[[TiếngViệt/vô tham|vô tham]]

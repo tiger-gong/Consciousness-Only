@@ -16,5 +16,5 @@ Thức liễu biệt sinh khởi nương nhĩ căn, duyên thanh cảnh.
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/耳识|耳识]]
-- English：[[English/ear-consciousness|ear-consciousness]]
+- English：[[English/auditory consciousness|auditory consciousness]]
 - Français：[[Français/conscience auditive|conscience auditive]]

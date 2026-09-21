@@ -16,5 +16,5 @@ Une des afflictions concomitantes moyennes parmi les facteurs mentaux. L'indéce
 
 ## Autres langues
 - 中文：[[中文/无愧|无愧]]
-- English：[[English/non-embarrassment|non-embarrassment]]
+- English：[[English/shamelessness|shamelessness]]
 - Tiếng Việt：[[TiếngViệt/vô quý|vô quý]]

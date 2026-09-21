@@ -16,5 +16,5 @@ Phạn ngữ bodhicitta, toàn xưng A-nậu-đa-la Tam-miệu Tam-bồ-đề t�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/菩提心|菩提心]]
-- English：[[English/mind of enlightenment|mind of enlightenment]]
+- English：[[English/thought of enlightenment|thought of enlightenment]]
 - Français：[[Français/esprit d'Éveil|esprit d'Éveil]]

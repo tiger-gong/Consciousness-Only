@@ -16,5 +16,5 @@ Parmi les cent dharmas en cinq catégories du Yogācāra, une grande affliction 
 
 ## Autres langues
 - 中文：[[中文/不信|不信]]
-- English：[[English/lack of faith|lack of faith]]
+- English：[[English/unbelief|unbelief]]
 - Tiếng Việt：[[TiếngViệt/bất tín|bất tín]]

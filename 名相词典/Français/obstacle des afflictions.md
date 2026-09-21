@@ -16,5 +16,5 @@ Les afflictions ayant pour racine la saisie d'un soi, qui font obstacle au nirv�
 
 ## Autres langues
 - 中文：[[中文/烦恼障|烦恼障]]
-- English：[[English/hindrance of afflictions|hindrance of afflictions]]
+- English：[[English/obstacle of the passions|obstacle of the passions]]
 - Tiếng Việt：[[TiếngViệt/phiền não chướng|phiền não chướng]]

@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*ātma-grāha*
 
 ## Explanation（English）
-The deluded grasping that clings to a real self. Divided into innate grasping at a self (present from birth, subtle and hard to sever) and discriminative grasping at a self (arising from wrong teachings and wrong thought, coarse and easier to sever). The seventh manas-consciousness constantly grasps the perceiving portion of the eighth consciousness as a self—this is the root of innate grasping at a self; the sixth mental consciousness can also give rise to grasping at a self. Grasping at a self is the basis of the hindrance of afflictions.
+The deluded grasping that clings to a real self. Divided into innate grasping at a self (present from birth, subtle and hard to sever) and discriminative grasping at a self (arising from wrong teachings and wrong thought, coarse and easier to sever). The seventh manas constantly grasps the seeing part of the eighth consciousness as a self—this is the root of innate grasping at a self; the sixth mental consciousness can also give rise to grasping at a self. Grasping at a self is the basis of the obstacle of the passions.
 
 ## Other languages
 - 中文：[[中文/我执|我执]]

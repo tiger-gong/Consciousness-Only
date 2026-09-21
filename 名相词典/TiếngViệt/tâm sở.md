@@ -16,5 +16,5 @@ Phạn ngữ caitta, toàn xưng tâm sở hữu pháp, chỉ các tác dụng t
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/心所|心所]]
-- English：[[English/mental factors|mental factors]]
+- English：[[English/mental activities|mental activities]]
 - Français：[[Français/facteurs mentaux|facteurs mentaux]]

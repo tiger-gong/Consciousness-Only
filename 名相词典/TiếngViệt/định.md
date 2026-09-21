@@ -16,5 +16,5 @@ Một trong các biệt cảnh tâm sở thuộc tâm sở hữu pháp. Định,
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/定|定]]
-- English：[[English/concentration|concentration]]
+- English：[[English/samādhi|samādhi]]
 - Français：[[Français/concentration (samādhi)|concentration (samādhi)]]

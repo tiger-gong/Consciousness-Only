@@ -13,5 +13,5 @@ Tức năm biến hành tâm sở, chu biến hết thảy tâm hành.
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/遍行心所|遍行心所]]
-- English：[[English/universally active mental factors|universally active mental factors]]
+- English：[[English/universal mental activities|universal mental activities]]
 - Français：[[Français/facteurs mentaux universellement actifs|facteurs mentaux universellement actifs]]

@@ -16,5 +16,5 @@ Une des grandes afflictions concomitantes parmi les facteurs mentaux. La néglig
 
 ## Autres langues
 - 中文：[[中文/放逸|放逸]]
-- English：[[English/laxity (heedlessness)|laxity (heedlessness)]]
+- English：[[English/negligence|negligence]]
 - Tiếng Việt：[[TiếngViệt/phóng dật|phóng dật]]

@@ -9,7 +9,7 @@ tags:
 # eighth consciousness
 
 ## Explanation（English）
-That is, the ālaya-consciousness, the eighth of the eight consciousnesses—the root of all the consciousnesses and the storehouse of seeds. It manifests the body-with-faculties and the receptacle-world and is the basis for the continuity of life and the arising of the myriad dharmas.
+That is, the ālaya-consciousness, the eighth of the eight consciousnesses—the root of all the consciousnesses and the store of seeds. It manifests the body-with-faculties and the receptacle-world and is the basis for the continuity of life and the arising of the myriad dharmas.
 
 ## Other languages
 - 中文：[[中文/第八识|第八识]]

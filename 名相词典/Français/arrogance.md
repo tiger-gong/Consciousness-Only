@@ -16,5 +16,5 @@ Une des petites afflictions concomitantes parmi les facteurs mentaux. L'arroganc
 
 ## Autres langues
 - 中文：[[中文/憍|憍]]
-- English：[[English/haughtiness|haughtiness]]
+- English：[[English/vanity|vanity]]
 - Tiếng Việt：[[TiếngViệt/kiêu|kiêu]]

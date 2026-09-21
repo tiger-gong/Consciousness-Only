@@ -16,5 +16,5 @@ Một trong các tâm sở phiền não căn bản. Tham là tác dụng tinh th
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/贪|贪]]
-- English：[[English/greed|greed]]
+- English：[[English/craving|craving]]
 - Français：[[Français/convoitise|convoitise]]

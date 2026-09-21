@@ -16,5 +16,5 @@ Vô phân biệt trí: thân chứng chân như, xa lìa phân biệt năng sở
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/无分别智|无分别智]]
-- English：[[English/non-discriminating wisdom|non-discriminating wisdom]]
+- English：[[English/nondiscriminative knowledge|nondiscriminative knowledge]]
 - Français：[[Français/sagesse non discriminative|sagesse non discriminative]]

@@ -16,5 +16,5 @@ Một trong các thiện tâm sở thuộc tâm sở hữu pháp. Thân tâm an 
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/轻安|轻安]]
-- English：[[English/pliancy (ease)|pliancy (ease)]]
+- English：[[English/serenity|serenity]]
 - Français：[[Français/flexibilité (aisance)|flexibilité (aisance)]]

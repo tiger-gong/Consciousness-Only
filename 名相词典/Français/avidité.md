@@ -16,5 +16,5 @@ Sanskrit rāga, l'un des trois poisons et l'une des six afflictions-racines. C'e
 
 ## Autres langues
 - 中文：[[中文/贪|贪]]
-- English：[[English/greed|greed]]
+- English：[[English/craving|craving]]
 - Tiếng Việt：[[TiếngViệt/tham|tham]]

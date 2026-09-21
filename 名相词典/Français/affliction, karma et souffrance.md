@@ -16,5 +16,5 @@ Désigne les trois—l'affliction (illusion), le karma (fabrication) et la souff
 
 ## Autres langues
 - 中文：[[中文/惑业苦|惑业苦]]
-- English：[[English/affliction, karma, and suffering|affliction, karma, and suffering]]
+- English：[[English/passion, karma, and suffering|passion, karma, and suffering]]
 - Tiếng Việt：[[TiếngViệt/Hoặc, Nghiệp, Khổ|Hoặc, Nghiệp, Khổ]]

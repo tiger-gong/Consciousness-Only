@@ -16,5 +16,5 @@ Lấy pháp chấp làm căn bản, có thể chướng ngại bồ-đề (giác
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/所知障|所知障]]
-- English：[[English/hindrance to the knowable|hindrance to the knowable]]
+- English：[[English/obstacle to the knowable|obstacle to the knowable]]
 - Français：[[Français/obstacle au connaissable|obstacle au connaissable]]

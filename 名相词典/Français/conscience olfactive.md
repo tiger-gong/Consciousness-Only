@@ -16,5 +16,5 @@ Conscience discriminante qui naît en s'appuyant sur la faculté olfactive, pren
 
 ## Autres langues
 - 中文：[[中文/鼻识|鼻识]]
-- English：[[English/nose-consciousness|nose-consciousness]]
+- English：[[English/olfactory consciousness|olfactory consciousness]]
 - Tiếng Việt：[[TiếngViệt/tỷ thức|tỷ thức]]

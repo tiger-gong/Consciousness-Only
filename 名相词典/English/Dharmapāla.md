@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*Dharmapāla*
 
 ## Explanation（English）
-Skt. Dharmapāla; one of the ten great masters; established the four-portion theory of the substance of consciousness; his teaching passed through Śīlabhadra to Xuanzang and was taken as the orthodox view in the Cheng weishi lun.
+Skt. Dharmapāla; one of the ten great masters; established the four-part theory of the substance of consciousness; his teaching passed through Śīlabhadra to Xuanzang and was taken as the orthodox view in the Cheng weishi lun.
 
 ## Other languages
 - 中文：[[中文/护法|护法]]

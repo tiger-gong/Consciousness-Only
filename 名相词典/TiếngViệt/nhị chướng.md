@@ -13,5 +13,5 @@ Tên gọi chung của phiền não chướng và sở tri chướng.
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/二障|二障]]
-- English：[[English/two hindrances|two hindrances]]
+- English：[[English/two obstacles|two obstacles]]
 - Français：[[Français/deux obstacles|deux obstacles]]

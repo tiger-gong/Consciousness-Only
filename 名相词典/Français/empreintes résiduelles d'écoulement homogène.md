@@ -13,5 +13,5 @@ Voir semences des noms-et-paroles. Empreintes résiduelles capables d'induire de
 
 ## Autres langues
 - 中文：[[中文/等流习气|等流习气]]
-- English：[[English/homogeneous-outflow residual impressions|homogeneous-outflow residual impressions]]
+- English：[[English/habit energy of equal flow|habit energy of equal flow]]
 - Tiếng Việt：[[TiếngViệt/đẳng lưu tập khí|đẳng lưu tập khí]]

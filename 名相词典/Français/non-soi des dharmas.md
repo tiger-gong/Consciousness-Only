@@ -16,5 +16,5 @@ L'une des deux absences-de-soi, pendant de l'« absence-de-soi des personnes ».
 
 ## Autres langues
 - 中文：[[中文/法无我|法无我]]
-- English：[[English/selflessness of dharmas|selflessness of dharmas]]
+- English：[[English/emptiness of dharmas|emptiness of dharmas]]
 - Tiếng Việt：[[TiếngViệt/pháp vô ngã|pháp vô ngã]]

@@ -16,5 +16,5 @@ Vipāka, maturation d'une espèce différente : la cause peut être bonne ou mau
 
 ## Autres langues
 - 中文：[[中文/异熟|异熟]]
-- English：[[English/maturation (ripened result)|maturation (ripened result)]]
+- English：[[English/retribution|retribution]]
 - Tiếng Việt：[[TiếngViệt/dị thục|dị thục]]

@@ -16,5 +16,5 @@ Một trong các tâm sở tiểu tùy phiền não. Xan là keo kiệt: tài v�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/悭|悭]]
-- English：[[English/stinginess|stinginess]]
+- English：[[English/avarice|avarice]]
 - Français：[[Français/avarice|avarice]]

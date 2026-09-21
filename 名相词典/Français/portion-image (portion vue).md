@@ -16,5 +16,5 @@ L'une des quatre portions des dharmas-esprit : l'apparence objective manifestée
 
 ## Autres langues
 - 中文：[[中文/相分|相分]]
-- English：[[English/image portion (seen portion)|image portion (seen portion)]]
+- English：[[English/seen part|seen part]]
 - Tiếng Việt：[[TiếngViệt/tướng phần|tướng phần]]

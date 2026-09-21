@@ -16,5 +16,5 @@ Chỉ thật thể chân thật trùm khắp vũ trụ; là căn nguyên của h
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/真如|真如]]
-- English：[[English/suchness|suchness]]
+- English：[[English/true suchness|true suchness]]
 - Français：[[Français/ainsité|ainsité]]

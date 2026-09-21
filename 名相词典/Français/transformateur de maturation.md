@@ -13,5 +13,5 @@ L'un des trois transformateurs du Rien-que-conscience ; le transformateur de mat
 
 ## Autres langues
 - 中文：[[中文/异熟能变|异熟能变]]
-- English：[[English/maturation transformer|maturation transformer]]
+- English：[[English/transformer as retribution|transformer as retribution]]
 - Tiếng Việt：[[TiếngViệt/dị thục năng biến|dị thục năng biến]]

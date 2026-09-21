@@ -16,5 +16,5 @@ Thức liễu biệt sinh khởi nương thân căn, duyên xúc cảnh.
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/身识|身识]]
-- English：[[English/body-consciousness|body-consciousness]]
+- English：[[English/tactile consciousness|tactile consciousness]]
 - Français：[[Français/conscience corporelle|conscience corporelle]]

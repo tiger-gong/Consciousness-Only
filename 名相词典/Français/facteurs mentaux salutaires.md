@@ -13,5 +13,5 @@ Foi, diligence, honte, pudeur, non-avidité, non-haine, non-ignorance, souplesse
 
 ## Autres langues
 - 中文：[[中文/善心所|善心所]]
-- English：[[English/wholesome mental factors|wholesome mental factors]]
+- English：[[English/good mental activities|good mental activities]]
 - Tiếng Việt：[[TiếngViệt/thiện tâm sở|thiện tâm sở]]

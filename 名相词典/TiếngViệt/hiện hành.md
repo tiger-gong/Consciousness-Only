@@ -13,5 +13,5 @@ Chủng tử là thuyết do Pháp Tướng tông lập: công năng tiềm ẩn
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/现行|现行]]
-- English：[[English/present activity (manifestation)|present activity (manifestation)]]
+- English：[[English/activity|activity]]
 - Français：[[Français/activité présente (manifestation)|activité présente (manifestation)]]

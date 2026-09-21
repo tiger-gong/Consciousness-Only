@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*Śrāvaka*
 
 ## Explanation（English）
-Sanskrit Śrāvaka, meaning one who awakens to the Way by hearing the Buddha's spoken teaching. Contemplating the Four Truths and severing the afflictions of views and thought, such a one realizes the fruit of arhatship; one of the two vehicles.
+Sanskrit Śrāvaka, meaning one who awakens to the Way by hearing the Buddha's spoken teaching. Contemplating the Four Truths and severing the passions of views and thought, such a one realizes the fruit of arhatship; one of the two vehicles.
 
 ## Other languages
 - 中文：[[中文/声闻|声闻]]

@@ -16,5 +16,5 @@ Ayant pour racine la saisie des dharmas, il fait obstacle à la bodhi (l'éveil)
 
 ## Autres langues
 - 中文：[[中文/所知障|所知障]]
-- English：[[English/hindrance to the knowable|hindrance to the knowable]]
+- English：[[English/obstacle to the knowable|obstacle to the knowable]]
 - Tiếng Việt：[[TiếngViệt/sở tri chướng|sở tri chướng]]

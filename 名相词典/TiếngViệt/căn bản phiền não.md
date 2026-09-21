@@ -16,5 +16,5 @@ Tham, sân, si, mạn, nghi, ác kiến sáu thứ, là căn bản của hết t
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/根本烦恼|根本烦恼]]
-- English：[[English/root afflictions|root afflictions]]
+- English：[[English/fundamental passions|fundamental passions]]
 - Français：[[Français/afflictions-racines|afflictions-racines]]

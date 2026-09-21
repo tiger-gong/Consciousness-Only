@@ -16,5 +16,5 @@ Hết thảy pháp trong vũ trụ về cơ bản có thể chia làm hai loại
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/心法|心法]]
-- English：[[English/mind dharmas|mind dharmas]]
+- English：[[English/mind|mind]]
 - Français：[[Français/dharmas de l'esprit|dharmas de l'esprit]]

@@ -16,5 +16,5 @@ L'un des facteurs mentaux spécifiques à l'objet parmi les facteurs mentaux. La
 
 ## Autres langues
 - 中文：[[中文/定|定]]
-- English：[[English/concentration|concentration]]
+- English：[[English/samādhi|samādhi]]
 - Tiếng Việt：[[TiếngViệt/định|định]]

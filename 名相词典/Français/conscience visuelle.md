@@ -16,5 +16,5 @@ Conscience discriminante qui naît en s'appuyant sur la faculté visuelle, prena
 
 ## Autres langues
 - 中文：[[中文/眼识|眼识]]
-- English：[[English/eye-consciousness|eye-consciousness]]
+- English：[[English/visual consciousness|visual consciousness]]
 - Tiếng Việt：[[TiếngViệt/nhãn thức|nhãn thức]]

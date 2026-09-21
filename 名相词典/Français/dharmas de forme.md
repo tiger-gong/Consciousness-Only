@@ -16,5 +16,5 @@ Le pendant des « dharmas-esprit ». Tous les dharmas se répartissent selon les
 
 ## Autres langues
 - 中文：[[中文/色法|色法]]
-- English：[[English/form dharmas|form dharmas]]
+- English：[[English/form|form]]
 - Tiếng Việt：[[TiếngViệt/sắc pháp|sắc pháp]]

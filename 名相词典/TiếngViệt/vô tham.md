@@ -16,5 +16,5 @@ Một trong các thiện tâm sở thuộc tâm sở hữu pháp. Đối với t
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/无贪|无贪]]
-- English：[[English/non-greed|non-greed]]
+- English：[[English/noncraving|noncraving]]
 - Français：[[Français/non-convoitise|non-convoitise]]

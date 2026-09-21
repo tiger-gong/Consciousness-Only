@@ -9,7 +9,7 @@ tags:
 # causal transformer
 
 ## Explanation（English）
-Counterpart of the resultant transformer. It refers to the causal seeds that produce all dharmas, stored in the eighth, ālaya (storehouse-consciousness); from these seeds, dharmas can transform and presently arise. The “transform” of causal transformer means changing and generative transformation. It includes homogeneous-stream permeations (name-and-word seeds, direct causal condition) and maturation permeations (karma seeds, remote causal condition). See Cheng weishi lun, fascicle 2.
+Counterpart of the resultant transformer. It refers to the causal seeds that produce all dharmas, stored in the eighth, ālaya (store consciousness); from these seeds, dharmas can transform and presently arise. The “transform” of causal transformer means changing and generative transformation. It includes homogeneous-stream permeations (name-and-word seeds, direct causal condition) and retribution permeations (karma seeds, remote causal condition). See Cheng weishi lun, fascicle 2.
 
 ## Other languages
 - 中文：[[中文/因能变|因能变]]

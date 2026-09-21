@@ -16,5 +16,5 @@ Một trong các tâm sở tiểu tùy phiền não. Kiêu là kiêu ngạo: do 
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/憍|憍]]
-- English：[[English/haughtiness|haughtiness]]
+- English：[[English/vanity|vanity]]
 - Français：[[Français/arrogance|arrogance]]

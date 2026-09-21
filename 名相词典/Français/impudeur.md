@@ -16,5 +16,5 @@ Une des afflictions concomitantes moyennes parmi les facteurs mentaux. L'impudeu
 
 ## Autres langues
 - 中文：[[中文/无惭|无惭]]
-- English：[[English/shamelessness|shamelessness]]
+- English：[[English/lack of conscience|lack of conscience]]
 - Tiếng Việt：[[TiếngViệt/vô tàm|vô tàm]]

@@ -16,5 +16,5 @@ Một trong các tâm sở bất định. Miên tức ngủ: hôn mê không t�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/眠|眠]]
-- English：[[English/sleep (drowsiness)|sleep (drowsiness)]]
+- English：[[English/sloth|sloth]]
 - Français：[[Français/sommeil (assoupissement)|sommeil (assoupissement)]]

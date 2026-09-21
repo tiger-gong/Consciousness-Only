@@ -16,5 +16,5 @@ Một trong năm mươi một tâm sở do Duy thức tông lập: tác dụng t
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/不正知|不正知]]
-- English：[[English/non-introspection (incorrect knowing)|non-introspection (incorrect knowing)]]
+- English：[[English/incorrect knowing|incorrect knowing]]
 - Français：[[Français/non-introspection|non-introspection]]

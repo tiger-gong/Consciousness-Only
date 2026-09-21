@@ -16,5 +16,5 @@ Phàm có lực dụng mạnh mẽ, có thể giúp pháp khác sinh khởi ho�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/增上缘|增上缘]]
-- English：[[English/predominant condition|predominant condition]]
+- English：[[English/dominant condition|dominant condition]]
 - Français：[[Français/condition prédominante|condition prédominante]]

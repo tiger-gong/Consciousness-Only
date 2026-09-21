@@ -16,5 +16,5 @@ Sanskrit bodhicitta, pleinement « l'esprit de l'anuttarā-samyak-saṃbodhi »�
 
 ## Autres langues
 - 中文：[[中文/菩提心|菩提心]]
-- English：[[English/mind of enlightenment|mind of enlightenment]]
+- English：[[English/thought of enlightenment|thought of enlightenment]]
 - Tiếng Việt：[[TiếngViệt/Bồ-đề tâm|Bồ-đề tâm]]

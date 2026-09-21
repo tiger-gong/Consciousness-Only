@@ -16,5 +16,5 @@ Một trong năm mươi mốt tâm sở hữu pháp của Duy Thức tông, là 
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/不放逸|不放逸]]
-- English：[[English/carefulness (non-laxity)|carefulness (non-laxity)]]
+- English：[[English/vigilance|vigilance]]
 - Français：[[Français/vigilance (non-négligence)|vigilance (non-négligence)]]

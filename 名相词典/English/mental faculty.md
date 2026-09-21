@@ -12,7 +12,7 @@ tags:
 **梵 / Sanskrit**：*mana-indriya*
 
 ## Explanation（English）
-The seventh, manas-consciousness, as the faculty on which the sixth, mind-consciousness, depends—hence called the mental faculty. It constantly and scrutinizingly deliberates, grasping the seeing-portion of the eighth as a self.
+The seventh, manas, as the faculty on which the sixth, mind-consciousness, depends—hence called the mental faculty. It constantly and scrutinizingly deliberates, grasping the seeing-part of the eighth as a self.
 
 ## Other languages
 - 中文：[[中文/意根|意根]]

@@ -16,5 +16,5 @@ Là tên gọi chung của nhân và duyên, một trong bốn duyên do Duy Th�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/因缘|因缘]]
-- English：[[English/causes and conditions|causes and conditions]]
+- English：[[English/condition as cause|condition as cause]]
 - Français：[[Français/causes et conditions|causes et conditions]]

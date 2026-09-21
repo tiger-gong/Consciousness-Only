@@ -17,5 +17,5 @@ tags:
 
 ## Các ngôn ngữ khác
 - 中文：[[名相词典/中文/四分|四分]]
-- English：[[名相词典/English/four portions|four portions]]
+- English：[[名相词典/English/four parts|four parts]]
 - Français：[[名相词典/Français/quatre portions|quatre portions]]

@@ -16,5 +16,5 @@ Thức liễu biệt sinh khởi nương thiệt căn, duyên vị cảnh.
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/舌识|舌识]]
-- English：[[English/tongue-consciousness|tongue-consciousness]]
+- English：[[English/gustatory consciousness|gustatory consciousness]]
 - Français：[[Français/conscience gustative|conscience gustative]]

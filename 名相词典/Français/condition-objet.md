@@ -16,5 +16,5 @@ L'objet pris comme condition, capable d'attirer l'esprit cognisant. Se divise en
 
 ## Autres langues
 - 中文：[[中文/所缘缘|所缘缘]]
-- English：[[English/object-as-condition|object-as-condition]]
+- English：[[English/condition as perceptual object|condition as perceptual object]]
 - Tiếng Việt：[[TiếngViệt/sở duyên duyên|sở duyên duyên]]

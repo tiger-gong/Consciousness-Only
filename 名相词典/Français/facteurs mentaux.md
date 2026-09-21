@@ -16,5 +16,5 @@ Sanskrit caitta, pleinement « dharmas facteurs mentaux », désignant les fonct
 
 ## Autres langues
 - 中文：[[中文/心所|心所]]
-- English：[[English/mental factors|mental factors]]
+- English：[[English/mental activities|mental activities]]
 - Tiếng Việt：[[TiếngViệt/tâm sở|tâm sở]]

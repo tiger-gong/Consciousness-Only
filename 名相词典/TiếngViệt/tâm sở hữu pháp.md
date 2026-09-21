@@ -16,5 +16,5 @@ Gọi tắt tâm sở: chỉ các tác dụng tâm lý phụ thuộc tâm vươn
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/心所有法|心所有法]]
-- English：[[English/mental-factor dharmas|mental-factor dharmas]]
+- English：[[English/dharmas that are mental activities|dharmas that are mental activities]]
 - Français：[[Français/dharmas facteurs mentaux|dharmas facteurs mentaux]]

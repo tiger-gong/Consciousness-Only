@@ -16,5 +16,5 @@ Một trong mười một thiện tâm sở của Duy Thức tông, lược gọ
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/行舍|行舍]]
-- English：[[English/equanimity (of formations)|equanimity (of formations)]]
+- English：[[English/indifference|indifference]]
 - Français：[[Français/équanimité (des formations)|équanimité (des formations)]]

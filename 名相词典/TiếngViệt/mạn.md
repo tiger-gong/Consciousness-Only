@@ -16,5 +16,5 @@ Một trong bảy mạn. So sánh mình với người về cao thấp, hơn ké
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/慢|慢]]
-- English：[[English/conceit (pride)|conceit (pride)]]
+- English：[[English/pride|pride]]
 - Français：[[Français/orgueil|orgueil]]

@@ -16,5 +16,5 @@ Một trong các tâm sở tiểu tùy phiền não. Não là não nộ: sau ph�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/恼|恼]]
-- English：[[English/spite (vexation)|spite (vexation)]]
+- English：[[English/vexation|vexation]]
 - Français：[[Français/malveillance (irritation)|malveillance (irritation)]]

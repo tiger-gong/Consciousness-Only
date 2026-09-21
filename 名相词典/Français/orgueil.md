@@ -16,5 +16,5 @@ L'un des sept orgueils. Comparer sa hauteur ou bassesse, excellence ou inférior
 
 ## Autres langues
 - 中文：[[中文/慢|慢]]
-- English：[[English/conceit (pride)|conceit (pride)]]
+- English：[[English/pride|pride]]
 - Tiếng Việt：[[TiếngViệt/mạn|mạn]]

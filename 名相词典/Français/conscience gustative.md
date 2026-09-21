@@ -16,5 +16,5 @@ Conscience discriminante qui naît en s'appuyant sur la faculté gustative, pren
 
 ## Autres langues
 - 中文：[[中文/舌识|舌识]]
-- English：[[English/tongue-consciousness|tongue-consciousness]]
+- English：[[English/gustatory consciousness|gustatory consciousness]]
 - Tiếng Việt：[[TiếngViệt/thiệt thức|thiệt thức]]

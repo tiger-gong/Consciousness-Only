@@ -16,5 +16,5 @@ L'un des facteurs mentaux universellement actifs parmi les facteurs mentaux. La 
 
 ## Autres langues
 - 中文：[[中文/想|想]]
-- English：[[English/perception (conception)|perception (conception)]]
+- English：[[English/conceptualization|conceptualization]]
 - Tiếng Việt：[[TiếngViệt/tưởng|tưởng]]

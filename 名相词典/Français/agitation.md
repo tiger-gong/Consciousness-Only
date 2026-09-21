@@ -16,5 +16,5 @@ Une des grandes afflictions concomitantes parmi les facteurs mentaux. L'agitatio
 
 ## Autres langues
 - 中文：[[中文/掉举|掉举]]
-- English：[[English/restlessness|restlessness]]
+- English：[[English/agitation|agitation]]
 - Tiếng Việt：[[TiếngViệt/trạo cử|trạo cử]]

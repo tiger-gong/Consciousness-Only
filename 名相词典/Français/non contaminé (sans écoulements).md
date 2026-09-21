@@ -16,5 +16,5 @@ Dharmas non contaminés, libres d'afflictions, purs et sans souillure—p. ex. l
 
 ## Autres langues
 - 中文：[[中文/无漏|无漏]]
-- English：[[English/uncontaminated (without outflows)|uncontaminated (without outflows)]]
+- English：[[English/pure|pure]]
 - Tiếng Việt：[[TiếngViệt/vô lậu|vô lậu]]

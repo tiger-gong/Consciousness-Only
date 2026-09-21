@@ -16,5 +16,5 @@ Duy thức tông lập ngũ vị bách pháp; đây là một trong các tâm s�
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/不信|不信]]
-- English：[[English/lack of faith|lack of faith]]
+- English：[[English/unbelief|unbelief]]
 - Français：[[Français/défaut de foi|défaut de foi]]

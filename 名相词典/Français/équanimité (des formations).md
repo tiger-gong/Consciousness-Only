@@ -16,5 +16,5 @@ L'un des onze facteurs mentaux salutaires de l'école du Rien-que-conscience ; a
 
 ## Autres langues
 - 中文：[[中文/行舍|行舍]]
-- English：[[English/equanimity (of formations)|equanimity (of formations)]]
+- English：[[English/indifference|indifference]]
 - Tiếng Việt：[[TiếngViệt/hành xả|hành xả]]

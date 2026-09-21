@@ -16,5 +16,5 @@ Une des petites afflictions concomitantes parmi les facteurs mentaux. La tromper
 
 ## Autres langues
 - 中文：[[中文/诳|诳]]
-- English：[[English/deception|deception]]
+- English：[[English/deceit|deceit]]
 - Tiếng Việt：[[TiếngViệt/cuống|cuống]]

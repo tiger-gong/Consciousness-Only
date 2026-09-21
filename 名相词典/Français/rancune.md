@@ -16,5 +16,5 @@ La deuxième des petites afflictions concomitantes parmi les facteurs mentaux. L
 
 ## Autres langues
 - 中文：[[中文/恨|恨]]
-- English：[[English/resentment|resentment]]
+- English：[[English/hostility|hostility]]
 - Tiếng Việt：[[TiếngViệt/hận|hận]]

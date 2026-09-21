@@ -16,5 +16,5 @@ Cũng gọi viên thành thật tướng, là một trong ba tự tính của Du
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/圆成实性|圆成实性]]
-- English：[[English/perfectly accomplished nature|perfectly accomplished nature]]
+- English：[[English/perfected nature|perfected nature]]
 - Français：[[Français/nature parfaitement accomplie|nature parfaitement accomplie]]

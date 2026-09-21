@@ -16,5 +16,5 @@ Phạn ngữ pudgala-nairātmya, một trong hai vô ngã. Nói sinh mệnh củ
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/人无我|人无我]]
-- English：[[English/selflessness of persons|selflessness of persons]]
+- English：[[English/absence of self|absence of self]]
 - Français：[[Français/non-soi des personnes|non-soi des personnes]]

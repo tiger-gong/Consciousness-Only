@@ -16,5 +16,5 @@ Une des petites afflictions concomitantes parmi les facteurs mentaux. La dissimu
 
 ## Autres langues
 - 中文：[[中文/覆|覆]]
-- English：[[English/concealment (of faults)|concealment (of faults)]]
+- English：[[English/dissimulation|dissimulation]]
 - Tiếng Việt：[[TiếngViệt/phú|phú]]

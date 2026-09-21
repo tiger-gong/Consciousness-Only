@@ -16,5 +16,5 @@ Một trong mười một thiện tâm sở thuộc tâm sở hữu pháp. Cũng
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/精进|精进]]
-- English：[[English/diligence (vigor)|diligence (vigor)]]
+- English：[[English/vigor|vigor]]
 - Français：[[Français/énergie (diligence)|énergie (diligence)]]

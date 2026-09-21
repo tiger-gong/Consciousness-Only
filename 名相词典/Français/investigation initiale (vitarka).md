@@ -16,5 +16,5 @@ Un facteur mental indéterminé. L'investigation initiale est la recherche : ré
 
 ## Autres langues
 - 中文：[[中文/寻|寻]]
-- English：[[English/initial inquiry (vitarka)|initial inquiry (vitarka)]]
+- English：[[English/applied thought|applied thought]]
 - Tiếng Việt：[[TiếngViệt/tầm|tầm]]

@@ -16,5 +16,5 @@ La rétribution indéterminée suscitée par les causes-vipāka (karma bon et ma
 
 ## Autres langues
 - 中文：[[中文/异熟果|异熟果]]
-- English：[[English/matured fruit|matured fruit]]
+- English：[[English/result of retribution|result of retribution]]
 - Tiếng Việt：[[TiếngViệt/dị thục quả|dị thục quả]]

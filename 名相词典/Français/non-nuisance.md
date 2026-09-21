@@ -16,5 +16,5 @@ La non-nuisance désigne le fait de ne tuer ni blesser aucun être vivant. Dans 
 
 ## Autres langues
 - 中文：[[中文/不害|不害]]
-- English：[[English/non-harming|non-harming]]
+- English：[[English/harmlessness|harmlessness]]
 - Tiếng Việt：[[TiếngViệt/bất hại|bất hại]]

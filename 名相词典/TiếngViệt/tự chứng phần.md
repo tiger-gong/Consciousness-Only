@@ -16,5 +16,5 @@ Cũng gọi tự thể phần, là phần thứ ba trong thức thể tứ phầ
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/自证分|自证分]]
-- English：[[English/self-aware portion|self-aware portion]]
+- English：[[English/self-authenticating part|self-authenticating part]]
 - Français：[[Français/portion d'auto-connaissance|portion d'auto-connaissance]]

@@ -16,5 +16,5 @@ Một trong các thiện tâm sở thuộc tâm sở hữu pháp. Quý là tâm 
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/愧|愧]]
-- English：[[English/embarrassment (regard for others)|embarrassment (regard for others)]]
+- English：[[English/sense of shame|sense of shame]]
 - Français：[[Français/décence (égard pour autrui)|décence (égard pour autrui)]]

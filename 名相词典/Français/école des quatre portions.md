@@ -13,5 +13,5 @@ La doctrine des quatre portions de la substance de la conscience est tenue pour 
 
 ## Autres langues
 - 中文：[[中文/四分家|四分家]]
-- English：[[English/four-portion school|four-portion school]]
+- English：[[English/four-part school|four-part school]]
 - Tiếng Việt：[[TiếngViệt/tứ phần gia|tứ phần gia]]

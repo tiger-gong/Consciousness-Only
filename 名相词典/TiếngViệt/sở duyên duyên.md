@@ -16,5 +16,5 @@ Cảnh sở duyên làm duyên, có thể dẫn khởi tâm năng duyên. Chia t
 
 ## Các ngôn ngữ khác
 - 中文：[[中文/所缘缘|所缘缘]]
-- English：[[English/object-as-condition|object-as-condition]]
+- English：[[English/condition as perceptual object|condition as perceptual object]]
 - Français：[[Français/condition-objet|condition-objet]]

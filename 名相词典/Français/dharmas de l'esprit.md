@@ -16,5 +16,5 @@ Tous les dharmas de l'univers peuvent fondamentalement se répartir en deux gran
 
 ## Autres langues
 - 中文：[[中文/心法|心法]]
-- English：[[English/mind dharmas|mind dharmas]]
+- English：[[English/mind|mind]]
 - Tiếng Việt：[[TiếngViệt/tâm pháp|tâm pháp]]
