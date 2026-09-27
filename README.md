@@ -7,6 +7,7 @@ Multilingual study materials for Yogācāra / *Consciousness-Only* (*vijñaptim�
 | Path | Description |
 |------|-------------|
 | `Hundred Dharmas/` | Lecture notes (ZH / EN / FR / VI parallel) |
+| `Hundred Dharmas/100 Dharmas.epub` | Four-language parallel EPUB (lectures 1–22, tap-to-read glossary) |
 | `名相词典/` | Glossary notes in Chinese, English, French, Vietnamese |
 | `_build/` | Scripts and data to regenerate glossary notes |
 
@@ -14,7 +15,7 @@ Multilingual study materials for Yogācāra / *Consciousness-Only* (*vijñaptim�
 
 - **Read**: public repository — anyone may browse and clone.
 - **Write**: work on your own branch (or a fork), then open a pull request to `main`.
-- Please do not push large copyrighted binaries (PDF / EPUB / DOC) into this repo.
+- Please do not push copyrighted source binaries (PDF / DOC / scans). The built `Hundred Dharmas/100 Dharmas.epub` is the published reading copy.
 
 ## Regenerating the glossary
 

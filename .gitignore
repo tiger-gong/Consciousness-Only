@@ -6,6 +6,7 @@
 # Root study materials not in scope (binaries & excerpts)
 *.pdf
 *.epub
+!Hundred Dharmas/100 Dharmas.epub
 *.pages
 *.docx
 *.doc
