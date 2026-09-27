@@ -29,6 +29,18 @@ FILES = [
     'Hundred Dharmas NO.8.md',
     'Hundred Dharmas NO.9.md',
     'Hundred Dharmas NO.10.md',
+    'Hundred Dharmas NO.11.md',
+    'Hundred Dharmas NO.12.md',
+    'Hundred Dharmas NO.13.md',
+    'Hundred Dharmas NO.14.md',
+    'Hundred Dharmas NO.15.md',
+    'Hundred Dharmas NO.16.md',
+    'Hundred Dharmas NO.17.md',
+    'Hundred Dharmas NO.18.md',
+    'Hundred Dharmas NO.19.md',
+    'Hundred Dharmas NO.20.md',
+    'Hundred Dharmas NO.21.md',
+    'Hundred Dharmas NO.22.md',
 ]
 FOLDER = {'zh': '中文', 'en': 'English', 'fr': 'Français', 'vi': 'TiếngViệt'}
 BLOCK_START = {
