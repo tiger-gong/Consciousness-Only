@@ -104,9 +104,15 @@ def load_glossary():
                     aliases = re.findall(r"- (.+)", am.group(1))
             for a in aliases:
                 a = a.strip()
-                if re.search(r"[āīūṛṃḥṅñṭḍṇśṣḱ]", a) and " " not in a:
+                # 短梵语（moha、kleśa）易误伤；长或带连字符的（ālaya-vijñāna）无歧义
+                if re.search(r"[āīūṛṃḥṅñṭḍṇśṣḱ]", a) and " " not in a and "-" not in a and len(a) < 6:
                     continue
                 add(lang, a, filename)
+            # 三自性等：正文常略「性」
+            if lang == "zh" and filename.endswith("性") and len(filename) >= 4:
+                add("zh", filename[:-1], filename)
+                for cc in ZH_CC:
+                    add("zh", cc.convert(filename[:-1]), filename)
             pm = re.match(r"^(.+?)\s+\((.+)\)$", filename)
             if pm:
                 prefix, inner = pm.group(1).strip(), pm.group(2).strip()
@@ -126,6 +132,21 @@ def load_glossary():
                     add("zh", cc.convert(filename), filename)
                     if hm:
                         add("zh", cc.convert(hm.group(1).strip()), filename)
+
+    extras = [
+        ("zh", "阿賴耶", "阿赖耶识"),
+        ("zh", "阿赖耶", "阿赖耶识"),
+        ("zh", "末那", "末那识"),
+        ("zh", "遍計執", "遍计所执性"),
+        ("zh", "遍计执", "遍计所执性"),
+        ("en", "ālaya", "store consciousness"),
+        ("fr", "ālaya", "conscience-réceptacle"),
+        ("vi", "A-lại-da", "thức A-lại-da"),
+        ("vi", "a-lại-da", "thức A-lại-da"),
+        ("en", "Jingjie", "Master Jingjie"),
+    ]
+    for lang, surface, fn in extras:
+        add(lang, surface, fn)
 
     out = {}
     for lang, mp in by_lang.items():
