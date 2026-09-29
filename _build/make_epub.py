@@ -3,6 +3,7 @@
 """Build the full parallel EPUB (lectures 1–22) plus four-language glossaries."""
 from __future__ import annotations
 
+import hashlib
 import html
 import os
 import re
@@ -69,10 +70,9 @@ SEC_RE = re.compile(
 )
 
 
-def slug(s: str) -> str:
-    s = s.strip().replace(' ', '-').replace('/', '-')
-    s = re.sub(r'[^0-9A-Za-z\u00C0-\u024F\u1E00-\u1EFF\u4e00-\u9fff\-]+', '', s)
-    return s[:96] or 'x'
+def note_id(rel: str) -> str:
+    """Apple Books only follows ASCII fragment ids; CJK/accents in href=#… silently fail."""
+    return 'n-' + hashlib.sha1(rel.encode('utf-8')).hexdigest()[:16]
 
 
 def strip_wiki(text: str) -> str:
@@ -257,7 +257,7 @@ def link_terms(text: str, used: dict, collected: dict) -> str:
         if lang:
             collected[lang].add((rel, display))
         skt, defn = note_for(rel)
-        nid = 'n-' + slug(rel)
+        nid = note_id(rel)
         if nid not in used:
             used[nid] = (display, skt, defn, rel)
         title_attr = html.escape((defn or display)[:180].replace('\n', ' '), quote=True)
