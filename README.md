@@ -11,7 +11,7 @@ Multilingual study materials for Yogācāra / *Consciousness-Only* (*vijñaptim�
 
 ## 如何用 Obsidian 学习本书
 
-先读现代语言导读，再进二十二讲：[Hundred Dharmas/Readers Guide](Hundred%20Dharmas/Readers%20Guide.md)。
+先读现代语言导读，再进二十二讲：[Hundred Dharmas/Readers Guide](Hundred%20Dharmas/Readers%20Guide.md)。图谱不要四语搅在一起：见 [名相词典/图谱](名相词典/图谱.md)。公版 Soothill 汉英辞典在 [参考/Soothill-Hodous](参考/Soothill-Hodous/README.md)。
 
 讲记正文里的 `[[名相词典/中文/阿赖耶识|阿賴耶識]]` 这类链接，是按 [Obsidian](https://obsidian.md/) 的维基链接（`[[页面|显示名]]`）写的。用普通编辑器只能看到括号；把本仓库当作 Obsidian 库打开后，点词条会跳到释义，图谱视图也能画出讲记与名相之间的知识网络。我们已为四语名相当中的主要概念建了交叉链接，图谱、反向链接、本地搜索都可以直接用。
 
@@ -40,7 +40,7 @@ Multilingual study materials for Yogācāra / *Consciousness-Only* (*vijñaptim�
 
 ## How to study this book in Obsidian
 
-Start with the modern-language companion, then the twenty-two lectures: [Hundred Dharmas/Readers Guide](Hundred%20Dharmas/Readers%20Guide.md).
+Start with the modern-language companion, then the twenty-two lectures: [Hundred Dharmas/Readers Guide](Hundred%20Dharmas/Readers%20Guide.md). For a single-language graph, see [名相词典/图谱](名相词典/图谱.md). The public-domain Soothill–Hodous dictionary is in [参考/Soothill-Hodous](参考/Soothill-Hodous/README.md).
 
 Links in the lecture files such as `[[名相词典/English/store consciousness|store consciousness]]` follow [Obsidian](https://obsidian.md/) wiki-link syntax (`[[page|display text]]`). In a plain editor they look like brackets; once this repository is opened as an Obsidian vault, a tap jumps to the glossary note. Graph view then shows the knowledge map we built among the lectures and the four-language terms (backlinks and local search work the same way).
 

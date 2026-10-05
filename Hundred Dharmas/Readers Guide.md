@@ -241,6 +241,8 @@ The hundred dharmas in five categories are a road, not a warehouse. The directio
 **中文**
 
 - 本库讲记：`Hundred Dharmas/Hundred Dharmas NO.1.md` 至 `NO.22.md`
+- 图谱按语种过滤：[[名相词典/图谱|图谱]]
+- 公版 Soothill 汉英辞典：[[参考/Soothill-Hodous/README|Soothill & Hodous]]
 - 五位总表：[[名相词典/中文/五位百法|五位百法]]
 - Charles Muller / Dan Lusthaus 英文百法表：<http://www.acmuller.net/yogacara/outlines/100dharmas.html>
 - 台大赵飞鹏「佛法与心理——唯识篇」大纲（五讲，结构与本论接近）
@@ -249,6 +251,8 @@ The hundred dharmas in five categories are a road, not a warehouse. The directio
 **English**
 
 - Lectures in this vault: `Hundred Dharmas/Hundred Dharmas NO.1.md`–`NO.22.md`
+- Single-language graph filters: [[名相词典/图谱|图谱]]
+- Soothill & Hodous (public domain): [[参考/Soothill-Hodous/README|Soothill & Hodous]]
 - The fivefold list: [[名相词典/English/Hundred Dharmas in Five Categories|Hundred Dharmas in Five Categories]]
 - Charles Muller / Dan Lusthaus, “The One Hundred Dharmas”: <http://www.acmuller.net/yogacara/outlines/100dharmas.html>
 - University of Hong Kong, MABS 63 *Doctrines of Early Indian Yogācāra* (syllabus; broader than this treatise)
