@@ -13,13 +13,13 @@ from datetime import datetime, timezone
 
 VAULT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LECTURE_DIR = os.path.join(VAULT, 'Hundred Dharmas')
-GLOSS = os.path.join(VAULT, '名相词典')
+GLOSS = os.path.join(VAULT, 'Glossary')
 OUT_EPUB = os.path.join(LECTURE_DIR, '100 Dharmas.epub')
 OLD_VOL1 = os.path.join(LECTURE_DIR, '100 Dharmas Volume 1.epub')
 
 FILES = [f'Hundred Dharmas NO.{i}.md' for i in range(1, 23)]
-LANG_LABEL = {'zh': '中文', 'en': 'English', 'fr': 'Français', 'vi': 'Tiếng Việt'}
-FOLDER = {'zh': '中文', 'en': 'English', 'fr': 'Français', 'vi': 'TiếngViệt'}
+LANG_LABEL = {'zh': 'Chinese', 'en': 'English', 'fr': 'Français', 'vi': 'Tiếng Việt'}
+FOLDER = {'zh': 'Chinese', 'en': 'English', 'fr': 'Français', 'vi': 'TiếngViệt'}
 FOLDER_TO_LANG = {v: k for k, v in FOLDER.items()}
 
 LECTURE_TITLES = {
@@ -58,7 +58,7 @@ GLOSS_APPEND = [
      'Thuật ngữ Phật học xuất hiện trong các bài giảng, xếp theo tiếng Việt. Định nghĩa lấy câu đầu của mục từ.'),
 ]
 
-WIKI_RE = re.compile(r'\[\[名相词典/([^\]|]+)\|([^\]]+)\]\]')
+WIKI_RE = re.compile(r'\[\[Glossary/([^\]|]+)\|([^\]]+)\]\]')
 SEC_RE = re.compile(
     r'\*\*§(\d+)\*\*\s*\n'
     r'\*\*中文\*\*\s*\n(.*?)'

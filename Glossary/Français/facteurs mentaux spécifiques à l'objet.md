@@ -1,0 +1,17 @@
+---
+concept: 别境心所
+lang: fr
+aliases: []
+tags:
+  - 名相
+---
+
+# facteurs mentaux spécifiques à l'objet
+
+## Explication（Français）
+Désir, résolution, mémoire, concentration et sagesse—cinq qui surgissent chacun en visant un domaine d'objet particulier, non présents dans tout esprit comme les universellement actifs.
+
+## Autres langues
+- 中文：[[Chinese/别境心所|别境心所]]
+- English：[[English/mental activities with specific objects|mental activities with specific objects]]
+- Tiếng Việt：[[TiếngViệt/tâm sở biệt cảnh|tâm sở biệt cảnh]]

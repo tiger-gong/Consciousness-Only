@@ -14,7 +14,7 @@ VAULT = pathlib.Path(__file__).resolve().parents[2]
 LEC = VAULT / "Hundred Dharmas"
 APPLY = "--apply" in sys.argv
 
-WIKI_RE = re.compile(r"\[\[名相词典/[^\]]+\]\]")
+WIKI_RE = re.compile(r"\[\[Glossary/[^\]]+\]\]")
 SEC_RE = re.compile(
     r"(^\*\*§\d+\*\*\s*\n\*\*中文\*\*\s*\n.*?\n)"
     r"(\*\*English\*\*\s*\n)(.*?)(\n)"

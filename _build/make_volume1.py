@@ -14,7 +14,7 @@ from datetime import datetime, timezone
 
 VAULT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LECTURE_DIR = os.path.join(VAULT, 'Hundred Dharmas')
-GLOSS = os.path.join(VAULT, '名相词典')
+GLOSS = os.path.join(VAULT, 'Glossary')
 OUT_EPUB = os.path.join(LECTURE_DIR, '100 Dharmas Volume 1.epub')
 MAP_JSON = os.path.join(VAULT, '_build', 'volume1_para_map.json')
 
@@ -25,7 +25,7 @@ LANG_MARK = {
     '**Français**': 'fr',
     '**Tiếng Việt**': 'vi',
 }
-LANG_LABEL = {'zh': '中文', 'en': 'English', 'fr': 'Français', 'vi': 'Tiếng Việt'}
+LANG_LABEL = {'zh': 'Chinese', 'en': 'English', 'fr': 'Français', 'vi': 'Tiếng Việt'}
 LECTURE_TITLES = {
     1: ('第一講', 'Lecture One', 'Première conférence', 'Bài giảng thứ nhất'),
     2: ('第二講', 'Lecture Two', 'Deuxième conférence', 'Bài giảng thứ hai'),
@@ -39,7 +39,7 @@ LECTURE_TITLES = {
     10: ('第十講', 'Lecture Ten', 'Dixième conférence', 'Bài giảng thứ mười'),
 }
 
-WIKI_RE = re.compile(r'\[\[名相词典/([^\]|]+)\|([^\]]+)\]\]')
+WIKI_RE = re.compile(r'\[\[Glossary/([^\]|]+)\|([^\]]+)\]\]')
 SEC_RE = re.compile(
     r'\*\*§(\d+)\*\*\s*\n'
     r'\*\*中文\*\*\s*\n(.*?)'

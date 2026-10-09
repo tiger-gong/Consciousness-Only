@@ -3,7 +3,7 @@
 """为常用别名建薄入口笔记，链到正式词条。"""
 import os
 VAULT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ROOT = os.path.join(VAULT, '名相词典')
+ROOT = os.path.join(VAULT, 'Glossary')
 
 # alias_zh -> target_zh, and multilingual labels
 ALIASES = [
@@ -29,10 +29,10 @@ ALIASES = [
     },
 ]
 
-FOLDER = {'zh': '中文', 'en': 'English', 'fr': 'Français', 'vi': 'TiếngViệt'}
+FOLDER = {'zh': 'Chinese', 'en': 'English', 'fr': 'Français', 'vi': 'TiếngViệt'}
 SECT = {'zh': '释义', 'en': 'Explanation', 'fr': 'Explication', 'vi': 'Giải thích'}
 OTHER = {'zh': '其它语言', 'en': 'Other languages', 'fr': 'Autres langues', 'vi': 'Các ngôn ngữ khác'}
-LABEL = {'zh': '中文', 'en': 'English', 'fr': 'Français', 'vi': 'Tiếng Việt'}
+LABEL = {'zh': 'Chinese', 'en': 'English', 'fr': 'Français', 'vi': 'Tiếng Việt'}
 
 def write_alias(a):
     for lang in ('zh', 'en', 'fr', 'vi'):
@@ -54,14 +54,14 @@ tags:
 ## {SECT[lang]}（{LABEL[lang]}）
 {note}
 
-→ 主词条：[[名相词典/{FOLDER[lang]}/{target}|{target}]]
+→ 主词条：[[Glossary/{FOLDER[lang]}/{target}|{target}]]
 
 ## {OTHER[lang]}
 '''
         for code in ('zh', 'en', 'fr', 'vi'):
             if code == lang:
                 continue
-            body += f'- {LABEL[code]}：[[名相词典/{FOLDER[code]}/{a[code]}|{a[code]}]]\n'
+            body += f'- {LABEL[code]}：[[Glossary/{FOLDER[code]}/{a[code]}|{a[code]}]]\n'
         path = os.path.join(ROOT, FOLDER[lang], title + '.md')
         os.makedirs(os.path.dirname(path), exist_ok=True)
         open(path, 'w', encoding='utf-8').write(body)

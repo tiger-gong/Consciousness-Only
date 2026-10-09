@@ -13,9 +13,9 @@ sys.path.insert(0, str(Path(__file__).parent))
 from vi_map import RENAME  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
-DICT = ROOT / '名相词典'
+DICT = ROOT / 'Glossary'
 VI = DICT / 'TiếngViệt'
-OTHER = [DICT / x for x in ('中文', 'English', 'Français')]
+OTHER = [DICT / x for x in ('Chinese', 'English', 'Français')]
 LECTURES = sorted((ROOT / 'Hundred Dharmas').glob('Hundred Dharmas NO.*.md'))
 
 APPLY = '--apply' in sys.argv
@@ -87,7 +87,7 @@ def rename_vi() -> None:
 
 
 # --------------------------------------------------------------- 2. 改链接
-LINK_RE = re.compile(r'\[\[((?:名相词典/)?TiếngViệt/)([^\]|]+)\|([^\]]+)\]\]')
+LINK_RE = re.compile(r'\[\[((?:Glossary/)?TiếngViệt/)([^\]|]+)\|([^\]]+)\]\]')
 
 
 def fix_links(text: str) -> str:

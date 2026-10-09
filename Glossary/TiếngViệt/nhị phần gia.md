@@ -1,0 +1,17 @@
+---
+concept: 二分家
+lang: vi
+aliases: []
+tags:
+  - 名相
+---
+
+# nhị phần gia
+
+## Giải thích（Tiếng Việt）
+Luận sư Nan-đà chủ trương thuyết tâm thức nhị phần: kiến phần và tướng phần. Lại có thuyết nhất phần của An Huệ, tam phần của Trần-na, bốn phần của Hộ Pháp. Tham khảo bốn phần của thức.
+
+## Các ngôn ngữ khác
+- 中文：[[Chinese/二分家|二分家]]
+- English：[[English/two-part school|two-part school]]
+- Français：[[Français/école des deux parties|école des deux parties]]

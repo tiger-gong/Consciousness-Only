@@ -7,7 +7,7 @@
 *.pdf
 *.epub
 !Hundred Dharmas/100 Dharmas.epub
-!参考/Soothill-Hodous/*.epub
+!References/Soothill-Hodous/*.epub
 *.pages
 *.docx
 *.doc

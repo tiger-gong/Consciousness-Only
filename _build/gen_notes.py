@@ -6,8 +6,8 @@
   _build/master.json      —— 合并主数据（词形 + 中文释义）
   _build/defs_i18n.json   —— 释义的英/法/越翻译 { zh: {en,fr,vi} }
 输出：
-  名相词典/中文/ *.md      名相词典/English/ *.md
-  名相词典/Français/ *.md  名相词典/TiếngViệt/ *.md
+  Glossary/Chinese/ *.md      Glossary/English/ *.md
+  Glossary/Français/ *.md  Glossary/TiếngViệt/ *.md
 
 只生成 defs_i18n.json 中出现、且四语词形齐全的名相（分批可控）。
 """
@@ -15,16 +15,16 @@ import json, os, re
 
 BASE = os.path.dirname(__file__)
 VAULT = os.path.dirname(BASE)
-ROOT = os.path.join(VAULT, '名相词典')
+ROOT = os.path.join(VAULT, 'Glossary')
 
 LANGS = [
-    ('zh', '中文', '中文', '中文'),
+    ('zh', 'Chinese', '中文', '中文'),
     ('en', 'English', 'English', 'English'),
     ('fr', 'Français', 'Français', 'Français'),
     ('vi', 'TiếngViệt', 'Tiếng Việt', 'Tiếng Việt'),
 ]
-FOLDER = {'zh': '中文', 'en': 'English', 'fr': 'Français', 'vi': 'TiếngViệt'}
-LABEL = {'zh': '中文', 'en': 'English', 'fr': 'Français', 'vi': 'Tiếng Việt'}
+FOLDER = {'zh': 'Chinese', 'en': 'English', 'fr': 'Français', 'vi': 'TiếngViệt'}
+LABEL = {'zh': 'Chinese', 'en': 'English', 'fr': 'Français', 'vi': 'Tiếng Việt'}
 SECT = {'zh': '释义', 'en': 'Explanation', 'fr': 'Explication', 'vi': 'Giải thích'}
 OTHERS = {'zh': '其它语言', 'en': 'Other languages', 'fr': 'Autres langues', 'vi': 'Các ngôn ngữ khác'}
 
@@ -105,7 +105,7 @@ def main():
             path = os.path.join(ROOT, FOLDER[code], titles[code] + '.md')
             open(path, 'w', encoding='utf-8').write(body)
         made += 1
-    print(f'生成概念 {made} 个 → 笔记 {made*4} 篇，输出目录：名相词典/')
+    print(f'生成概念 {made} 个 → 笔记 {made*4} 篇，输出目录：Glossary/')
     if skipped:
         print('跳过：', skipped)
 

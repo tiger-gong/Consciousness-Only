@@ -11,9 +11,9 @@ Multilingual study materials for Yogācāra / *Consciousness-Only* (*vijñaptim�
 
 ## 如何用 Obsidian 学习本书
 
-先读现代语言导读，再进二十二讲：[Hundred Dharmas/Readers Guide](Hundred%20Dharmas/Readers%20Guide.md)。图谱不要四语搅在一起：见 [名相词典/图谱](名相词典/图谱.md)。公版 Soothill 汉英辞典在 [参考/Soothill-Hodous](参考/Soothill-Hodous/README.md)。
+先读现代语言导读，再进二十二讲：[Hundred Dharmas/Readers Guide](Hundred%20Dharmas/Readers%20Guide.md)。图谱不要四语搅在一起：见 [Glossary/Graph](Glossary/Graph.md)。公版 Soothill 汉英辞典在 [References/Soothill-Hodous](References/Soothill-Hodous/README.md)。
 
-讲记正文里的 `[[名相词典/中文/阿赖耶识|阿賴耶識]]` 这类链接，是按 [Obsidian](https://obsidian.md/) 的维基链接（`[[页面|显示名]]`）写的。用普通编辑器只能看到括号；把本仓库当作 Obsidian 库打开后，点词条会跳到释义，图谱视图也能画出讲记与名相之间的知识网络。我们已为四语名相当中的主要概念建了交叉链接，图谱、反向链接、本地搜索都可以直接用。
+讲记正文里的 `[[Glossary/Chinese/阿赖耶识|阿賴耶識]]` 这类链接，是按 [Obsidian](https://obsidian.md/) 的维基链接（`[[页面|显示名]]`）写的。用普通编辑器只能看到括号；把本仓库当作 Obsidian 库打开后，点词条会跳到释义，图谱视图也能画出讲记与名相之间的知识网络。我们已为四语名相当中的主要概念建了交叉链接，图谱、反向链接、本地搜索都可以直接用。
 
 ### 免费下载全书 EPUB
 
@@ -40,9 +40,9 @@ Multilingual study materials for Yogācāra / *Consciousness-Only* (*vijñaptim�
 
 ## How to study this book in Obsidian
 
-Start with the modern-language companion, then the twenty-two lectures: [Hundred Dharmas/Readers Guide](Hundred%20Dharmas/Readers%20Guide.md). For a single-language graph, see [名相词典/图谱](名相词典/图谱.md). The public-domain Soothill–Hodous dictionary is in [参考/Soothill-Hodous](参考/Soothill-Hodous/README.md).
+Start with the modern-language companion, then the twenty-two lectures: [Hundred Dharmas/Readers Guide](Hundred%20Dharmas/Readers%20Guide.md). For a single-language graph, see [Glossary/Graph](Glossary/Graph.md). The public-domain Soothill–Hodous dictionary is in [References/Soothill-Hodous](References/Soothill-Hodous/README.md).
 
-Links in the lecture files such as `[[名相词典/English/store consciousness|store consciousness]]` follow [Obsidian](https://obsidian.md/) wiki-link syntax (`[[page|display text]]`). In a plain editor they look like brackets; once this repository is opened as an Obsidian vault, a tap jumps to the glossary note. Graph view then shows the knowledge map we built among the lectures and the four-language terms (backlinks and local search work the same way).
+Links in the lecture files such as `[[Glossary/English/store consciousness|store consciousness]]` follow [Obsidian](https://obsidian.md/) wiki-link syntax (`[[page|display text]]`). In a plain editor they look like brackets; once this repository is opened as an Obsidian vault, a tap jumps to the glossary note. Graph view then shows the knowledge map we built among the lectures and the four-language terms (backlinks and local search work the same way).
 
 ### Free EPUB of the complete book
 
@@ -69,7 +69,7 @@ Please read, correct, and fill gaps. Work on your own branch or fork, then open 
 
 ## Comment étudier ce livre dans Obsidian
 
-Les liens du type `[[名相词典/Français/conscience-réceptacle|conscience-réceptacle]]` suivent la syntaxe wiki d’[Obsidian](https://obsidian.md/) (`[[page|texte affiché]]`). Dans un éditeur ordinaire, ce ne sont que des crochets ; ouvert comme coffre Obsidian, un tap ouvre la notice. La vue graphe montre le réseau de connaissances que nous avons tissé entre les conférences et les termes en quatre langues (rétroliens et recherche locale compris).
+Les liens du type `[[Glossary/Français/conscience-réceptacle|conscience-réceptacle]]` suivent la syntaxe wiki d’[Obsidian](https://obsidian.md/) (`[[page|texte affiché]]`). Dans un éditeur ordinaire, ce ne sont que des crochets ; ouvert comme coffre Obsidian, un tap ouvre la notice. La vue graphe montre le réseau de connaissances que nous avons tissé entre les conférences et les termes en quatre langues (rétroliens et recherche locale compris).
 
 ### EPUB gratuit du livre entier
 
@@ -96,7 +96,7 @@ Lecture, corrections et compléments sont les bienvenus : branche ou *fork*, pui
 
 ## Cách học sách này trong Obsidian
 
-Các liên kết như `[[名相词典/TiếngViệt/thức A-lại-da|thức A-lại-da]]` viết theo cú pháp wiki của [Obsidian](https://obsidian.md/) (`[[trang|chữ hiện]]`). Trong trình soạn thường chỉ thấy ngoặc vuông; mở kho này như vault Obsidian thì chạm thuật ngữ sẽ tới lời giải. Graph view hiện bản đồ tri thức chúng tôi đã dựng giữa các bài giảng và danh tướng bốn ngữ (backlink và tìm kiếm nội bộ dùng được ngay).
+Các liên kết như `[[Glossary/TiếngViệt/thức A-lại-da|thức A-lại-da]]` viết theo cú pháp wiki của [Obsidian](https://obsidian.md/) (`[[trang|chữ hiện]]`). Trong trình soạn thường chỉ thấy ngoặc vuông; mở kho này như vault Obsidian thì chạm thuật ngữ sẽ tới lời giải. Graph view hiện bản đồ tri thức chúng tôi đã dựng giữa các bài giảng và danh tướng bốn ngữ (backlink và tìm kiếm nội bộ dùng được ngay).
 
 ### Tải miễn phí EPUB toàn sách
 
@@ -127,7 +127,9 @@ Xin đọc, sửa, bổ dịch. Làm trên nhánh hoặc fork của mình, rồi
 |------|-------------|
 | `Hundred Dharmas/` | Lecture notes (ZH / EN / FR / VI parallel) |
 | `Hundred Dharmas/100 Dharmas.epub` | Four-language parallel EPUB (lectures 1–22, tap-to-read glossary) |
-| `名相词典/` | Glossary notes in Chinese, English, French, Vietnamese |
+| `Glossary/` | Glossary notes (`Chinese/` / `English/` / `Français/` / `TiếngViệt/`) |
+| `Glossary/Graph.md` | How to filter the knowledge graph by language |
+| `References/` | Public-domain Soothill–Hodous dictionary |
 | `_build/` | Scripts and data to regenerate glossary notes |
 
 ## Collaboration

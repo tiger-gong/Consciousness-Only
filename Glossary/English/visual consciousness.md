@@ -1,0 +1,23 @@
+---
+concept: 眼识
+lang: en
+sanskrit: cakṣur-vijñāna
+aliases:
+  - cakṣur-vijñāna
+  - eye-consciousness
+tags:
+  - 名相
+---
+
+# visual consciousness
+> 校准自「eye-consciousness」，依 Cook, *Three Texts on Consciousness Only*。
+
+**梵 / Sanskrit**：*cakṣur-vijñāna*
+
+## Explanation（English）
+Discriminating consciousness that arises based on the eye faculty, taking form as its object; one of the five sense-consciousnesses. Its nature extends over good, bad, and indeterminate; it is discontinuous.
+
+## Other languages
+- 中文：[[Chinese/眼识|眼识]]
+- Français：[[Français/conscience visuelle|conscience visuelle]]
+- Tiếng Việt：[[TiếngViệt/nhãn thức|nhãn thức]]

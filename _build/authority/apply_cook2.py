@@ -155,7 +155,7 @@ def swap(seg: str, where: str) -> str:
 
 def main() -> None:
     touched = 0
-    for f in sorted((VAULT / '名相词典' / 'English').glob('*.md')):
+    for f in sorted((VAULT / 'Glossary' / 'English').glob('*.md')):
         raw = f.read_text(encoding='utf-8')
         out = EXPLAIN.sub(lambda m: m.group(1) + swap(m.group(2), f.stem), raw)
         if out != raw:

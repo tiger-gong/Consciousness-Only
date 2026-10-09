@@ -50,17 +50,17 @@ The store consciousness is often likened to “the unconscious.” The likeness 
 
 **中文**
 
-[[名相词典/中文/大乘百法明门论|《大乘百法明门论》]]不是一本宇宙分类手册。它把经验拆开，看清其中没有一个固定的「我」在当家。世亲（[[名相词典/中文/天亲菩萨|天亲菩萨]]）从《[[名相词典/中文/瑜伽师地论|瑜伽师地论]]》里六百六十法，收成一百法，当作大乘入门。相对小乘《俱舍》的七十五法，这里多出第七识、第八识，也把「法」讲得更细。
+[[Glossary/Chinese/大乘百法明门论|《大乘百法明门论》]]不是一本宇宙分类手册。它把经验拆开，看清其中没有一个固定的「我」在当家。世亲（[[Glossary/Chinese/天亲菩萨|天亲菩萨]]）从《[[Glossary/Chinese/瑜伽师地论|瑜伽师地论]]》里六百六十法，收成一百法，当作大乘入门。相对小乘《俱舍》的七十五法，这里多出第七识、第八识，也把「法」讲得更细。
 
-[[名相词典/中文/净界法师|净界法师]]开场就说：学佛的共同目标是[[名相词典/中文/离苦得乐|离苦得乐]]。苦之所以能离，是因为生命不是一块焊死的铁。论的宗旨八个字：[[名相词典/中文/一切法无我|一切法无我]]。无我不是虚无，而是：眼前这身心、这境遇，都是[[名相词典/中文/因缘|因缘]]所成，可以用新的行为去[[名相词典/中文/熏习|熏习]]，因而可以转变。贫穷可以因布施而转，重业可以因修学而转——前提是你不把「我就是这样」当成命运。
+[[Glossary/Chinese/净界法师|净界法师]]开场就说：学佛的共同目标是[[Glossary/Chinese/离苦得乐|离苦得乐]]。苦之所以能离，是因为生命不是一块焊死的铁。论的宗旨八个字：[[Glossary/Chinese/一切法无我|一切法无我]]。无我不是虚无，而是：眼前这身心、这境遇，都是[[Glossary/Chinese/因缘|因缘]]所成，可以用新的行为去[[Glossary/Chinese/熏习|熏习]]，因而可以转变。贫穷可以因布施而转，重业可以因修学而转——前提是你不把「我就是这样」当成命运。
 
 「明门」的「门」，就是这个入口：先承认一切法无我，再一项一项看这一百法。看完不是多记一百个名词，而是走得进「无我」这扇门。
 
 **English**
 
-The *[[名相词典/English/Treatise on the Hundred Dharmas of the Great Vehicle|Treatise on the Hundred Dharmas of the Great Vehicle]]* is not a catalogue of the universe. It takes experience apart, to show that no fixed “I” is in charge. [[名相词典/English/Bodhisattva Vasubandhu|Vasubandhu]] condensed some six hundred and sixty items from the *[[名相词典/English/Treatise on the Stages of Yoga Practice|Treatise on the Stages of Yoga Practice]]* into one hundred, as a Mahāyāna doorway. Against the seventy-five dharmas of the *Kośa*, this list adds the seventh and eighth consciousnesses and treats “dharmas” in finer grain.
+The *[[Glossary/English/Treatise on the Hundred Dharmas of the Great Vehicle|Treatise on the Hundred Dharmas of the Great Vehicle]]* is not a catalogue of the universe. It takes experience apart, to show that no fixed “I” is in charge. [[Glossary/English/Bodhisattva Vasubandhu|Vasubandhu]] condensed some six hundred and sixty items from the *[[Glossary/English/Treatise on the Stages of Yoga Practice|Treatise on the Stages of Yoga Practice]]* into one hundred, as a Mahāyāna doorway. Against the seventy-five dharmas of the *Kośa*, this list adds the seventh and eighth consciousnesses and treats “dharmas” in finer grain.
 
-[[名相词典/English/Master Jingjie|Master Jingjie]] opens with the shared aim of Buddhist study: [[名相词典/English/leaving suffering and attaining happiness|leaving suffering and attaining happiness]]. Suffering can be left because life is not welded shut. The treatise’s purport is eight Chinese characters: [[名相词典/English/all dharmas are without self|all dharmas are without self]]. No-self is not nihilism. It means that this body-mind and this situation arise through [[名相词典/English/condition as cause|causes and conditions]], can be [[名相词典/English/perfuming|perfumed]] by new action, and can therefore change. Poverty can turn through giving; heavy karma can turn through practice — if you refuse to treat “I am just like this” as fate.
+[[Glossary/English/Master Jingjie|Master Jingjie]] opens with the shared aim of Buddhist study: [[Glossary/English/leaving suffering and attaining happiness|leaving suffering and attaining happiness]]. Suffering can be left because life is not welded shut. The treatise’s purport is eight Chinese characters: [[Glossary/English/all dharmas are without self|all dharmas are without self]]. No-self is not nihilism. It means that this body-mind and this situation arise through [[Glossary/English/condition as cause|causes and conditions]], can be [[Glossary/English/perfuming|perfumed]] by new action, and can therefore change. Poverty can turn through giving; heavy karma can turn through practice — if you refuse to treat “I am just like this” as fate.
 
 The “door” in the title is that entrance: first admit that all dharmas are without self, then walk the hundred items one by one. The point is not to memorize a hundred names. It is to be able to walk through the door of no-self.
 
@@ -72,27 +72,27 @@ The “door” in the title is that entrance: first admit that all dharmas are w
 
 一百法分成五位，次序本身就是论点：
 
-1. [[名相词典/中文/心法|心法]]（八识）——最有力，是活动的主体。
-2. [[名相词典/中文/心所有法|心所有法]]（五十一心所）——跟着心一起转。
-3. [[名相词典/中文/色法|色法]]（十一色）——是前二者的显现，不是先在那儿的「外物」。
+1. [[Glossary/Chinese/心法|心法]]（八识）——最有力，是活动的主体。
+2. [[Glossary/Chinese/心所有法|心所有法]]（五十一心所）——跟着心一起转。
+3. [[Glossary/Chinese/色法|色法]]（十一色）——是前二者的显现，不是先在那儿的「外物」。
 4. 心不相应行法（二十四）——从心、心所、色的互动里安立的关系（时间、数目、语言、生命相续等）。
-5. [[名相词典/中文/无为法|无为法]]（六）——前四位止息后显出的样子，不是另外造出一个世界。
+5. [[Glossary/Chinese/无为法|无为法]]（六）——前四位止息后显出的样子，不是另外造出一个世界。
 
-用现在的话说：我们不是一台对着现成世界的摄像机。看见的、记得的、害怕的，都已经过心的组织。所以本论说[[名相词典/中文/万法唯识|万法唯识]]、[[名相词典/中文/唯识无境|唯识无境]]——不是说「什么都没有」，而是说：你经验到的「境」，没有离开识的显现。先把心讲清楚，后面的色、时间、空性才放得住。
+用现在的话说：我们不是一台对着现成世界的摄像机。看见的、记得的、害怕的，都已经过心的组织。所以本论说[[Glossary/Chinese/万法唯识|万法唯识]]、[[Glossary/Chinese/唯识无境|唯识无境]]——不是说「什么都没有」，而是说：你经验到的「境」，没有离开识的显现。先把心讲清楚，后面的色、时间、空性才放得住。
 
 第四讲特别叮嘱：在拆「色、心」之前，先站稳「无我故可转」。空，不是把因果拆掉；正因为空，因果才能成立，改造才有位置。
 
 **English**
 
-The hundred items fall into [[名相词典/English/Hundred Dharmas in Five Categories|five categories]]. The order is itself the argument:
+The hundred items fall into [[Glossary/English/Hundred Dharmas in Five Categories|five categories]]. The order is itself the argument:
 
-1. [[名相词典/English/mind|Mind]] (the [[名相词典/English/eight consciousnesses|eight consciousnesses]]) — the most powerful; the agent of activity.
-2. [[名相词典/English/dharmas that are mental activities|Dharmas that are mental activities]] (fifty-one) — they turn with the mind.
-3. [[名相词典/English/form|Form]] (eleven) — a manifestation of the first two, not a ready-made “outside object.”
+1. [[Glossary/English/mind|Mind]] (the [[Glossary/English/eight consciousnesses|eight consciousnesses]]) — the most powerful; the agent of activity.
+2. [[Glossary/English/dharmas that are mental activities|Dharmas that are mental activities]] (fifty-one) — they turn with the mind.
+3. [[Glossary/English/form|Form]] (eleven) — a manifestation of the first two, not a ready-made “outside object.”
 4. Forces not associated with mind (twenty-four) — relations set up from the interplay of mind, mental activities, and form (time, number, language, the continuity of life, and so on).
-5. [[名相词典/English/unconditioned dharmas|Unconditioned dharmas]] (six) — what shows when the first four settle; not a second world built on the side.
+5. [[Glossary/English/unconditioned dharmas|Unconditioned dharmas]] (six) — what shows when the first four settle; not a second world built on the side.
 
-In present-day terms: we are not a camera pointed at a finished world. What is seen, remembered, or feared has already been organized by mind. Hence “[[名相词典/English/the myriad dharmas are consciousness-only|the myriad dharmas are consciousness-only]]” and “[[名相词典/English/consciousness-only, no external objects|consciousness-only, no external objects]].” This does not mean “nothing is there.” It means that the “object” you actually live has not left the appearing of consciousness. Get mind clear first; then form, time, and emptiness have somewhere to sit.
+In present-day terms: we are not a camera pointed at a finished world. What is seen, remembered, or feared has already been organized by mind. Hence “[[Glossary/English/the myriad dharmas are consciousness-only|the myriad dharmas are consciousness-only]]” and “[[Glossary/English/consciousness-only, no external objects|consciousness-only, no external objects]].” This does not mean “nothing is there.” It means that the “object” you actually live has not left the appearing of consciousness. Get mind clear first; then form, time, and emptiness have somewhere to sit.
 
 Lecture 4 insists: before taking apart “form and mind,” stand on “because there is no self, change is possible.” Emptiness does not dismantle cause and effect. Precisely because of emptiness, cause and effect can be set up, and remaking has a place.
 
@@ -102,23 +102,23 @@ Lecture 4 insists: before taking apart “form and mind,” stand on “because 
 
 **中文**
 
-心法就是[[名相词典/中文/八识|八识]]，也叫[[名相词典/中文/心王|心王]]：经验的「主通道」，心所是跟着转的配套。
+心法就是[[Glossary/Chinese/八识|八识]]，也叫[[Glossary/Chinese/心王|心王]]：经验的「主通道」，心所是跟着转的配套。
 
 - **前五识**（眼、耳、鼻、舌、身）：对着色声香味触，像五扇窗。窗本身不编故事。
-- **第六[[名相词典/中文/意识|意识]]**：能想、能分别、能计划，也能在五识休息时独自转（做梦、回忆、推理）。日常说的「我在想」，多半是它。
-- **第七[[名相词典/中文/末那识|末那识]]**：不对外境做功课，专门把第八识认成「我」。一种持续的「我在」——不一定喊出来，却垫在几乎所有情绪底下。
-- **第八[[名相词典/中文/阿赖耶识|阿赖耶识]]**（藏识）：收存行为留下的[[名相词典/中文/种子|种子]]，也是一期生命的所依。它不是灵魂，不是另一个小人；它是习惯与潜力的仓库。善行、恶行、念头，都会留下气味一样的痕迹，叫熏习。仓库会因新的熏习而改库存，所以生命能转，也不需要立一个永恒的「我」来保证相续。
+- **第六[[Glossary/Chinese/意识|意识]]**：能想、能分别、能计划，也能在五识休息时独自转（做梦、回忆、推理）。日常说的「我在想」，多半是它。
+- **第七[[Glossary/Chinese/末那识|末那识]]**：不对外境做功课，专门把第八识认成「我」。一种持续的「我在」——不一定喊出来，却垫在几乎所有情绪底下。
+- **第八[[Glossary/Chinese/阿赖耶识|阿赖耶识]]**（藏识）：收存行为留下的[[Glossary/Chinese/种子|种子]]，也是一期生命的所依。它不是灵魂，不是另一个小人；它是习惯与潜力的仓库。善行、恶行、念头，都会留下气味一样的痕迹，叫熏习。仓库会因新的熏习而改库存，所以生命能转，也不需要立一个永恒的「我」来保证相续。
 
 若只记得一句：前六识让你接触世界，第七识让你觉得「有一个我」，第八识让昨天的行为今天还在起作用。
 
 **English**
 
-Mind means the eight consciousnesses, also called the [[名相词典/English/mind-king (ruling mind)|mind-king]]: the main channels of experience. Mental activities are what turn with them.
+Mind means the eight consciousnesses, also called the [[Glossary/English/mind-king (ruling mind)|mind-king]]: the main channels of experience. Mental activities are what turn with them.
 
 - **The first five** (eye, ear, nose, tongue, body): they meet form, sound, smell, taste, and touch, like five windows. A window does not invent the story.
-- **The sixth, [[名相词典/English/mind-consciousness|mind-consciousness]]**: it thinks, discriminates, plans; it can also turn alone when the five are still (dream, memory, inference). Everyday “I am thinking” is usually this.
-- **The seventh, [[名相词典/English/manas|manas]]**: it does not do homework on outer objects. It takes the eighth as “I.” A standing sense of “I am” — not always spoken, but under almost every mood.
-- **The eighth, [[名相词典/English/store consciousness|store consciousness]]** (*ālaya*): it keeps the [[名相词典/English/seeds|seeds]] left by action, and supports one life-span. It is not a soul, and not a little person inside. It is a store of habit and potential. Deeds and thoughts leave a vapor-trace; that is [[名相词典/English/perfuming|perfuming]]. The store changes as new perfume enters. Life can turn without installing an eternal “I” to guarantee continuity.
+- **The sixth, [[Glossary/English/mind-consciousness|mind-consciousness]]**: it thinks, discriminates, plans; it can also turn alone when the five are still (dream, memory, inference). Everyday “I am thinking” is usually this.
+- **The seventh, [[Glossary/English/manas|manas]]**: it does not do homework on outer objects. It takes the eighth as “I.” A standing sense of “I am” — not always spoken, but under almost every mood.
+- **The eighth, [[Glossary/English/store consciousness|store consciousness]]** (*ālaya*): it keeps the [[Glossary/English/seeds|seeds]] left by action, and supports one life-span. It is not a soul, and not a little person inside. It is a store of habit and potential. Deeds and thoughts leave a vapor-trace; that is [[Glossary/English/perfuming|perfuming]]. The store changes as new perfume enters. Life can turn without installing an eternal “I” to guarantee continuity.
 
 One sentence if you keep only one: the first six let you meet the world; the seventh makes you feel “there is an I”; the eighth lets yesterday’s action still work today.
 
@@ -128,11 +128,11 @@ One sentence if you keep only one: the first six let you meet the world; the sev
 
 **中文**
 
-[[名相词典/中文/心所|心所]]不是另一种「心」，而是心转的时候一起出现的功能。五十一项分成六组，像一张零件表：
+[[Glossary/Chinese/心所|心所]]不是另一种「心」，而是心转的时候一起出现的功能。五十一项分成六组，像一张零件表：
 
-**遍行五**——几乎有心就有：[[名相词典/中文/作意|作意]]（把心拉向对象）、[[名相词典/中文/触|触]]、[[名相词典/中文/受|受]]（苦乐舍）、[[名相词典/中文/想|想]]（取相、安名）、[[名相词典/中文/思|思]]（发动行为的意向）。没有它们，经验组不起来。
+**遍行五**——几乎有心就有：[[Glossary/Chinese/作意|作意]]（把心拉向对象）、[[Glossary/Chinese/触|触]]、[[Glossary/Chinese/受|受]]（苦乐舍）、[[Glossary/Chinese/想|想]]（取相、安名）、[[Glossary/Chinese/思|思]]（发动行为的意向）。没有它们，经验组不起来。
 
-**别境五**——对着特定对象才明显：[[名相词典/中文/欲|欲]]（希求）、[[名相词典/中文/胜解|胜解]]（决定如此）、[[名相词典/中文/念|念]]（明记曾习之境；这里的「念」是记忆，不是念佛那个正念）、[[名相词典/中文/定|定]]（等持）、[[名相词典/中文/慧|慧]]（简择）。
+**别境五**——对着特定对象才明显：[[Glossary/Chinese/欲|欲]]（希求）、[[Glossary/Chinese/胜解|胜解]]（决定如此）、[[Glossary/Chinese/念|念]]（明记曾习之境；这里的「念」是记忆，不是念佛那个正念）、[[Glossary/Chinese/定|定]]（等持）、[[Glossary/Chinese/慧|慧]]（简择）。
 
 **善十一**——信、惭、愧、无贪、无瞋、无痴、精进、轻安、不放逸、行舍、不害。它们使心变得可依靠，也能感可乐的果报。注意：英文词典里「无瞋」是 *non-hatred*，「精进」是 *vigor*，「不放逸」是 *vigilance*，和日常英语的 shame / diligence 不完全同字。
 
@@ -144,15 +144,15 @@ One sentence if you keep only one: the first six let you meet the world; the sev
 
 **English**
 
-[[名相词典/English/mental activities|Mental activities]] are not a second mind. They are functions that appear when mind turns. Fifty-one items in six groups — a parts list:
+[[Glossary/English/mental activities|Mental activities]] are not a second mind. They are functions that appear when mind turns. Fifty-one items in six groups — a parts list:
 
-**Five universal** — present whenever mind is: [[名相词典/English/attention (mental engagement)|attention]], [[名相词典/English/contact|contact]], [[名相词典/English/feeling (sensation)|feeling]] (pain, pleasure, neither), [[名相词典/English/conceptualization|conceptualization]] (taking a mark, giving a name), [[名相词典/English/volition|volition]] (the impulse that launches action). Without them, experience does not assemble.
+**Five universal** — present whenever mind is: [[Glossary/English/attention (mental engagement)|attention]], [[Glossary/English/contact|contact]], [[Glossary/English/feeling (sensation)|feeling]] (pain, pleasure, neither), [[Glossary/English/conceptualization|conceptualization]] (taking a mark, giving a name), [[Glossary/English/volition|volition]] (the impulse that launches action). Without them, experience does not assemble.
 
-**Five with specific objects** — clear only toward a given object: [[名相词典/English/desire (aspiration)|desire]] (aspiration), [[名相词典/English/resolution (decisive understanding)|resolve]], [[名相词典/English/memory|memory]] (holding a previously trained object; this *smṛti* is memory, not “mindfulness” in reciting the Buddha’s name), [[名相词典/English/samādhi|samādhi]], [[名相词典/English/discernment|discernment]].
+**Five with specific objects** — clear only toward a given object: [[Glossary/English/desire (aspiration)|desire]] (aspiration), [[Glossary/English/resolution (decisive understanding)|resolve]], [[Glossary/English/memory|memory]] (holding a previously trained object; this *smṛti* is memory, not “mindfulness” in reciting the Buddha’s name), [[Glossary/English/samādhi|samādhi]], [[Glossary/English/discernment|discernment]].
 
-**Eleven wholesome** — faith, conscience, sense of shame, non-craving, non-hatred, non-delusion, vigor, serenity, vigilance, indifference (of the formations), and non-harming. They make the mind reliable and can draw a pleasant [[名相词典/English/karmic result|karmic result]]. The glossary headings are Cook’s: *non-hatred*, *vigor*, *vigilance* — not always the everyday English words.
+**Eleven wholesome** — faith, conscience, sense of shame, non-craving, non-hatred, non-delusion, vigor, serenity, vigilance, indifference (of the formations), and non-harming. They make the mind reliable and can draw a pleasant [[Glossary/English/karmic result|karmic result]]. The glossary headings are Cook’s: *non-hatred*, *vigor*, *vigilance* — not always the everyday English words.
 
-**Six fundamental [[名相词典/English/passions|passions]]** plus **twenty secondary** — craving, hatred, delusion, pride, doubt, wrong view, and what follows them (fury, hostility, and the rest). They agitate body and mind and raise the bid on “I.” There is no separate glossary file for the secondary set; lectures 12–15 take them one by one.
+**Six fundamental [[Glossary/English/passions|passions]]** plus **twenty secondary** — craving, hatred, delusion, pride, doubt, wrong view, and what follows them (fury, hostility, and the rest). They agitate body and mind and raise the bid on “I.” There is no separate glossary file for the secondary set; lectures 12–15 take them one by one.
 
 **Four nondetermined** — regret, sleep, applied thought, sustained thought: wholesome or not, depending on what they travel with.
 
@@ -200,13 +200,13 @@ A question here: have I also turned “my character” and “my past” into th
 
 **中文**
 
-前四位都是[[名相词典/中文/有为法|有为法]]：有造作、有生灭。第五位六种无为：虚空、择灭、非择灭、不动、想受灭、[[名相词典/中文/真如|真如]]。它们不是在有为之外再盖一层楼，而是有为法的造作停下来时显出的样子——像水不再搅，浊相不在，并不是另外运来一桶「清水实体」。
+前四位都是[[Glossary/Chinese/有为法|有为法]]：有造作、有生灭。第五位六种无为：虚空、择灭、非择灭、不动、想受灭、[[Glossary/Chinese/真如|真如]]。它们不是在有为之外再盖一层楼，而是有为法的造作停下来时显出的样子——像水不再搅，浊相不在，并不是另外运来一桶「清水实体」。
 
 真如在本库英文作 *true suchness*（*tathatā*）。它不是一个可以抓住的对象，而是诸法「如其实际」：无我、无自性，同时因果不失。净界法师常引「法性本来空寂，因果丝毫不爽」——空不是取消责任，而是取消「有一个我在承担或逃避」。
 
 **English**
 
-The first four categories are [[名相词典/English/conditioned dharmas|conditioned]]: fabricated, arising and ceasing. The fifth is six unconditioned items: space, cessation through discernment, cessation not through discernment, immovability, cessation of conceptualization and feeling, and [[名相词典/English/true suchness|true suchness]]. They are not another storey built outside the conditioned. They are what shows when conditioned fabrication stops — as when water is no longer stirred, the cloudiness is gone; one has not imported a second tank of “pure-water stuff.”
+The first four categories are [[Glossary/English/conditioned dharmas|conditioned]]: fabricated, arising and ceasing. The fifth is six unconditioned items: space, cessation through discernment, cessation not through discernment, immovability, cessation of conceptualization and feeling, and [[Glossary/English/true suchness|true suchness]]. They are not another storey built outside the conditioned. They are what shows when conditioned fabrication stops — as when water is no longer stirred, the cloudiness is gone; one has not imported a second tank of “pure-water stuff.”
 
 True suchness is *tathatā*. It is not an object you can seize. It is dharmas *as they are*: without self, without self-nature, while cause and effect are not off by a hair. Master Jingjie often cites that line: the dharma-nature is originally empty and still, yet cause and effect are exact. Emptiness does not cancel responsibility. It cancels the idea that there is an “I” who bears or escapes it.
 
@@ -216,7 +216,7 @@ True suchness is *tathatā*. It is not an object you can seize. It is dharmas *a
 
 **中文**
 
-论的收束不是「恭喜你认识了一百个法」，而是：[[名相词典/中文/人无我|人无我]]与[[名相词典/中文/法无我|法无我]]。
+论的收束不是「恭喜你认识了一百个法」，而是：[[Glossary/Chinese/人无我|人无我]]与[[Glossary/Chinese/法无我|法无我]]。
 
 人无我：在八识、五十一心所、色、不相应行里，找不到一个常、一、主宰的「我」。有相续，有责任，有习惯，没有老板。
 
@@ -226,7 +226,7 @@ True suchness is *tathatā*. It is not an object you can seize. It is dharmas *a
 
 **English**
 
-The treatise does not close with “congratulations, you now know a hundred dharmas.” It closes with [[名相词典/English/absence of self|absence of self]] (of the person) and [[名相词典/English/emptiness of dharmas|emptiness of dharmas]].
+The treatise does not close with “congratulations, you now know a hundred dharmas.” It closes with [[Glossary/English/absence of self|absence of self]] (of the person) and [[Glossary/English/emptiness of dharmas|emptiness of dharmas]].
 
 Absence of a person: in the eight consciousnesses, the fifty-one activities, form, and the non-associated forces, no permanent, single, sovereign “I” is found. There is continuity, responsibility, habit — no proprietor.
 
@@ -241,9 +241,9 @@ The hundred dharmas in five categories are a road, not a warehouse. The directio
 **中文**
 
 - 本库讲记：`Hundred Dharmas/Hundred Dharmas NO.1.md` 至 `NO.22.md`
-- 图谱按语种过滤：[[名相词典/图谱|图谱]]
-- 公版 Soothill 汉英辞典：[[参考/Soothill-Hodous/README|Soothill & Hodous]]
-- 五位总表：[[名相词典/中文/五位百法|五位百法]]
+- 图谱按语种过滤：[[Glossary/Graph|图谱]]
+- 公版 Soothill 汉英辞典：[[References/Soothill-Hodous/README|Soothill & Hodous]]
+- 五位总表：[[Glossary/Chinese/五位百法|五位百法]]
 - Charles Muller / Dan Lusthaus 英文百法表：<http://www.acmuller.net/yogacara/outlines/100dharmas.html>
 - 台大赵飞鹏「佛法与心理——唯识篇」大纲（五讲，结构与本论接近）
 - 中国佛学院《大乘百法明门论基础教程》（2013，本科教材，市面有售）
@@ -251,9 +251,9 @@ The hundred dharmas in five categories are a road, not a warehouse. The directio
 **English**
 
 - Lectures in this vault: `Hundred Dharmas/Hundred Dharmas NO.1.md`–`NO.22.md`
-- Single-language graph filters: [[名相词典/图谱|图谱]]
-- Soothill & Hodous (public domain): [[参考/Soothill-Hodous/README|Soothill & Hodous]]
-- The fivefold list: [[名相词典/English/Hundred Dharmas in Five Categories|Hundred Dharmas in Five Categories]]
+- Single-language graph filters: [[Glossary/Graph|Graph]]
+- Soothill & Hodous (public domain): [[References/Soothill-Hodous/README|Soothill & Hodous]]
+- The fivefold list: [[Glossary/English/Hundred Dharmas in Five Categories|Hundred Dharmas in Five Categories]]
 - Charles Muller / Dan Lusthaus, “The One Hundred Dharmas”: <http://www.acmuller.net/yogacara/outlines/100dharmas.html>
 - University of Hong Kong, MABS 63 *Doctrines of Early Indian Yogācāra* (syllabus; broader than this treatise)
 - Lusthaus, *Buddhist Phenomenology*, appendices (100 vs. 75 dharmas) — a research book, not an introductory handout

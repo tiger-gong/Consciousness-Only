@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""把 Hundred Dharmas 讲次中的名相挂上指向名相词典的双链（修正版）。
+"""把 Hundred Dharmas 讲次中的名相挂上指向Glossary的双链（修正版）。
 
 流程：
   1) 先把所有已有 [[...]] 还原成纯文本（取 | 后别名，或整段）
@@ -42,7 +42,7 @@ FILES = [
     'Hundred Dharmas NO.21.md',
     'Hundred Dharmas NO.22.md',
 ]
-FOLDER = {'zh': '中文', 'en': 'English', 'fr': 'Français', 'vi': 'TiếngViệt'}
+FOLDER = {'zh': 'Chinese', 'en': 'English', 'fr': 'Français', 'vi': 'TiếngViệt'}
 BLOCK_START = {
     '**中文**': 'zh',
     '**English**': 'en',
@@ -59,7 +59,7 @@ def title_of(word):
 
 
 def link_of(lang, display, title=None):
-    return f'[[名相词典/{FOLDER[lang]}/{title_of(title or display)}|{display}]]'
+    return f'[[Glossary/{FOLDER[lang]}/{title_of(title or display)}|{display}]]'
 
 
 def load_terms():
@@ -68,7 +68,7 @@ def load_terms():
     zh_file_title = {}  # 表面词形 → 词典文件名（简体）
     file_exists = {lang: set() for lang in by_lang}
     for lang, folder in FOLDER.items():
-        d = os.path.join(VAULT, '名相词典', folder)
+        d = os.path.join(VAULT, 'Glossary', folder)
         for fn in os.listdir(d):
             if fn.endswith('.md'):
                 file_exists[lang].add(fn[:-3])
@@ -126,13 +126,13 @@ def load_terms():
 def unwrap_links(text):
     """彻底剥掉双链，还原纯文本（可处理嵌套残留）。
 
-    策略：先删掉所有「[[名相词典/...|」前缀，再删掉全部 [[ 与 ]]。
+    策略：先删掉所有「[[Glossary/...|」前缀，再删掉全部 [[ 与 ]]。
     """
     # 反复去掉路径前缀（嵌套时可能多层）
     prev = None
     while prev != text:
         prev = text
-        text = re.sub(r'\[\[名相词典/[^\]|]+\|', '', text)
+        text = re.sub(r'\[\[Glossary/[^\]|]+\|', '', text)
     text = text.replace('[[', '').replace(']]', '')
     return text
 
@@ -170,7 +170,7 @@ def link_block(text, terms, lang, zh_file_title=None):
         pat = re.compile(BOUND_L + re.escape(w) + BOUND_R, re.IGNORECASE)
         def make(word):
             # 显示保留原文大小写；文件名用词表标准词形
-            return lambda m: f'[[名相词典/{FOLDER[lang]}/{title_of(word)}|{m.group(0)}]]'
+            return lambda m: f'[[Glossary/{FOLDER[lang]}/{title_of(word)}|{m.group(0)}]]'
         text = replace_outside_links(text, pat, make(w))
     return text
 
@@ -204,7 +204,7 @@ def process_file(path, by_lang, zh_file_title=None):
             out.append(link_block(block, by_lang[lang], lang, zh_file_title))
     text = '\n'.join(out)
     open(path, 'w', encoding='utf-8').write(text)
-    counts = {lang: len(re.findall(rf'\[\[名相词典/{FOLDER[lang]}/', text)) for lang in FOLDER}
+    counts = {lang: len(re.findall(rf'\[\[Glossary/{FOLDER[lang]}/', text)) for lang in FOLDER}
     # 检查嵌套
     nested = len(re.findall(r'\[\[[^\]]*?\[\[[^\]]+\]\]', text))
     return counts, nested
@@ -229,11 +229,11 @@ def main():
     seen = set()
     for fn in files:
         t = open(os.path.join(LECTURE_DIR, fn), encoding='utf-8').read()
-        for path, alias in re.findall(r'\[\[名相词典/([^\]|]+)\|([^\]]+)\]\]', t):
+        for path, alias in re.findall(r'\[\[Glossary/([^\]|]+)\|([^\]]+)\]\]', t):
             if path in seen:
                 continue
             seen.add(path)
-            fp = os.path.join(VAULT, '名相词典', path + '.md')
+            fp = os.path.join(VAULT, 'Glossary', path + '.md')
             if not os.path.exists(fp):
                 miss += 1
                 if miss <= 20:

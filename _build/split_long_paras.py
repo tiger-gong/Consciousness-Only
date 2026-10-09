@@ -24,7 +24,7 @@ SEC_RE = re.compile(
     r'(?=\n---|\n\*\*§|\Z)',
     re.S,
 )
-WIKI = re.compile(r'\[\[名相词典/[^|\]]+\|([^\]]+)\]\]')
+WIKI = re.compile(r'\[\[Glossary/[^|\]]+\|([^\]]+)\]\]')
 
 THRESH = {**{i: 300 for i in range(1, 14)}, **{i: 260 for i in range(14, 23)}}
 TARGET = 185

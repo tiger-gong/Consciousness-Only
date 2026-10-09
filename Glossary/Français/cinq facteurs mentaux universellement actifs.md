@@ -1,0 +1,17 @@
+---
+concept: 五遍行心所
+lang: fr
+aliases: []
+tags:
+  - 名相
+---
+
+# cinq facteurs mentaux universellement actifs
+
+## Explication（Français）
+Attention, contact, sensation, conception et volition—cinq qui peuvent surgir dans tout esprit (les huit consciences), d'où le nom d'universellement actifs.
+
+## Autres langues
+- 中文：[[Chinese/五遍行心所|五遍行心所]]
+- English：[[English/five universal mental activities|five universal mental activities]]
+- Tiếng Việt：[[TiếngViệt/năm tâm sở biến hành|năm tâm sở biến hành]]

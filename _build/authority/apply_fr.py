@@ -13,9 +13,9 @@ sys.path.insert(0, str(Path(__file__).parent))
 from fr_map import RENAME, EXTRAPOLATED, ORPHAN_MERGE  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
-DICT = ROOT / '名相词典'
+DICT = ROOT / 'Glossary'
 FR = DICT / 'Français'
-OTHER = [DICT / x for x in ('中文', 'English', 'TiếngViệt')]
+OTHER = [DICT / x for x in ('Chinese', 'English', 'TiếngViệt')]
 LECTURES = sorted((ROOT / 'Hundred Dharmas').glob('Hundred Dharmas NO.*.md'))
 
 APPLY = '--apply' in sys.argv
@@ -98,7 +98,7 @@ def rename_fr() -> None:
 
 
 # --------------------------------------------------------------- 2. 改链接
-LINK_RE = re.compile(r'\[\[((?:名相词典/)?Français/)([^\]|]+)\|([^\]]+)\]\]')
+LINK_RE = re.compile(r'\[\[((?:Glossary/)?Français/)([^\]|]+)\|([^\]]+)\]\]')
 REDIRECT = {**NEW, **ORPHAN_MERGE}
 
 

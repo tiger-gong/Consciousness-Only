@@ -3,9 +3,9 @@
 """按 Cook《Three Texts on Consciousness Only》校准英文名相。
 
 改动三处并保持一致：
-  1. 名相词典/English/*.md          —— 文件名、标题、aliases
-  2. 名相词典/{中文,Français,TiếngViệt}/*.md —— 指向 English 的跨语链接
-  3. Hundred Dharmas/*.md           —— 讲记中的 [[名相词典/English/...]] 及英文正文散文
+  1. Glossary/English/*.md          —— 文件名、标题、aliases
+  2. Glossary/{中文,Français,TiếngViệt}/*.md —— 指向 English 的跨语链接
+  3. Hundred Dharmas/*.md           —— 讲记中的 [[Glossary/English/...]] 及英文正文散文
 
 用法:  python3 apply_cook.py [--apply]     缺省为试运行
 """
@@ -21,8 +21,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from cook_map import RENAME, EXTRAPOLATED  # noqa: E402
 
 VAULT = pathlib.Path(__file__).resolve().parents[2]
-EN = VAULT / '名相词典' / 'English'
-OTHER_LANGS = [VAULT / '名相词典' / d for d in ('中文', 'Français', 'TiếngViệt')]
+EN = VAULT / 'Glossary' / 'English'
+OTHER_LANGS = [VAULT / 'Glossary' / d for d in ('Chinese', 'Français', 'TiếngViệt')]
 LECTURES = sorted((VAULT / 'Hundred Dharmas').glob('Hundred Dharmas NO.*.md'))
 
 APPLY = '--apply' in sys.argv
@@ -83,7 +83,7 @@ def update_english_body(raw: str, old: str, new: str) -> str:
 
 
 # ------------------------------------------------- 2/3. 链接与正文
-LINK_RE = re.compile(r'\[\[((?:名相词典/)?English/)([^\]|]+)\|([^\]]+)\]\]')
+LINK_RE = re.compile(r'\[\[((?:Glossary/)?English/)([^\]|]+)\|([^\]]+)\]\]')
 
 
 def fix_links(text: str) -> str:

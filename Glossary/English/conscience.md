@@ -1,0 +1,23 @@
+---
+concept: 惭
+lang: en
+sanskrit: hrī
+aliases:
+  - hrī
+  - shame (self-respect)
+tags:
+  - 名相
+---
+
+# conscience
+> 校准自「shame (self-respect)」，依 Cook, *Three Texts on Consciousness Only*。
+
+**梵 / Sanskrit**：*hrī*
+
+## Explanation（English）
+One of the good mental activities among the mental activities. Shame is the sense of abhorring evil: feeling shame within for having done wrong is called shame. Cheng weishi lun says: “What is shame? Relying on the power of self and of the Dharma, it has esteeming the worthy and the good as nature; counteracting shamelessness and stopping evil conduct as function.” Through the promoting force of self-respect, evil conduct can be stopped. See Cheng weishi lun, fascicle 6.
+
+## Other languages
+- 中文：[[Chinese/惭|惭]]
+- Français：[[Français/pudeur (respect de soi)|pudeur (respect de soi)]]
+- Tiếng Việt：[[TiếngViệt/tàm|tàm]]

@@ -22,13 +22,13 @@ except Exception:
     ZH_CC = []
 
 VAULT = pathlib.Path(__file__).resolve().parents[2]
-GLOSS = VAULT / "名相词典"
+GLOSS = VAULT / "Glossary"
 LEC = VAULT / "Hundred Dharmas"
 APPLY = "--apply" in sys.argv
 MAX_PER = 2
 
-FOLDERS = {"zh": "中文", "en": "English", "fr": "Français", "vi": "TiếngViệt"}
-WIKI_RE = re.compile(r"\[\[名相词典/([^\]|/]+)/([^\]|]+)\|([^\]]+)\]\]")
+FOLDERS = {"zh": "Chinese", "en": "English", "fr": "Français", "vi": "TiếngViệt"}
+WIKI_RE = re.compile(r"\[\[Glossary/([^\]|/]+)/([^\]|]+)\|([^\]]+)\]\]")
 SEC_RE = re.compile(
     r"(^\*\*§\d+\*\*\s*\n\*\*中文\*\*\s*\n)(.*?)(\n)"
     r"(\*\*English\*\*\s*\n)(.*?)(\n)"
@@ -239,7 +239,7 @@ def link_new(text: str, lang: str, surfaces: list[tuple[str, str]]) -> tuple[str
             return surface
         counts[fn] += 1
         added += 1
-        return f"[[名相词典/{folder}/{fn}|{surface}]]"
+        return f"[[Glossary/{folder}/{fn}|{surface}]]"
 
     work = pat.sub(repl, work)
 

@@ -21,7 +21,7 @@ VAULT = pathlib.Path(__file__).resolve().parents[2]
 LEC = VAULT / "Hundred Dharmas"
 APPLY = "--apply" in sys.argv
 
-WIKI_RE = re.compile(r"\[\[名相词典/[^\]]+\]\]")
+WIKI_RE = re.compile(r"\[\[Glossary/[^\]]+\]\]")
 SEC_RE = re.compile(
     r"(^\*\*§\d+\*\*\s*\n\*\*中文\*\*\s*\n)(.*?)(\n)"
     r"(\*\*English\*\*\s*\n)(.*?)(\n)"
@@ -49,7 +49,7 @@ def restore(text: str, store: list[str]) -> str:
 
 
 def wikify(folder: str, title: str, display: str) -> str:
-    return f"[[名相词典/{folder}/{title}|{display}]]"
+    return f"[[Glossary/{folder}/{title}|{display}]]"
 
 
 def apply_rules(text: str, folder: str, rules: list[tuple[str, str]]) -> str:
@@ -240,7 +240,7 @@ def process_file(path: pathlib.Path, lec: int) -> tuple[str, dict[str, int]]:
 
     def repl(m: re.Match) -> str:
         zh_h, zh, z1, en_h, en, e1, fr_h, fr, f1, vi_h, vi = m.groups()
-        nzh = apply_rules(zh, "中文", rules_for("zh", lec))
+        nzh = apply_rules(zh, "Chinese", rules_for("zh", lec))
         nen = apply_rules(en, "English", rules_for("en", lec))
         nfr = apply_rules(fr, "Français", rules_for("fr", lec))
         nvi = apply_rules(vi, "TiếngViệt", rules_for("vi", lec))

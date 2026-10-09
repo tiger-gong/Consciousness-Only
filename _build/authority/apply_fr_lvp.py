@@ -9,9 +9,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-DICT = ROOT / '名相词典'
+DICT = ROOT / 'Glossary'
 FR = DICT / 'Français'
-OTHER = [DICT / x for x in ('中文', 'English', 'TiếngViệt')]
+OTHER = [DICT / x for x in ('Chinese', 'English', 'TiếngViệt')]
 LECTURES = sorted((ROOT / 'Hundred Dharmas').glob('Hundred Dharmas NO.*.md'))
 APPLY = '--apply' in sys.argv
 
@@ -76,7 +76,7 @@ def rename_fr() -> None:
             tmp.rename(dst)
 
 
-LINK_RE = re.compile(r'\[\[((?:名相词典/)?Français/)([^\]|]+)\|([^\]]+)\]\]')
+LINK_RE = re.compile(r'\[\[((?:Glossary/)?Français/)([^\]|]+)\|([^\]]+)\]\]')
 
 
 def fix_links(text: str) -> str:
